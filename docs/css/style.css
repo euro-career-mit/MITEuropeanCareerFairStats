@@ -1,0 +1,123 @@
+* {
+ font-family: "Poppins", "Helvetica Neue", "Arial", sans-serif!important;
+}
+
+html, body, pre, code, kbd, samp {
+    font-family: "Poppins", "Helvetica Neue", "Arial", sans-serif!important;
+}
+
+html,
+body {
+    height: 100%;
+    font-size:15px;
+    
+    background: #565656 none no-repeat scroll;
+}
+
+text, g{
+    font-family: "Poppins", "Helvetica Neue", "Arial", sans-serif!important;
+}
+
+main {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    /* padding-top: 40px;
+    padding-bottom: 40px; */
+}
+
+/* div {
+
+    border-style: dashed;
+    border-color: green;
+} */
+
+.container {
+    border-left: 4px double #1c2c6b;
+    border-right: 4px double #1c2c6b;
+    background: #F7F7F7 none no-repeat scroll;
+
+}
+
+.header-container{
+    background: #f0d541 none no-repeat scroll;
+    padding-top: 6px;
+}
+
+.left-column{
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.right-column{
+    margin-left: 2px;
+    margin-right: 12px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.screenshot{
+    /* padding-left: 5rem !important;
+    padding-right: 5rem !important; */
+
+    padding-top: 8px !important;
+    padding-bottom: 22px !important;
+}
+
+/* Fake (pseudo) element, that enables vertical-align 
+.navbar-brand:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+} */
+
+.navbar-ecf{
+    display:table-cell;
+    vertical-align:middle;
+}
+
+
+.ecf-title{
+    display:inline-block;
+    padding-left: 8px;
+    font-size: 24px;
+
+}
+
+
+.vizTitle{
+    font-size: 1.5rem;
+    font-weight: 900;
+    color:#1a2882;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+
+.vizTitleSmall{
+    font-size: 1.1rem;
+    font-weight: 900;
+    color:#1a2882;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+
+.ecfViz {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    padding-top: 0px;
+    margin-top: -5px;
+}
+
+
+#viz {
+    height: 800px;
+    margin-bottom: 20px;
+}
