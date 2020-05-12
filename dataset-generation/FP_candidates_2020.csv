@@ -1,0 +1,2962 @@
+,Candidate ID,mostRelevantField,mostRelevantUni,highestDegree
+0,5e52c16037472c00d3608dd0,Other,Other,Other
+1,5df0626c8dbee800dd1d6531,Other,Other,Other
+2,5e40af6b8dbee800dd1d8b98,Mechanical Eng,Other,Masters
+3,5e5172f66b8e7400d252fb8d,Other,Other,Other
+4,5e41c7f08dbee800dd1d8d21,Finance,Other,MBA
+5,5e515a615eb42900d3c0c0a8,AI,MIT,PhD
+6,5e4f7095d00f9f00d3d5b6f1,CS,NYU,Masters
+7,5e4c8aa63acdaa00d34d7c9b,Business,Northeastern,Masters
+8,5e50a84e6b8e7400d252f640,Data Science,MIT,MBA
+9,5e4732983acdaa00d34d6da1,Other,Other,Masters
+10,5e18a3168dbee800dd1d69a7,Business,Other,Masters
+11,5e3afffd8dbee800dd1d8511,Physics,MIT,Postdoc
+12,5e3392c98dbee800dd1d7b61,Industrial Eng,Northeastern,Masters
+13,5e516e1a5eb42900d3c0c1a2,Electrical Eng,Other,MBA
+14,5e4d6f9a3acdaa00d34d8100,Business,Other,MBA
+15,5e4ffd91d00f9f00d3d5b996,Biology,Other,PhD
+16,5e4f10b3d00f9f00d3d5b376,Electrical Eng,UMass Boston,Bachelors
+17,5e4b17c73acdaa00d34d761a,Mechanical Eng,MIT,Masters
+18,5e1f5f228dbee800dd1d6b9e,CS,WPI,Bachelors
+19,5e1f5e0a8dbee800dd1d6b9a,Electrical Eng,WPI,Bachelors
+20,5e4aca223acdaa00d34d7444,Business,Hult Business,MBA
+21,5e284b548dbee800dd1d70b2,CS,Other,Masters
+22,5e4c899f3acdaa00d34d7c86,Biology,Other,PhD
+23,5e50b6bccb31a300d2831944,Mechanical Eng,WPI,Bachelors
+24,5e50a7f05eb42900d3c0bc67,Business,Other,MBA
+25,5e28bade8dbee800dd1d716f,Data Science,NYU,Masters
+26,5e325f608dbee800dd1d79d3,Other,NYU,Masters
+27,5e48067a3acdaa00d34d6e51,Data Science,Other,Masters
+28,5e3909bd8dbee800dd1d818e,Other,Other,Postdoc
+29,5e50803c5eb42900d3c0bb95,CS,Other,MBA
+30,5e30c0eb8dbee800dd1d78a5,Biology,Harvard,Postdoc
+31,5e4fd143d00f9f00d3d5b7ee,Other,MIT,Masters
+32,5e4995f93acdaa00d34d701c,Biology,Other,Masters
+33,5e2f27258dbee800dd1d767a,CS,Harvard,Masters
+34,5e4736193acdaa00d34d6dac,CS,NYU,Masters
+35,5e1dfaa48dbee800dd1d6afb,Finance,BU,Bachelors
+36,5e41b10c8dbee800dd1d8cf0,Data Science,Other,MBA
+37,5e2b337e8dbee800dd1d7391,Other,BU,MD
+38,5e4ca3b63acdaa00d34d7d5d,Other,Tufts,MBA
+39,5e2e58958dbee800dd1d75de,Data Science,Other,MBA
+40,5e4ec616d00f9f00d3d5b052,Mechanical Eng,MIT,Masters
+41,5e4560bf8dbee800dd1d956e,Other,MIT,Masters
+42,5e4c427a3acdaa00d34d7b22,Biology,Other,Postdoc
+43,5e14f7e18dbee800dd1d6822,Biology,Harvard,Postdoc
+44,5e51512c7504bb00d2f54a42,Other,Other,Other
+45,5e4b0f4d3acdaa00d34d75e9,Chemistry,Northeastern,PhD
+46,5e51648ecb31a300d2831d76,Other,Other,Masters
+47,5e51494bcb31a300d2831c44,Other,Other,Other
+48,5e39cb328dbee800dd1d82f2,Other,Harvard,Bachelors
+49,5e2fc1e68dbee800dd1d77ad,AI,NYU,Masters
+50,5e2df9c58dbee800dd1d7518,Other,Other,Bachelors
+51,5e4bf99e3acdaa00d34d792d,Business,MIT,Masters
+52,5e3c4dc88dbee800dd1d8793,Business,MIT,Masters
+53,5e4388dc8dbee800dd1d90e7,CS,MIT,Bachelors
+54,5e4dd7b33acdaa00d34d8344,Business,MIT,MBA
+55,5e4aba7b3acdaa00d34d73f9,Data Science,NYU,Bachelors
+56,5e4f0dc5d00f9f00d3d5b363,Electrical Eng,NYU,Masters
+57,5e38ff688dbee800dd1d8183,Biology,Other,Postdoc
+58,5e4331a88dbee800dd1d901d,Finance,Northeastern,Masters
+59,5e22452f8dbee800dd1d6d69,Business,Northeastern,Masters
+60,5e5083cf5eb42900d3c0bbaf,CS,Other,Masters
+61,5e39d1e68dbee800dd1d830a,AI,NYU,Masters
+62,5e25f5578dbee800dd1d6ed5,AI,Northeastern,Masters
+63,5e4ed0c5d00f9f00d3d5b104,Other,Other,Masters
+64,5e4b129f3acdaa00d34d75f4,Finance,Harvard,Bachelors
+65,5e33156e8dbee800dd1d7ab2,Other,Harvard,PhD
+66,5e48aa493acdaa00d34d6f52,Finance,Hult Business,MBA
+67,5e1a642e8dbee800dd1d69fd,Other,Dartmouth,Bachelors
+68,5e24b6ae8dbee800dd1d6dff,Data Science,Hult Business,MBA
+69,5e4dfe143acdaa00d34d84c5,Other,Other,PhD
+70,5e4d6be23acdaa00d34d80f2,Biology,Other,Masters
+71,5e513c947504bb00d2f54951,CS,Other,High school
+72,5e42cbb18dbee800dd1d8ef6,Other,MIT,Postdoc
+73,5e4ae03d3acdaa00d34d74c2,Business,MIT,Masters
+74,5e43610f8dbee800dd1d9072,Policital Sci,Other,Bachelors
+75,5e3cef578dbee800dd1d88e0,Electrical Eng,Other,Bachelors
+76,5e31daaf8dbee800dd1d7987,Data Science,NYU,Bachelors
+77,5e51535ccb31a300d2831cc1,Other,Other,Other
+78,5e51714c5eb42900d3c0c1b9,Other,Other,Masters
+79,5e50d1637504bb00d2f547ca,CS,Other,Bachelors
+80,5e50fd777504bb00d2f54826,Business,Other,Bachelors
+81,5e3eb0658dbee800dd1d8a7a,Biology,Other,Bachelors
+82,5e4d53d63acdaa00d34d800d,Biology,MIT,PhD
+83,5e5159b17504bb00d2f54aac,CS,Other,High school
+84,5e179d728dbee800dd1d693b,Biology,MIT,PhD
+85,5e4f5730d00f9f00d3d5b617,Data Science,NYU,Masters
+86,5e3896e18dbee800dd1d80d0,Finance,UMass Amherst,Masters
+87,5e4208888dbee800dd1d8d94,Mechanical Eng,MIT,Postdoc
+88,5e4b0f8a3acdaa00d34d75ec,Data Science,Other,Postdoc
+89,5e39c2f38dbee800dd1d82d5,Business,Other,Bachelors
+90,5e509b736b8e7400d252f5f0,Finance,Other,Bachelors
+91,5e307c068dbee800dd1d780c,CS,NYU,Masters
+92,5e1e1d348dbee800dd1d6b2d,Business,Hult Business,Bachelors
+93,5e502ffd7504bb00d2f544a3,Data Science,MIT,Bachelors
+94,5e517b68cb31a300d2831e55,Other,Other,Other
+95,5e28a7458dbee800dd1d7159,CS,MIT,Bachelors
+96,5e4c25403acdaa00d34d7a5c,Finance,Other,Bachelors
+97,5e4f0bccd00f9f00d3d5b353,Other,Other,High school
+98,5e4c49c53acdaa00d34d7b4f,AI,MIT,Masters
+99,5e42ee178dbee800dd1d8f31,Other,NYU,Masters
+100,5e501fcb5eb42900d3c0ba67,Other,Northeastern,Masters
+101,5e42da948dbee800dd1d8f0c,Data Science,Other,Other
+102,5e2f2a708dbee800dd1d7681,CS,NYU,Masters
+103,5e419b0e8dbee800dd1d8cc3,Business,Hult Business,MBA
+104,5e4dc0733acdaa00d34d82e8,Finance,MIT,Masters
+105,5e323baf8dbee800dd1d79c5,Other,Northeastern,Masters
+106,5e44eb4e8dbee800dd1d9475,Business,NYU,Masters
+107,5e284d418dbee800dd1d70b7,CS,Other,Masters
+108,5e2f38ff8dbee800dd1d768d,Electrical Eng,NYU,Masters
+109,5e4c28563acdaa00d34d7a6c,Physics,Harvard,Bachelors
+110,5e5058d37504bb00d2f54531,Biology,MIT,Postdoc
+111,5e28a77e8dbee800dd1d715c,Policital Sci,Harvard,PhD
+112,5e4d501b3acdaa00d34d7ff7,Other,BU,Masters
+113,5e50b47c6b8e7400d252f6d5,Data Science,MIT,High school
+114,5e4a164a3acdaa00d34d7189,Finance,Other,Masters
+115,5e503d116b8e7400d252f463,Biology,Harvard,Postdoc
+116,5e3b4bda8dbee800dd1d85ca,Mechanical Eng,Other,Masters
+117,5e2521238dbee800dd1d6e36,Business,Harvard,MBA
+118,5e4a3c443acdaa00d34d71b6,Aero,MIT,Masters
+119,5e501e93cb31a300d2831695,CS,MIT,Bachelors
+120,5e446ed58dbee800dd1d93c3,Data Science,MIT,Masters
+121,5e1e52058dbee800dd1d6b43,Data Science,Dartmouth,Bachelors
+122,5e41f3518dbee800dd1d8d50,Business,Hult Business,Bachelors
+123,5e4818633acdaa00d34d6e66,Other,Harvard,MD
+124,5e514df5cb31a300d2831c84,Other,Other,Other
+125,5e4f6786d00f9f00d3d5b6e1,AI,Harvard,MD
+126,5e3a32b08dbee800dd1d83b1,Finance,Other,MBA
+127,5e3989178dbee800dd1d821e,Biology,Harvard,Postdoc
+128,5e40a4b48dbee800dd1d8b91,Business,MIT,Masters
+129,5e515aea5eb42900d3c0c0b0,Biology,Other,Masters
+130,5e3b06fe8dbee800dd1d852e,Biology,Other,Masters
+131,5e3c25ca8dbee800dd1d8705,Business,Hult Business,Bachelors
+132,5e39e0ff8dbee800dd1d833f,Biology,MIT,Bachelors
+133,5e515d8b5eb42900d3c0c0cd,Other,Other,Other
+134,5e3717198dbee800dd1d7e2a,CS,Other,Bachelors
+135,5e502f157504bb00d2f544a0,Biology,Harvard,Postdoc
+136,5e50baa47504bb00d2f5471e,Business,MIT,Bachelors
+137,5e431bed8dbee800dd1d8fe3,Data Science,Hult Business,Masters
+138,5e3ae7d78dbee800dd1d84ca,Finance,Brandeis,Bachelors
+139,5e3865508dbee800dd1d8080,Data Science,BU,Bachelors
+140,5e3f09988dbee800dd1d8a99,Business,Hult Business,Masters
+141,5e3429808dbee800dd1d7c4e,Biology,MIT,Postdoc
+142,5e516ba16b8e7400d252fb55,Other,Other,Other
+143,5e50915dcb31a300d2831813,CS,Other,PhD
+144,5e50a0a16b8e7400d252f60e,Mechanical Eng,BU,Bachelors
+145,5e4e39863acdaa00d34d85b2,Other,Harvard,PhD
+146,5e502d516b8e7400d252f44c,Biology,Other,Masters
+147,5e4bff263acdaa00d34d797b,Other,Tufts,Masters
+148,5e48c5d03acdaa00d34d6f63,Marketing,Other,Bachelors
+149,5e39a74e8dbee800dd1d8287,Finance,Harvard,Masters
+150,5e44229e8dbee800dd1d92fd,Electrical Eng,MIT,Bachelors
+151,5e34afeb8dbee800dd1d7cef,Biology,MIT,Bachelors
+152,5e4ca4093acdaa00d34d7d60,Business,MIT,MBA
+153,5e29cf468dbee800dd1d729c,AI,MIT,Bachelors
+154,5e50971c7504bb00d2f54603,Biology,Tufts,PhD
+155,5e27369b8dbee800dd1d6fbe,Policital Sci,NYU,Bachelors
+156,5e40df6c8dbee800dd1d8bb4,CS,Other,Other
+157,5e49bcea3acdaa00d34d70ab,AI,Hult Business,PhD
+158,5e2870a98dbee800dd1d711b,AI,Hult Business,MBA
+159,5e17725d8dbee800dd1d691d,Business,UMass Amherst,MBA
+160,5e4483128dbee800dd1d93e4,Marketing,Other,Bachelors
+161,5e31bb4a8dbee800dd1d7970,Electrical Eng,NYU,Masters
+162,5e2f58738dbee800dd1d7751,Electrical Eng,Other,Bachelors
+163,5e448f728dbee800dd1d93f2,Data Science,Other,MBA
+164,5e3dd1778dbee800dd1d89d1,Biology,Harvard,PhD
+165,5e3dc5ba8dbee800dd1d89c4,Biology,Harvard,PhD
+166,5e40c5ae8dbee800dd1d8ba2,Electrical Eng,MIT,MBA
+167,5e500555d00f9f00d3d5ba1d,Policital Sci,Harvard,Bachelors
+168,5e515ffe6b8e7400d252fadb,Other,Other,Other
+169,5e2f93ac8dbee800dd1d7781,Business,MIT,MBA
+170,5e448f8e8dbee800dd1d93f5,Business,NYU,Masters
+171,5e4d9aaa3acdaa00d34d8239,Materials,MIT,Masters
+172,5e30bfaa8dbee800dd1d789b,Biology,Other,Masters
+173,5e47618b3acdaa00d34d6e01,Business,Other,MBA
+174,5e4cc1533acdaa00d34d7db1,Biology,Other,Bachelors
+175,5e5020275eb42900d3c0ba6a,AI,MIT,Bachelors
+176,5e4d616f3acdaa00d34d80a2,Business,Hult Business,Masters
+177,5e500bcfd00f9f00d3d5ba6e,Other,Other,Postdoc
+178,5e3a3e468dbee800dd1d83b7,Biology,MIT,Bachelors
+179,5e4fd4a0d00f9f00d3d5b812,Finance,Other,Bachelors
+180,5e1469bc8dbee800dd1d67e5,Finance,Other,Other
+181,5e2611358dbee800dd1d6ee0,Business,Hult Business,MBA
+182,5e4e9b6fd00f9f00d3d5ae27,Electrical Eng,Other,Masters
+183,5e4d5e5c3acdaa00d34d807f,Other,BU,Masters
+184,5e4c30883acdaa00d34d7aba,CS,Other,Bachelors
+185,5e4ae7cb3acdaa00d34d7504,Other,Other,Bachelors
+186,5e4ffc8ed00f9f00d3d5b98d,Biology,Other,PhD
+187,5e2fa28d8dbee800dd1d7788,Finance,BU,Bachelors
+188,5e506d0c6b8e7400d252f52a,Mechanical Eng,Other,PhD
+189,5e4c51253acdaa00d34d7b68,CS,Harvard,Bachelors
+190,5e49f8ea3acdaa00d34d7144,CS,Harvard,Bachelors
+191,5e4cd6fc3acdaa00d34d7df4,Other,Harvard,Masters
+192,5e38995e8dbee800dd1d80d3,Electrical Eng,Other,Masters
+193,5e4e0e3f3acdaa00d34d8587,Mechanical Eng,Northeastern,Masters
+194,5e4d69b73acdaa00d34d80d7,Finance,Hult Business,Masters
+195,5e3ef42e8dbee800dd1d8a93,Data Science,MIT,Masters
+196,5e4a9b313acdaa00d34d733a,Data Science,UConn,MBA
+197,5e4f4afdd00f9f00d3d5b54a,CS,Other,Masters
+198,5e1e436c8dbee800dd1d6b3b,Data Science,NYU,Bachelors
+199,5e4fe75dd00f9f00d3d5b8d8,Business,UMass Amherst,Bachelors
+200,5e4999ca3acdaa00d34d7032,Electrical Eng,Other,Bachelors
+201,5e3b953e8dbee800dd1d8610,CS,NYU,Masters
+202,5e515d0f6b8e7400d252fab2,Other,Other,Other
+203,5e4179648dbee800dd1d8c70,Other,Northeastern,Bachelors
+204,5e4d42c13acdaa00d34d7fa3,Business,MIT,Masters
+205,5e330cb98dbee800dd1d7a92,Biology,Other,Postdoc
+206,5e358f7d8dbee800dd1d7d41,Business,MIT,Masters
+207,5e4ebb01d00f9f00d3d5affd,Industrial Eng,Northeastern,Masters
+208,5e3c6da78dbee800dd1d87fd,Data Science,Northeastern,Masters
+209,5e3085298dbee800dd1d781e,Other,NYU,Other
+210,5e48961b3acdaa00d34d6f20,Business,MIT,MBA
+211,5e3648248dbee800dd1d7de7,Electrical Eng,MIT,Bachelors
+212,5e4866143acdaa00d34d6ef7,Biology,BU,Bachelors
+213,5e4634be3acdaa00d34d6ad2,Mechanical Eng,MIT,Masters
+214,5e268c7f8dbee800dd1d6f1e,Electrical Eng,Northeastern,Masters
+215,5e4ebe72d00f9f00d3d5b01e,Other,Harvard,Bachelors
+216,5e4eadf1d00f9f00d3d5aef5,Other,Other,High school
+217,5e36927c8dbee800dd1d7e00,CS,MIT,Bachelors
+218,5e31fbf58dbee800dd1d79a8,AI,Harvard,Masters
+219,5e46b1a73acdaa00d34d6bd1,Physics,Harvard,PhD
+220,5e398c9a8dbee800dd1d822c,Physics,Harvard,Bachelors
+221,5e4d5be23acdaa00d34d806c,Business,Hult Business,Bachelors
+222,5de1ccda8dbee800dd1d6464,Mechanical Eng,MIT,Bachelors
+223,5e366b4c8dbee800dd1d7df8,Other,Harvard,PhD
+224,5e24a0aa8dbee800dd1d6dfa,Business,Hult Business,MBA
+225,5e4d6bcc3acdaa00d34d80ef,Physics,Other,PhD
+226,5e45f0e93acdaa00d34d6a6e,Business,MIT,Masters
+227,5e4c90483acdaa00d34d7cd6,Chemistry,Other,Masters
+228,5e4c0f7f3acdaa00d34d79da,Other,Harvard,High school
+229,5e44743c8dbee800dd1d93d3,Business,Other,MBA
+230,5e4d64943acdaa00d34d80b5,Business,Hult Business,Masters
+231,5e5074e25eb42900d3c0bb6c,Data Science,Other,Masters
+232,5e507d926b8e7400d252f54a,Other,Other,Masters
+233,5e511d61cb31a300d2831a95,Biology,Other,Bachelors
+234,5e2fa8bd8dbee800dd1d7791,Other,NYU,Bachelors
+235,5e33303b8dbee800dd1d7b09,Data Science,Northeastern,Masters
+236,5e398cf88dbee800dd1d822f,Physics,Harvard,Bachelors
+237,5e2ded4e8dbee800dd1d750a,Marketing,Other,MBA
+238,5e505c38cb31a300d2831758,Other,Other,Bachelors
+239,5e2ccd528dbee800dd1d74d5,Mechanical Eng,Tufts,Masters
+240,5e4ddfd43acdaa00d34d8367,Business,Hult Business,Masters
+241,5e41c5828dbee800dd1d8d18,Business,Hult Business,Masters
+242,5e41a9538dbee800dd1d8ce5,Finance,Other,MBA
+243,5e384c8e8dbee800dd1d8049,Materials,Harvard,Postdoc
+244,5e4e92d7d00f9f00d3d5ae0e,Finance,MIT,Bachelors
+245,5e4e057d3acdaa00d34d8508,Business,Hult Business,Masters
+246,5e4acbf73acdaa00d34d744f,Other,MIT,Bachelors
+247,5e4b4c0a3acdaa00d34d76b4,Biology,MIT,Bachelors
+248,5e39f0948dbee800dd1d8362,Electrical Eng,MIT,Postdoc
+249,5e1e8eba8dbee800dd1d6b53,Data Science,Wellesley,High school
+250,5e4df0f03acdaa00d34d8441,AI,Harvard,PhD
+251,5e2a5afd8dbee800dd1d731e,Other,Other,Masters
+252,5e3e38fe8dbee800dd1d8a68,Biology,Other,PhD
+253,5e5004cdd00f9f00d3d5ba11,Other,Other,PhD
+254,5e41b32f8dbee800dd1d8cf5,CS,Other,Masters
+255,5e2b92558dbee800dd1d742d,Aero,BU,Masters
+256,5e516b30cb31a300d2831dc2,CS,Other,Bachelors
+257,5e3afe5d8dbee800dd1d84fa,Mechanical Eng,MIT,PhD
+258,5e518182cb31a300d2831e9a,Other,Other,Other
+259,5e50ca907504bb00d2f5477b,CS,Other,Bachelors
+260,5e4b4f3d3acdaa00d34d76c1,CS,Tufts,Bachelors
+261,5e49c54f3acdaa00d34d70ce,Business,Harvard,MBA
+262,5e517801cb31a300d2831e2e,Other,Other,Other
+263,5e3a2bae8dbee800dd1d83ae,Policital Sci,NYU,Bachelors
+264,5e41bd258dbee800dd1d8d08,Business,Hult Business,MBA
+265,5e4d6ae13acdaa00d34d80ea,Business,Other,MBA
+266,5e2b61408dbee800dd1d73c8,Electrical Eng,Other,PhD
+267,5e4f430dd00f9f00d3d5b51d,Other,UMass Amherst,Bachelors
+268,5e50b9357504bb00d2f54719,Business,Other,Bachelors
+269,5e4d55cc3acdaa00d34d802c,Business,Hult Business,MBA
+270,5e3c06c88dbee800dd1d8680,Finance,Harvard,Bachelors
+271,5e3f1fcb8dbee800dd1d8ab4,Finance,Harvard,Bachelors
+272,5e1a8f8f8dbee800dd1d6a00,CS,Wellesley,High school
+273,5e3e16fc8dbee800dd1d8a59,Materials,MIT,Postdoc
+274,5e5166e65eb42900d3c0c14b,Other,Other,Other
+275,5e4165558dbee800dd1d8c4a,Business,Other,MBA
+276,5e517d2c5eb42900d3c0c21b,Other,Other,Other
+277,5e27948a8dbee800dd1d7051,CS,UMass Boston,Bachelors
+278,5e2f56668dbee800dd1d774b,Data Science,Northeastern,Masters
+279,5e51872d5eb42900d3c0c26d,Other,Other,Other
+280,5e4c5e373acdaa00d34d7bbb,Electrical Eng,Harvard,Bachelors
+281,5e2095888dbee800dd1d6c4e,Other,Tufts,Masters
+282,5e4c25b53acdaa00d34d7a61,CS,NYU,Masters
+283,5e4d5b533acdaa00d34d8060,Mechanical Eng,MIT,PhD
+284,5e307cc88dbee800dd1d7810,Data Science,NYU,Masters
+285,5e33491a8dbee800dd1d7b1b,CS,MIT,Bachelors
+286,5e4eb0e0d00f9f00d3d5af52,Biology,Harvard,Postdoc
+287,5e49f9643acdaa00d34d7148,Business,Other,Masters
+288,5e430ca88dbee800dd1d8faa,CS,NYU,Masters
+289,5e3821308dbee800dd1d7ff0,Data Science,Northeastern,MBA
+290,5e504245cb31a300d28316ef,Other,Harvard,Other
+291,5e4d5d643acdaa00d34d807b,Mechanical Eng,MIT,Masters
+292,5e4afe5f3acdaa00d34d75af,Other,MIT,Bachelors
+293,5e2b49bc8dbee800dd1d73a3,Biology,BU,Postdoc
+294,5e500296d00f9f00d3d5b9da,Other,MIT,Masters
+295,5e517e49cb31a300d2831e73,Other,Other,Other
+296,5e5123becb31a300d2831ab1,Other,MIT,Bachelors
+297,5e36faa58dbee800dd1d7e18,Business,Other,MBA
+298,5e4fcc38d00f9f00d3d5b7e7,Physics,Other,Masters
+299,5e4d71bc3acdaa00d34d8115,Chemistry,Other,Masters
+300,5e46d2913acdaa00d34d6c74,Finance,Other,Bachelors
+301,5e5131c76b8e7400d252f8ae,Other,Other,Masters
+302,5e4ecd24d00f9f00d3d5b0dd,CS,MIT,Bachelors
+303,5e5189decb31a300d2831ee1,Other,Other,Other
+304,5e515446cb31a300d2831cc9,Marketing,Other,Masters
+305,5e3042a68dbee800dd1d77dd,Other,Harvard,Postdoc
+306,5e41c9f28dbee800dd1d8d24,CS,MIT,Bachelors
+307,5e4efaa5d00f9f00d3d5b2ca,CS,Harvard,Bachelors
+308,5e5154cf7504bb00d2f54a70,Biology,Other,Bachelors
+309,5e516a087504bb00d2f54b61,AI,Other,Bachelors
+310,5e3c970b8dbee800dd1d8877,Finance,Other,Bachelors
+311,5e30809e8dbee800dd1d7815,AI,NYU,Masters
+312,5e50a0467504bb00d2f5462a,Business,Other,MBA
+313,5e48501a3acdaa00d34d6ec1,Business,Other,MBA
+314,5e4d54f03acdaa00d34d801e,CS,MIT,Bachelors
+315,5e4dffc63acdaa00d34d84d7,Chemistry,Tufts,PhD
+316,5e39d83d8dbee800dd1d8314,Finance,Harvard,Other
+317,5e33f3ae8dbee800dd1d7b8d,Mechanical Eng,MIT,Bachelors
+318,5e517087cb31a300d2831df9,Electrical Eng,Other,Bachelors
+319,5e3305398dbee800dd1d7a82,Other,MIT,Masters
+320,5e49c48c3acdaa00d34d70ca,Mechanical Eng,MIT,Bachelors
+321,5e2a688d8dbee800dd1d7328,Mechanical Eng,BU,Bachelors
+322,5e3bb1898dbee800dd1d8631,Business,MIT,MBA
+323,5e440ea58dbee800dd1d92ae,Finance,Hult Business,Masters
+324,5e4feda8d00f9f00d3d5b8fe,Biology,Harvard,PhD
+325,5e4863f03acdaa00d34d6ef0,Biology,Harvard,Bachelors
+326,5e506f4e5eb42900d3c0bb62,Other,Other,MD
+327,5e40a86b8dbee800dd1d8b94,Other,Other,PhD
+328,5e4d514c3acdaa00d34d8000,Other,MIT,Masters
+329,5e2d8d808dbee800dd1d74ed,Data Science,NYU,Masters
+330,5e28d9ad8dbee800dd1d7190,Other,NYU,Masters
+331,5e39d96d8dbee800dd1d831a,CS,MIT,Bachelors
+332,5e4d79bd3acdaa00d34d8140,Other,Northeastern,Other
+333,5e4f4902d00f9f00d3d5b540,Other,Northeastern,Masters
+334,5e4310938dbee800dd1d8fbb,Business,Hult Business,Masters
+335,5e4c711b3acdaa00d34d7c34,Law,Harvard,Masters
+336,5e49b0473acdaa00d34d7057,Business,Hult Business,Masters
+337,5e0e576a8dbee800dd1d6741,Materials,Dartmouth,Bachelors
+338,5e26f9528dbee800dd1d6f92,Biology,Other,Other
+339,5e39e6b38dbee800dd1d8347,Biology,MIT,Bachelors
+340,5e3389cf8dbee800dd1d7b4f,Chemistry,MIT,Bachelors
+341,5e4d8d6d3acdaa00d34d81e7,Biology,Tufts,PhD
+342,5e3c46c38dbee800dd1d8779,Business,Hult Business,Masters
+343,5e1655d68dbee800dd1d689f,Business,Other,MBA
+344,5e28b3a78dbee800dd1d716a,Biology,Other,MBA
+345,5e4bc8d13acdaa00d34d784d,Other,Harvard,PhD
+346,5df3fb5b8dbee800dd1d6591,Biology,Dartmouth,Bachelors
+347,5e51318fcb31a300d2831b24,CS,Other,Bachelors
+348,5e5130bb5eb42900d3c0bebd,Data Science,Other,Bachelors
+349,5e2f57c58dbee800dd1d774e,CS,Other,Other
+350,5e2737458dbee800dd1d6fc1,AI,BU,Masters
+351,5e5095376b8e7400d252f5cd,Other,Other,Masters
+352,5e50b0dfcb31a300d28318e7,Business,Other,Bachelors
+353,5e430a0e8dbee800dd1d8f88,Other,Harvard,Bachelors
+354,5e4f4144d00f9f00d3d5b509,CS,Other,Bachelors
+355,5e39ed438dbee800dd1d8355,Other,NYU,Masters
+356,5e4ca3263acdaa00d34d7d57,CS,NYU,Masters
+357,5e4731743acdaa00d34d6d97,Data Science,Other,Bachelors
+358,5e28d94f8dbee800dd1d718d,Business,Other,MBA
+359,5e495f3f3acdaa00d34d6fbc,CS,MIT,Bachelors
+360,5e404bd08dbee800dd1d8b63,Business,BU,MBA
+361,5e500de0d00f9f00d3d5ba87,Other,Tufts,Masters
+362,5e2f74758dbee800dd1d7777,CS,MIT,Bachelors
+363,5e30e3aa8dbee800dd1d78ec,CS,Other,Bachelors
+364,5e38707d8dbee800dd1d808c,Data Science,MIT,Other
+365,5e1688808dbee800dd1d68ae,AI,MIT,MBA
+366,5e5148b25eb42900d3c0bfd7,Other,Other,Masters
+367,5e3447e38dbee800dd1d7c5c,Other,Northeastern,Masters
+368,5e43376a8dbee800dd1d9030,Business,Other,MBA
+369,5e400af78dbee800dd1d8b41,Data Science,Northeastern,Masters
+370,5e1289c48dbee800dd1d6778,Other,Other,Masters
+371,5e4c3bb73acdaa00d34d7ae2,Other,Boston College,Bachelors
+372,5e488aa33acdaa00d34d6f12,Chemistry,MIT,Masters
+373,5e33a3a58dbee800dd1d7b64,Biology,Other,Postdoc
+374,5e356a0e8dbee800dd1d7d2c,Other,Northeastern,Masters
+375,5e236b078dbee800dd1d6db8,AI,Northeastern,Masters
+376,5e129db88dbee800dd1d677b,Mechanical Eng,Other,PhD
+377,5e506a357504bb00d2f54562,Biology,Other,PhD
+378,5e4897683acdaa00d34d6f2b,Data Science,Northeastern,Masters
+379,5e504dce7504bb00d2f544f0,Mechanical Eng,Other,Bachelors
+380,5e5094aa7504bb00d2f545f8,Mechanical Eng,Other,Bachelors
+381,5e5096117504bb00d2f545fc,Other,Other,Bachelors
+382,5e51816fcb31a300d2831e96,Other,Other,Other
+383,5e481ec33acdaa00d34d6e82,Mechanical Eng,UMass Amherst,Masters
+384,5e475b823acdaa00d34d6dfd,CS,BU,PhD
+385,5e51483e7504bb00d2f549cf,CS,Other,Bachelors
+386,5e45d7ac3acdaa00d34d6a46,Finance,Northeastern,Bachelors
+387,5e509df8cb31a300d2831849,Biology,Other,Masters
+388,5e50d09b5eb42900d3c0bdd0,Biology,Other,PhD
+389,5e3a496a8dbee800dd1d83ba,CS,MIT,Bachelors
+390,5e3b1f1b8dbee800dd1d856e,Data Science,Brandeis,Bachelors
+391,5e44262e8dbee800dd1d931f,Business,NYU,Bachelors
+392,5e4c71283acdaa00d34d7c37,Finance,Wellesley,Bachelors
+393,5e4eea29d00f9f00d3d5b22e,Law,UMass Amherst,Bachelors
+394,5e5161305eb42900d3c0c0f7,Finance,Other,Bachelors
+395,5e3de1e98dbee800dd1d8a2e,Business,Other,MBA
+396,5e3c5f5f8dbee800dd1d87c6,Biology,MIT,Postdoc
+397,5e4b6abc3acdaa00d34d7724,CS,MIT,Bachelors
+398,5e503ffecb31a300d28316e8,Mechanical Eng,MIT,Masters
+399,5e44d4c58dbee800dd1d944e,Biology,MIT,Bachelors
+400,5e38d1c28dbee800dd1d812f,Other,Other,PhD
+401,5e49c1273acdaa00d34d70b8,Finance,BU,Bachelors
+402,5e3b14ca8dbee800dd1d8551,Data Science,BU,Masters
+403,5e3b9f438dbee800dd1d8616,AI,MIT,Masters
+404,5e277a048dbee800dd1d6fde,CS,Dartmouth,Bachelors
+405,5e4ea4e9d00f9f00d3d5ae4f,Biology,MIT,Bachelors
+406,5e39487f8dbee800dd1d81ad,CS,Northeastern,Masters
+407,5e3c89598dbee800dd1d885c,Other,NYU,Bachelors
+408,5e4eb882d00f9f00d3d5afc5,Business,MIT,Masters
+409,5e23a5f48dbee800dd1d6dc6,CS,BU,PhD
+410,5e501ff4cb31a300d283169a,Mechanical Eng,Northeastern,Masters
+411,5e39a7a38dbee800dd1d828a,AI,MIT,Masters
+412,5e24d9778dbee800dd1d6e13,Mechanical Eng,Other,Masters
+413,5e3311628dbee800dd1d7a9e,Business,MIT,Masters
+414,5e517f4f6b8e7400d252fbf5,Other,Other,Other
+415,5e41ce708dbee800dd1d8d2d,Electrical Eng,Harvard,PhD
+416,5e3c74c48dbee800dd1d883a,Biology,BU,PhD
+417,5e4317e28dbee800dd1d8fe0,Other,MIT,Masters
+418,5e424c228dbee800dd1d8df2,Biology,Other,PhD
+419,5e381db18dbee800dd1d7fd1,Biology,BU,Masters
+420,5e512dab6b8e7400d252f881,CS,Other,Bachelors
+421,5e3f88648dbee800dd1d8b0a,Mechanical Eng,Other,Bachelors
+422,5e4d87113acdaa00d34d81a1,Other,UMass Amherst,Masters
+423,5e4406a38dbee800dd1d928d,CS,Other,Bachelors
+424,5e508b7f6b8e7400d252f5a0,AI,Other,Masters
+425,5e4ccebe3acdaa00d34d7de4,Other,Hult Business,MBA
+426,5e43ad018dbee800dd1d9135,Business,Hult Business,MBA
+427,5e38756a8dbee800dd1d809b,Other,Harvard,Masters
+428,5e2b86898dbee800dd1d741e,Biology,Harvard,Bachelors
+429,5e3959558dbee800dd1d81ba,CS,Northeastern,Masters
+430,5e5053decb31a300d283173d,Finance,Other,Masters
+431,5e1caa0a8dbee800dd1d6a4c,Policital Sci,Harvard,Masters
+432,5e472c5d3acdaa00d34d6d7a,CS,Other,Bachelors
+433,5e337e848dbee800dd1d7b34,Business,MIT,PhD
+434,5e516d8e6b8e7400d252fb65,Other,Other,Other
+435,5e2f5aba8dbee800dd1d775a,Other,NYU,Masters
+436,5e51b3507504bb00d2f54cb7,Biology,Other,Postdoc
+437,5e51675c7504bb00d2f54b42,Business,Other,MBA
+438,5e3b63848dbee800dd1d85da,Biology,Other,Masters
+439,5e28a27b8dbee800dd1d7151,Other,NYU,Bachelors
+440,5e50adaf5eb42900d3c0bc84,CS,Other,Bachelors
+441,5e518a25cb31a300d2831ee6,Other,Other,Other
+442,5e4f6c21d00f9f00d3d5b6ea,Other,Tufts,Bachelors
+443,5e4f0562d00f9f00d3d5b325,Data Science,Other,Masters
+444,5e50458d6b8e7400d252f482,Data Science,MIT,Bachelors
+445,5e3230e28dbee800dd1d79b7,CS,BU,Bachelors
+446,5e4b1a423acdaa00d34d762c,Physics,MIT,Bachelors
+447,5e5134935eb42900d3c0bee6,Mechanical Eng,Other,Bachelors
+448,5e4bf2913acdaa00d34d78d8,Finance,Harvard,Bachelors
+449,5e445ed08dbee800dd1d93b1,Business,NYU,Masters
+450,5e2a5a8e8dbee800dd1d731a,Biology,MIT,Postdoc
+451,5e4af7203acdaa00d34d7596,Biology,Other,Masters
+452,5e4d6a0a3acdaa00d34d80df,AI,MIT,Postdoc
+453,5e42a7f58dbee800dd1d8e9b,Other,Harvard,Masters
+454,5e4c0cb43acdaa00d34d79bd,Aero,MIT,Masters
+455,5e4b6a463acdaa00d34d7721,Law,Other,Masters
+456,5e4da15b3acdaa00d34d824e,Other,Northeastern,Bachelors
+457,5e449cb28dbee800dd1d9406,Biology,MIT,Masters
+458,5e35c30a8dbee800dd1d7d6e,Biology,Other,Masters
+459,5e0e453f8dbee800dd1d673c,Mechanical Eng,UMass Amherst,Masters
+460,5e4c948f3acdaa00d34d7ce3,Business,Northeastern,Masters
+461,5e31be088dbee800dd1d7973,Other,Northeastern,Masters
+462,5e4d8bfe3acdaa00d34d81e4,Materials,MIT,PhD
+463,5e5159895eb42900d3c0c0a1,Other,Other,Other
+464,5e512cb2cb31a300d2831aed,Other,Other,Bachelors
+465,5e35b3848dbee800dd1d7d63,Business,MIT,Masters
+466,5e514df4cb31a300d2831c81,Other,Other,Other
+467,5e2f00a28dbee800dd1d7634,Other,NYU,Masters
+468,5e3d9c248dbee800dd1d898e,Mechanical Eng,NYU,Masters
+469,5e2f0a198dbee800dd1d7654,Data Science,Other,Masters
+470,5e517d6d6b8e7400d252fbe9,Other,Other,Other
+471,5e4d5ca33acdaa00d34d8077,Business,Hult Business,Masters
+472,5e379a2d8dbee800dd1d7e99,Business,MIT,Masters
+473,5e5132e37504bb00d2f548e1,Other,Other,Masters
+474,5e2df0cc8dbee800dd1d750d,CS,MIT,Bachelors
+475,5e502ab35eb42900d3c0ba9e,Finance,Northeastern,MBA
+476,5e2fac858dbee800dd1d779c,Electrical Eng,BU,PhD
+477,5e279c5b8dbee800dd1d7058,Mechanical Eng,Northeastern,Bachelors
+478,5e38d68b8dbee800dd1d8134,Finance,MIT,Masters
+479,5df718df8dbee800dd1d65a0,CS,Dartmouth,Bachelors
+480,5e3b1f518dbee800dd1d8572,Biology,UMass Amherst,Bachelors
+481,5e3192988dbee800dd1d7947,CS,Dartmouth,Bachelors
+482,5e28a2668dbee800dd1d714e,Business,Other,MBA
+483,5e45df423acdaa00d34d6a5b,Materials,Harvard,Masters
+484,5e42f8078dbee800dd1d8f5c,Finance,Harvard,Masters
+485,5e5052d07504bb00d2f5450e,CS,Other,Bachelors
+486,5de135e28dbee800dd1d645a,Policital Sci,Wellesley,Bachelors
+487,5e3ab7568dbee800dd1d842e,Biology,Harvard,PhD
+488,5e4bfe433acdaa00d34d7971,Biology,Other,Masters
+489,5e4eb5d5d00f9f00d3d5afa7,CS,MIT,Masters
+490,5e506dcf6b8e7400d252f52f,Data Science,Other,Masters
+491,5e51910a7504bb00d2f54c99,Other,Other,Other
+492,5e4d7a273acdaa00d34d8148,Civil Eng,MIT,Masters
+493,5e43424b8dbee800dd1d903c,Finance,Hult Business,MBA
+494,5e513b6b7504bb00d2f54939,Other,MIT,Masters
+495,5e331b968dbee800dd1d7ad3,Physics,BU,Bachelors
+496,5e5179d87504bb00d2f54bf0,Other,Other,Other
+497,5e5024b55eb42900d3c0ba78,Business,Hult Business,MBA
+498,5e4b65f43acdaa00d34d770e,Policital Sci,Boston College,Bachelors
+499,5e4c0acd3acdaa00d34d79b2,CS,Harvard,Bachelors
+500,5dfa4c518dbee800dd1d6629,Policital Sci,Dartmouth,Bachelors
+501,5e3c67c18dbee800dd1d87d6,Business,Other,Masters
+502,5e35f7f28dbee800dd1d7d95,Finance,Wellesley,Other
+503,5e3ae5d08dbee800dd1d84be,Data Science,BU,MBA
+504,5e4475258dbee800dd1d93d6,Mechanical Eng,MIT,High school
+505,5e35bd568dbee800dd1d7d67,Biology,Other,Masters
+506,5e385ef78dbee800dd1d806a,Data Science,Other,MD
+507,5e5027b4cb31a300d28316b8,Business,Other,Bachelors
+508,5e2623b08dbee800dd1d6ef4,CS,Other,Bachelors
+509,5e3c47718dbee800dd1d877e,Marketing,Hult Business,Masters
+510,5e516effcb31a300d2831de8,Finance,Other,Bachelors
+511,5e317fa38dbee800dd1d7931,Data Science,Hult Business,MBA
+512,5e1de1728dbee800dd1d6ad1,Data Science,MIT,Masters
+513,5e4d8a4e3acdaa00d34d81cf,Policital Sci,NYU,Masters
+514,5e4da2493acdaa00d34d8256,Business,Hult Business,MBA
+515,5dfc10b88dbee800dd1d6684,Business,MIT,MBA
+516,5e44078d8dbee800dd1d9291,CS,Wellesley,Bachelors
+517,5e2ca6bd8dbee800dd1d74b8,Data Science,Wellesley,Bachelors
+518,5e518883cb31a300d2831ed6,Other,Other,Other
+519,5e4f3093d00f9f00d3d5b48a,Finance,Harvard,Bachelors
+520,5e3637058dbee800dd1d7db9,Mechanical Eng,MIT,Bachelors
+521,5e34ef598dbee800dd1d7d0d,AI,MIT,Bachelors
+522,5e509b645eb42900d3c0bc16,Business,Other,Bachelors
+523,5e3f880c8dbee800dd1d8b07,Other,Boston College,Masters
+524,5e3883bc8dbee800dd1d80af,Other,MIT,Bachelors
+525,5e51228c6b8e7400d252f840,Business,Other,Bachelors
+526,5e43720e8dbee800dd1d90b5,Business,Hult Business,Masters
+527,5e4bf5ef3acdaa00d34d78fb,CS,Harvard,Bachelors
+528,5e4cb5383acdaa00d34d7d8d,Electrical Eng,Other,Other
+529,5e4fd3a1d00f9f00d3d5b7ff,Data Science,MIT,Masters
+530,5e5150485eb42900d3c0c033,Other,Other,Other
+531,5e3deaf38dbee800dd1d8a42,Other,Other,PhD
+532,5e3ce5568dbee800dd1d88d6,CS,MIT,Bachelors
+533,5e3301188dbee800dd1d7a79,Data Science,MIT,Bachelors
+534,5e25a2338dbee800dd1d6e77,Other,Harvard,Masters
+535,5e5000e5d00f9f00d3d5b9bd,Data Science,MIT,MBA
+536,5e4f5a85d00f9f00d3d5b67f,Business,Hult Business,MBA
+537,5e3020f08dbee800dd1d77c8,Business,Other,Bachelors
+538,5e149be28dbee800dd1d67ff,Biology,Harvard,PhD
+539,5e44dc7b8dbee800dd1d9464,Finance,Wellesley,Bachelors
+540,5e0979ef8dbee800dd1d66e9,Business,MIT,Masters
+541,5e445c0e8dbee800dd1d93ae,Other,MIT,PhD
+542,5e50a610cb31a300d2831871,Other,Other,Masters
+543,5e50053dd00f9f00d3d5ba19,Finance,UConn,Masters
+544,5e4ed5e6d00f9f00d3d5b125,Business,NYU,Bachelors
+545,5e3847ba8dbee800dd1d8034,Business,Tufts,Masters
+546,5e3ccb1e8dbee800dd1d889f,Biology,MIT,PhD
+547,5e3c6a638dbee800dd1d87e0,CS,Harvard,Bachelors
+548,5e4c3e053acdaa00d34d7aed,Biology,Harvard,PhD
+549,5e30ebb48dbee800dd1d78f3,Finance,Other,Masters
+550,5e4ebaf8d00f9f00d3d5affa,Business,Hult Business,MBA
+551,5e4ea968d00f9f00d3d5ae65,Mechanical Eng,MIT,Masters
+552,5e1df4708dbee800dd1d6adc,CS,Tufts,Bachelors
+553,5e5152067504bb00d2f54a49,Aero,Other,Bachelors
+554,5e2a01478dbee800dd1d72d7,Business,Other,MBA
+555,5e4edf54d00f9f00d3d5b1bc,Data Science,Harvard,Masters
+556,5e50b4fe6b8e7400d252f6e0,Other,Other,Bachelors
+557,5e5139417504bb00d2f54921,Business,MIT,MBA
+558,5e49d8d63acdaa00d34d70f3,Biology,Other,Other
+559,5e5164f55eb42900d3c0c130,Other,Other,Masters
+560,5e23286c8dbee800dd1d6da4,Policital Sci,MIT,Masters
+561,5e50efe17504bb00d2f5481f,CS,Other,Bachelors
+562,5e51831f7504bb00d2f54c43,Data Science,Other,Bachelors
+563,5e42ef228dbee800dd1d8f3c,Business,Other,Masters
+564,5e4efdbad00f9f00d3d5b2df,CS,MIT,PhD
+565,5e4374178dbee800dd1d90bc,Finance,NYU,Masters
+566,5e50998ecb31a300d283182f,Electrical Eng,BU,MBA
+567,5e3b0adf8dbee800dd1d853d,Business,Other,Masters
+568,5e27b52e8dbee800dd1d7062,Other,Harvard,Masters
+569,5e500cf6d00f9f00d3d5ba7e,Biology,BU,Masters
+570,5e35f08f8dbee800dd1d7d8f,Law,NYU,Masters
+571,5e28f1cb8dbee800dd1d71a5,Biology,Other,Postdoc
+572,5e3c2fd28dbee800dd1d872e,Other,Other,Other
+573,5e44b94a8dbee800dd1d9432,Materials,Other,PhD
+574,5e42038c8dbee800dd1d8d82,Data Science,Other,Masters
+575,5e38833a8dbee800dd1d80ac,Electrical Eng,Tufts,Masters
+576,5e441c748dbee800dd1d92e2,Business,Other,Masters
+577,5e4c2bc83acdaa00d34d7a89,Business,Other,Masters
+578,5e45a12a3acdaa00d34d69de,Other,BU,Bachelors
+579,5e3adb548dbee800dd1d846e,Business,Wellesley,Bachelors
+580,5e5152e77504bb00d2f54a54,Policital Sci,NYU,Bachelors
+581,5e42f9f18dbee800dd1d8f61,CS,MIT,Bachelors
+582,5e38dc038dbee800dd1d8142,Policital Sci,NYU,Bachelors
+583,5e507d2b7504bb00d2f5457e,Finance,Other,Masters
+584,5e0a95fb8dbee800dd1d6700,CS,Dartmouth,Bachelors
+585,5e44132c8dbee800dd1d92c5,CS,MIT,Bachelors
+586,5e4deab73acdaa00d34d83e0,Finance,Wellesley,Bachelors
+587,5e50443c6b8e7400d252f47f,Biology,Other,PhD
+588,5e3bb4258dbee800dd1d8634,CS,MIT,High school
+589,5e38e6d38dbee800dd1d814d,Finance,Wellesley,Bachelors
+590,5e3201688dbee800dd1d79ab,Biology,Other,PhD
+591,5e4e9e13d00f9f00d3d5ae31,Other,Wellesley,Bachelors
+592,5e31f4438dbee800dd1d7994,Law,BU,Bachelors
+593,5e4dd9ff3acdaa00d34d8351,Data Science,MIT,Masters
+594,5e39663f8dbee800dd1d81c9,Biology,Other,Postdoc
+595,5e4c3a713acdaa00d34d7ad5,Biology,Northeastern,Masters
+596,5e4ef8eed00f9f00d3d5b2b2,Biology,Northeastern,Bachelors
+597,5e4d86fe3acdaa00d34d8199,Business,Harvard,Bachelors
+598,5e516ad57504bb00d2f54b6a,Other,Other,Other
+599,5e46c6953acdaa00d34d6c47,Physics,MIT,PhD
+600,5e36f1c28dbee800dd1d7e11,Materials,MIT,PhD
+601,5e514dd6cb31a300d2831c7e,Other,Other,Other
+602,5e4c3ab33acdaa00d34d7adc,CS,Harvard,Bachelors
+603,5e39ab738dbee800dd1d828f,Finance,Harvard,Other
+604,5e1fea6e8dbee800dd1d6bd9,Data Science,MIT,MD
+605,5e5039016b8e7400d252f459,Other,Other,Bachelors
+606,5e51506bcb31a300d2831ca8,Other,Other,Bachelors
+607,5e444d6f8dbee800dd1d9376,CS,MIT,Other
+608,5e3345bd8dbee800dd1d7b12,Other,MIT,Masters
+609,5e4d414e3acdaa00d34d7f9a,Other,Wellesley,Bachelors
+610,5e50ac1bcb31a300d283189d,AI,Other,Bachelors
+611,5e51885a5eb42900d3c0c277,Civil Eng,Other,Bachelors
+612,5e31863b8dbee800dd1d7935,Biology,Harvard,Masters
+613,5e32abfd8dbee800dd1d79e5,Mechanical Eng,MIT,Bachelors
+614,5e220cad8dbee800dd1d6d4a,CS,NYU,Masters
+615,5e4c39ea3acdaa00d34d7ad1,Other,MIT,PhD
+616,5e4f5bffd00f9f00d3d5b688,Business,Hult Business,MBA
+617,5e4c49f23acdaa00d34d7b52,Civil Eng,MIT,PhD
+618,5e5059755eb42900d3c0bb20,Business,Other,Masters
+619,5e4d86e93acdaa00d34d818f,Marketing,Hult Business,Bachelors
+620,5e4d37ad3acdaa00d34d7f86,Business,Hult Business,Bachelors
+621,5dff974e8dbee800dd1d66b7,CS,Other,Bachelors
+622,5e399d9a8dbee800dd1d8270,Biology,Harvard,PhD
+623,5e4d86ef3acdaa00d34d8192,Electrical Eng,Other,MBA
+624,5e2b254d8dbee800dd1d737a,Biology,Other,PhD
+625,5e4d927a3acdaa00d34d81f9,Aero,MIT,Bachelors
+626,5e3997528dbee800dd1d825a,Other,MIT,PhD
+627,5dd4cc5c8dbee800dd1d63b1,CS,Tufts,Bachelors
+628,5e42dab78dbee800dd1d8f0f,Policital Sci,Other,Bachelors
+629,5e517ca56b8e7400d252fbdc,Other,Other,Other
+630,5e24db788dbee800dd1d6e1a,Business,MIT,PhD
+631,5e516ae4cb31a300d2831dbb,Other,Other,Other
+632,5e3ce0108dbee800dd1d88d3,Other,Other,Masters
+633,5e35a22a8dbee800dd1d7d55,Marketing,Other,Masters
+634,5dfd7a788dbee800dd1d66a9,Biology,Harvard,Postdoc
+635,5ddb12f28dbee800dd1d63f6,Physics,MIT,PhD
+636,5e3b02838dbee800dd1d8519,Other,Harvard,Masters
+637,5e5164506b8e7400d252fb07,Physics,Other,Postdoc
+638,5e516e146b8e7400d252fb69,Other,Other,Other
+639,5e431f1d8dbee800dd1d8ffa,Finance,MIT,Masters
+640,5e5140ba6b8e7400d252f957,Business,Hult Business,Masters
+641,5e3642e48dbee800dd1d7ddc,Mechanical Eng,MIT,Bachelors
+642,5e516e57cb31a300d2831de3,Other,Other,Other
+643,5e4628453acdaa00d34d6abf,Other,Harvard,Postdoc
+644,5e515de35eb42900d3c0c0d5,CS,Other,Other
+645,5e3f5e708dbee800dd1d8adf,Other,Other,PhD
+646,5e4feca2d00f9f00d3d5b8f7,Business,Northeastern,PhD
+647,5e4d86ed3acdaa00d34d8191,Other,Northeastern,PhD
+648,5dd975368dbee800dd1d63ea,AI,Other,Masters
+649,5e330cd48dbee800dd1d7a95,Other,Other,MD
+650,5e39c1008dbee800dd1d82c4,Other,MIT,Bachelors
+651,5e39cce28dbee800dd1d82f5,AI,Other,Masters
+652,5e504a5c6b8e7400d252f48c,Biology,Other,Bachelors
+653,5e3b3c0d8dbee800dd1d85ad,Other,NYU,Bachelors
+654,5e3346818dbee800dd1d7b16,CS,NYU,Masters
+655,5e2b39148dbee800dd1d7394,Materials,Harvard,PhD
+656,5e5174715eb42900d3c0c1d3,Other,Other,Other
+657,5e4c23d43acdaa00d34d7a57,Business,Smith,Masters
+658,5e4cad833acdaa00d34d7d73,AI,NYU,Masters
+659,5e405a0e8dbee800dd1d8b6b,Other,Harvard,Masters
+660,5e516cf85eb42900d3c0c195,Finance,Other,Masters
+661,5e4b5b063acdaa00d34d76ef,Law,Other,Masters
+662,5e30bda38dbee800dd1d7897,Other,NYU,Masters
+663,5e4d86f73acdaa00d34d8195,Business,Other,MBA
+664,5e5045e65eb42900d3c0bace,Biology,MIT,PhD
+665,5e4d2c133acdaa00d34d7f70,Biology,MIT,High school
+666,5e404b618dbee800dd1d8b60,Business,BU,MBA
+667,5e263c948dbee800dd1d6efc,AI,BU,PhD
+668,5e26c2378dbee800dd1d6f48,Finance,Other,MBA
+669,5e4c07343acdaa00d34d79a5,Data Science,Hult Business,Masters
+670,5e4f7e1dd00f9f00d3d5b722,Chemistry,MIT,Bachelors
+671,5e42a1158dbee800dd1d8e8a,Biology,Other,Masters
+672,5e3b95348dbee800dd1d860d,Finance,MIT,MBA
+673,5e4efc44d00f9f00d3d5b2d7,Business,Other,PhD
+674,5e2b5ca78dbee800dd1d73b9,CS,BU,MBA
+675,5e3459498dbee800dd1d7c92,Aero,MIT,Masters
+676,5e2644c98dbee800dd1d6eff,Biology,Other,Bachelors
+677,5e46e6953acdaa00d34d6ca4,Business,Other,Bachelors
+678,5e51794d7504bb00d2f54be4,Other,Other,Other
+679,5e512f207504bb00d2f548be,CS,Other,Masters
+680,5e51348d6b8e7400d252f8ca,Other,Other,Masters
+681,5e2104be8dbee800dd1d6c7a,AI,Other,Bachelors
+682,5e44d2648dbee800dd1d944b,Biology,Harvard,Masters
+683,5e2b10078dbee800dd1d7356,Mechanical Eng,Hult Business,MBA
+684,5e4db9b43acdaa00d34d82ca,Biology,Harvard,PhD
+685,5e43f5a98dbee800dd1d9198,Physics,BU,Bachelors
+686,5e4c21f63acdaa00d34d7a4e,Business,Other,Bachelors
+687,5e50c8f8cb31a300d28319d3,CS,Other,Bachelors
+688,5e39bfc28dbee800dd1d82bf,Marketing,Other,Bachelors
+689,5e3cd9358dbee800dd1d88ae,Other,Tufts,Bachelors
+690,5e4d54933acdaa00d34d8010,Physics,MIT,PhD
+691,5e507100cb31a300d283179e,Other,Other,Bachelors
+692,5e4da86a3acdaa00d34d8282,CS,Harvard,Bachelors
+693,5e42f52d8dbee800dd1d8f54,Finance,Other,Bachelors
+694,5e33830f8dbee800dd1d7b4b,Civil Eng,Tufts,Masters
+695,5e4dd1193acdaa00d34d8337,Business,Other,MBA
+696,5e515b2c6b8e7400d252fa98,Other,Other,Other
+697,5e4ed1e2d00f9f00d3d5b10f,Other,Other,Masters
+698,5e4d69d13acdaa00d34d80da,Biology,Harvard,Bachelors
+699,5e4d87093acdaa00d34d819e,Business,Hult Business,MBA
+700,5e4c668a3acdaa00d34d7bf2,Finance,Harvard,Bachelors
+701,5e5131a8cb31a300d2831b27,Business,Other,Masters
+702,5e49f8323acdaa00d34d7140,Biology,Other,Bachelors
+703,5e5148827504bb00d2f549d6,Biology,Other,Bachelors
+704,5e484f543acdaa00d34d6ebe,Physics,Brandeis,PhD
+705,5e3ae4748dbee800dd1d84b9,Aero,MIT,Postdoc
+706,5e4d5b0d3acdaa00d34d805b,Mechanical Eng,MIT,Bachelors
+707,5e5057b15eb42900d3c0bb1a,Biology,Other,Bachelors
+708,5e4ad33e3acdaa00d34d7466,Business,NYU,Masters
+709,5e5174037504bb00d2f54bc1,CS,Other,Bachelors
+710,5e1bb7cb8dbee800dd1d6a13,Business,Harvard,MBA
+711,5e51729b7504bb00d2f54bb2,CS,Other,Masters
+712,5e397c1c8dbee800dd1d81f6,Business,Harvard,Bachelors
+713,5e3c4f708dbee800dd1d87a0,Mechanical Eng,MIT,Bachelors
+714,5e24821d8dbee800dd1d6def,AI,Northeastern,Masters
+715,5e3c6c6f8dbee800dd1d87e9,CS,MIT,Postdoc
+716,5e4d67683acdaa00d34d80c4,CS,Other,Masters
+717,5e50584b6b8e7400d252f4e4,Aero,Other,Bachelors
+718,5e4d35b23acdaa00d34d7f80,Business,MIT,Masters
+719,5e39ba688dbee800dd1d82b7,Finance,MIT,Masters
+720,5e4e02673acdaa00d34d84e8,CS,MIT,Bachelors
+721,5e4f157dd00f9f00d3d5b390,AI,MIT,PhD
+722,5e4ea6e1d00f9f00d3d5ae59,Biology,Other,Masters
+723,5e49c1bd3acdaa00d34d70c3,CS,BU,MBA
+724,5e330e3b8dbee800dd1d7a98,Aero,MIT,Masters
+725,5e2a67608dbee800dd1d7321,Other,Other,Bachelors
+726,5e3999ae8dbee800dd1d826a,Other,Harvard,Masters
+727,5e50a929cb31a300d2831885,Biology,Other,Bachelors
+728,5e3310258dbee800dd1d7a9b,Data Science,Other,Bachelors
+729,5e502e82cb31a300d28316c5,Finance,MIT,Masters
+730,5e24d8cd8dbee800dd1d6e10,Data Science,MIT,MBA
+731,5e50b23c6b8e7400d252f6ae,Other,Other,Bachelors
+732,5e5038f95eb42900d3c0bab3,Mechanical Eng,Tufts,Masters
+733,5e51638a7504bb00d2f54b12,CS,Harvard,Masters
+734,5e4d71413acdaa00d34d810f,Finance,Northeastern,Masters
+735,5e517b3bcb31a300d2831e51,Other,Other,Masters
+736,5e4f4764d00f9f00d3d5b533,Mechanical Eng,BU,Bachelors
+737,5e50afa8cb31a300d28318cc,Biology,Other,PhD
+738,5e30b0218dbee800dd1d786b,Data Science,Other,Bachelors
+739,5e344a268dbee800dd1d7c65,Business,Other,MBA
+740,5e2b17f28dbee800dd1d735b,Chemistry,MIT,PhD
+741,5e2b210e8dbee800dd1d7368,CS,MIT,Bachelors
+742,5e4c56bc3acdaa00d34d7b90,CS,Harvard,Bachelors
+743,5e1df7a18dbee800dd1d6aed,CS,MIT,Bachelors
+744,5e517e2d7504bb00d2f54c13,Business,Other,Masters
+745,5e28417d8dbee800dd1d70a9,Other,WPI,Masters
+746,5e4c45df3acdaa00d34d7b30,Mechanical Eng,MIT,High school
+747,5e416ecd8dbee800dd1d8c57,Aero,Other,Bachelors
+748,5e247ae68dbee800dd1d6dec,Physics,Other,Bachelors
+749,5e50526fcb31a300d283172f,CS,Other,Bachelors
+750,5e3f0a5f8dbee800dd1d8a9c,Data Science,Hult Business,Masters
+751,5e28ae808dbee800dd1d7164,Data Science,NYU,Masters
+752,5e278a388dbee800dd1d7044,CS,NYU,Masters
+753,5e4de6a53acdaa00d34d83bd,Biology,Other,Postdoc
+754,5e2f14938dbee800dd1d7667,CS,NYU,Masters
+755,5e1df51d8dbee800dd1d6adf,Other,Northeastern,Masters
+756,5e2937158dbee800dd1d71b7,Data Science,Other,Masters
+757,5e4c4a943acdaa00d34d7b55,Business,NYU,Masters
+758,5e435f568dbee800dd1d906a,Other,Other,Bachelors
+759,5e304e5e8dbee800dd1d77e3,Marketing,NYU,Masters
+760,5e4972bb3acdaa00d34d6fd2,Business,Brandeis,Masters
+761,5e3785938dbee800dd1d7e8a,Finance,Other,Other
+762,5e3cdf898dbee800dd1d88cb,CS,NYU,Bachelors
+763,5e51350d7504bb00d2f548fb,Other,Other,Other
+764,5e3446648dbee800dd1d7c59,Biology,MIT,High school
+765,5e1fc7768dbee800dd1d6bc8,Biology,Other,MD
+766,5e4c34b33acdaa00d34d7ac4,Mechanical Eng,Other,Bachelors
+767,5e2615ae8dbee800dd1d6ee8,Other,Other,MD
+768,5e46c6eb3acdaa00d34d6c4a,Finance,Hult Business,Masters
+769,5e456b2c8dbee800dd1d957f,Other,Other,Masters
+770,5e4f1a3bd00f9f00d3d5b3d7,Other,Northeastern,Masters
+771,5e31f7258dbee800dd1d799f,CS,Other,Bachelors
+772,5e5147f86b8e7400d252f9bd,Other,Other,Other
+773,5e4c7f713acdaa00d34d7c6f,Aero,MIT,Masters
+774,5e5089127504bb00d2f545be,Business,Other,MBA
+775,5e4456448dbee800dd1d93a7,Other,MIT,Masters
+776,5e447ffb8dbee800dd1d93e0,Electrical Eng,MIT,Postdoc
+777,5e4eacfad00f9f00d3d5aecf,CS,MIT,PhD
+778,5e4cd3f23acdaa00d34d7df0,Other,WPI,Masters
+779,5e4d48563acdaa00d34d7fc2,CS,NYU,Masters
+780,5e4a12373acdaa00d34d717c,AI,MIT,PhD
+781,5e421dde8dbee800dd1d8dbe,Data Science,Harvard,Masters
+782,5e44bed88dbee800dd1d943d,Finance,Other,High school
+783,5e3ad1418dbee800dd1d8446,Finance,MIT,Masters
+784,5e509b675eb42900d3c0bc19,Policital Sci,Harvard,Bachelors
+785,5e2a027e8dbee800dd1d72e7,Biology,MIT,Postdoc
+786,5e4bf2d43acdaa00d34d78dd,Other,Other,Masters
+787,5e35da388dbee800dd1d7d76,Business,Hult Business,Masters
+788,5e1732228dbee800dd1d68f1,Business,Hult Business,MBA
+789,5e4d46623acdaa00d34d7fb0,Biology,MIT,Bachelors
+790,5e49b7583acdaa00d34d7066,Business,Other,PhD
+791,5e513470cb31a300d2831b44,AI,Other,Masters
+792,5e514d706b8e7400d252fa01,Biology,Other,Bachelors
+793,5e4c0df63acdaa00d34d79c7,Business,Other,MBA
+794,5e45ef853acdaa00d34d6a67,CS,MIT,Bachelors
+795,5e4722ea3acdaa00d34d6d63,Finance,Other,MBA
+796,5e4bf6003acdaa00d34d7900,CS,Harvard,Bachelors
+797,5e22bb698dbee800dd1d6d91,Data Science,MIT,Bachelors
+798,5e4dd1063acdaa00d34d8331,Business,Hult Business,MBA
+799,5e517a807504bb00d2f54bfb,Other,Other,Other
+800,5e46ca313acdaa00d34d6c5c,Business,Other,Bachelors
+801,5e2fac1b8dbee800dd1d7798,Law,Harvard,Masters
+802,5e4de3b53acdaa00d34d837b,Law,Other,Bachelors
+803,5e4ae4ec3acdaa00d34d74d6,Mechanical Eng,Other,Masters
+804,5e24dce88dbee800dd1d6e1d,Business,Hult Business,MBA
+805,5e4823293acdaa00d34d6e86,CS,Dartmouth,Bachelors
+806,5e5177036b8e7400d252fbad,Business,Other,Bachelors
+807,5e3f75ec8dbee800dd1d8af1,Biology,Other,Postdoc
+808,5e43987d8dbee800dd1d9117,Business,Hult Business,Masters
+809,5e50e3facb31a300d2831a40,Biology,Other,Bachelors
+810,5e504d515eb42900d3c0bae6,Other,Other,Bachelors
+811,5e483def3acdaa00d34d6eb4,AI,Other,Postdoc
+812,5e4d6cb93acdaa00d34d80f8,CS,Harvard,Bachelors
+813,5e4d8b713acdaa00d34d81dc,Other,Harvard,Masters
+814,5e3d7ff78dbee800dd1d8969,Chemistry,Northeastern,Bachelors
+815,5e4f3664d00f9f00d3d5b4a8,Business,Other,MBA
+816,5e4f1f30d00f9f00d3d5b415,Finance,Other,Masters
+817,5e500b05d00f9f00d3d5ba5b,Finance,Other,MBA
+818,5e4df0693acdaa00d34d8433,Biology,Other,Masters
+819,5e4eb917d00f9f00d3d5afcd,Biology,Tufts,PhD
+820,5e53d2600825bb00d3ac3f7f,Other,Other,Other
+821,5e3081fc8dbee800dd1d7818,Business,Hult Business,Other
+822,5e2c2f0f8dbee800dd1d7450,Other,Harvard,Masters
+823,5e50548c5eb42900d3c0bb0f,Other,Other,Masters
+824,5e417c788dbee800dd1d8c74,Other,BU,Bachelors
+825,5e2e499d8dbee800dd1d75d7,Biology,BU,Bachelors
+826,5e4a1db73acdaa00d34d7197,Biology,MIT,Masters
+827,5e246ed78dbee800dd1d6ddf,Business,Hult Business,MBA
+828,5e3035638dbee800dd1d77d1,Civil Eng,Northeastern,Bachelors
+829,5e5149e9cb31a300d2831c54,Other,Other,Bachelors
+830,5e512dc7cb31a300d2831af4,Other,Other,Masters
+831,5e50bd286b8e7400d252f724,Other,MIT,Bachelors
+832,5e31f6308dbee800dd1d799c,Policital Sci,BU,Bachelors
+833,5e29c85d8dbee800dd1d7276,Other,Wellesley,Bachelors
+834,5e1e25518dbee800dd1d6b31,Biology,MIT,PhD
+835,5e433b6a8dbee800dd1d9036,Other,Other,Masters
+836,5e359d0f8dbee800dd1d7d49,CS,MIT,Bachelors
+837,5e5038225eb42900d3c0bab0,Other,Other,Bachelors
+838,5e395e2a8dbee800dd1d81c0,Marketing,Other,Bachelors
+839,5e47327a3acdaa00d34d6d9e,CS,Northeastern,Bachelors
+840,5e30df868dbee800dd1d78e6,Other,Other,Other
+841,5e42f7188dbee800dd1d8f58,Biology,Other,Bachelors
+842,5e4ae1d13acdaa00d34d74cd,CS,MIT,Bachelors
+843,5e5153207504bb00d2f54a57,Other,Other,Bachelors
+844,5e3b2beb8dbee800dd1d858d,Other,Harvard,Bachelors
+845,5e2dd50f8dbee800dd1d74f8,Business,Other,Bachelors
+846,5e4ab06b3acdaa00d34d73d2,Business,MIT,MD
+847,5e4b507c3acdaa00d34d76c8,Other,Tufts,Bachelors
+848,5e3497728dbee800dd1d7cd5,Biology,Other,Masters
+849,5e150ed18dbee800dd1d682c,Aero,MIT,Masters
+850,5e50dcec6b8e7400d252f7d7,Physics,Other,Masters
+851,5e5089647504bb00d2f545c1,Other,Other,Postdoc
+852,5e4c615e3acdaa00d34d7bc9,Business,MIT,Masters
+853,5e49c18c3acdaa00d34d70c0,Marketing,Other,Bachelors
+854,5e49f5ff3acdaa00d34d712d,Other,Other,PhD
+855,5e47d36e3acdaa00d34d6e38,AI,MIT,Masters
+856,5e21f3e78dbee800dd1d6d40,Other,Other,Bachelors
+857,5e270aa68dbee800dd1d6f9d,Other,Harvard,Masters
+858,5e50537a6b8e7400d252f4c7,Mechanical Eng,MIT,PhD
+859,5e4c01363acdaa00d34d7985,Other,Harvard,Bachelors
+860,5e48b5223acdaa00d34d6f58,Other,Other,PhD
+861,5e4c54203acdaa00d34d7b7c,CS,MIT,Bachelors
+862,5e4360a88dbee800dd1d906d,Other,Tufts,Masters
+863,5e2ef42b8dbee800dd1d7615,Other,NYU,Masters
+864,5e15c3d78dbee800dd1d6862,Finance,Other,Bachelors
+865,5e404db18dbee800dd1d8b66,AI,Harvard,Postdoc
+866,5e508fe45eb42900d3c0bbfa,Electrical Eng,Other,Bachelors
+867,5ddb1dda8dbee800dd1d63f9,Other,Smith,Bachelors
+868,5e3b09eb8dbee800dd1d8536,Other,Other,Bachelors
+869,5e43220c8dbee800dd1d8ffe,Chemistry,Other,PhD
+870,5e4d844b3acdaa00d34d8189,Policital Sci,Harvard,Bachelors
+871,5e3dbb558dbee800dd1d89be,Biology,BU,Bachelors
+872,5e3995ad8dbee800dd1d8257,CS,Harvard,Bachelors
+873,5e4fdfefd00f9f00d3d5b8a8,Finance,Harvard,Bachelors
+874,5e4c68b33acdaa00d34d7c11,Finance,Hult Business,Masters
+875,5e2b2f718dbee800dd1d738a,Business,Other,MBA
+876,5e3455518dbee800dd1d7c70,AI,MIT,Masters
+877,5e3a210c8dbee800dd1d839a,Business,Harvard,MBA
+878,5e49ce683acdaa00d34d70e3,CS,Other,Masters
+879,5e39dbbf8dbee800dd1d8320,Materials,MIT,PhD
+880,5e44728a8dbee800dd1d93d0,Aero,MIT,Bachelors
+881,5e4f14d8d00f9f00d3d5b389,Materials,MIT,Bachelors
+882,5e42b8948dbee800dd1d8ec4,Business,Tufts,Masters
+883,5e343dab8dbee800dd1d7c54,CS,MIT,Bachelors
+884,5e3902878dbee800dd1d818a,Other,Other,Other
+885,5e41ab3a8dbee800dd1d8ce8,Marketing,Hult Business,Masters
+886,5e381e1f8dbee800dd1d7fd6,Finance,Hult Business,Masters
+887,5e39eaac8dbee800dd1d834d,Electrical Eng,MIT,Bachelors
+888,5e0e13838dbee800dd1d6737,Business,MIT,MBA
+889,5e2f328a8dbee800dd1d7689,Finance,Hult Business,Masters
+890,5e3050858dbee800dd1d77ec,Other,MIT,PhD
+891,5e2a1e8c8dbee800dd1d7300,Policital Sci,NYU,Masters
+892,5e430fce8dbee800dd1d8fb8,Biology,Other,Masters
+893,5e164c4c8dbee800dd1d689c,Other,MIT,Masters
+894,5e39f9c78dbee800dd1d8383,Finance,Harvard,Bachelors
+895,5e4f6168d00f9f00d3d5b6bb,Mechanical Eng,Other,Masters
+896,5e24cf6e8dbee800dd1d6e09,Business,Hult Business,MBA
+897,5e4eac9ed00f9f00d3d5aeb8,Other,Harvard,Other
+898,5e49f7be3acdaa00d34d7135,Biology,Other,Postdoc
+899,5e18a4608dbee800dd1d69ab,Data Science,NYU,Masters
+900,5e3db9328dbee800dd1d89bb,CS,MIT,Bachelors
+901,5e50bda27504bb00d2f5472a,CS,Other,Masters
+902,5e50a4196b8e7400d252f61d,CS,NYU,Masters
+903,5e3871778dbee800dd1d808f,CS,Other,Other
+904,5e3ca9fe8dbee800dd1d8888,Data Science,MIT,Masters
+905,5e29b30d8dbee800dd1d7246,Business,Other,MBA
+906,5ddd879a8dbee800dd1d641c,Other,MIT,Postdoc
+907,5e5179a66b8e7400d252fbc3,Other,Other,MBA
+908,5e34e8238dbee800dd1d7d06,AI,NYU,Masters
+909,5e4ca2cc3acdaa00d34d7d4e,CS,Other,Bachelors
+910,5e50a6645eb42900d3c0bc58,Other,Other,Other
+911,5e505bf86b8e7400d252f4f1,Other,Other,Masters
+912,5e49ed743acdaa00d34d710d,AI,MIT,Bachelors
+913,5e4344438dbee800dd1d9042,Biology,BU,Other
+914,5e4df5253acdaa00d34d8479,Other,Other,Other
+915,5e4c588f3acdaa00d34d7ba6,Business,Hult Business,Masters
+916,5e373a498dbee800dd1d7e44,Physics,MIT,High school
+917,5e5052e06b8e7400d252f4c2,Civil Eng,Other,Masters
+918,5e44235b8dbee800dd1d9302,Electrical Eng,Other,Bachelors
+919,5e5150a45eb42900d3c0c03f,Other,Other,Other
+920,5e3321848dbee800dd1d7ad9,Aero,MIT,PhD
+921,5e3b328c8dbee800dd1d8590,Business,BU,MBA
+922,5e2487c28dbee800dd1d6df3,Business,Hult Business,MBA
+923,5e444e9c8dbee800dd1d937e,Mechanical Eng,Harvard,Postdoc
+924,5e4b18af3acdaa00d34d7623,CS,Harvard,Bachelors
+925,5e430bc48dbee800dd1d8fa2,Business,Other,MBA
+926,5e5159786b8e7400d252fa85,Other,Other,Bachelors
+927,5e5183cecb31a300d2831eb6,Other,Other,Other
+928,5e3c74608dbee800dd1d8839,Other,Harvard,Bachelors
+929,5e3ced728dbee800dd1d88da,Business,Hult Business,Masters
+930,5e4ede7ad00f9f00d3d5b19a,CS,NYU,Masters
+931,5e4dd64f3acdaa00d34d833c,Electrical Eng,Other,PhD
+932,5e4dc8e83acdaa00d34d8309,Other,MIT,Masters
+933,5e4413a98dbee800dd1d92c8,Biology,MIT,Masters
+934,5e3911898dbee800dd1d8192,Data Science,Other,Masters
+935,5e3ad5828dbee800dd1d845a,Other,Harvard,Masters
+936,5e4b39da3acdaa00d34d7694,Data Science,NYU,Bachelors
+937,5e41fc9a8dbee800dd1d8d70,CS,MIT,Masters
+938,5e501e355eb42900d3c0ba63,Biology,Other,Postdoc
+939,5e518b1fcb31a300d2831eed,Other,Other,Other
+940,5e4f7773d00f9f00d3d5b705,Biology,MIT,Masters
+941,5e49e80e3acdaa00d34d70ff,Other,Harvard,Postdoc
+942,5e4468218dbee800dd1d93c0,Biology,BU,Bachelors
+943,5e32d0a58dbee800dd1d7a09,AI,MIT,PhD
+944,5e4bf78e3acdaa00d34d7918,Business,Boston College,MBA
+945,5e4b53ca3acdaa00d34d76e2,Mechanical Eng,Other,MBA
+946,5e4d6cdc3acdaa00d34d80fb,Business,Hult Business,Masters
+947,5e50742bcb31a300d28317a5,Business,Hult Business,Masters
+948,5e2f1ae98dbee800dd1d766e,Biology,MIT,Masters
+949,5e4cc1193acdaa00d34d7da9,Finance,Harvard,Masters
+950,5e26275d8dbee800dd1d6ef5,Business,Hult Business,MBA
+951,5e5020605eb42900d3c0ba6d,Other,Hult Business,MBA
+952,5e39b6bc8dbee800dd1d82af,AI,Other,MBA
+953,5e4987703acdaa00d34d6ffe,Data Science,Harvard,Masters
+954,5e4f1e75d00f9f00d3d5b407,Business,Hult Business,Masters
+955,5e2865b18dbee800dd1d70f1,Biology,MIT,Masters
+956,5e4cb7853acdaa00d34d7d98,Electrical Eng,Other,High school
+957,5e4d91e93acdaa00d34d81f2,Business,Hult Business,Masters
+958,5e4ff3c7d00f9f00d3d5b938,Other,MIT,PhD
+959,5e50b8a75eb42900d3c0bd15,CS,MIT,Bachelors
+960,5e454f078dbee800dd1d954f,Other,Other,MBA
+961,5e3b39288dbee800dd1d85a6,Chemistry,MIT,Postdoc
+962,5e517fc65eb42900d3c0c22e,Other,Other,Other
+963,5e45b82c3acdaa00d34d69f7,CS,Harvard,PhD
+964,5e5157856b8e7400d252fa71,Other,Other,Postdoc
+965,5e4ec0bdd00f9f00d3d5b02d,AI,MIT,PhD
+966,5e502fc65eb42900d3c0baa3,Business,Other,Masters
+967,5e3b192f8dbee800dd1d855b,Biology,Harvard,Postdoc
+968,5e3b459e8dbee800dd1d85c4,Mechanical Eng,Northeastern,Masters
+969,5e30b5c08dbee800dd1d7874,Business,Harvard,Other
+970,5e4d73063acdaa00d34d8124,Mechanical Eng,Other,Bachelors
+971,5e55b3eb4d5f8e00d232087c,Biology,Other,PhD
+972,5e4c03f23acdaa00d34d7994,CS,Harvard,Bachelors
+973,5e3f630f8dbee800dd1d8ae2,Biology,Other,Bachelors
+974,5e4ebae3d00f9f00d3d5aff7,Data Science,Brandeis,MBA
+975,5e4da6853acdaa00d34d8274,Biology,BU,Masters
+976,5e4380328dbee800dd1d90da,CS,Wellesley,Bachelors
+977,5e49d7a43acdaa00d34d70f0,Other,MIT,Bachelors
+978,5e50a3167504bb00d2f5463b,Business,Hult Business,Masters
+979,5e3a1ef88dbee800dd1d8396,CS,MIT,Other
+980,5e50bbd46b8e7400d252f718,AI,Other,Postdoc
+981,5e50d26e7504bb00d2f547ce,AI,Other,Bachelors
+982,5e42d4cd8dbee800dd1d8f06,Business,BU,MBA
+983,5e4d56b73acdaa00d34d8039,Finance,MIT,Bachelors
+984,5e4c1d0b3acdaa00d34d7a37,Data Science,Hult Business,Masters
+985,5e5174667504bb00d2f54bc6,Other,Other,Other
+986,5e2cdfae8dbee800dd1d74da,Aero,Harvard,PhD
+987,5e5124817504bb00d2f54878,AI,Other,PhD
+988,5e51654c7504bb00d2f54b2c,Other,Other,Other
+989,5e4d408e3acdaa00d34d7f96,Finance,Hult Business,Bachelors
+990,5e41fc0a8dbee800dd1d8d6d,Finance,Other,Other
+991,5e018fc58dbee800dd1d66cc,CS,Dartmouth,Bachelors
+992,5e4e02763acdaa00d34d84eb,Other,MIT,Other
+993,5e516cf66b8e7400d252fb60,Other,Other,Other
+994,5e43232c8dbee800dd1d9005,Finance,Tufts,Masters
+995,5e50c4065eb42900d3c0bd58,Other,Other,Masters
+996,5e5068a67504bb00d2f54557,Biology,Other,Bachelors
+997,5e4d95573acdaa00d34d8204,Data Science,Harvard,Bachelors
+998,5e50a7946b8e7400d252f636,Other,Other,Masters
+999,5e4ec2c0d00f9f00d3d5b044,Aero,Other,Other
+1000,5e4477998dbee800dd1d93da,CS,MIT,PhD
+1001,5e4edd0bd00f9f00d3d5b182,CS,Other,Bachelors
+1002,5e50baa55eb42900d3c0bd1f,Other,Other,MD
+1003,5e3835fd8dbee800dd1d8019,Mechanical Eng,Other,Other
+1004,5e2f19ea8dbee800dd1d766b,Other,Other,Masters
+1005,5e4470868dbee800dd1d93c6,CS,MIT,Bachelors
+1006,5e4d147d3acdaa00d34d7f11,CS,Harvard,Bachelors
+1007,5e521da6cb31a300d2831f3a,Finance,Other,Masters
+1008,5e50943a5eb42900d3c0bc01,Business,Other,Masters
+1009,5e5016fe7504bb00d2f5444d,Data Science,MIT,Masters
+1010,5e4be35e3acdaa00d34d789a,Materials,MIT,PhD
+1011,5e25a9ca8dbee800dd1d6e7e,Physics,Harvard,Other
+1012,5e4c89e13acdaa00d34d7c89,Mechanical Eng,Other,PhD
+1013,5e399a428dbee800dd1d826d,AI,Harvard,Bachelors
+1014,5e3776af8dbee800dd1d7e64,CS,MIT,Bachelors
+1015,5e4ab3383acdaa00d34d73e2,Finance,Hult Business,Masters
+1016,5e221a7c8dbee800dd1d6d50,Finance,Hult Business,Masters
+1017,5e471d013acdaa00d34d6d4d,Other,Harvard,Postdoc
+1018,5e5087587504bb00d2f545b8,Chemistry,Other,PhD
+1019,5e4d5fc53acdaa00d34d8093,Biology,MIT,Bachelors
+1020,5e4cb9a43acdaa00d34d7d9c,Chemistry,Northeastern,Masters
+1021,5e50bc6f5eb42900d3c0bd2a,CS,MIT,Bachelors
+1022,5e4b60ba3acdaa00d34d76fb,AI,Northeastern,PhD
+1023,5e4438368dbee800dd1d9360,Civil Eng,MIT,Masters
+1024,5e31d18a8dbee800dd1d7981,Other,Other,PhD
+1025,5e2f681e8dbee800dd1d7764,Marketing,Hult Business,Masters
+1026,5e39e18b8dbee800dd1d8342,Biology,Other,PhD
+1027,5e2f06868dbee800dd1d764a,Policital Sci,NYU,Masters
+1028,5e3f45bc8dbee800dd1d8ad2,Data Science,Harvard,Bachelors
+1029,5e35ac6d8dbee800dd1d7d5e,Other,Northeastern,Masters
+1030,5e4afe823acdaa00d34d75b3,Data Science,MIT,PhD
+1031,5e3982248dbee800dd1d81fe,Biology,Harvard,High school
+1032,5e3367028dbee800dd1d7b29,CS,MIT,Bachelors
+1033,5e4753d33acdaa00d34d6df1,Biology,MIT,Bachelors
+1034,5e2f92758dbee800dd1d777e,Business,Hult Business,Masters
+1035,5e3885b78dbee800dd1d80b2,Physics,Other,Other
+1036,5e264b8d8dbee800dd1d6f02,Other,WPI,Masters
+1037,5e513636cb31a300d2831b5b,CS,Other,Masters
+1038,5e41cdf88dbee800dd1d8d2a,Physics,MIT,Bachelors
+1039,5e51506a5eb42900d3c0c039,Other,Other,Other
+1040,5e51444fcb31a300d2831c11,Other,Other,Postdoc
+1041,5e3579a68dbee800dd1d7d36,Business,Other,Masters
+1042,5e518d8c7504bb00d2f54c91,Other,Other,Other
+1043,5e4aa0c33acdaa00d34d734e,Other,Harvard,Masters
+1044,5e308f208dbee800dd1d7839,Business,NYU,Masters
+1045,5e515ce56b8e7400d252faaf,CS,Other,Masters
+1046,5e30bb6d8dbee800dd1d788d,Business,Other,MBA
+1047,5e516aac6b8e7400d252fb4c,CS,Other,Bachelors
+1048,5e5091ff6b8e7400d252f5c1,Biology,Other,Bachelors
+1049,5e41be448dbee800dd1d8d0f,Finance,Hult Business,Masters
+1050,5e38d9dd8dbee800dd1d813f,Finance,Other,Other
+1051,5e5034cbcb31a300d28316cc,Other,MIT,PhD
+1052,5e4ac9e63acdaa00d34d7441,Physics,Other,Bachelors
+1053,5e4f06c1d00f9f00d3d5b33a,Electrical Eng,MIT,Masters
+1054,5e3eb6178dbee800dd1d8a7d,Data Science,Hult Business,Masters
+1055,5e2efbee8dbee800dd1d7625,AI,NYU,Masters
+1056,5e4b2ab63acdaa00d34d7669,Other,MIT,Postdoc
+1057,5def0e0d8dbee800dd1d650a,Biology,Other,Masters
+1058,5e4d6a5b3acdaa00d34d80e6,Chemistry,MIT,Postdoc
+1059,5e4eeb08d00f9f00d3d5b234,Policital Sci,Other,Masters
+1060,5e4ed037d00f9f00d3d5b0ff,Electrical Eng,Other,Other
+1061,5e4866f83acdaa00d34d6f02,Business,Other,Masters
+1062,5e387ea98dbee800dd1d80a5,Policital Sci,NYU,Bachelors
+1063,5e507a635eb42900d3c0bb7b,Other,Other,Other
+1064,5e3cd9768dbee800dd1d88b6,CS,MIT,Bachelors
+1065,5e51678a5eb42900d3c0c152,Other,Other,Other
+1066,5e38d9c38dbee800dd1d813c,Finance,Other,Bachelors
+1067,5e3b06f88dbee800dd1d852b,Chemistry,MIT,PhD
+1068,5e4c8e773acdaa00d34d7ccc,Business,Other,Other
+1069,5e4f5172d00f9f00d3d5b5dd,Biology,MIT,Bachelors
+1070,5e500f2dd00f9f00d3d5ba98,Biology,Harvard,PhD
+1071,5e514f2f6b8e7400d252fa1c,Other,Other,Other
+1072,5e51730bcb31a300d2831e10,Business,Other,Other
+1073,5e4b178f3acdaa00d34d7616,Other,MIT,Postdoc
+1074,5e3c928b8dbee800dd1d886a,Other,Other,Bachelors
+1075,5e50c5c86b8e7400d252f763,Other,Harvard,Bachelors
+1076,5e41a3888dbee800dd1d8ce1,Business,Other,Bachelors
+1077,5e514adbcb31a300d2831c5b,Finance,Other,Bachelors
+1078,5e5148de7504bb00d2f549df,Business,Other,Bachelors
+1079,5e3206838dbee800dd1d79b3,Business,Hult Business,Masters
+1080,5e4c684b3acdaa00d34d7c0e,Finance,Harvard,Bachelors
+1081,5e4212348dbee800dd1d8da8,Biology,Other,Postdoc
+1082,5e42ec858dbee800dd1d8f2d,Other,Other,MD
+1083,5e516bf75eb42900d3c0c189,Other,Other,Other
+1084,5e4329e68dbee800dd1d9010,Other,Other,Bachelors
+1085,5e4c6ece3acdaa00d34d7c24,CS,MIT,PhD
+1086,5e2fd4918dbee800dd1d77b1,Finance,NYU,Bachelors
+1087,5e4c07ea3acdaa00d34d79ad,Other,NYU,Masters
+1088,5e4f218ed00f9f00d3d5b42c,Other,NYU,Bachelors
+1089,5e3466068dbee800dd1d7cb7,Business,MIT,Masters
+1090,5e51694b5eb42900d3c0c16e,Materials,MIT,Postdoc
+1091,5e5167875eb42900d3c0c14f,Other,Other,Other
+1092,5e41f7f58dbee800dd1d8d5d,Mechanical Eng,BU,Bachelors
+1093,5e247aa08dbee800dd1d6de8,Business,Northeastern,Masters
+1094,5e50318d7504bb00d2f544aa,Other,Harvard,Other
+1095,5e436c568dbee800dd1d90a7,Finance,MIT,Masters
+1096,5e517691cb31a300d2831e23,Other,Other,Other
+1097,5e373aa08dbee800dd1d7e47,Business,MIT,Masters
+1098,5e28a6148dbee800dd1d7154,Finance,UMass Boston,Masters
+1099,5e4bf3573acdaa00d34d78e1,Data Science,Other,Masters
+1100,5e5055586b8e7400d252f4d6,Materials,Other,Bachelors
+1101,5e3da8c88dbee800dd1d89a9,Finance,Harvard,Masters
+1102,5e5147317504bb00d2f549c9,Other,Other,Other
+1103,5e4ab9fa3acdaa00d34d73f5,Biology,Other,PhD
+1104,5e370e338dbee800dd1d7e1e,Finance,MIT,Bachelors
+1105,5e513e855eb42900d3c0bf58,Chemistry,Other,Bachelors
+1106,5e45bdbe3acdaa00d34d69fe,CS,MIT,Masters
+1107,5e515b617504bb00d2f54abf,Other,Other,Other
+1108,5e1beb758dbee800dd1d6a19,Policital Sci,Harvard,Masters
+1109,5e41b74c8dbee800dd1d8cf8,Business,Other,Masters
+1110,5e23bf0a8dbee800dd1d6dcf,Biology,MIT,Postdoc
+1111,5e38ab5e8dbee800dd1d80ef,Business,MIT,Masters
+1112,5e366fdb8dbee800dd1d7dfc,Business,MIT,Masters
+1113,5e4c17d83acdaa00d34d7a12,Policital Sci,MIT,PhD
+1114,5e41bc338dbee800dd1d8cff,Finance,Other,Bachelors
+1115,5e5143085eb42900d3c0bf8d,Other,Harvard,Bachelors
+1116,5e4b85a53acdaa00d34d7750,Data Science,MIT,Bachelors
+1117,5e38907b8dbee800dd1d80c7,Policital Sci,Northeastern,Bachelors
+1118,5e4ca6943acdaa00d34d7d6d,Other,Other,Masters
+1119,5e3c611d8dbee800dd1d87ce,CS,NYU,Masters
+1120,5e4dc4593acdaa00d34d82f9,Mechanical Eng,Other,Bachelors
+1121,5e35e5688dbee800dd1d7d85,Mechanical Eng,MIT,Masters
+1122,5e250f658dbee800dd1d6e30,Finance,Harvard,Other
+1123,5e4c2a793acdaa00d34d7a78,Other,Harvard,Bachelors
+1124,5e3488b68dbee800dd1d7cca,CS,MIT,High school
+1125,5e441ade8dbee800dd1d92dd,Other,Other,PhD
+1126,5e3981648dbee800dd1d81fb,Other,Other,MD
+1127,5e2ba5408dbee800dd1d743e,Business,Northeastern,Bachelors
+1128,5e2df25f8dbee800dd1d7510,CS,NYU,Masters
+1129,5e21da958dbee800dd1d6d39,Business,UMass Boston,PhD
+1130,5e4c0df13acdaa00d34d79c4,Data Science,Hult Business,Masters
+1131,5e35b9d58dbee800dd1d7d66,Other,NYU,Masters
+1132,5e3b38988dbee800dd1d85a3,CS,Harvard,Bachelors
+1133,5e5020ca6b8e7400d252f42e,CS,Harvard,Masters
+1134,5e51533e7504bb00d2f54a5a,Other,Other,Masters
+1135,5e4cc6493acdaa00d34d7dbe,Physics,Tufts,PhD
+1136,5e5169fc6b8e7400d252fb43,CS,Other,Bachelors
+1137,5e332c1a8dbee800dd1d7aec,Mechanical Eng,Other,Masters
+1138,5e4e05713acdaa00d34d8505,Mechanical Eng,Northeastern,Masters
+1139,5e4994ef3acdaa00d34d7017,Other,MIT,Masters
+1140,5e33544c8dbee800dd1d7b1e,CS,BU,Bachelors
+1141,5e46d2163acdaa00d34d6c6d,Materials,Other,Masters
+1142,5e517a5f5eb42900d3c0c204,Other,Other,Other
+1143,5e4d555d3acdaa00d34d8024,Materials,MIT,Postdoc
+1144,5e3235b78dbee800dd1d79bc,Industrial Eng,Hult Business,Masters
+1145,5e4494c48dbee800dd1d93fb,CS,Other,Postdoc
+1146,5e0144258dbee800dd1d66c6,Electrical Eng,Dartmouth,Bachelors
+1147,5e4c19a13acdaa00d34d7a1c,Law,Harvard,Masters
+1148,5e42eece8dbee800dd1d8f36,Electrical Eng,Harvard,PhD
+1149,5e3b40ae8dbee800dd1d85b8,Finance,Harvard,Bachelors
+1150,5e507737cb31a300d28317a9,Biology,Harvard,Bachelors
+1151,5e4fe785d00f9f00d3d5b8db,Finance,Other,Masters
+1152,5e378c468dbee800dd1d7e93,Other,Harvard,Masters
+1153,5e4bf7473acdaa00d34d7910,Business,Hult Business,Masters
+1154,5e18c6988dbee800dd1d69d2,CS,MIT,Masters
+1155,5e34a8128dbee800dd1d7ce4,Data Science,Hult Business,Masters
+1156,5e3ad35c8dbee800dd1d844f,Business,MIT,MBA
+1157,5e5054775eb42900d3c0bb0c,CS,Other,Masters
+1158,5e335d468dbee800dd1d7b21,CS,MIT,Bachelors
+1159,5e4379e58dbee800dd1d90cd,Other,Other,Masters
+1160,5e3457568dbee800dd1d7c81,Finance,Wellesley,Bachelors
+1161,5e39c3398dbee800dd1d82d9,Other,Harvard,Postdoc
+1162,5e501d916b8e7400d252f42a,CS,MIT,High school
+1163,5e5142e36b8e7400d252f97d,Biology,Other,Masters
+1164,5e5169355eb42900d3c0c16a,Other,Other,Other
+1165,5e4df65c3acdaa00d34d848e,Other,Other,Other
+1166,5e4af1963acdaa00d34d7586,Other,Harvard,PhD
+1167,5e4eb7ced00f9f00d3d5afb9,Business,Other,MBA
+1168,5e4af1353acdaa00d34d7581,Business,Hult Business,Masters
+1169,5e517e805eb42900d3c0c225,Other,Other,Other
+1170,5e2e01e78dbee800dd1d7535,Biology,MIT,PhD
+1171,5e42f2578dbee800dd1d8f49,Other,BU,Bachelors
+1172,5e5031117504bb00d2f544a7,Other,MIT,High school
+1173,5e30fbf48dbee800dd1d78fd,Mechanical Eng,MIT,Bachelors
+1174,5e4464c18dbee800dd1d93bc,Biology,MIT,Bachelors
+1175,5e33128c8dbee800dd1d7aa4,CS,MIT,Bachelors
+1176,5e5012e16b8e7400d252f400,Other,MIT,Postdoc
+1177,5e4f30e3d00f9f00d3d5b48e,Mechanical Eng,Northeastern,Bachelors
+1178,5e35c7ef8dbee800dd1d7d71,Electrical Eng,MIT,Bachelors
+1179,5e50d54a7504bb00d2f547de,Business,Other,Masters
+1180,5e3f46558dbee800dd1d8ad5,Biology,BU,Masters
+1181,5e4ddfe63acdaa00d34d836a,Other,Northeastern,Masters
+1182,5e4aedfa3acdaa00d34d7566,CS,NYU,Masters
+1183,5e33661f8dbee800dd1d7b26,CS,MIT,Bachelors
+1184,5e46123b3acdaa00d34d6a80,CS,NYU,Masters
+1185,5e4cdb2a3acdaa00d34d7df7,CS,NYU,Masters
+1186,5e4ead9cd00f9f00d3d5aee8,Data Science,UConn,MBA
+1187,5e37ae8a8dbee800dd1d7ea0,AI,BU,Masters
+1188,5e45814e3acdaa00d34d69ad,Biology,MIT,Bachelors
+1189,5e26a01b8dbee800dd1d6f34,Finance,Other,MBA
+1190,5e35f4e88dbee800dd1d7d92,CS,MIT,Bachelors
+1191,5e4df6f63acdaa00d34d8492,Other,MIT,Bachelors
+1192,5e4e03073acdaa00d34d84ef,Finance,MIT,PhD
+1193,5e5153626b8e7400d252fa49,Other,Other,Other
+1194,5e4f0112d00f9f00d3d5b2fa,Law,Harvard,Masters
+1195,5e405b978dbee800dd1d8b6e,Other,Harvard,MD
+1196,5e4726243acdaa00d34d6d6d,Business,Harvard,Bachelors
+1197,5e2865498dbee800dd1d70ef,AI,MIT,MBA
+1198,5e2276768dbee800dd1d6d79,Business,MIT,Bachelors
+1199,5e2e4c968dbee800dd1d75db,Business,MIT,Masters
+1200,5e4ec641d00f9f00d3d5b058,Biology,Other,MBA
+1201,5e4d611c3acdaa00d34d809c,Biology,Harvard,PhD
+1202,5e39db738dbee800dd1d831d,CS,NYU,Masters
+1203,5dfab9fc8dbee800dd1d663f,CS,Dartmouth,Bachelors
+1204,5e4dcc563acdaa00d34d8311,Policital Sci,Harvard,Masters
+1205,5e2903498dbee800dd1d71ad,Policital Sci,Boston College,Bachelors
+1206,5e3cbae08dbee800dd1d8891,Business,Harvard,Bachelors
+1207,5e50b4ef6b8e7400d252f6dd,CS,MIT,Bachelors
+1208,5e517e4c7504bb00d2f54c17,Other,Other,Other
+1209,5e3c60608dbee800dd1d87cb,Business,Brandeis,Bachelors
+1210,5e4f1aa5d00f9f00d3d5b3dd,Other,BU,Bachelors
+1211,5e3065f08dbee800dd1d77fb,CS,MIT,Masters
+1212,5e42e5ed8dbee800dd1d8f1b,Other,BU,Bachelors
+1213,5e3b27e48dbee800dd1d8584,Other,Harvard,High school
+1214,5e5168f7cb31a300d2831da3,AI,Other,Masters
+1215,5e2494f58dbee800dd1d6df7,Aero,Hult Business,MBA
+1216,5e40cc278dbee800dd1d8ba7,Business,Other,Masters
+1217,5e4efbced00f9f00d3d5b2d2,Finance,NYU,Masters
+1218,5e4c78cd3acdaa00d34d7c55,Mechanical Eng,MIT,Bachelors
+1219,5e3af6528dbee800dd1d84dc,CS,Brandeis,Masters
+1220,5e4f5297d00f9f00d3d5b5e7,CS,NYU,Masters
+1221,5e514a545eb42900d3c0bff1,Finance,Other,Bachelors
+1222,5e4d65fc3acdaa00d34d80bd,CS,MIT,High school
+1223,5e4b6b843acdaa00d34d7728,Electrical Eng,MIT,Masters
+1224,5e4b62a93acdaa00d34d7707,Data Science,Harvard,Bachelors
+1225,5e39b43f8dbee800dd1d82a4,AI,MIT,Postdoc
+1226,5e3af64a8dbee800dd1d84d9,Aero,MIT,Bachelors
+1227,5e45401c8dbee800dd1d951f,AI,Other,Other
+1228,5e516d71cb31a300d2831ddb,Other,Other,Masters
+1229,5e5144fc6b8e7400d252f99b,Other,Other,Bachelors
+1230,5e4892633acdaa00d34d6f1d,CS,Harvard,Bachelors
+1231,5e508dca5eb42900d3c0bbe2,Other,Other,Bachelors
+1232,5e51723dcb31a300d2831e0a,Other,Other,Other
+1233,5e3c48078dbee800dd1d8786,Other,Other,Bachelors
+1234,5e507d646b8e7400d252f547,Biology,Other,Masters
+1235,5e34b40c8dbee800dd1d7cf2,Business,MIT,Masters
+1236,5e3b85308dbee800dd1d85f0,Biology,Harvard,Postdoc
+1237,5e50a6e55eb42900d3c0bc5f,CS,Other,Bachelors
+1238,5e1e0d328dbee800dd1d6b08,Biology,Northeastern,Postdoc
+1239,5e3c512e8dbee800dd1d87b0,Biology,Other,PhD
+1240,5e4dec8a3acdaa00d34d8412,Physics,MIT,Postdoc
+1241,5e30ba9a8dbee800dd1d788a,Business,Hult Business,MBA
+1242,5e5179f97504bb00d2f54bf5,Other,Other,Other
+1243,5e503b8e6b8e7400d252f45d,AI,Other,Masters
+1244,5e39d03c8dbee800dd1d82fd,CS,Harvard,Bachelors
+1245,5e4dc1033acdaa00d34d82ef,Biology,MIT,Masters
+1246,5e43144e8dbee800dd1d8fdc,Mechanical Eng,MIT,Bachelors
+1247,5e4c1be53acdaa00d34d7a32,Mechanical Eng,MIT,PhD
+1248,5e4a105e3acdaa00d34d7168,Other,Other,Other
+1249,5e506d58cb31a300d2831798,Biology,Other,Bachelors
+1250,5e20a9f18dbee800dd1d6c5e,Data Science,Hult Business,Masters
+1251,5e361b3b8dbee800dd1d7dab,CS,MIT,Other
+1252,5e442d528dbee800dd1d9352,Finance,Other,Masters
+1253,5e4b13823acdaa00d34d7600,Business,Other,Bachelors
+1254,5e517a33cb31a300d2831e44,Other,Other,Other
+1255,5e4f01b0d00f9f00d3d5b305,Business,MIT,Masters
+1256,5e42a8d68dbee800dd1d8e9e,AI,Harvard,PhD
+1257,5e14c11c8dbee800dd1d6815,Finance,MIT,Masters
+1258,5e45d5a83acdaa00d34d6a43,Data Science,Northeastern,Masters
+1259,5e3b34968dbee800dd1d859d,CS,Other,Masters
+1260,5e4526fc8dbee800dd1d94e2,Business,Other,Other
+1261,5e5165925eb42900d3c0c137,Business,Other,Masters
+1262,5e4b5a923acdaa00d34d76eb,Law,Other,Masters
+1263,5e2fae9c8dbee800dd1d77a1,Biology,BU,Masters
+1264,5e4ac7523acdaa00d34d743a,Other,BU,Bachelors
+1265,5e496b273acdaa00d34d6fc4,Finance,BU,Bachelors
+1266,5e4f53ffd00f9f00d3d5b5f5,Physics,MIT,PhD
+1267,5e1773688dbee800dd1d6921,Mechanical Eng,MIT,PhD
+1268,5e2b1c578dbee800dd1d7365,Other,BU,Masters
+1269,5e44d14c8dbee800dd1d9447,Other,Harvard,Masters
+1270,5e4c297b3acdaa00d34d7a74,Other,BU,Bachelors
+1271,5e4a10ae3acdaa00d34d716b,Other,UMass Amherst,Bachelors
+1272,5e4b50603acdaa00d34d76c4,Business,MIT,MBA
+1273,5e46ffaa3acdaa00d34d6d05,Policital Sci,Tufts,Bachelors
+1274,5e3b162d8dbee800dd1d8554,Other,NYU,Bachelors
+1275,5e38e44a8dbee800dd1d8147,Other,Other,Bachelors
+1276,5e4415bf8dbee800dd1d92cd,CS,MIT,Bachelors
+1277,5e4a3a793acdaa00d34d71ab,CS,MIT,Bachelors
+1278,5e5155d45eb42900d3c0c078,Other,Other,Other
+1279,5e3c63b08dbee800dd1d87d3,Policital Sci,Other,Bachelors
+1280,5e1e51f18dbee800dd1d6b41,AI,MIT,Masters
+1281,5e2e2c638dbee800dd1d75c9,Business,Other,MBA
+1282,5e515b10cb31a300d2831d0f,CS,Harvard,Bachelors
+1283,5e4300b98dbee800dd1d8f72,Other,Dartmouth,Bachelors
+1284,5e39a5758dbee800dd1d8280,Biology,Other,Other
+1285,5e50b1715eb42900d3c0bcb5,Other,Other,Masters
+1286,5e4183958dbee800dd1d8ca1,Law,NYU,Masters
+1287,5e4e9213d00f9f00d3d5ae0a,Business,Hult Business,Masters
+1288,5e4b97863acdaa00d34d775c,Business,NYU,Bachelors
+1289,5e2c7c678dbee800dd1d74aa,Other,MIT,Masters
+1290,5e44b1238dbee800dd1d940c,Civil Eng,Other,Bachelors
+1291,5e514405cb31a300d2831c0a,CS,Other,High school
+1292,5e4ee41fd00f9f00d3d5b201,Industrial Eng,Other,Bachelors
+1293,5e3addcb8dbee800dd1d8478,Materials,MIT,Postdoc
+1294,5e502643cb31a300d28316b1,Biology,Other,PhD
+1295,5e50baf55eb42900d3c0bd22,Other,Other,Masters
+1296,5e5047165eb42900d3c0bad7,CS,Other,Masters
+1297,5e4f0e9bd00f9f00d3d5b36b,Materials,Other,PhD
+1298,5e3b17338dbee800dd1d8558,CS,MIT,Bachelors
+1299,5e29ed8d8dbee800dd1d72c9,Finance,NYU,Masters
+1300,5e32e7df8dbee800dd1d7a44,Biology,MIT,Bachelors
+1301,5e5164695eb42900d3c0c126,Other,Other,Other
+1302,5e293a008dbee800dd1d71bb,AI,NYU,Masters
+1303,5e3889b48dbee800dd1d80b9,Other,NYU,Bachelors
+1304,5e5060c1cb31a300d283176a,Other,Other,Masters
+1305,5e4d893c3acdaa00d34d81b5,Other,MIT,Bachelors
+1306,5e4d32b93acdaa00d34d7f7b,CS,Harvard,Bachelors
+1307,5e4d712b3acdaa00d34d810a,Biology,NYU,Masters
+1308,5e3b32c28dbee800dd1d8595,Law,BU,Masters
+1309,5e39ef8a8dbee800dd1d835f,Business,Other,Masters
+1310,5e592e214d5f8e00d2320893,Chemistry,Other,Postdoc
+1311,5e49b5693acdaa00d34d7060,CS,Other,Bachelors
+1312,5e42da4b8dbee800dd1d8f09,CS,MIT,Bachelors
+1313,5e5154a7cb31a300d2831cd1,Other,Other,Other
+1314,5e515fb6cb31a300d2831d43,Other,Other,Other
+1315,5e38a8a98dbee800dd1d80ec,Data Science,MIT,MBA
+1316,5e517afdcb31a300d2831e4d,CS,MIT,Bachelors
+1317,5e3633a78dbee800dd1d7db1,Other,Harvard,Postdoc
+1318,5e0b8fdb8dbee800dd1d6713,Materials,MIT,Bachelors
+1319,5e4eb430d00f9f00d3d5af85,Materials,Harvard,Postdoc
+1320,5e46a3d83acdaa00d34d6bbc,Business,Other,Masters
+1321,5e2768c88dbee800dd1d6fce,Biology,Tufts,PhD
+1322,5e3edbed8dbee800dd1d8a8f,Business,Hult Business,Masters
+1323,5e4f08f9d00f9f00d3d5b348,CS,Harvard,Bachelors
+1324,5e4443388dbee800dd1d936a,CS,Tufts,Bachelors
+1325,5e3637e48dbee800dd1d7dc0,Electrical Eng,Other,Bachelors
+1326,5e4f1a7cd00f9f00d3d5b3da,Biology,Harvard,PhD
+1327,5e4df8913acdaa00d34d849b,CS,MIT,PhD
+1328,5e46376b3acdaa00d34d6ae6,Biology,MIT,Bachelors
+1329,5e545c0fe0721300d36a4973,Finance,Other,MBA
+1330,5e49f0413acdaa00d34d7116,Other,Other,Bachelors
+1331,5e2a36988dbee800dd1d7304,Industrial Eng,Other,Bachelors
+1332,5e3b6af88dbee800dd1d85de,Business,Northeastern,Masters
+1333,5e2099f08dbee800dd1d6c59,Business,Tufts,Masters
+1334,5e39a3a48dbee800dd1d8278,Other,Tufts,Bachelors
+1335,5e3b065f8dbee800dd1d8521,CS,MIT,PhD
+1336,5e3874738dbee800dd1d8095,Data Science,MIT,Masters
+1337,5e45bd643acdaa00d34d69fb,Mechanical Eng,Northeastern,Bachelors
+1338,5e2b5bfa8dbee800dd1d73b5,Other,Other,Bachelors
+1339,5e30d37e8dbee800dd1d78da,Data Science,Boston College,Bachelors
+1340,5de184af8dbee800dd1d6461,Mechanical Eng,Other,Bachelors
+1341,5e3e49bf8dbee800dd1d8a6d,Other,Other,Other
+1342,5e50df27cb31a300d2831a3d,CS,MIT,Bachelors
+1343,5e497c293acdaa00d34d6fec,Business,MIT,MBA
+1344,5e501372cb31a300d2831668,Civil Eng,BU,MBA
+1345,5e50138ecb31a300d283166b,Business,Harvard,Masters
+1346,5e518217cb31a300d2831ea4,CS,Other,Masters
+1347,5e504e7acb31a300d283171b,Other,Other,Masters
+1348,5e5158fc5eb42900d3c0c098,Mechanical Eng,Other,Bachelors
+1349,5e40424c8dbee800dd1d8b59,Business,Other,Masters
+1350,5e3c25408dbee800dd1d86ff,Business,Hult Business,Masters
+1351,5e5135a85eb42900d3c0beef,Other,Other,Other
+1352,5e50c821cb31a300d28319c7,Business,Other,MBA
+1353,5e3ceedb8dbee800dd1d88dd,Marketing,Hult Business,MBA
+1354,5de306228dbee800dd1d646b,Electrical Eng,MIT,Bachelors
+1355,5e515cf37504bb00d2f54acf,Business,Other,Bachelors
+1356,5e514fbbcb31a300d2831c9a,Other,Other,Other
+1357,5e516bc97504bb00d2f54b76,CS,Other,Bachelors
+1358,5e51577c7504bb00d2f54a9c,Other,Other,Other
+1359,5e51572acb31a300d2831cec,Other,Other,Other
+1360,5e1682ce8dbee800dd1d68ab,Business,MIT,MBA
+1361,5e4eed5bd00f9f00d3d5b256,Other,MIT,PhD
+1362,5e513d845eb42900d3c0bf48,Other,Other,Other
+1363,5e50f42bcb31a300d2831a66,Data Science,Other,Bachelors
+1364,5e331cbd8dbee800dd1d7ad6,CS,MIT,Bachelors
+1365,5e5056597504bb00d2f5451e,Biology,Other,Masters
+1366,5e29293b8dbee800dd1d71b3,Other,Other,Other
+1367,5e4eb822d00f9f00d3d5afc0,Materials,Other,Bachelors
+1368,5e3861818dbee800dd1d8070,Data Science,MIT,Masters
+1369,5e11192f8dbee800dd1d6762,CS,MIT,PhD
+1370,5e4bfb5a3acdaa00d34d794b,Civil Eng,MIT,Bachelors
+1371,5e50a5895eb42900d3c0bc53,Other,Other,MBA
+1372,5e5142ec6b8e7400d252f980,Mechanical Eng,Other,Bachelors
+1373,5e5050e35eb42900d3c0bafa,Biology,Other,High school
+1374,5e25d6388dbee800dd1d6ea6,AI,Harvard,MBA
+1375,5e430bdf8dbee800dd1d8fa5,Business,Hult Business,Masters
+1376,5e419bbe8dbee800dd1d8ccb,Business,Hult Business,MBA
+1377,5e5043645eb42900d3c0bac4,Biology,Other,Bachelors
+1378,5e3adbf48dbee800dd1d8472,AI,MIT,PhD
+1379,5e4ef446d00f9f00d3d5b297,Data Science,MIT,MBA
+1380,5e500b16d00f9f00d3d5ba5f,Other,Other,PhD
+1381,5e42bb5c8dbee800dd1d8ecd,Business,Hult Business,Masters
+1382,5e39c2488dbee800dd1d82d2,Other,NYU,Bachelors
+1383,5e29e3e98dbee800dd1d72ac,CS,Northeastern,Bachelors
+1384,5e4c16113acdaa00d34d7a08,Data Science,Harvard,Bachelors
+1385,5e507d60cb31a300d28317b8,Biology,Other,Masters
+1386,5e4da3ee3acdaa00d34d8263,Materials,Northeastern,Bachelors
+1387,5e4f61c9d00f9f00d3d5b6c2,Biology,Hult Business,Bachelors
+1388,5e4574c68dbee800dd1d958e,Business,Hult Business,Masters
+1389,5e4b1f263acdaa00d34d7644,Business,Northeastern,High school
+1390,5e49e24d3acdaa00d34d70fc,CS,Other,Bachelors
+1391,5e5154f77504bb00d2f54a74,Other,Other,Other
+1392,5e4597c23acdaa00d34d69d9,AI,MIT,Masters
+1393,5e4c2c4f3acdaa00d34d7a94,Biology,MIT,Masters
+1394,5e51381ecb31a300d2831b73,Other,Other,Other
+1395,5e3454f18dbee800dd1d7c6c,Other,Other,Masters
+1396,5e30b13a8dbee800dd1d786f,Mechanical Eng,BU,Bachelors
+1397,5e515d857504bb00d2f54ade,Biology,Harvard,Postdoc
+1398,5e4e18363acdaa00d34d8598,Other,Other,MD
+1399,5e4c9de33acdaa00d34d7d33,CS,MIT,Bachelors
+1400,5e4d49cc3acdaa00d34d7fdf,Physics,MIT,PhD
+1401,5e3984958dbee800dd1d8209,Other,Harvard,Bachelors
+1402,5e176ee28dbee800dd1d6919,Chemistry,MIT,PhD
+1403,5e4cc1293acdaa00d34d7dae,Biology,Other,Masters
+1404,5e500144d00f9f00d3d5b9c4,Biology,MIT,PhD
+1405,5e45b6cf3acdaa00d34d69f3,Data Science,MIT,Masters
+1406,5e470d8e3acdaa00d34d6d32,Policital Sci,Other,Other
+1407,5e515b476b8e7400d252fa9e,CS,Other,Bachelors
+1408,5e4ad7a73acdaa00d34d746b,Other,Other,Masters
+1409,5e41f2728dbee800dd1d8d4d,Business,Harvard,Masters
+1410,5e4cc43e3acdaa00d34d7dbb,Biology,Tufts,Bachelors
+1411,5e42fe8c8dbee800dd1d8f68,Business,Northeastern,Masters
+1412,5e3a88fa8dbee800dd1d8404,Electrical Eng,MIT,PhD
+1413,5e29ad8b8dbee800dd1d7242,Physics,MIT,Postdoc
+1414,5e4609593acdaa00d34d6a7d,Other,NYU,Bachelors
+1415,5e4b2b2f3acdaa00d34d766c,Data Science,Other,Bachelors
+1416,5e3874e08dbee800dd1d8098,Other,MIT,PhD
+1417,5e2237dd8dbee800dd1d6d64,Data Science,Hult Business,Masters
+1418,5e5148de5eb42900d3c0bfdf,Other,Other,PhD
+1419,5e4830e43acdaa00d34d6ead,Business,MIT,Masters
+1420,5e4f43f5d00f9f00d3d5b525,Data Science,Other,Masters
+1421,5e4df22d3acdaa00d34d8447,Mechanical Eng,MIT,Masters
+1422,5e50d4a8cb31a300d2831a2b,Other,Other,Other
+1423,5e503e766b8e7400d252f467,Other,Dartmouth,Bachelors
+1424,5e39134b8dbee800dd1d8195,Chemistry,MIT,Bachelors
+1425,5e4c92e03acdaa00d34d7cde,Business,Other,MBA
+1426,5e4efe2ed00f9f00d3d5b2ea,Other,Dartmouth,Masters
+1427,5e50b2857504bb00d2f546bf,Other,Other,Masters
+1428,5e3d920d8dbee800dd1d898a,Business,Other,Masters
+1429,5e48f5f03acdaa00d34d6f6a,Biology,Harvard,Bachelors
+1430,5e3cdf918dbee800dd1d88ce,CS,UMass Amherst,Bachelors
+1431,5e1db4508dbee800dd1d6a95,Biology,NYU,Masters
+1432,5e513a23cb31a300d2831b91,Other,Other,Masters
+1433,5e514c06cb31a300d2831c6d,Other,Other,Bachelors
+1434,5e372fa48dbee800dd1d7e3d,Other,Harvard,Masters
+1435,5e4ada8d3acdaa00d34d7474,Biology,MIT,Bachelors
+1436,5e4352e08dbee800dd1d904f,Data Science,Northeastern,Masters
+1437,5e4c4c1b3acdaa00d34d7b5c,AI,Harvard,Bachelors
+1438,5e5052df6b8e7400d252f4bf,Other,Other,Bachelors
+1439,5e512cde6b8e7400d252f87e,Policital Sci,Other,Masters
+1440,5e4d55303acdaa00d34d8021,Materials,MIT,PhD
+1441,5e515d4f7504bb00d2f54ad8,Finance,Other,Bachelors
+1442,5e4723f73acdaa00d34d6d68,Business,Northeastern,Bachelors
+1443,5e4df8653acdaa00d34d8498,Law,Other,Masters
+1444,5e3ca1108dbee800dd1d8882,Biology,MIT,Masters
+1445,5e4ccd663acdaa00d34d7de0,Other,Harvard,MD
+1446,5e4c654f3acdaa00d34d7bdd,Business,MIT,Masters
+1447,5e515b556b8e7400d252faa1,Data Science,Other,Bachelors
+1448,5e4ab25e3acdaa00d34d73dc,Business,Hult Business,MBA
+1449,5e4bfb913acdaa00d34d7959,Mechanical Eng,BU,Bachelors
+1450,5dfea7fd8dbee800dd1d66b2,Other,Dartmouth,Bachelors
+1451,5e18a0d28dbee800dd1d699f,Biology,Harvard,Postdoc
+1452,5e3f37748dbee800dd1d8ac9,Other,Northeastern,Bachelors
+1453,5e20c0eb8dbee800dd1d6c64,Law,Other,Masters
+1454,5e3314558dbee800dd1d7aaf,Physics,MIT,PhD
+1455,5e4d4f5d3acdaa00d34d7ff2,Business,MIT,Bachelors
+1456,5e4d4c9c3acdaa00d34d7fe3,Biology,MIT,Bachelors
+1457,5e49aff03acdaa00d34d7053,Business,Hult Business,Masters
+1458,5e2f0a688dbee800dd1d7658,Other,Other,Other
+1459,5e2f27ae8dbee800dd1d767d,Other,NYU,Masters
+1460,5e4740093acdaa00d34d6de9,AI,MIT,Bachelors
+1461,5e34a0af8dbee800dd1d7cdc,Other,Wellesley,Bachelors
+1462,5e34ae718dbee800dd1d7cea,Business,Other,Masters
+1463,5e4f7a01d00f9f00d3d5b716,Chemistry,MIT,Bachelors
+1464,5e34fb298dbee800dd1d7d1b,CS,Harvard,PhD
+1465,5e4d7bcd3acdaa00d34d816a,Business,Hult Business,Masters
+1466,5e3a236e8dbee800dd1d83a2,AI,Harvard,PhD
+1467,5e435f538dbee800dd1d9067,Finance,NYU,Bachelors
+1468,5e514fe16b8e7400d252fa21,Other,Other,MBA
+1469,5e3f36f28dbee800dd1d8ac6,Policital Sci,Wellesley,Bachelors
+1470,5e482b033acdaa00d34d6e9f,Business,Other,Bachelors
+1471,5e3087c88dbee800dd1d7824,Business,Hult Business,Bachelors
+1472,5e5096fa6b8e7400d252f5d8,CS,Other,Bachelors
+1473,5e338bb38dbee800dd1d7b54,AI,NYU,Masters
+1474,5e510e525eb42900d3c0be25,Other,Other,Masters
+1475,5e5134cfcb31a300d2831b4d,Biology,Other,Bachelors
+1476,5e3d73898dbee800dd1d895d,Other,Other,PhD
+1477,5e28ed788dbee800dd1d71a2,Biology,BU,Masters
+1478,5e39ada48dbee800dd1d8293,CS,Harvard,Bachelors
+1479,5e4270e28dbee800dd1d8e52,CS,MIT,Other
+1480,5e4a33d23acdaa00d34d71a3,CS,MIT,Bachelors
+1481,5e4acae93acdaa00d34d7448,Other,Other,MBA
+1482,5e4dbc323acdaa00d34d82df,Data Science,Northeastern,Masters
+1483,5e4624333acdaa00d34d6ab9,Aero,Other,Other
+1484,5e4deeee3acdaa00d34d8418,Chemistry,MIT,Masters
+1485,5e4df1543acdaa00d34d8444,Business,Hult Business,Masters
+1486,5dfd274e8dbee800dd1d66a6,Business,Other,Masters
+1487,5e50aa07cb31a300d283188c,Other,Other,Other
+1488,5e4ce9f33acdaa00d34d7e0d,Data Science,Northeastern,Masters
+1489,5e38f8178dbee800dd1d817e,CS,Northeastern,Bachelors
+1490,5e50a1d47504bb00d2f54635,Biology,Other,Masters
+1491,5e4195488dbee800dd1d8cbf,Business,Other,Bachelors
+1492,5e3a658a8dbee800dd1d83c0,Business,UMass Boston,Bachelors
+1493,5e359f828dbee800dd1d7d4c,Materials,MIT,Bachelors
+1494,5e5171df5eb42900d3c0c1be,Other,Other,Masters
+1495,5e516cfccb31a300d2831dd4,Other,Other,Other
+1496,5e435d278dbee800dd1d9060,Law,Other,Other
+1497,5e5124b9cb31a300d2831ab5,Other,Other,Bachelors
+1498,5e36483d8dbee800dd1d7dea,Biology,Northeastern,Masters
+1499,5e4e14da3acdaa00d34d8595,Business,Other,MBA
+1500,5e5093cf6b8e7400d252f5c9,Other,Other,Postdoc
+1501,5e4b361a3acdaa00d34d768c,Data Science,Brandeis,MBA
+1502,5e507bee6b8e7400d252f542,Biology,Other,PhD
+1503,5e4d482b3acdaa00d34d7fbf,Business,Northeastern,Masters
+1504,5e3c25d88dbee800dd1d8708,Business,Hult Business,Masters
+1505,5e50dd6a7504bb00d2f547ea,Civil Eng,Other,PhD
+1506,5e184c928dbee800dd1d6964,Physics,Other,Postdoc
+1507,5e4c04463acdaa00d34d7997,Other,Other,Postdoc
+1508,5e3992e88dbee800dd1d8254,Biology,Other,Postdoc
+1509,5e34169a8dbee800dd1d7c34,Business,Other,Masters
+1510,5e3c3b698dbee800dd1d874b,Finance,MIT,PhD
+1511,5e4a99bb3acdaa00d34d7331,Other,Northeastern,Masters
+1512,5e4c61433acdaa00d34d7bc5,Finance,Wellesley,Bachelors
+1513,5e4c8fee3acdaa00d34d7cd3,Business,MIT,MBA
+1514,5e4f4570d00f9f00d3d5b52e,Biology,MIT,Bachelors
+1515,5e3984378dbee800dd1d8203,Business,Harvard,Masters
+1516,5e4d50993acdaa00d34d7ffa,Business,MIT,Masters
+1517,5e32bdf98dbee800dd1d79f3,CS,MIT,Bachelors
+1518,5e32f4ce8dbee800dd1d7a57,Business,MIT,Masters
+1519,5e3aec8a8dbee800dd1d84d3,CS,Harvard,Bachelors
+1520,5e35dc6f8dbee800dd1d7d80,Business,MIT,Masters
+1521,5e4a3c203acdaa00d34d71b3,CS,Northeastern,Masters
+1522,5e50b5a86b8e7400d252f6ed,Other,Other,MBA
+1523,5e1637498dbee800dd1d6895,Other,Other,Other
+1524,5e4dbc9a3acdaa00d34d82e2,Electrical Eng,MIT,PhD
+1525,5e2f6dab8dbee800dd1d7767,CS,NYU,Masters
+1526,5e4d86ec3acdaa00d34d8190,Other,Northeastern,Masters
+1527,5e4ef418d00f9f00d3d5b292,Business,Other,MBA
+1528,5e4ef8f4d00f9f00d3d5b2b6,Business,Northeastern,Masters
+1529,5e24ca468dbee800dd1d6e03,Finance,MIT,Masters
+1530,5e4337e18dbee800dd1d9033,CS,Other,Masters
+1531,5e41f6e88dbee800dd1d8d5a,CS,MIT,Bachelors
+1532,5e41681e8dbee800dd1d8c4d,Other,Other,Masters
+1533,5e5190b46b8e7400d252fc64,Other,Other,Other
+1534,5e3c1b228dbee800dd1d86d0,Business,UMass Amherst,Masters
+1535,5e4597a83acdaa00d34d69d6,Mechanical Eng,MIT,Masters
+1536,5e33ab178dbee800dd1d7b6e,Data Science,MIT,MBA
+1537,5e437f778dbee800dd1d90d6,Biology,Other,MD
+1538,5e3a26798dbee800dd1d83a5,CS,MIT,Bachelors
+1539,5e3b14a38dbee800dd1d854c,Biology,Other,Masters
+1540,5e306c2c8dbee800dd1d7803,Data Science,Hult Business,MBA
+1541,5e4c77483acdaa00d34d7c4b,Data Science,Other,MBA
+1542,5e269df98dbee800dd1d6f30,Data Science,Other,MBA
+1543,5e4cc8b83acdaa00d34d7dc4,Data Science,Other,MBA
+1544,5e4d2d173acdaa00d34d7f74,Other,Other,Bachelors
+1545,5e280adf8dbee800dd1d7079,Business,Hult Business,Masters
+1546,5e4ff1d3d00f9f00d3d5b929,Biology,MIT,High school
+1547,5e461f1e3acdaa00d34d6a9d,Biology,Harvard,Postdoc
+1548,5e38ff8e8dbee800dd1d8186,Business,MIT,MBA
+1549,5e485ac13acdaa00d34d6ec8,Business,BU,MBA
+1550,5e46c1313acdaa00d34d6c30,Physics,MIT,Bachelors
+1551,5e43faa88dbee800dd1d9269,Business,Hult Business,Bachelors
+1552,5e2a0a048dbee800dd1d72fa,Policital Sci,Other,Bachelors
+1553,5e38cd088dbee800dd1d8123,Mechanical Eng,MIT,MBA
+1554,5e4d48623acdaa00d34d7fc5,Policital Sci,Northeastern,Masters
+1555,5e2f66218dbee800dd1d7761,Business,Other,Other
+1556,5e44b82f8dbee800dd1d942c,Other,NYU,Bachelors
+1557,5e50bd085eb42900d3c0bd31,CS,Other,Bachelors
+1558,5e512dd57504bb00d2f548b4,Aero,Other,PhD
+1559,5e5155e8cb31a300d2831cdd,CS,Other,Bachelors
+1560,5e33256f8dbee800dd1d7adc,Mechanical Eng,MIT,Other
+1561,5e4d86fc3acdaa00d34d8198,Other,Hult Business,MBA
+1562,5e018f838dbee800dd1d66c9,Other,Dartmouth,Bachelors
+1563,5e3948c08dbee800dd1d81b0,Other,MIT,Bachelors
+1564,5e497c2b3acdaa00d34d6fef,Other,Other,Masters
+1565,5e2b08ce8dbee800dd1d7351,Biology,MIT,Bachelors
+1566,5e4c07d43acdaa00d34d79a9,Other,Harvard,Bachelors
+1567,5e49c1663acdaa00d34d70bb,Business,MIT,Masters
+1568,5e4d7f023acdaa00d34d8176,CS,MIT,Masters
+1569,5e4e0ce73acdaa00d34d857f,Business,Hult Business,MBA
+1570,5e4d67ae3acdaa00d34d80c8,Finance,Hult Business,Masters
+1571,5e4c443b3acdaa00d34d7b2b,Biology,Other,High school
+1572,5e42c8c38dbee800dd1d8eec,Finance,Boston College,Bachelors
+1573,5e43a8b48dbee800dd1d9129,Business,Hult Business,MBA
+1574,5e4f3d9ed00f9f00d3d5b4ee,Mechanical Eng,MIT,Bachelors
+1575,5e3790ce8dbee800dd1d7e96,Business,Harvard,Masters
+1576,5e4cc7ae3acdaa00d34d7dc1,Business,Hult Business,Other
+1577,5de141228dbee800dd1d645b,Physics,MIT,PhD
+1578,5e4e9db3d00f9f00d3d5ae2e,Business,MIT,Masters
+1579,5e2d07b68dbee800dd1d74e3,Other,Northeastern,Masters
+1580,5e4374a38dbee800dd1d90bf,CS,MIT,Masters
+1581,5e504a48cb31a300d2831709,Data Science,Other,Masters
+1582,5e4b3af93acdaa00d34d7699,Other,Boston College,Bachelors
+1583,5e50a7d26b8e7400d252f63a,Business,Other,Bachelors
+1584,5e3100878dbee800dd1d7900,Electrical Eng,Northeastern,Bachelors
+1585,5e1e68bf8dbee800dd1d6b4c,Business,Other,MBA
+1586,5e4437168dbee800dd1d935d,Finance,Other,MBA
+1587,5e44cdf88dbee800dd1d9444,Policital Sci,Harvard,Masters
+1588,5e4b516a3acdaa00d34d76d4,Biology,Other,Postdoc
+1589,5e4d67c63acdaa00d34d80cb,Materials,MIT,Postdoc
+1590,5e38f6df8dbee800dd1d817b,Biology,Northeastern,Bachelors
+1591,5e2f453e8dbee800dd1d76e5,Marketing,NYU,Masters
+1592,5e4df4913acdaa00d34d8474,CS,MIT,Bachelors
+1593,5e4ef163d00f9f00d3d5b270,Other,Hult Business,Masters
+1594,5e34559c8dbee800dd1d7c73,Other,Other,Masters
+1595,5e4eca9cd00f9f00d3d5b09d,Data Science,NYU,Masters
+1596,5e4c0eeb3acdaa00d34d79d2,Biology,MIT,Masters
+1597,5e5145db7504bb00d2f549bf,Other,Other,Other
+1598,5e4fe6d2d00f9f00d3d5b8d3,Biology,Harvard,Postdoc
+1599,5e4ef546d00f9f00d3d5b29f,Other,Harvard,MD
+1600,5e49f82b3acdaa00d34d713d,Business,Other,Bachelors
+1601,5e50a5927504bb00d2f54648,Biology,Other,Postdoc
+1602,5e49eff93acdaa00d34d7113,Other,Boston College,Bachelors
+1603,5e4b662c3acdaa00d34d7711,Law,Other,Masters
+1604,5e512a8c7504bb00d2f5489e,Business,Other,Masters
+1605,5e51500bcb31a300d2831c9e,Biology,Other,Masters
+1606,5e51486c7504bb00d2f549d3,Physics,Other,PhD
+1607,5e30781b8dbee800dd1d7809,Policital Sci,NYU,Masters
+1608,5e1ce5ff8dbee800dd1d6a5a,Business,NYU,Masters
+1609,5e505e2c6b8e7400d252f4f9,Business,Other,Bachelors
+1610,5e4b72a23acdaa00d34d7736,Biology,Other,Other
+1611,5e30a4ce8dbee800dd1d785f,Other,Harvard,PhD
+1612,5e38e5aa8dbee800dd1d814a,Finance,Other,Masters
+1613,5e50b030cb31a300d28318d4,Data Science,NYU,Bachelors
+1614,5e2b4e798dbee800dd1d73ac,Biology,Other,Bachelors
+1615,5e41dd9d8dbee800dd1d8d42,Biology,Other,Masters
+1616,5e501afb6b8e7400d252f420,Business,MIT,Bachelors
+1617,5e3c9cdd8dbee800dd1d887f,Biology,Harvard,PhD
+1618,5e25060c8dbee800dd1d6e29,Data Science,MIT,Masters
+1619,5e39d3678dbee800dd1d830d,Biology,Harvard,High school
+1620,5e4b62143acdaa00d34d76ff,Policital Sci,Harvard,Bachelors
+1621,5e3e0f258dbee800dd1d8a54,Other,Harvard,Masters
+1622,5e5054c16b8e7400d252f4d1,Finance,Other,Masters
+1623,5e50c975cb31a300d28319d8,Mechanical Eng,Other,Bachelors
+1624,5e5182a5cb31a300d2831ea9,Other,Other,Other
+1625,5e3865188dbee800dd1d807d,AI,MIT,Masters
+1626,5e35fd858dbee800dd1d7d99,AI,Other,Bachelors
+1627,5e4d815e3acdaa00d34d817f,Business,Hult Business,MBA
+1628,5e500e7bd00f9f00d3d5ba94,Materials,MIT,Postdoc
+1629,5e2f62ab8dbee800dd1d775e,Business,Brandeis,Masters
+1630,5e38ebc48dbee800dd1d8154,AI,MIT,Masters
+1631,5e507f486b8e7400d252f55a,Aero,Other,Bachelors
+1632,5e2de6238dbee800dd1d7507,Other,NYU,Bachelors
+1633,5e2ed8f68dbee800dd1d75fe,Other,Other,Masters
+1634,5e42790e8dbee800dd1d8e5a,Data Science,Other,Other
+1635,5e50a93d6b8e7400d252f64a,Business,Other,MBA
+1636,5e4a43b53acdaa00d34d7211,Biology,Harvard,Postdoc
+1637,5e5084986b8e7400d252f573,Biology,Other,Postdoc
+1638,5e2295588dbee800dd1d6d8a,Business,Northeastern,MBA
+1639,5e53694de0721300d36a48e1,Business,Other,Masters
+1640,5e4ee9afd00f9f00d3d5b225,Physics,Boston College,Bachelors
+1641,5e3f1be58dbee800dd1d8ab0,Other,Harvard,Bachelors
+1642,5e51272c6b8e7400d252f853,Aero,Other,Bachelors
+1643,5e1f9a1b8dbee800dd1d6bb9,Business,Hult Business,Masters
+1644,5e3391488dbee800dd1d7b57,CS,MIT,Bachelors
+1645,5e50b044cb31a300d28318da,AI,Other,Masters
+1646,5e4c5b043acdaa00d34d7bb0,Business,Hult Business,Masters
+1647,5e379c2c8dbee800dd1d7e9c,CS,MIT,Other
+1648,5e4312b68dbee800dd1d8fcc,Other,Harvard,Masters
+1649,5e3b264e8dbee800dd1d8581,Policital Sci,Wellesley,Bachelors
+1650,5e4783273acdaa00d34d6e2d,Data Science,MIT,Masters
+1651,5e51513f5eb42900d3c0c04a,Business,Other,Bachelors
+1652,5e4f667fd00f9f00d3d5b6d9,Other,MIT,Bachelors
+1653,5de563d58dbee800dd1d6473,Other,Smith,Bachelors
+1654,5e472c5d3acdaa00d34d6d79,Biology,BU,Other
+1655,5e2470218dbee800dd1d6de0,Biology,Other,Bachelors
+1656,5e21dc438dbee800dd1d6d3c,Data Science,Hult Business,Masters
+1657,5e4ad8ab3acdaa00d34d7470,Other,Other,Masters
+1658,5e3f26348dbee800dd1d8abb,Business,Brandeis,Masters
+1659,5e4eb59bd00f9f00d3d5afa1,Business,Other,MBA
+1660,5e2846db8dbee800dd1d70ac,Data Science,Other,MBA
+1661,5e2efadc8dbee800dd1d7620,Policital Sci,NYU,Bachelors
+1662,5e0bc0a78dbee800dd1d671e,Other,Other,Postdoc
+1663,5e513a097504bb00d2f5492b,CS,Other,Masters
+1664,5e50a60a6b8e7400d252f62a,AI,Other,Masters
+1665,5e4f41e1d00f9f00d3d5b50c,Biology,BU,Bachelors
+1666,5e3b94208dbee800dd1d8606,CS,NYU,Masters
+1667,5e3259598dbee800dd1d79cf,Business,Brandeis,MBA
+1668,5e509a0c6b8e7400d252f5e5,Business,Other,MBA
+1669,5e51828d6b8e7400d252fc12,Other,Other,Other
+1670,5e570df7e0721300d36a4a6d,Mechanical Eng,Other,Bachelors
+1671,5e4c011c3acdaa00d34d7982,Data Science,MIT,MBA
+1672,5e485fcd3acdaa00d34d6ee7,Business,Other,Other
+1673,5e4e91f4d00f9f00d3d5ae07,CS,MIT,PhD
+1674,5e319c218dbee800dd1d794e,CS,NYU,Masters
+1675,5e4f7a49d00f9f00d3d5b719,Electrical Eng,Other,Other
+1676,5e516559cb31a300d2831d7f,Other,Other,Other
+1677,5e3c459b8dbee800dd1d876d,Policital Sci,Wellesley,Bachelors
+1678,5e30ba448dbee800dd1d7887,Data Science,Northeastern,Masters
+1679,5e471c433acdaa00d34d6d4a,Civil Eng,Other,MBA
+1680,5e332a498dbee800dd1d7ae9,Biology,Other,Bachelors
+1681,5e3b3a458dbee800dd1d85aa,Law,Harvard,Masters
+1682,5e4dc41f3acdaa00d34d82f6,Business,UMass Boston,Bachelors
+1683,5e4ec6bbd00f9f00d3d5b065,Business,Hult Business,Masters
+1684,5e5162487504bb00d2f54b06,Biology,Other,Bachelors
+1685,5e4442958dbee800dd1d9367,CS,Other,Masters
+1686,5e41bc4f8dbee800dd1d8d02,Business,Hult Business,MBA
+1687,5e5051f27504bb00d2f54507,Data Science,Hult Business,Masters
+1688,5e4d57723acdaa00d34d8045,Business,Hult Business,Masters
+1689,5e50a5916b8e7400d252f626,Other,Other,Other
+1690,5e4c88f93acdaa00d34d7c83,Other,MIT,PhD
+1691,5e3ba6f68dbee800dd1d862e,Biology,Other,Bachelors
+1692,5e4d528a3acdaa00d34d8008,Business,Other,Bachelors
+1693,5e2b30898dbee800dd1d738d,CS,MIT,Bachelors
+1694,5e46f7b53acdaa00d34d6cf6,Other,Harvard,Bachelors
+1695,5e1f80f38dbee800dd1d6bb0,Business,Hult Business,Masters
+1696,5ddd6fe88dbee800dd1d6418,Data Science,MIT,PhD
+1697,5e38467c8dbee800dd1d8030,Biology,Harvard,Postdoc
+1698,5e4f11f5d00f9f00d3d5b37e,Other,MIT,Masters
+1699,5e2e44558dbee800dd1d75d4,Business,NYU,Bachelors
+1700,5e35c0428dbee800dd1d7d6b,CS,MIT,Bachelors
+1701,5e46a9173acdaa00d34d6bc0,Biology,MIT,Masters
+1702,5e4c62d93acdaa00d34d7bd0,Business,Harvard,Masters
+1703,5e481a8b3acdaa00d34d6e75,Biology,Other,Postdoc
+1704,5e49eb2b3acdaa00d34d7109,Business,Other,MBA
+1705,5e509fbb5eb42900d3c0bc34,Other,Other,PhD
+1706,5e4557d48dbee800dd1d9564,Other,MIT,Masters
+1707,5e3d872c8dbee800dd1d8978,Industrial Eng,Hult Business,Masters
+1708,5e4eeb21d00f9f00d3d5b239,Business,Hult Business,MBA
+1709,5e30a07d8dbee800dd1d785b,Other,Tufts,Bachelors
+1710,5e4abd423acdaa00d34d73fe,Other,Harvard,Bachelors
+1711,5e3987428dbee800dd1d8210,Biology,Other,Postdoc
+1712,5e4a4c8e3acdaa00d34d7234,Finance,Other,Bachelors
+1713,5e4c4b893acdaa00d34d7b58,Other,Other,Other
+1714,5e1d04418dbee800dd1d6a5f,Business,Other,MBA
+1715,5e4ae6fd3acdaa00d34d74f6,Biology,Other,Bachelors
+1716,5e4bf1c63acdaa00d34d78d5,Finance,Harvard,PhD
+1717,5dd6ed838dbee800dd1d63d4,Data Science,Other,Masters
+1718,5e4998623acdaa00d34d702d,Marketing,Hult Business,Masters
+1719,5e3311928dbee800dd1d7aa1,Mechanical Eng,MIT,High school
+1720,5e3990968dbee800dd1d824e,Other,Harvard,Bachelors
+1721,5e503de77504bb00d2f544ba,Business,Hult Business,MBA
+1722,5e50afaa5eb42900d3c0bc9d,Finance,Other,Bachelors
+1723,5e4d8a2f3acdaa00d34d81ca,Biology,Other,Masters
+1724,5e385c3f8dbee800dd1d8066,CS,MIT,Bachelors
+1725,5e4c1f633acdaa00d34d7a3f,Physics,Other,Postdoc
+1726,5e3f429f8dbee800dd1d8ace,CS,MIT,Bachelors
+1727,5e417cf98dbee800dd1d8c78,Business,Boston College,MBA
+1728,5e50c19c5eb42900d3c0bd43,Other,Other,Bachelors
+1729,5e4ac2c63acdaa00d34d7420,Policital Sci,Other,Masters
+1730,5e34862d8dbee800dd1d7cc6,Business,Other,PhD
+1731,5e50983d6b8e7400d252f5df,Business,Other,Masters
+1732,5e51669f5eb42900d3c0c145,Other,Other,Other
+1733,5e4b5f7b3acdaa00d34d76f8,Law,Harvard,Masters
+1734,5e3f64308dbee800dd1d8ae5,Other,NYU,Bachelors
+1735,5e444e308dbee800dd1d937a,Other,Boston College,Bachelors
+1736,5e50a4b65eb42900d3c0bc4b,Biology,Other,Masters
+1737,5e517e075eb42900d3c0c222,Other,Other,Other
+1738,5e4fc50fd00f9f00d3d5b7cb,Business,Harvard,MBA
+1739,5e4b51693acdaa00d34d76d1,Mechanical Eng,Other,Masters
+1740,5e4f07b8d00f9f00d3d5b343,AI,MIT,Masters
+1741,5e517d0e6b8e7400d252fbe3,Other,Other,Other
+1742,5e5140077504bb00d2f54983,Other,Other,Other
+1743,5e4b0a313acdaa00d34d75e1,Data Science,Other,Bachelors
+1744,5e5071c67504bb00d2f54575,Biology,Other,Masters
+1745,5e303ab08dbee800dd1d77d8,Business,Hult Business,Masters
+1746,5e49a6883acdaa00d34d7041,Business,BU,MBA
+1747,5e515be05eb42900d3c0c0bb,Finance,Other,Bachelors
+1748,5e50958d5eb42900d3c0bc07,AI,Other,Bachelors
+1749,5e50a8a26b8e7400d252f646,Other,Other,Masters
+1750,5e04e2d58dbee800dd1d66d8,Mechanical Eng,Dartmouth,Bachelors
+1751,5e4c61923acdaa00d34d7bcd,Electrical Eng,Other,Postdoc
+1752,5e2f41848dbee800dd1d76af,Other,NYU,Masters
+1753,5e4e09163acdaa00d34d8557,Biology,Other,Masters
+1754,5e4d9f413acdaa00d34d8245,AI,MIT,MBA
+1755,5e2ee8718dbee800dd1d7609,Policital Sci,Harvard,Masters
+1756,5e3db92e8dbee800dd1d89b8,Business,MIT,MBA
+1757,5e4c0e653acdaa00d34d79ca,Policital Sci,Harvard,Bachelors
+1758,5e50b31ccb31a300d283190a,CS,Other,Bachelors
+1759,5e4d86f33acdaa00d34d8194,Business,Hult Business,Masters
+1760,5e4c73a03acdaa00d34d7c3c,Other,Harvard,MBA
+1761,5e4de4d73acdaa00d34d838c,Mechanical Eng,Other,Masters
+1762,5e4ca4733acdaa00d34d7d63,Law,Other,Masters
+1763,5e50af09cb31a300d28318c3,Aero,MIT,Bachelors
+1764,5e388c028dbee800dd1d80bf,CS,BU,Bachelors
+1765,5e4db95b3acdaa00d34d82c7,Materials,MIT,Masters
+1766,5e515c197504bb00d2f54ac7,Other,Other,Other
+1767,5e5095b76b8e7400d252f5d1,Other,Other,Bachelors
+1768,5e1f45b98dbee800dd1d6b95,Other,Northeastern,Masters
+1769,5e5136a07504bb00d2f54907,Other,Other,Other
+1770,5e355a098dbee800dd1d7d25,Biology,Boston College,MBA
+1771,5e45faaa3acdaa00d34d6a74,Mechanical Eng,Northeastern,Bachelors
+1772,5e28792a8dbee800dd1d7123,CS,Harvard,Postdoc
+1773,5e39760f8dbee800dd1d81e9,Biology,Harvard,MD
+1774,5e43629b8dbee800dd1d9080,Physics,MIT,Postdoc
+1775,5e4ef7d9d00f9f00d3d5b2ab,Biology,Brandeis,Postdoc
+1776,5e33a91b8dbee800dd1d7b67,CS,MIT,Other
+1777,5e3f12908dbee800dd1d8aa8,Business,Other,Masters
+1778,5e4af1063acdaa00d34d757d,Biology,Harvard,PhD
+1779,5e27945d8dbee800dd1d704e,Business,Hult Business,Masters
+1780,5e45a2823acdaa00d34d69e3,Other,Harvard,PhD
+1781,5e306ea58dbee800dd1d7806,Biology,BU,Bachelors
+1782,5e448c218dbee800dd1d93ec,AI,Northeastern,PhD
+1783,5e49bc733acdaa00d34d70a7,Finance,Harvard,Bachelors
+1784,5e51917e6b8e7400d252fc68,Other,Other,Other
+1785,5e4353c58dbee800dd1d9052,Business,Hult Business,Masters
+1786,5e3e21258dbee800dd1d8a60,Mechanical Eng,MIT,Bachelors
+1787,5e408b228dbee800dd1d8b81,Biology,WPI,Bachelors
+1788,5e514a366b8e7400d252f9de,Business,Other,MBA
+1789,5e4bfb743acdaa00d34d7952,Policital Sci,Harvard,Bachelors
+1790,5e0e0a2a8dbee800dd1d6733,Business,Other,Masters
+1791,5e3990c18dbee800dd1d8251,CS,MIT,Bachelors
+1792,5e4604453acdaa00d34d6a7a,Finance,Hult Business,Masters
+1793,5e508ef85eb42900d3c0bbf4,Other,Other,Other
+1794,5e31fb428dbee800dd1d79a5,Law,NYU,Masters
+1795,5e4eb4e9d00f9f00d3d5af90,Finance,Harvard,Masters
+1796,5e3cd3f88dbee800dd1d88a9,Biology,BU,Bachelors
+1797,5e32fa7e8dbee800dd1d7a63,Finance,MIT,Bachelors
+1798,5e45c6f73acdaa00d34d6a17,Marketing,Other,Masters
+1799,5e508dc47504bb00d2f545de,Electrical Eng,Other,Bachelors
+1800,5e2cff798dbee800dd1d74de,CS,Other,Bachelors
+1801,5e36f2c88dbee800dd1d7e14,Civil Eng,Other,Bachelors
+1802,5e5044947504bb00d2f544cc,Law,Other,Masters
+1803,5e4f594bd00f9f00d3d5b65c,Data Science,Northeastern,Masters
+1804,5e435c1f8dbee800dd1d905a,Other,UMass Boston,Bachelors
+1805,5e4f6e18d00f9f00d3d5b6ed,Data Science,BU,Masters
+1806,5e506125cb31a300d283176e,CS,Other,Bachelors
+1807,5e3b76d08dbee800dd1d85e7,Other,Tufts,Bachelors
+1808,5e20989f8dbee800dd1d6c52,Biology,Other,Bachelors
+1809,5e3637c58dbee800dd1d7dbd,CS,MIT,Masters
+1810,5e4eb81ed00f9f00d3d5afbd,CS,Harvard,Bachelors
+1811,5e3608908dbee800dd1d7da4,Other,MIT,Bachelors
+1812,5e4f5499d00f9f00d3d5b5fe,AI,Northeastern,Masters
+1813,5e500f80d00f9f00d3d5ba9c,Business,MIT,Masters
+1814,5e39f46d8dbee800dd1d8373,CS,MIT,Other
+1815,5e471f4e3acdaa00d34d6d5b,Business,Northeastern,Bachelors
+1816,5e42061b8dbee800dd1d8d91,CS,Harvard,PhD
+1817,5e4aa97b3acdaa00d34d7363,Other,BU,Bachelors
+1818,5e41fba48dbee800dd1d8d6a,Other,MIT,Bachelors
+1819,5e27167e8dbee800dd1d6fa7,Electrical Eng,MIT,Masters
+1820,5e435d758dbee800dd1d9063,Materials,MIT,High school
+1821,5e42003a8dbee800dd1d8d7b,Other,UMass Boston,Bachelors
+1822,5e4db9273acdaa00d34d82c2,Biology,MIT,Bachelors
+1823,5e5140ab7504bb00d2f5498b,Data Science,Other,Masters
+1824,5e38c5a78dbee800dd1d8109,CS,MIT,Masters
+1825,5e3b7ec38dbee800dd1d85ea,Data Science,Tufts,Masters
+1826,5e4efdd3d00f9f00d3d5b2e2,Other,Other,High school
+1827,5e4f4b38d00f9f00d3d5b551,Biology,Northeastern,Bachelors
+1828,5e4d99dc3acdaa00d34d8233,Data Science,Northeastern,Masters
+1829,5e513b8f7504bb00d2f54941,Other,Other,Bachelors
+1830,5e4fff5cd00f9f00d3d5b9a9,Business,NYU,Bachelors
+1831,5e17d59e8dbee800dd1d6946,Data Science,Dartmouth,Bachelors
+1832,5e4ebe4fd00f9f00d3d5b01b,Biology,Harvard,Bachelors
+1833,5e5172f35eb42900d3c0c1c8,Aero,Other,Bachelors
+1834,5e4d988a3acdaa00d34d822e,CS,MIT,Bachelors
+1835,5e4f5850d00f9f00d3d5b63f,Materials,Harvard,Postdoc
+1836,5e4d870c3acdaa00d34d81a0,Business,Other,MBA
+1837,5e37843a8dbee800dd1d7e6d,Materials,Harvard,Postdoc
+1838,5e4451dc8dbee800dd1d9381,CS,MIT,Bachelors
+1839,5e351b518dbee800dd1d7d22,Electrical Eng,MIT,MBA
+1840,5e50340f5eb42900d3c0baab,Chemistry,MIT,Masters
+1841,5e4af47a3acdaa00d34d7591,Marketing,Hult Business,Masters
+1842,5e2e60bf8dbee800dd1d75e2,Business,Other,MBA
+1843,5e50896c5eb42900d3c0bbbc,Mechanical Eng,MIT,Bachelors
+1844,5e4c839c3acdaa00d34d7c76,Business,NYU,Bachelors
+1845,5e5095f07504bb00d2f545f9,Other,UMass Boston,Masters
+1846,5e51479c6b8e7400d252f9b9,CS,Other,Bachelors
+1847,5e4c369b3acdaa00d34d7acb,Other,Harvard,Bachelors
+1848,5e39b4118dbee800dd1d82a1,Finance,UMass Boston,Bachelors
+1849,5e2f014f8dbee800dd1d7635,Materials,MIT,Postdoc
+1850,5e5177366b8e7400d252fbb0,Other,Other,Other
+1851,5e4c17053acdaa00d34d7a0c,Biology,Other,PhD
+1852,5e161ab18dbee800dd1d6892,AI,MIT,Bachelors
+1853,5e3855fc8dbee800dd1d8063,Biology,MIT,PhD
+1854,5e51256c6b8e7400d252f846,CS,Other,Masters
+1855,5e24fea58dbee800dd1d6e28,Finance,Other,Masters
+1856,5e2109f68dbee800dd1d6c7d,AI,MIT,Masters
+1857,5e41faa58dbee800dd1d8d64,Biology,MIT,Masters
+1858,5e435caf8dbee800dd1d905d,Policital Sci,Harvard,Bachelors
+1859,5e430cf08dbee800dd1d8fae,Data Science,Northeastern,Masters
+1860,5e5047545eb42900d3c0bada,Other,Other,Other
+1861,5e4c26d23acdaa00d34d7a64,Business,Other,Masters
+1862,5e14feb88dbee800dd1d6828,Finance,MIT,Masters
+1863,5e4a40263acdaa00d34d71be,Biology,Other,MD
+1864,5e50269a7504bb00d2f54487,Other,Other,Other
+1865,5e169ff68dbee800dd1d68b1,Aero,MIT,Masters
+1866,5e3f95428dbee800dd1d8b0e,Data Science,Harvard,Masters
+1867,5e5068ef7504bb00d2f5455a,Other,Other,PhD
+1868,5e33394b8dbee800dd1d7b0d,Chemistry,MIT,Bachelors
+1869,5e34be2f8dbee800dd1d7cf7,Other,Other,Masters
+1870,5e4b01d03acdaa00d34d75cd,Other,Harvard,Other
+1871,5e2dd1118dbee800dd1d74f3,CS,MIT,Bachelors
+1872,5e397b778dbee800dd1d81f2,Finance,NYU,Masters
+1873,5e50b5f5cb31a300d2831936,Other,Other,MBA
+1874,5e46349d3acdaa00d34d6ac9,CS,MIT,Other
+1875,5e5130aacb31a300d2831b1a,Aero,Other,PhD
+1876,5e364e1f8dbee800dd1d7def,Other,Northeastern,Masters
+1877,5e2ba9fb8dbee800dd1d7441,Mechanical Eng,Other,Other
+1878,5e3c91708dbee800dd1d8867,Finance,Wellesley,Bachelors
+1879,5e4bfe9e3acdaa00d34d7974,Mechanical Eng,Other,Masters
+1880,5e507863cb31a300d28317b0,Data Science,Other,High school
+1881,5e5183957504bb00d2f54c4b,Other,Other,Other
+1882,5e4d8b1e3acdaa00d34d81d6,Marketing,Hult Business,MBA
+1883,5e5146f66b8e7400d252f9af,Other,Other,Bachelors
+1884,5e2b283f8dbee800dd1d7383,Other,Other,PhD
+1885,5e39a22e8dbee800dd1d8275,Other,Other,PhD
+1886,5e3c4f8f8dbee800dd1d87a3,Other,Harvard,Masters
+1887,5e5161a65eb42900d3c0c0ff,CS,Other,Bachelors
+1888,5e28acb88dbee800dd1d7161,Other,Other,Masters
+1889,5e4b13383acdaa00d34d75f8,Electrical Eng,Other,Bachelors
+1890,5e4764463acdaa00d34d6e0b,AI,MIT,MBA
+1891,5e39d3b98dbee800dd1d8311,CS,Harvard,Bachelors
+1892,5e50d75bcb31a300d2831a34,Electrical Eng,MIT,Postdoc
+1893,5e4161918dbee800dd1d8c3b,CS,MIT,Bachelors
+1894,5e3ac0a28dbee800dd1d8437,Other,Other,Other
+1895,5e513c956b8e7400d252f922,Other,Other,Bachelors
+1896,5e330bd88dbee800dd1d7a8e,AI,MIT,High school
+1897,5e5161215eb42900d3c0c0f3,Data Science,Northeastern,Masters
+1898,5e305d6d8dbee800dd1d77f5,CS,NYU,Masters
+1899,5e507f50cb31a300d28317c5,CS,Other,Masters
+1900,5e3a1dff8dbee800dd1d8393,CS,NYU,Masters
+1901,5e2cbb3a8dbee800dd1d74cd,Other,Other,Masters
+1902,5e42f4658dbee800dd1d8f50,Physics,Other,Bachelors
+1903,5e2759ec8dbee800dd1d6fc7,Other,Other,Other
+1904,5e420c3a8dbee800dd1d8d98,Mechanical Eng,MIT,High school
+1905,5e4ee852d00f9f00d3d5b216,Other,Northeastern,Masters
+1906,5e49b13a3acdaa00d34d705d,Other,Other,Masters
+1907,5e4c5ac53acdaa00d34d7bac,Marketing,Other,Bachelors
+1908,5e4c75e33acdaa00d34d7c48,Marketing,Hult Business,Masters
+1909,5e13b2f18dbee800dd1d67bf,Other,Other,Masters
+1910,5e5006a8d00f9f00d3d5ba2a,CS,NYU,Masters
+1911,5e43af918dbee800dd1d9139,CS,MIT,Masters
+1912,5e4f027cd00f9f00d3d5b311,Biology,Other,PhD
+1913,5e533d7ae0721300d36a48de,Electrical Eng,Other,Bachelors
+1914,5e177dc08dbee800dd1d6924,Other,Dartmouth,Bachelors
+1915,5e308f548dbee800dd1d783d,Business,Tufts,Masters
+1916,5e28cdeb8dbee800dd1d7188,Physics,Tufts,Masters
+1917,5e4322e68dbee800dd1d9002,CS,NYU,Masters
+1918,5e41f68d8dbee800dd1d8d57,Business,NYU,MBA
+1919,5e4aebb33acdaa00d34d753a,Finance,Brandeis,Masters
+1920,5e36443c8dbee800dd1d7de3,Materials,Harvard,Bachelors
+1921,5e176d398dbee800dd1d6916,CS,MIT,PhD
+1922,5e4b679c3acdaa00d34d7717,CS,MIT,Bachelors
+1923,5dd5253a8dbee800dd1d63b6,Business,Other,Masters
+1924,5e138e128dbee800dd1d67b5,Chemistry,Northeastern,Masters
+1925,5e5164995eb42900d3c0c12a,Business,Hult Business,Masters
+1926,5e54d38ce0721300d36a497a,CS,Other,Bachelors
+1927,5e513ecf6b8e7400d252f948,Mechanical Eng,Other,Masters
+1928,5e49b0793acdaa00d34d705a,Law,Other,Masters
+1929,5e4c7dcf3acdaa00d34d7c63,Data Science,Northeastern,Masters
+1930,5e309e6c8dbee800dd1d7853,Other,BU,Masters
+1931,5e4d96083acdaa00d34d820d,Physics,MIT,Bachelors
+1932,5e3af2b38dbee800dd1d84d6,Other,MIT,Postdoc
+1933,5e2b27938dbee800dd1d737f,Aero,MIT,Bachelors
+1934,5e4f1995d00f9f00d3d5b3d1,Other,BU,Bachelors
+1935,5e4d87063acdaa00d34d819c,Business,Other,MBA
+1936,5e49a6643acdaa00d34d703e,Other,Other,Masters
+1937,5e277e148dbee800dd1d6fe2,CS,Harvard,Bachelors
+1938,5e4d63493acdaa00d34d80a9,Data Science,Northeastern,Masters
+1939,5e4d5b853acdaa00d34d8066,Business,Northeastern,Bachelors
+1940,5e51548d7504bb00d2f54a6a,Business,Other,Masters
+1941,5e28c6eb8dbee800dd1d7186,Business,Hult Business,Bachelors
+1942,5e30bd968dbee800dd1d7892,Other,NYU,Masters
+1943,5e40449d8dbee800dd1d8b5c,Business,Northeastern,Masters
+1944,5e40222d8dbee800dd1d8b47,Finance,Other,Bachelors
+1945,5e49882e3acdaa00d34d7001,Biology,Harvard,Other
+1946,5e4d463c3acdaa00d34d7fad,AI,Brandeis,PhD
+1947,5e4a24f73acdaa00d34d719a,Business,Hult Business,Masters
+1948,5e3850c48dbee800dd1d8052,Other,Other,PhD
+1949,5e2f73088dbee800dd1d7771,Data Science,Hult Business,Bachelors
+1950,5e3c45e68dbee800dd1d8773,Marketing,Hult Business,Masters
+1951,5e2704338dbee800dd1d6f97,Other,Other,Other
+1952,5e317ab18dbee800dd1d792c,Marketing,Other,Masters
+1953,5e4c77a93acdaa00d34d7c4e,Law,Other,Masters
+1954,5e3cf83f8dbee800dd1d88e4,Policital Sci,Dartmouth,Bachelors
+1955,5e4a19de3acdaa00d34d718f,Biology,Harvard,PhD
+1956,5e39b9b98dbee800dd1d82b3,Other,Harvard,Bachelors
+1957,5e3862078dbee800dd1d8073,Policital Sci,Harvard,Masters
+1958,5e4d87073acdaa00d34d819d,Other,Other,Bachelors
+1959,5e508b5a5eb42900d3c0bbd1,CS,Other,Bachelors
+1960,5e4352008dbee800dd1d904c,Other,Harvard,Masters
+1961,5e3327f38dbee800dd1d7ae5,AI,MIT,Bachelors
+1962,5e44b4d18dbee800dd1d9410,Mechanical Eng,MIT,Bachelors
+1963,5e46b93f3acdaa00d34d6bec,Electrical Eng,BU,MBA
+1964,5e4ed0e6d00f9f00d3d5b107,Other,NYU,Masters
+1965,5e2bb5468dbee800dd1d7444,Finance,Northeastern,Bachelors
+1966,5e40bb898dbee800dd1d8b9b,Data Science,Other,MD
+1967,5e3085f38dbee800dd1d7821,Finance,NYU,Bachelors
+1968,5e4f5183d00f9f00d3d5b5e0,Law,Tufts,Masters
+1969,5e50a1afcb31a300d283185a,AI,Other,Bachelors
+1970,5e247a888dbee800dd1d6de5,Business,Hult Business,MBA
+1971,5e4f34b3d00f9f00d3d5b491,Finance,BU,Masters
+1972,5e4eb50ad00f9f00d3d5af95,Marketing,Other,Masters
+1973,5e49ac1b3acdaa00d34d704f,Business,Other,Masters
+1974,5e516b5f5eb42900d3c0c180,Other,Other,Other
+1975,5e3efecd8dbee800dd1d8a97,Data Science,Other,MBA
+1976,5e5058cb7504bb00d2f5452e,Business,Other,Bachelors
+1977,5dfa47418dbee800dd1d6623,Other,Other,Other
+1978,5e3fb3048dbee800dd1d8b18,CS,Other,Other
+1979,5e50970f6b8e7400d252f5db,Other,Other,Bachelors
+1980,5e463ffb3acdaa00d34d6afe,Other,Other,Other
+1981,5e4c28413acdaa00d34d7a69,CS,MIT,Bachelors
+1982,5e4ddb1e3acdaa00d34d8358,CS,MIT,Bachelors
+1983,5e4eba28d00f9f00d3d5afe7,Finance,Other,Bachelors
+1984,5e38d9258dbee800dd1d8138,Finance,Harvard,Masters
+1985,5e501c855eb42900d3c0ba5f,Data Science,MIT,MBA
+1986,5e4408a58dbee800dd1d9294,Electrical Eng,MIT,Masters
+1987,5e4383bb8dbee800dd1d90e1,Data Science,Hult Business,Masters
+1988,5e4c8b4b3acdaa00d34d7cac,Business,Other,MBA
+1989,5e4ca0bb3acdaa00d34d7d46,Business,MIT,MBA
+1990,5e46199c3acdaa00d34d6a8b,Business,Harvard,Masters
+1991,5e41f5428dbee800dd1d8d53,Biology,Other,MBA
+1992,5e526acccb31a300d2831f4d,Data Science,Other,Other
+1993,5e27780a8dbee800dd1d6fdb,Data Science,Other,Bachelors
+1994,5e4031b18dbee800dd1d8b56,Physics,Harvard,Postdoc
+1995,5dd5d0fe8dbee800dd1d63c3,Aero,Other,Masters
+1996,5e41a01e8dbee800dd1d8cdb,CS,MIT,Masters
+1997,5e500309d00f9f00d3d5b9e7,CS,Harvard,Masters
+1998,5e4c437f3acdaa00d34d7b28,Other,MIT,Masters
+1999,5e50d209cb31a300d2831a1e,CS,Other,Masters
+2000,5e4ff952d00f9f00d3d5b967,Business,MIT,MBA
+2001,5e39b47c8dbee800dd1d82a8,Electrical Eng,Harvard,Bachelors
+2002,5e513df86b8e7400d252f938,Other,Other,PhD
+2003,5e3b19528dbee800dd1d855f,CS,MIT,Bachelors
+2004,5e50028fd00f9f00d3d5b9d7,Other,MIT,Bachelors
+2005,5e4b07533acdaa00d34d75dd,Data Science,BU,Masters
+2006,5e509c53cb31a300d283183f,Marketing,UMass Amherst,Bachelors
+2007,5e517cfdcb31a300d2831e69,Other,Other,Other
+2008,5e4caf363acdaa00d34d7d7d,Biology,Other,Masters
+2009,5e3ada268dbee800dd1d8469,Biology,Other,Bachelors
+2010,5e4357b48dbee800dd1d9057,Law,Other,Other
+2011,5e35a26c8dbee800dd1d7d59,Other,Other,Masters
+2012,5e30b7568dbee800dd1d787f,CS,NYU,Bachelors
+2013,5e39affe8dbee800dd1d8296,CS,Harvard,Bachelors
+2014,5e4d518f3acdaa00d34d8003,Business,MIT,Masters
+2015,5e39dc508dbee800dd1d8323,Other,Other,Masters
+2016,5e51444ccb31a300d2831c0e,Business,Other,Masters
+2017,5e4f5e19d00f9f00d3d5b690,Other,BU,Masters
+2018,5e44bcb58dbee800dd1d9435,Other,Other,Other
+2019,5e3381db8dbee800dd1d7b3b,Business,MIT,Masters
+2020,5e4c3dff3acdaa00d34d7aea,Marketing,Hult Business,Masters
+2021,5e3c351d8dbee800dd1d8744,Marketing,BU,MBA
+2022,5e5177b97504bb00d2f54bdd,Other,Other,Other
+2023,5e32f62b8dbee800dd1d7a5b,Biology,MIT,PhD
+2024,5e3710ea8dbee800dd1d7e22,Data Science,MIT,Other
+2025,5e4e1c073acdaa00d34d859c,Biology,Other,MD
+2026,5e4ebc5ad00f9f00d3d5b006,Finance,Other,MBA
+2027,5e517d827504bb00d2f54c0f,Other,Other,Other
+2028,5e1cad328dbee800dd1d6a50,CS,Other,Bachelors
+2029,5e516308cb31a300d2831d5e,Other,Other,Other
+2030,5e49aa4e3acdaa00d34d7049,Mechanical Eng,Other,Bachelors
+2031,5e2e04c28dbee800dd1d7559,CS,Other,Bachelors
+2032,5e3faa488dbee800dd1d8b14,Industrial Eng,Northeastern,Masters
+2033,5e3b337c8dbee800dd1d8598,Data Science,Harvard,Masters
+2034,5e3ec4df8dbee800dd1d8a85,Business,Harvard,MBA
+2035,5e20d09e8dbee800dd1d6c6a,Materials,MIT,Postdoc
+2036,5e113e378dbee800dd1d6767,Mechanical Eng,MIT,Masters
+2037,5e32e9a78dbee800dd1d7a48,AI,MIT,Masters
+2038,5e3db7f08dbee800dd1d89b5,Other,Northeastern,Masters
+2039,5e4b12333acdaa00d34d75f1,Finance,Other,Other
+2040,5e513d95cb31a300d2831bbe,Other,Other,Other
+2041,5e1f96ef8dbee800dd1d6bb6,Business,Hult Business,Masters
+2042,5e50a5f17504bb00d2f5464b,Business,Other,Bachelors
+2043,5e2666888dbee800dd1d6f0f,Physics,MIT,Bachelors
+2044,5e4d8eff3acdaa00d34d81ea,Materials,Other,PhD
+2045,5e3a29a28dbee800dd1d83ab,Other,Wellesley,Other
+2046,5e5058b0cb31a300d283174a,CS,Other,Bachelors
+2047,5e2f3ac98dbee800dd1d7692,Other,NYU,Masters
+2048,5e34625a8dbee800dd1d7cb0,Other,NYU,Masters
+2049,5e3492738dbee800dd1d7ccf,Business,NYU,Bachelors
+2050,5e4992783acdaa00d34d7010,Business,Other,MBA
+2051,5e4ac3d93acdaa00d34d742b,Electrical Eng,MIT,Bachelors
+2052,5e4c40553acdaa00d34d7b10,Physics,MIT,Bachelors
+2053,5e4cae073acdaa00d34d7d79,Aero,MIT,Bachelors
+2054,5e5137d4cb31a300d2831b6b,CS,UConn,Bachelors
+2055,5e426cf98dbee800dd1d8e4f,Business,Other,Bachelors
+2056,5e1391518dbee800dd1d67ba,Other,MIT,Masters
+2057,5e4af93e3acdaa00d34d759e,Policital Sci,Other,Masters
+2058,5e49cf283acdaa00d34d70e8,AI,MIT,Masters
+2059,5e49b8303acdaa00d34d7090,CS,MIT,Bachelors
+2060,5e46f0793acdaa00d34d6ceb,Biology,Other,PhD
+2061,5e4ef5b9d00f9f00d3d5b2a2,Biology,Harvard,Bachelors
+2062,5e3b03758dbee800dd1d851c,Other,Harvard,Masters
+2063,5e3cbe748dbee800dd1d8898,Other,Other,Bachelors
+2064,5e3635a18dbee800dd1d7db4,Business,Northeastern,Masters
+2065,5e4c30d03acdaa00d34d7abd,Mechanical Eng,Other,Bachelors
+2066,5e4c520f3acdaa00d34d7b6b,Law,Harvard,Masters
+2067,5e505bd75eb42900d3c0bb26,CS,Other,Bachelors
+2068,5e4f06e1d00f9f00d3d5b33e,Finance,MIT,Masters
+2069,5e4c70d23acdaa00d34d7c2e,Physics,MIT,PhD
+2070,5e49fe2a3acdaa00d34d714f,Mechanical Eng,MIT,Bachelors
+2071,5e45805a3acdaa00d34d69aa,Business,Harvard,Masters
+2072,5e285fa38dbee800dd1d70dd,Other,Other,Masters
+2073,5e419d598dbee800dd1d8cd5,Other,Tufts,Bachelors
+2074,5e4c30663acdaa00d34d7ab4,Mechanical Eng,Other,High school
+2075,5e477b073acdaa00d34d6e21,Civil Eng,Hult Business,MBA
+2076,5e3b21138dbee800dd1d857a,AI,NYU,Masters
+2077,5e515e10cb31a300d2831d30,Business,Other,Bachelors
+2078,5e42055a8dbee800dd1d8d8a,Biology,MIT,Postdoc
+2079,5e4f041dd00f9f00d3d5b318,Business,NYU,Masters
+2080,5e41ad6f8dbee800dd1d8cec,CS,Brandeis,MBA
+2081,5e4183178dbee800dd1d8c9c,Data Science,UMass Boston,Bachelors
+2082,5e349dba8dbee800dd1d7cd9,Policital Sci,Harvard,Bachelors
+2083,5e4c96e43acdaa00d34d7cf1,Business,MIT,Masters
+2084,5e1a31978dbee800dd1d69f6,Other,Other,Other
+2085,5e45c3d83acdaa00d34d6a07,CS,NYU,Masters
+2086,5e3cce0f8dbee800dd1d88a3,CS,MIT,Bachelors
+2087,5e506a4f5eb42900d3c0bb51,Biology,Other,Masters
+2088,5e4759c33acdaa00d34d6dfa,AI,Harvard,MD
+2089,5e28dcc58dbee800dd1d7196,Business,Other,Other
+2090,5e4c40523acdaa00d34d7b0c,Business,Other,Bachelors
+2091,5e517c8ecb31a300d2831e63,Other,Other,Other
+2092,5e50a9667504bb00d2f5465f,Data Science,Hult Business,MBA
+2093,5e4fe611d00f9f00d3d5b8cf,Business,Other,PhD
+2094,5e3e65978dbee800dd1d8a70,Business,Northeastern,Masters
+2095,5e4a08213acdaa00d34d7155,Business,MIT,MD
+2096,5e503643cb31a300d28316d1,Finance,Other,MBA
+2097,5e50c2015eb42900d3c0bd48,CS,Other,Bachelors
+2098,5e516aeccb31a300d2831dbe,Other,Other,Other
+2099,5e3c86e68dbee800dd1d8858,Business,MIT,Masters
+2100,5e3a10fa8dbee800dd1d8390,Mechanical Eng,MIT,Bachelors
+2101,5e4e0d153acdaa00d34d8584,Business,Hult Business,Masters
+2102,5e3712558dbee800dd1d7e27,Other,Other,Bachelors
+2103,5ddc845b8dbee800dd1d6409,Other,Other,Masters
+2104,5e4da5053acdaa00d34d8269,AI,MIT,Masters
+2105,5e53f2864d5f8e00d2320786,Other,MIT,Masters
+2106,5e3308ae8dbee800dd1d7a8b,Biology,Harvard,Postdoc
+2107,5e50b6d27504bb00d2f54704,Physics,Other,Postdoc
+2108,5e497a643acdaa00d34d6fe7,Data Science,Harvard,Masters
+2109,5e4c68373acdaa00d34d7c0b,Materials,Hult Business,Masters
+2110,5e23206b8dbee800dd1d6da0,Business,Hult Business,MBA
+2111,5dddf47f8dbee800dd1d6429,Business,MIT,MBA
+2112,5e4410808dbee800dd1d92b5,Biology,Other,PhD
+2113,5e4d65e13acdaa00d34d80ba,CS,MIT,Bachelors
+2114,5e502ba06b8e7400d252f446,Business,Other,Masters
+2115,5e2615e58dbee800dd1d6eeb,Other,NYU,Masters
+2116,5e46eb713acdaa00d34d6cd2,Biology,Harvard,Postdoc
+2117,5e32e0f08dbee800dd1d7a3a,Mechanical Eng,MIT,Bachelors
+2118,5e49eb063acdaa00d34d7105,Biology,Other,Masters
+2119,5e31adbe8dbee800dd1d7962,Civil Eng,NYU,Bachelors
+2120,5e515f0a7504bb00d2f54af0,Other,Other,Other
+2121,5e4f0571d00f9f00d3d5b328,Electrical Eng,BU,Masters
+2122,5e47574f3acdaa00d34d6df5,Policital Sci,Other,Bachelors
+2123,5e3df2778dbee800dd1d8a47,Finance,Other,Bachelors
+2124,5e4d5c563acdaa00d34d8072,Other,MIT,Masters
+2125,5e2fa4f68dbee800dd1d778b,Other,Harvard,Masters
+2126,5e2719688dbee800dd1d6fb3,Materials,MIT,PhD
+2127,5e4ef486d00f9f00d3d5b29a,Other,Other,MD
+2128,5e2f8feb8dbee800dd1d777a,Other,NYU,Bachelors
+2129,5e1f6de28dbee800dd1d6bad,Other,Other,Masters
+2130,5e38cf3d8dbee800dd1d8125,Finance,MIT,Masters
+2131,5e4dde813acdaa00d34d8363,Other,Northeastern,Masters
+2132,5e4c7c793acdaa00d34d7c5f,Business,MIT,Masters
+2133,5e241c628dbee800dd1d6dd8,Business,MIT,MBA
+2134,5e5150a16b8e7400d252fa32,Other,Other,Masters
+2135,5e3082e98dbee800dd1d781b,CS,NYU,Masters
+2136,5e3ae1bf8dbee800dd1d84b4,Biology,Harvard,Postdoc
+2137,5e2b423d8dbee800dd1d739b,Data Science,Other,Masters
+2138,5e4dad0d3acdaa00d34d829e,CS,NYU,Masters
+2139,5e50c79fcb31a300d28319c2,Business,Other,Masters
+2140,5e46f03f3acdaa00d34d6ce6,Finance,Other,Masters
+2141,5e3e32238dbee800dd1d8a65,CS,MIT,Bachelors
+2142,5e1efd928dbee800dd1d6b6c,AI,MIT,MBA
+2143,5e4cb3963acdaa00d34d7d80,CS,NYU,Masters
+2144,5e4d904f3acdaa00d34d81ed,Electrical Eng,Other,Masters
+2145,5e4d54e23acdaa00d34d8018,Data Science,MIT,Bachelors
+2146,5e30ed668dbee800dd1d78f6,AI,Northeastern,Masters
+2147,5e28dceb8dbee800dd1d7199,CS,NYU,Masters
+2148,5e514284cb31a300d2831bf9,Mechanical Eng,Other,Masters
+2149,5e5154d06b8e7400d252fa51,Biology,Other,Masters
+2150,5e30a9968dbee800dd1d7867,CS,NYU,Masters
+2151,5e4db9eb3acdaa00d34d82d0,Other,Harvard,Masters
+2152,5e46e8003acdaa00d34d6ca7,AI,NYU,Masters
+2153,5e41fb1a8dbee800dd1d8d67,Other,NYU,Masters
+2154,5e3f0ae58dbee800dd1d8a9f,Business,Northeastern,Masters
+2155,5e46ea4a3acdaa00d34d6cb4,Data Science,Northeastern,Masters
+2156,5e4183b18dbee800dd1d8ca8,Physics,NYU,Bachelors
+2157,5e4b006f3acdaa00d34d75c2,Other,Harvard,Masters
+2158,5e49c5d73acdaa00d34d70d3,Data Science,Other,Masters
+2159,5e24d4098dbee800dd1d6e0d,Business,Hult Business,Other
+2160,5e4eb38bd00f9f00d3d5af79,Finance,Harvard,Masters
+2161,5e32f6588dbee800dd1d7a5e,Biology,Harvard,Bachelors
+2162,5e3990338dbee800dd1d8245,Biology,Other,Postdoc
+2163,5e384fe78dbee800dd1d804e,Biology,Tufts,PhD
+2164,5e1dc0d48dbee800dd1d6ab2,Finance,Northeastern,Masters
+2165,5e4de4373acdaa00d34d8384,CS,Other,Other
+2166,5e2f59078dbee800dd1d7754,Biology,NYU,Bachelors
+2167,5e38c67a8dbee800dd1d8112,Other,Harvard,Other
+2168,5e501cf87504bb00d2f54472,Finance,Other,Bachelors
+2169,5e4c6f843acdaa00d34d7c2b,Electrical Eng,Other,Other
+2170,5e373de58dbee800dd1d7e4b,Finance,MIT,Masters
+2171,5e2e09e58dbee800dd1d75ba,Other,NYU,Masters
+2172,5e24f83a8dbee800dd1d6e23,Mechanical Eng,MIT,Bachelors
+2173,5e361c828dbee800dd1d7dae,Biology,NYU,High school
+2174,5e42451d8dbee800dd1d8dc8,Biology,Other,Other
+2175,5dfba3748dbee800dd1d6671,Biology,Other,PhD
+2176,5e50b8f0cb31a300d283195b,CS,Other,High school
+2177,5e58604b4d5f8e00d232088b,Business,Other,Masters
+2178,5e4de8853acdaa00d34d83c3,CS,NYU,Masters
+2179,5e410ed78dbee800dd1d8beb,Other,Other,Bachelors
+2180,5e3b21678dbee800dd1d857d,CS,NYU,Masters
+2181,5e36eafe8dbee800dd1d7e0c,Materials,MIT,Bachelors
+2182,5e2d3b788dbee800dd1d74ea,AI,NYU,Masters
+2183,5e4aaf183acdaa00d34d73ce,Other,Other,MBA
+2184,5e517c637504bb00d2f54c07,Other,Other,Other
+2185,5e4f541cd00f9f00d3d5b5fa,Business,Northeastern,Masters
+2186,5e5062385eb42900d3c0bb3a,AI,Other,Masters
+2187,5e5114355eb42900d3c0be37,Other,Other,MD
+2188,5e3968918dbee800dd1d81d1,Other,Harvard,Postdoc
+2189,5e517baecb31a300d2831e58,Biology,MIT,Postdoc
+2190,5e510d587504bb00d2f54832,Other,Other,Masters
+2191,5e5127686b8e7400d252f858,Other,Other,Other
+2192,5e5160e2cb31a300d2831d4d,Other,Other,Other
+2193,5e4e8e8ed00f9f00d3d5ae01,Data Science,Northeastern,Masters
+2194,5e2ba1af8dbee800dd1d743a,Data Science,Other,MBA
+2195,5e4587ad3acdaa00d34d69cf,Other,Harvard,Bachelors
+2196,5e517a125eb42900d3c0c1fe,Business,Other,MBA
+2197,5e30dde78dbee800dd1d78e2,Biology,Northeastern,Bachelors
+2198,5df2e4b78dbee800dd1d6571,CS,Dartmouth,Bachelors
+2199,5e2a08bb8dbee800dd1d72ee,Business,MIT,MBA
+2200,5e3c81058dbee800dd1d884f,Marketing,Hult Business,Masters
+2201,5e4c6acb3acdaa00d34d7c19,Business,Other,Bachelors
+2202,5e3b430d8dbee800dd1d85bc,Other,Other,Masters
+2203,5e3f285b8dbee800dd1d8ac2,Data Science,Hult Business,Masters
+2204,5e39e9bf8dbee800dd1d834a,CS,NYU,Masters
+2205,5e2900fc8dbee800dd1d71aa,Business,Hult Business,MBA
+2206,5e29e7838dbee800dd1d72b5,AI,Other,Masters
+2207,5e4f510ed00f9f00d3d5b5d4,Data Science,Northeastern,Masters
+2208,5e41f8688dbee800dd1d8d60,Biology,Harvard,Postdoc
+2209,5e3b8e688dbee800dd1d85f9,Other,Boston College,Masters
+2210,5e4c2d3e3acdaa00d34d7a9d,Policital Sci,Harvard,Bachelors
+2211,5e513498cb31a300d2831b47,Business,NYU,Bachelors
+2212,5e4c9d5f3acdaa00d34d7d2c,Mechanical Eng,Other,Bachelors
+2213,5e3998e18dbee800dd1d8263,CS,MIT,PhD
+2214,5e4ed14ed00f9f00d3d5b10a,Finance,Hult Business,Masters
+2215,5e4c39963acdaa00d34d7ace,CS,Harvard,Bachelors
+2216,5e29e9768dbee800dd1d72bd,Business,NYU,Masters
+2217,5e30e7988dbee800dd1d78f0,Marketing,Hult Business,Masters
+2218,5e34a7578dbee800dd1d7cdf,Business,Hult Business,MBA
+2219,5e41a3678dbee800dd1d8cde,Biology,Harvard,Postdoc
+2220,5e512dfb6b8e7400d252f885,Other,Other,Bachelors
+2221,5e50970acb31a300d2831823,CS,Other,Bachelors
+2222,5e4169f28dbee800dd1d8c50,Physics,Harvard,Bachelors
+2223,5e502c2c7504bb00d2f54496,CS,Other,Bachelors
+2224,5e3851508dbee800dd1d8055,Business,NYU,Masters
+2225,5e27b8568dbee800dd1d7065,Mechanical Eng,NYU,Bachelors
+2226,5e5156a46b8e7400d252fa66,Other,Other,Other
+2227,5e50b2667504bb00d2f546b7,Mechanical Eng,Other,Bachelors
+2228,5e29f11e8dbee800dd1d72cc,Business,Other,Masters
+2229,5e4eb61dd00f9f00d3d5afab,Business,NYU,Masters
+2230,5e3617798dbee800dd1d7da8,Biology,Northeastern,Masters
+2231,5e5009b0d00f9f00d3d5ba4a,Business,Other,MBA
+2232,5e4584d93acdaa00d34d69c7,CS,Northeastern,Masters
+2233,5e2f01ce8dbee800dd1d7638,CS,NYU,Masters
+2234,5e3b723f8dbee800dd1d85e4,Other,Harvard,Bachelors
+2235,5e5044d87504bb00d2f544d0,Other,Tufts,PhD
+2236,5e4ee3f3d00f9f00d3d5b1fe,Other,Harvard,Bachelors
+2237,5e2b53d58dbee800dd1d73b0,Other,Other,Bachelors
+2238,5e39907f8dbee800dd1d824b,Other,Harvard,Bachelors
+2239,5e5146425eb42900d3c0bfb5,Other,Other,Other
+2240,5e4d1ccd3acdaa00d34d7f5b,Business,Northeastern,MBA
+2241,5e3aa8118dbee800dd1d8427,Biology,MIT,MD
+2242,5e3b82658dbee800dd1d85ed,CS,MIT,Bachelors
+2243,5e41d0e08dbee800dd1d8d38,Data Science,Hult Business,Masters
+2244,5e5170426b8e7400d252fb7b,Other,Other,PhD
+2245,5e167ff48dbee800dd1d68a7,Business,Other,Masters
+2246,5e4f65ffd00f9f00d3d5b6d3,Business,Other,Bachelors
+2247,5e32ffd48dbee800dd1d7a76,CS,NYU,Masters
+2248,5e3f701c8dbee800dd1d8aee,AI,MIT,High school
+2249,5df588da8dbee800dd1d659c,Biology,Dartmouth,Bachelors
+2250,5e2919458dbee800dd1d71b0,CS,NYU,Masters
+2251,5e1847e98dbee800dd1d695f,Data Science,NYU,Masters
+2252,5e516bdacb31a300d2831dcc,Physics,Other,Bachelors
+2253,5e15e7fa8dbee800dd1d6882,CS,MIT,Masters
+2254,5e3c23868dbee800dd1d86f1,Business,Northeastern,Masters
+2255,5e284f468dbee800dd1d70bb,Business,Northeastern,Masters
+2256,5e51830c6b8e7400d252fc15,Data Science,MIT,MBA
+2257,5e41cfc78dbee800dd1d8d35,Data Science,Other,Masters
+2258,5e507e395eb42900d3c0bb81,Biology,Other,Other
+2259,5e5174e06b8e7400d252fb9f,Other,Other,Other
+2260,5e4a0fa83acdaa00d34d7165,Finance,Harvard,Masters
+2261,5e5167fb5eb42900d3c0c156,Other,Other,Other
+2262,5e2023b68dbee800dd1d6bea,Business,NYU,Bachelors
+2263,5e4eacd2d00f9f00d3d5aec6,Other,Other,Masters
+2264,5e3ae6948dbee800dd1d84c1,Data Science,MIT,Postdoc
+2265,5e4ac3173acdaa00d34d7425,Business,Other,MBA
+2266,5e5162adcb31a300d2831d5b,Other,Other,MD
+2267,5e43008f8dbee800dd1d8f6f,Business,NYU,Bachelors
+2268,5e5150c85eb42900d3c0c043,Aero,Other,Bachelors
+2269,5e45d9923acdaa00d34d6a4c,Data Science,Northeastern,Masters
+2270,5e30dbac8dbee800dd1d78df,Other,Other,Masters
+2271,5e4d77843acdaa00d34d8133,CS,NYU,Masters
+2272,5e46f4f03acdaa00d34d6cf2,Data Science,Other,MBA
+2273,5e3c4a728dbee800dd1d878a,Business,Hult Business,Masters
+2274,5e514d466b8e7400d252f9fc,Other,Other,Other
+2275,5e3b5cef8dbee800dd1d85d7,CS,Harvard,Bachelors
+2276,5e2ac3138dbee800dd1d7341,CS,NYU,Bachelors
+2277,5e44560a8dbee800dd1d93a3,Other,MIT,PhD
+2278,5e4842963acdaa00d34d6eb7,Other,NYU,Masters
+2279,5e50782fcb31a300d28317ac,Policital Sci,Other,Bachelors
+2280,5e4b2ead3acdaa00d34d7675,Data Science,NYU,Masters
+2281,5e2f1e068dbee800dd1d7677,Other,NYU,Masters
+2282,5e5063d55eb42900d3c0bb43,Business,Hult Business,MBA
+2283,5e45d96a3acdaa00d34d6a49,CS,NYU,Masters
+2284,5e4188568dbee800dd1d8cb9,Data Science,Wellesley,Bachelors
+2285,5e4c33da3acdaa00d34d7ac1,Policital Sci,Other,Masters
+2286,5e49aa473acdaa00d34d7046,Business,Harvard,Masters
+2287,5e3865098dbee800dd1d8079,Other,Tufts,Masters
+2288,5e5086d36b8e7400d252f581,Mechanical Eng,Other,PhD
+2289,5e42f4558dbee800dd1d8f4d,Business,MIT,Masters
+2290,5e3719ee8dbee800dd1d7e30,Marketing,NYU,Bachelors
+2291,5e3784878dbee800dd1d7e70,Business,MIT,Masters
+2292,5e4da93b3acdaa00d34d8288,CS,MIT,Masters
+2293,5e4ff990d00f9f00d3d5b96a,Biology,Other,PhD
+2294,5e42d22a8dbee800dd1d8f00,Other,Harvard,Postdoc
+2295,5e46ef763acdaa00d34d6cdf,AI,Harvard,PhD
+2296,5e4da13b3acdaa00d34d824b,Industrial Eng,Hult Business,MBA
+2297,5e4706df3acdaa00d34d6d1f,Biology,Other,PhD
+2298,5e20fa0d8dbee800dd1d6c72,Data Science,Other,Masters
+2299,5e0d240c8dbee800dd1d6726,Business,Other,Bachelors
+2300,5e35dbf18dbee800dd1d7d7d,Mechanical Eng,MIT,Bachelors
+2301,5e4779723acdaa00d34d6e1e,Other,Other,Bachelors
+2302,5e3990118dbee800dd1d8242,Biology,Other,Bachelors
+2303,5e3ba6548dbee800dd1d862b,CS,MIT,Masters
+2304,5e34641e8dbee800dd1d7cb4,CS,Northeastern,Masters
+2305,5e3b91168dbee800dd1d85ff,Data Science,BU,Masters
+2306,5e2f0bce8dbee800dd1d765b,Business,Other,Bachelors
+2307,5e28dc168dbee800dd1d7193,CS,NYU,Masters
+2308,5e4c6f4d3acdaa00d34d7c28,Industrial Eng,Northeastern,Masters
+2309,5e31b38f8dbee800dd1d7967,Other,NYU,Masters
+2310,5e4f09d1d00f9f00d3d5b34f,Law,NYU,Masters
+2311,5e39c12d8dbee800dd1d82c8,Business,Northeastern,Masters
+2312,5e38a7318dbee800dd1d80e9,AI,Northeastern,Masters
+2313,5e195d5b8dbee800dd1d69e8,CS,MIT,Masters
+2314,5e32ef678dbee800dd1d7a4d,Business,MIT,Masters
+2315,5e51391e6b8e7400d252f8f6,Biology,Other,Masters
+2316,5e30f2cc8dbee800dd1d78fa,Data Science,NYU,Masters
+2317,5e28625e8dbee800dd1d70e1,Mechanical Eng,MIT,Bachelors
+2318,5e50a2db5eb42900d3c0bc41,Mechanical Eng,Other,PhD
+2319,5e4c91e73acdaa00d34d7cdb,AI,Other,PhD
+2320,5e2f54438dbee800dd1d7748,Business,Harvard,Masters
+2321,5e4acb5c3acdaa00d34d744c,Business,Northeastern,Bachelors
+2322,5e49895f3acdaa00d34d7004,Business,MIT,Masters
+2323,5e29ed968dbee800dd1d72ca,Policital Sci,Northeastern,Bachelors
+2324,5e308a098dbee800dd1d7829,Other,NYU,Masters
+2325,5e3998a28dbee800dd1d825f,Policital Sci,Harvard,Bachelors
+2326,5e50acbc6b8e7400d252f669,Mechanical Eng,Other,Bachelors
+2327,5e4ac4923acdaa00d34d7431,Other,Other,High school
+2328,5e505ce57504bb00d2f5453d,Other,Other,PhD
+2329,5e3188e18dbee800dd1d793b,Other,Other,Postdoc
+2330,5e519af46b8e7400d252fc75,Mechanical Eng,Other,Bachelors
+2331,5e43111f8dbee800dd1d8fc3,Mechanical Eng,BU,Bachelors
+2332,5e53dbcce0721300d36a4966,CS,Other,Bachelors
+2333,5e5141665eb42900d3c0bf74,Other,BU,Masters
+2334,5e26154d8dbee800dd1d6ee4,Other,Harvard,Masters
+2335,5e3a23638dbee800dd1d839f,Other,Northeastern,Masters
+2336,5e2cb03d8dbee800dd1d74bb,Other,Northeastern,Masters
+2337,5e50c9c57504bb00d2f54775,CS,Other,Bachelors
+2338,5e4f5e2cd00f9f00d3d5b695,Electrical Eng,Other,Masters
+2339,5e4585583acdaa00d34d69cb,AI,Northeastern,Masters
+2340,5e50a25ecb31a300d2831860,Finance,Other,Masters
+2341,5e4eea16d00f9f00d3d5b22a,Business,MIT,Masters
+2342,5e4ed9b4d00f9f00d3d5b145,Data Science,MIT,Bachelors
+2343,5e233ef68dbee800dd1d6da7,AI,Other,Masters
+2344,5e34c1808dbee800dd1d7cfd,Business,Hult Business,Bachelors
+2345,5e3f6d688dbee800dd1d8aeb,Physics,Harvard,Other
+2346,5e4b36c73acdaa00d34d7690,Data Science,NYU,Bachelors
+2347,5e4985333acdaa00d34d6ff8,Finance,Other,Masters
+2348,5e3d60298dbee800dd1d892c,Business,Other,MBA
+2349,5e509c1a5eb42900d3c0bc1d,Other,Other,Postdoc
+2350,5e5116ff7504bb00d2f5484c,Data Science,Other,PhD
+2351,5e4d87023acdaa00d34d819a,Business,Hult Business,MBA
+2352,5e3eda9c8dbee800dd1d8a8b,Other,Other,Other
+2353,5e2f96b18dbee800dd1d7785,CS,NYU,Masters
+2354,5e50082cd00f9f00d3d5ba39,Data Science,Other,Postdoc
+2355,5e4ad2703acdaa00d34d7461,Biology,Other,PhD
+2356,5e5087177504bb00d2f545b5,Mechanical Eng,Other,Bachelors
+2357,5e50a71a6b8e7400d252f632,Other,Other,Bachelors
+2358,5e4c13fb3acdaa00d34d7a03,Data Science,Harvard,Masters
+2359,5e4f719ed00f9f00d3d5b6f4,Materials,Harvard,Postdoc
+2360,5e506b556b8e7400d252f522,Other,Other,Masters
+2361,5e0a57b68dbee800dd1d66ff,CS,Dartmouth,Bachelors
+2362,5e39b1e88dbee800dd1d8299,Biology,Other,Other
+2363,5e4b3e393acdaa00d34d76a4,Business,MIT,Masters
+2364,5e46f3253acdaa00d34d6cef,Biology,BU,PhD
+2365,5e25e0b68dbee800dd1d6ebb,Finance,MIT,Other
+2366,5e5187a3cb31a300d2831ecc,Other,Other,Other
+2367,5e5050db6b8e7400d252f4b3,Other,Other,Bachelors
+2368,5e503fd6cb31a300d28316e5,Other,Boston College,Bachelors
+2369,5e50a6a45eb42900d3c0bc5b,Other,Other,Masters
+2370,5e3c74208dbee800dd1d882f,AI,Tufts,Masters
+2371,5e5149d36b8e7400d252f9da,Other,Other,Postdoc
+2372,5e46d6103acdaa00d34d6c84,Other,NYU,Masters
+2373,5e337d008dbee800dd1d7b30,Marketing,Other,Bachelors
+2374,5e4978223acdaa00d34d6fdc,Policital Sci,Harvard,Bachelors
+2375,5e4099578dbee800dd1d8b89,Biology,BU,Bachelors
+2376,5e3d81388dbee800dd1d896f,Other,Other,Masters
+2377,5e2f73128dbee800dd1d7774,CS,Other,Masters
+2378,5e4ca3053acdaa00d34d7d54,Business,Hult Business,MBA
+2379,5e516e475eb42900d3c0c1a5,Other,Other,Other
+2380,5e2ae2a28dbee800dd1d7347,Other,Other,PhD
+2381,5e49f4a93acdaa00d34d7124,Other,NYU,Bachelors
+2382,5e511c7e5eb42900d3c0be44,Biology,Other,Masters
+2383,5e31b5398dbee800dd1d796a,Other,NYU,Masters
+2384,5e4f2c01d00f9f00d3d5b46b,CS,Northeastern,Masters
+2385,5e3cb61d8dbee800dd1d888c,Mechanical Eng,Northeastern,Masters
+2386,5e4c10153acdaa00d34d79df,Biology,Harvard,Bachelors
+2387,5e2ab4648dbee800dd1d733b,Data Science,Northeastern,Masters
+2388,5dfe385c8dbee800dd1d66ad,Biology,Dartmouth,Bachelors
+2389,5de6d1988dbee800dd1d6491,Business,Other,MBA
+2390,5e381a9d8dbee800dd1d7fbd,Data Science,UMass Amherst,MBA
+2391,5e4ebde3d00f9f00d3d5b014,Aero,MIT,Bachelors
+2392,5e2f4cbc8dbee800dd1d7743,Other,NYU,Masters
+2393,5e288c088dbee800dd1d712d,Business,Hult Business,Masters
+2394,5e39d1138dbee800dd1d8307,Biology,MIT,Masters
+2395,5e516d0a7504bb00d2f54b86,Other,Other,Other
+2396,5e4d54e63acdaa00d34d801b,Business,Hult Business,MBA
+2397,5e50d70e7504bb00d2f547e3,CS,Other,Bachelors
+2398,5e2b68618dbee800dd1d73cc,Finance,Northeastern,Bachelors
+2399,5e470ae23acdaa00d34d6d27,Data Science,Other,Masters
+2400,5dfbc34e8dbee800dd1d667d,Biology,Other,Postdoc
+2401,5e4abe313acdaa00d34d7404,Data Science,MIT,MBA
+2402,5e2ff2748dbee800dd1d77b8,AI,UMass Amherst,Masters
+2403,5e38a03d8dbee800dd1d80e3,Other,Harvard,Masters
+2404,5e4204598dbee800dd1d8d86,Other,MIT,Bachelors
+2405,5e4ab0b33acdaa00d34d73d6,Other,Harvard,Bachelors
+2406,5e38c15c8dbee800dd1d8103,Data Science,Brandeis,MBA
+2407,5e308a538dbee800dd1d782c,Business,Northeastern,Masters
+2408,5e33a9ab8dbee800dd1d7b6b,Other,MIT,Bachelors
+2409,5e4ab7803acdaa00d34d73f2,Biology,Other,MBA
+2410,5e517f65cb31a300d2831e7c,Other,Other,Other
+2411,5e3dd1d48dbee800dd1d89d5,Marketing,Hult Business,Masters
+2412,5e5070587504bb00d2f54571,Other,Other,Postdoc
+2413,5e29ca578dbee800dd1d7284,AI,MIT,PhD
+2414,5e23891e8dbee800dd1d6dc2,Other,UMass Amherst,Bachelors
+2415,5e34c6188dbee800dd1d7d00,Business,Hult Business,Bachelors
+2416,5e508a587504bb00d2f545c6,AI,Harvard,Postdoc
+2417,5e2b9eb98dbee800dd1d7437,Electrical Eng,Other,Masters
+2418,5e47348c3acdaa00d34d6da5,Materials,Harvard,Postdoc
+2419,5e5124587504bb00d2f54873,Mechanical Eng,Other,Bachelors
+2420,5e387e2f8dbee800dd1d80a1,Materials,MIT,PhD
+2421,5e3ae7b08dbee800dd1d84c7,Law,Harvard,PhD
+2422,5e4f1f27d00f9f00d3d5b412,Materials,Other,Masters
+2423,5e3e69e48dbee800dd1d8a74,AI,Harvard,PhD
+2424,5e4e8663d00f9f00d3d5adf2,Biology,Northeastern,Masters
+2425,5e41cd328dbee800dd1d8d27,Business,Other,MBA
+2426,5e5177a47504bb00d2f54bd9,Other,Other,Other
+2427,5e516d9f7504bb00d2f54b8c,Other,Other,Bachelors
+2428,5e4c9bb03acdaa00d34d7d21,CS,Tufts,Bachelors
+2429,5e4deb4a3acdaa00d34d8408,Biology,Other,MBA
+2430,5e472ba23acdaa00d34d6d73,CS,Other,Other
+2431,5e4d896f3acdaa00d34d81b9,Industrial Eng,Northeastern,Masters
+2432,5e5049527504bb00d2f544de,Mechanical Eng,Other,Masters
+2433,5e26a7988dbee800dd1d6f3b,Biology,BU,Bachelors
+2434,5e3602fb8dbee800dd1d7d9d,Mechanical Eng,MIT,Other
+2435,5e5144866b8e7400d252f994,Other,Other,Other
+2436,5e4764d03acdaa00d34d6e13,Data Science,Other,MBA
+2437,5e36c7968dbee800dd1d7e05,Business,Other,Bachelors
+2438,5e4c0bbc3acdaa00d34d79b6,Business,Other,Other
+2439,5e01a6ce8dbee800dd1d66d0,Other,Dartmouth,Other
+2440,5e5145535eb42900d3c0bfa9,CS,Other,Bachelors
+2441,5e2c74e48dbee800dd1d7479,Business,Northeastern,Masters
+2442,5e44871c8dbee800dd1d93e7,Data Science,Northeastern,Masters
+2443,5e431bf18dbee800dd1d8fe6,CS,MIT,Masters
+2444,5e463ee13acdaa00d34d6afb,CS,MIT,Bachelors
+2445,5e5039815eb42900d3c0bab6,Other,Harvard,Bachelors
+2446,5e22eaf48dbee800dd1d6d98,Other,Other,Bachelors
+2447,5e513bd7cb31a300d2831ba9,CS,MIT,Bachelors
+2448,5e4cba9e3acdaa00d34d7da0,Other,Other,Masters
+2449,5e4313c38dbee800dd1d8fd1,Business,Hult Business,Masters
+2450,5de0227b8dbee800dd1d644a,AI,Northeastern,Masters
+2451,5e506a6d5eb42900d3c0bb54,Data Science,Other,Masters
+2452,5e211adc8dbee800dd1d6c81,Materials,Other,Masters
+2453,5e2f1d5e8dbee800dd1d7674,Other,NYU,Masters
+2454,5e50187bcb31a300d283167b,Materials,Other,PhD
+2455,5e2df9a28dbee800dd1d7517,Data Science,Other,Bachelors
+2456,5e4c788c3acdaa00d34d7c51,Electrical Eng,MIT,Masters
+2457,5e2fbb258dbee800dd1d77a6,Other,Harvard,Bachelors
+2458,5e50aa946b8e7400d252f656,Biology,Other,Masters
+2459,5e516a5f7504bb00d2f54b65,Biology,Other,Masters
+2460,5e32db0b8dbee800dd1d7a2a,CS,MIT,Bachelors
+2461,5e4dd10c3acdaa00d34d8334,Other,Wellesley,Bachelors
+2462,5e2de1f48dbee800dd1d74fe,CS,NYU,Masters
+2463,5e4e052d3acdaa00d34d84fd,Data Science,Northeastern,Masters
+2464,5e51370a6b8e7400d252f8e0,AI,Other,Masters
+2465,5e45b4fe3acdaa00d34d69ef,Marketing,BU,PhD
+2466,5e4eba9ed00f9f00d3d5aff0,CS,Harvard,Masters
+2467,5e2de0178dbee800dd1d74fb,Data Science,Northeastern,Masters
+2468,5e4e8703d00f9f00d3d5adf5,AI,Northeastern,Masters
+2469,5e1fd0008dbee800dd1d6bce,Electrical Eng,Other,Bachelors
+2470,5e18f7b28dbee800dd1d69e0,CS,NYU,Masters
+2471,5e4ec08bd00f9f00d3d5b027,AI,MIT,Bachelors
+2472,5e4336658dbee800dd1d902c,Other,NYU,Masters
+2473,5e4f0c75d00f9f00d3d5b35a,CS,NYU,Masters
+2474,5e3b06698dbee800dd1d8524,CS,Other,Other
+2475,5e2b8c0b8dbee800dd1d7422,Data Science,Northeastern,Masters
+2476,5e3c7ebc8dbee800dd1d884b,Biology,MIT,Postdoc
+2477,5e364f988dbee800dd1d7df2,Other,MIT,Bachelors
+2478,5e2efbf58dbee800dd1d7626,CS,NYU,Masters
+2479,5e504743cb31a300d28316fd,CS,Other,Masters
+2480,5e27a1518dbee800dd1d7059,Other,Northeastern,Masters
+2481,5e4d9c1f3acdaa00d34d823f,Materials,MIT,Bachelors
+2482,5e3b1e638dbee800dd1d856b,AI,BU,Masters
+2483,5e40c3d08dbee800dd1d8b9f,CS,MIT,Bachelors
+2484,5e4eec53d00f9f00d3d5b24c,Other,Other,Masters
+2485,5e4b65ec3acdaa00d34d770b,Other,Harvard,Masters
+2486,5e477ebb3acdaa00d34d6e29,Other,NYU,Masters
+2487,5e4f22cad00f9f00d3d5b42f,Other,Other,Bachelors
+2488,5e4c997b3acdaa00d34d7d02,Data Science,WPI,Masters
+2489,5e4c7efe3acdaa00d34d7c6c,CS,Northeastern,Masters
+2490,5e4721b83acdaa00d34d6d60,Data Science,Other,Bachelors
+2491,5e4a1d953acdaa00d34d7193,Other,Other,PhD
+2492,5dfab3ae8dbee800dd1d663c,Mechanical Eng,Dartmouth,Bachelors
+2493,5e5132146b8e7400d252f8b1,Business,MIT,Masters
+2494,5e516f73cb31a300d2831dec,Other,Other,Other
+2495,5e518484cb31a300d2831ebf,Other,Other,Other
+2496,5e2772a48dbee800dd1d6fd3,Business,Hult Business,MBA
+2497,5e41e3e48dbee800dd1d8d46,Other,Other,Masters
+2498,5e4fd790d00f9f00d3d5b832,Law,Northeastern,Bachelors
+2499,5e45ebb73acdaa00d34d6a5f,Business,Other,MBA
+2500,5e4dfd073acdaa00d34d84b1,Electrical Eng,Other,Masters
+2501,5e30a7808dbee800dd1d7864,Mechanical Eng,MIT,Masters
+2502,5e50bf916b8e7400d252f732,Other,Other,Other
+2503,5e3094fd8dbee800dd1d7844,Biology,MIT,Postdoc
+2504,5e31c2668dbee800dd1d7976,CS,MIT,Bachelors
+2505,5e498b8b3acdaa00d34d7007,Aero,MIT,Masters
+2506,5e37623c8dbee800dd1d7e53,Business,Other,Bachelors
+2507,5e27dbec8dbee800dd1d706c,CS,NYU,Masters
+2508,5e31088a8dbee800dd1d7905,Biology,Harvard,PhD
+2509,5e51850b5eb42900d3c0c25c,Other,Other,Bachelors
+2510,5e228d498dbee800dd1d6d86,Industrial Eng,MIT,Masters
+2511,5e5137ef6b8e7400d252f8ea,Other,Other,Other
+2512,5dd6ad128dbee800dd1d63d0,Civil Eng,Tufts,PhD
+2513,5e4d86fa3acdaa00d34d8197,CS,Brandeis,Bachelors
+2514,5e3e0b1f8dbee800dd1d8a4f,CS,NYU,Masters
+2515,5e3c1fb08dbee800dd1d86db,Other,MIT,MBA
+2516,5e409a9b8dbee800dd1d8b8d,Other,Other,Masters
+2517,5e509ac05eb42900d3c0bc12,Electrical Eng,Other,Postdoc
+2518,5e3ca8e78dbee800dd1d8885,Other,UMass Amherst,Bachelors
+2519,5e39c4328dbee800dd1d82dc,Data Science,MIT,Postdoc
+2520,5e40ece98dbee800dd1d8bbd,Biology,Other,PhD
+2521,5e45c55c3acdaa00d34d6a0d,Other,NYU,Masters
+2522,5e4f1ae0d00f9f00d3d5b3e1,Marketing,Boston College,Bachelors
+2523,5e3dda8d8dbee800dd1d8a2b,Marketing,Hult Business,Masters
+2524,5e3848c28dbee800dd1d8039,Physics,Harvard,PhD
+2525,5e398a998dbee800dd1d8226,Other,Harvard,High school
+2526,5e495e153acdaa00d34d6fb9,Policital Sci,Other,Bachelors
+2527,5e4eb8b0d00f9f00d3d5afc8,Other,Other,PhD
+2528,5e2651fb8dbee800dd1d6f09,Business,Hult Business,Masters
+2529,5e5fd7934d5f8e00d232089e,CS,Other,Bachelors
+2530,5e4b07013acdaa00d34d75da,CS,MIT,Masters
+2531,5e481b363acdaa00d34d6e79,Finance,Harvard,Bachelors
+2532,5e29e7588dbee800dd1d72b2,Finance,Harvard,Masters
+2533,5e50064dd00f9f00d3d5ba25,CS,Wellesley,Bachelors
+2534,5e4aa8483acdaa00d34d735d,Biology,Tufts,PhD
+2535,5e3dc1a78dbee800dd1d89c1,Other,Harvard,PhD
+2536,5e4fdb79d00f9f00d3d5b87d,AI,Other,Bachelors
+2537,5e1e72f98dbee800dd1d6b4f,Mechanical Eng,Other,Other
+2538,5e4f0652d00f9f00d3d5b332,Biology,Northeastern,Masters
+2539,5e178b0a8dbee800dd1d692d,Finance,NYU,Masters
+2540,5e49ba613acdaa00d34d709b,CS,MIT,Bachelors
+2541,5e5164c66b8e7400d252fb0b,Other,Other,Other
+2542,5e2f595c8dbee800dd1d7757,Finance,Dartmouth,Bachelors
+2543,5e230ff78dbee800dd1d6d9d,AI,Harvard,Postdoc
+2544,5e17c1028dbee800dd1d6943,Biology,Other,Postdoc
+2545,5e3c4efe8dbee800dd1d879d,Other,Other,Bachelors
+2546,5e3990618dbee800dd1d8248,Finance,Hult Business,Bachelors
+2547,5e4d63cb3acdaa00d34d80af,Business,Other,MBA
+2548,5e31a2e58dbee800dd1d7958,AI,Harvard,Masters
+2549,5e517ec57504bb00d2f54c1c,Other,Other,Other
+2550,5e50530c5eb42900d3c0bb00,CS,Other,Bachelors
+2551,5e46e8333acdaa00d34d6caa,Data Science,MIT,PhD
+2552,5e38f3538dbee800dd1d816b,Electrical Eng,MIT,Other
+2553,5e29baf18dbee800dd1d726e,Other,Other,Masters
+2554,5e2bcf128dbee800dd1d7449,CS,Other,Bachelors
+2555,5e51787bcb31a300d2831e34,Other,Other,Other
+2556,5e4ecd28d00f9f00d3d5b0e1,Business,WPI,Masters
+2557,5e34d9e08dbee800dd1d7d03,Business,Tufts,Masters
+2558,5e308bbf8dbee800dd1d7830,Other,Other,Other
+2559,5e2245c28dbee800dd1d6d6d,Business,Other,MBA
+2560,5e4c85a63acdaa00d34d7c79,Business,Northeastern,Masters
+2561,5e3b52578dbee800dd1d85d0,CS,Harvard,Bachelors
+2562,5e56ab98e0721300d36a4a69,Other,Other,Bachelors
+2563,5e4da6783acdaa00d34d8271,Industrial Eng,Northeastern,Masters
+2564,5e23e6fe8dbee800dd1d6dd2,Biology,MIT,High school
+2565,5e4da2cc3acdaa00d34d8259,AI,MIT,Masters
+2566,5e3303a98dbee800dd1d7a7f,Biology,Other,Postdoc
+2567,5e34ed8b8dbee800dd1d7d0a,Electrical Eng,Other,Masters
+2568,5e4e97d2d00f9f00d3d5ae19,Other,Northeastern,Masters
+2569,5e3f23038dbee800dd1d8ab7,AI,NYU,Masters
+2570,5e4ed557d00f9f00d3d5b121,AI,Northeastern,Masters
+2571,5e3098c88dbee800dd1d7847,Electrical Eng,NYU,Masters
+2572,5e50048ed00f9f00d3d5ba09,Physics,UConn,PhD
+2573,5e516f067504bb00d2f54b9b,Biology,MIT,Postdoc
+2574,5e4e993bd00f9f00d3d5ae1f,Marketing,NYU,Masters
+2575,5e2f03788dbee800dd1d7640,Business,NYU,Masters
+2576,5e432e398dbee800dd1d9018,CS,NYU,Masters
+2577,5e4ab6dc3acdaa00d34d73ee,Other,Tufts,Masters
+2578,5e514896cb31a300d2831c38,Marketing,Other,MBA
+2579,5e4efe0dd00f9f00d3d5b2e6,CS,MIT,Bachelors
+2580,5e4dddb53acdaa00d34d835d,Policital Sci,Boston College,Bachelors
+2581,5e1a60648dbee800dd1d69fa,CS,NYU,Masters
+2582,5e4f2b65d00f9f00d3d5b464,Mechanical Eng,Other,Masters
+2583,5e4cc38c3acdaa00d34d7db5,CS,NYU,Masters
+2584,5e3f17948dbee800dd1d8aac,Data Science,MIT,Masters
+2585,5e07bdef8dbee800dd1d66e5,Mechanical Eng,BU,Masters
+2586,5e41d47a8dbee800dd1d8d3f,Marketing,Other,Masters
+2587,5e1e2ce18dbee800dd1d6b35,Business,UMass Boston,MBA
+2588,5e2de5368dbee800dd1d7502,AI,Northeastern,Masters
+2589,5e457d6a3acdaa00d34d699c,Mechanical Eng,MIT,PhD
+2590,5e3768de8dbee800dd1d7e57,AI,MIT,Masters
+2591,5e437da08dbee800dd1d90d2,Other,Harvard,Masters
+2592,5e23fa7d8dbee800dd1d6dd5,Mechanical Eng,BU,MBA
+2593,5e5023395eb42900d3c0ba74,Other,Harvard,Masters
+2594,5e5052c1cb31a300d2831732,Other,Other,Masters
+2595,5e5179526b8e7400d252fbc0,Mechanical Eng,Other,Bachelors
+2596,5e2c9b428dbee800dd1d74b5,Materials,MIT,Postdoc
+2597,5df960c58dbee800dd1d6602,Electrical Eng,Other,Bachelors
+2598,5e4ec6dcd00f9f00d3d5b06c,Business,UMass Boston,Masters
+2599,5e4f1498d00f9f00d3d5b384,Data Science,MIT,Masters
+2600,5e4dcf083acdaa00d34d832a,Other,UMass Boston,Bachelors
+2601,5e3e7ddc8dbee800dd1d8a77,Biology,Other,Postdoc
+2602,5e485b2b3acdaa00d34d6ecf,Mechanical Eng,MIT,Bachelors
+2603,5e50ad727504bb00d2f54679,Aero,Other,Bachelors
+2604,5e515eb16b8e7400d252fac3,Other,Other,Other
+2605,5e4336618dbee800dd1d9029,CS,NYU,Masters
+2606,5e514e397504bb00d2f54a1b,Other,Other,Other
+2607,5e50ca446b8e7400d252f783,Mechanical Eng,Other,Masters
+2608,5e289b838dbee800dd1d713b,Electrical Eng,Tufts,Masters
+2609,5e1ff8e98dbee800dd1d6bdf,Physics,Harvard,PhD
+2610,5e3add1c8dbee800dd1d8475,AI,Northeastern,Masters
+2611,5e304f3c8dbee800dd1d77e6,Finance,NYU,Bachelors
+2612,5e309ede8dbee800dd1d7857,Electrical Eng,NYU,Masters
+2613,5e3b0a858dbee800dd1d853a,CS,MIT,Bachelors
+2614,5e179e588dbee800dd1d693f,Data Science,MIT,MBA
+2615,5e3b92cc8dbee800dd1d8603,Finance,Other,Masters
+2616,5e4db3733acdaa00d34d82ad,Business,Other,Masters
+2617,5e4093ed8dbee800dd1d8b85,Other,BU,Bachelors
+2618,5e50bf317504bb00d2f54731,Business,Other,Masters
+2619,5e1fec428dbee800dd1d6bdc,Business,MIT,Masters
+2620,5e39f2908dbee800dd1d8365,CS,Harvard,Bachelors
+2621,5e50a0f5cb31a300d2831854,Biology,Other,Bachelors
+2622,5e2dfe3e8dbee800dd1d751f,Finance,Other,Masters
+2623,5e4f181bd00f9f00d3d5b3c7,Finance,Other,Masters
+2624,5e4992833acdaa00d34d7013,Business,Hult Business,Masters
+2625,5e4bfbe13acdaa00d34d7968,Finance,Harvard,Bachelors
+2626,5e45a3553acdaa00d34d69e6,Business,MIT,Masters
+2627,5e50ca997504bb00d2f5477e,CS,Other,Masters
+2628,5e5021ac5eb42900d3c0ba70,CS,MIT,Masters
+2629,5e52030d6b8e7400d252fca9,Other,Other,Other
+2630,5e29ccf18dbee800dd1d7299,Other,MIT,Masters
+2631,5e505910cb31a300d283174e,Business,Hult Business,Masters
+2632,5e4b4a273acdaa00d34d76b1,Data Science,MIT,Bachelors
+2633,5e4dabc83acdaa00d34d828b,Biology,Harvard,PhD
+2634,5e4ecbc1d00f9f00d3d5b0a4,Data Science,MIT,Bachelors
+2635,5e407dcc8dbee800dd1d8b78,Civil Eng,Harvard,Masters
+2636,5e4c7b943acdaa00d34d7c5c,Other,MIT,Postdoc
+2637,5e4361728dbee800dd1d9076,Business,UMass Boston,Bachelors
+2638,5e3b10db8dbee800dd1d8547,Other,MIT,Postdoc
+2639,5e3c754b8dbee800dd1d883e,CS,Harvard,Bachelors
+2640,5e120d168dbee800dd1d676e,Materials,Other,PhD
+2641,5e5167a77504bb00d2f54b47,Other,Other,Other
+2642,5e126cf28dbee800dd1d6771,Biology,MIT,Postdoc
+2643,5e4c1f833acdaa00d34d7a42,Business,Northeastern,MBA
+2644,5e51366c7504bb00d2f54904,Mechanical Eng,Other,MBA
+2645,5e521be46b8e7400d252fcaf,Business,Other,Masters
+2646,5e31d0e68dbee800dd1d797e,Other,Harvard,Postdoc
+2647,5e4b7d7f3acdaa00d34d7747,CS,Harvard,Bachelors
+2648,5e28be8c8dbee800dd1d7183,CS,NYU,Masters
+2649,5e50b4c9cb31a300d2831925,AI,Other,Masters
+2650,5e51344b5eb42900d3c0bee3,Other,Other,Other
+2651,5e4eb0add00f9f00d3d5af4d,Other,Other,Bachelors
+2652,5e44dee18dbee800dd1d9467,Other,BU,Masters
+2653,5e5192465eb42900d3c0c2a5,Physics,Other,Bachelors
+2654,5e49b7863acdaa00d34d7069,CS,MIT,PhD
+2655,5e50295e5eb42900d3c0ba99,Data Science,MIT,Masters
+2656,5de92b448dbee800dd1d64c8,CS,NYU,Bachelors
+2657,5e51743d5eb42900d3c0c1cf,Aero,Other,Bachelors
+2658,5e30cc888dbee800dd1d78d3,Data Science,MIT,Bachelors
+2659,5e514ffb6b8e7400d252fa26,Aero,Other,Bachelors
+2660,5e513e705eb42900d3c0bf54,Biology,Other,Bachelors
+2661,5e40ce858dbee800dd1d8bab,Business,Hult Business,Masters
+2662,5e4d5f4a3acdaa00d34d8088,Business,Hult Business,Bachelors
+2663,5e2153948dbee800dd1d6c86,CS,BU,Bachelors
+2664,5e516b647504bb00d2f54b71,Other,Other,Other
+2665,5e3abad68dbee800dd1d8432,Mechanical Eng,MIT,Masters
+2666,5e31f6138dbee800dd1d7999,CS,NYU,Bachelors
+2667,5e4f3616d00f9f00d3d5b4a0,Data Science,MIT,Masters
+2668,5e4d4dd83acdaa00d34d7fe9,Business,Hult Business,Masters
+2669,5e4f77b3d00f9f00d3d5b709,CS,Harvard,Masters
+2670,5e382b4f8dbee800dd1d8010,Biology,Other,Bachelors
+2671,5e4b3f6d3acdaa00d34d76a8,CS,MIT,Bachelors
+2672,5e5189c36b8e7400d252fc4a,Other,Other,Other
+2673,5e2a57838dbee800dd1d7317,Business,Other,Masters
+2674,5e4f4b1ed00f9f00d3d5b54d,Chemistry,Other,Bachelors
+2675,5e49bbc43acdaa00d34d70a4,Business,MIT,Masters
+2676,5e506a3fcb31a300d283178c,Data Science,Other,Postdoc
+2677,5e517057cb31a300d2831df2,Other,Other,Other
+2678,5e3719848dbee800dd1d7e2d,CS,MIT,Bachelors
+2679,5e4b47bc3acdaa00d34d76ac,Other,Tufts,Bachelors
+2680,5e3204b48dbee800dd1d79af,AI,Other,PhD
+2681,5e50202ecb31a300d283169d,CS,Other,Bachelors
+2682,5e430d1f8dbee800dd1d8fb1,Finance,Hult Business,Masters
+2683,5e3c8f998dbee800dd1d8861,Biology,Other,PhD
+2684,5e4419d68dbee800dd1d92d8,Business,Northeastern,Masters
+2685,5e3b09048dbee800dd1d8533,AI,BU,Masters
+2686,5e4c53ac3acdaa00d34d7b74,Biology,MIT,PhD
+2687,5e48acef3acdaa00d34d6f55,Materials,MIT,PhD
+2688,5e5179aa7504bb00d2f54be7,Other,Other,Other
+2689,5e49f7dd3acdaa00d34d7139,Other,Harvard,Postdoc
+2690,5e2f081b8dbee800dd1d764d,Business,NYU,Bachelors
+2691,5e4fff6fd00f9f00d3d5b9ac,Data Science,Northeastern,Masters
+2692,5e50bdca6b8e7400d252f72a,Data Science,Other,Masters
+2693,5e4e77933acdaa00d34d868a,Biology,Other,Masters
+2694,5e4fe5e4d00f9f00d3d5b8ca,CS,MIT,Bachelors
+2695,5e430d788dbee800dd1d8fb4,Data Science,Northeastern,Masters
+2696,5e4d87043acdaa00d34d819b,Finance,Other,Masters
+2697,5e4ee5b4d00f9f00d3d5b207,Finance,Other,Other
+2698,5e4c307e3acdaa00d34d7ab7,Electrical Eng,Other,Bachelors
+2699,5e4c6b963acdaa00d34d7c1c,Industrial Eng,Northeastern,Masters
+2700,5e4b27ba3acdaa00d34d765f,Biology,Other,PhD
+2701,5e50c35bcb31a300d2831994,Business,Other,Other
+2702,5e4df9c23acdaa00d34d84a0,Business,Other,MBA
+2703,5e2d30c08dbee800dd1d74e7,Other,NYU,Masters
+2704,5e50b2b06b8e7400d252f6bb,Other,Other,Bachelors
+2705,5e3c10a48dbee800dd1d8688,Physics,MIT,PhD
+2706,5e4c78ff3acdaa00d34d7c58,Other,MIT,MD
+2707,5e44e44f8dbee800dd1d9470,Business,Northeastern,Bachelors
+2708,5e4eaf99d00f9f00d3d5af33,CS,Other,Other
+2709,5e50b2fc6b8e7400d252f6be,Mechanical Eng,Other,Bachelors
+2710,5e31d1f68dbee800dd1d7984,Policital Sci,NYU,Masters
+2711,5e4abefc3acdaa00d34d740c,Data Science,Other,MBA
+2712,5e4fecddd00f9f00d3d5b8fb,CS,MIT,Bachelors
+2713,5e514a6c6b8e7400d252f9e4,Biology,Other,Masters
+2714,5e503ee07504bb00d2f544bf,Policital Sci,Harvard,Masters
+2715,5e383e3f8dbee800dd1d801f,Data Science,MIT,Bachelors
+2716,5e5086b96b8e7400d252f57e,CS,Other,Masters
+2717,5e4dc87e3acdaa00d34d8303,Data Science,UConn,Masters
+2718,5e5084f1cb31a300d28317df,CS,Other,Masters
+2719,5e4e7ae63acdaa00d34d8692,Biology,Other,Masters
+2720,5e4ede8cd00f9f00d3d5b19e,Chemistry,MIT,Postdoc
+2721,5e346afd8dbee800dd1d7cbb,Biology,Other,Other
+2722,5e504a08cb31a300d2831706,Other,Other,PhD
+2723,5e3192518dbee800dd1d7944,AI,Hult Business,MBA
+2724,5e43ffa38dbee800dd1d9274,Electrical Eng,Northeastern,Masters
+2725,5e4cc3d83acdaa00d34d7db8,CS,NYU,Masters
+2726,5e5885194d5f8e00d232088f,Other,Other,MBA
+2727,5e3ec26e8dbee800dd1d8a80,Industrial Eng,Northeastern,Masters
+2728,5e5186ef5eb42900d3c0c268,Business,Other,Bachelors
+2729,5e51699c5eb42900d3c0c173,Other,Other,Other
+2730,5e5142796b8e7400d252f975,Biology,Other,Masters
+2731,5e4479578dbee800dd1d93dd,CS,MIT,Masters
+2732,5e3a27c88dbee800dd1d83a8,AI,Tufts,Bachelors
+2733,5e46d8803acdaa00d34d6c89,CS,Brandeis,Bachelors
+2734,5e4d54af3acdaa00d34d8013,Data Science,Hult Business,Masters
+2735,5e388bb78dbee800dd1d80bc,Aero,MIT,Bachelors
+2736,5e345fcc8dbee800dd1d7cac,Mechanical Eng,Other,PhD
+2737,5e4d86f83acdaa00d34d8196,Materials,Other,Masters
+2738,5dd4cbd38dbee800dd1d63ad,Business,Tufts,Masters
+2739,5e309c038dbee800dd1d784d,CS,NYU,Masters
+2740,5e4c2ed23acdaa00d34d7aa6,CS,Harvard,Other
+2741,5e506be35eb42900d3c0bb59,Finance,Other,Bachelors
+2742,5e5137fb7504bb00d2f54914,Business,Other,Bachelors
+2743,5e2f0ffe8dbee800dd1d7663,Finance,NYU,Masters
+2744,5e39d0358dbee800dd1d82fa,Data Science,BU,Masters
+2745,5e29ebe18dbee800dd1d72c2,CS,NYU,Masters
+2746,5e430bc48dbee800dd1d8fa1,Biology,Wellesley,Bachelors
+2747,5e166afe8dbee800dd1d68a2,CS,Other,Bachelors
+2748,5e3789ef8dbee800dd1d7e8e,AI,Other,Bachelors
+2749,5e195da48dbee800dd1d69ec,Business,MIT,MBA
+2750,5e515ee67504bb00d2f54aea,Data Science,Other,Masters
+2751,5e4d8bd63acdaa00d34d81e0,Other,NYU,Masters
+2752,5e4f2d7dd00f9f00d3d5b47e,Biology,Other,Postdoc
+2753,5e3b06d28dbee800dd1d8527,Physics,Harvard,Bachelors
+2754,5e4c357c3acdaa00d34d7ac8,Aero,MIT,PhD
+2755,5e4c1a053acdaa00d34d7a26,Biology,Other,Other
+2756,5e4ea930d00f9f00d3d5ae61,CS,MIT,Masters
+2757,5e27a63b8dbee800dd1d705e,Materials,Other,Postdoc
+2758,5e3738da8dbee800dd1d7e40,CS,MIT,PhD
+2759,5e2cb9c38dbee800dd1d74c9,Business,Hult Business,MBA
+2760,5e514add7504bb00d2f549ee,Biology,Other,High school
+2761,5e4d5f803acdaa00d34d808d,Mechanical Eng,MIT,Masters
+2762,5e28b0468dbee800dd1d7167,Data Science,NYU,Masters
+2763,5e4d886b3acdaa00d34d81ae,Finance,Boston College,Bachelors
+2764,5e50d3937504bb00d2f547d2,Mechanical Eng,Other,Bachelors
+2765,5e502323cb31a300d28316a3,Other,Northeastern,Masters
+2766,5e27fa0d8dbee800dd1d706f,CS,NYU,Masters
+2767,5e516566cb31a300d2831d82,Other,Other,Other
+2768,5e3b354c8dbee800dd1d85a0,Business,Hult Business,Bachelors
+2769,5e28bd6a8dbee800dd1d717f,Data Science,NYU,Masters
+2770,5e4c0e7d3acdaa00d34d79cd,Materials,MIT,Bachelors
+2771,5e0773a48dbee800dd1d66e1,Finance,Other,Masters
+2772,5e40e52b8dbee800dd1d8bb8,Other,Northeastern,Masters
+2773,5e4f017ed00f9f00d3d5b302,CS,Other,Bachelors
+2774,5e2872588dbee800dd1d711c,CS,WPI,Masters
+2775,5e4c75283acdaa00d34d7c41,Biology,Other,Postdoc
+2776,5e4ae0133acdaa00d34d74bf,Finance,Hult Business,Masters
+2777,5e471a113acdaa00d34d6d47,Biology,Other,Bachelors
+2778,5e03b7338dbee800dd1d66d4,Biology,Other,PhD
+2779,5e4409fe8dbee800dd1d929d,Biology,MIT,Postdoc
+2780,5e32d87f8dbee800dd1d7a1a,Mechanical Eng,MIT,PhD
+2781,5e5185bd5eb42900d3c0c262,Other,Other,Other
+2782,5e4818e13acdaa00d34d6e69,Biology,Brandeis,PhD
+2783,5e39ed6b8dbee800dd1d8358,Other,NYU,Masters
+2784,5e46d41c3acdaa00d34d6c7e,CS,Other,PhD
+2785,5e4184f68dbee800dd1d8cb6,Business,Boston College,Bachelors
+2786,5e345e808dbee800dd1d7ca9,Business,Boston College,MBA
+2787,5e4eef64d00f9f00d3d5b25d,Business,Hult Business,MBA
+2788,5e3f53c08dbee800dd1d8adc,Finance,Brandeis,Masters
+2789,5e2a4f348dbee800dd1d730f,Business,Other,MBA
+2790,5e51337bcb31a300d2831b39,Business,Other,MBA
+2791,5e39c81a8dbee800dd1d82eb,Finance,Harvard,High school
+2792,5e42e6308dbee800dd1d8f1f,Biology,MIT,Bachelors
+2793,5e5027625eb42900d3c0ba8f,Other,Tufts,Other
+2794,5e51065c6b8e7400d252f802,Other,Other,Masters
+2795,5e3b8e1c8dbee800dd1d85f6,Business,MIT,MBA
+2796,5e2f03888dbee800dd1d7643,Finance,NYU,Masters
+2797,5e4b4cbd3acdaa00d34d76b8,CS,NYU,Bachelors
+2798,5e3586b18dbee800dd1d7d3e,Business,MIT,Other
+2799,5e208df38dbee800dd1d6c38,Biology,BU,PhD
+2800,5e45ec373acdaa00d34d6a63,Business,Other,Bachelors
+2801,5e514c7f5eb42900d3c0c001,Other,Other,Other
+2802,5e3be1758dbee800dd1d865f,CS,Harvard,Bachelors
+2803,5e3592508dbee800dd1d7d45,Physics,MIT,Bachelors
+2804,5e477b173acdaa00d34d6e24,CS,MIT,Bachelors
+2805,5e3da7e48dbee800dd1d89a5,Data Science,Harvard,Masters
+2806,5e3dd83e8dbee800dd1d8a1a,Biology,MIT,Bachelors
+2807,5e41c5d88dbee800dd1d8d1e,Other,Harvard,Bachelors
+2808,5e4a35343acdaa00d34d71a6,Business,Other,Bachelors
+2809,5e2057248dbee800dd1d6c09,CS,MIT,Bachelors
+2810,5e4906b03acdaa00d34d6f6e,Business,Other,Bachelors
+2811,5dddc7938dbee800dd1d6424,Other,Other,Masters
+2812,5e39c81f8dbee800dd1d82ef,Electrical Eng,Harvard,Bachelors
+2813,5e4df27d3acdaa00d34d844a,Policital Sci,Wellesley,Bachelors
+2814,5e2588408dbee800dd1d6e66,Physics,Harvard,PhD
+2815,5e4324018dbee800dd1d9008,Aero,MIT,Masters
+2816,5e3999208dbee800dd1d8267,Other,MIT,PhD
+2817,5e3da8ff8dbee800dd1d89ac,Data Science,MIT,Bachelors
+2818,5e38f21d8dbee800dd1d8166,Biology,MIT,PhD
+2819,5e3979458dbee800dd1d81ee,Mechanical Eng,MIT,Postdoc
+2820,5e30592f8dbee800dd1d77ef,Finance,Other,Other
+2821,5e516e6f7504bb00d2f54b97,Other,Other,Other
+2822,5e41b7e58dbee800dd1d8cfb,Other,Other,PhD
+2823,5e4db91b3acdaa00d34d82bf,Data Science,Brandeis,Masters
+2824,5e1f9bcf8dbee800dd1d6bbc,Data Science,Other,Other
+2825,5e3a33e08dbee800dd1d83b4,Other,Other,Bachelors
+2826,5e3e01d08dbee800dd1d8a4b,Materials,MIT,PhD
+2827,5e4891d53acdaa00d34d6f1a,AI,Other,Masters
+2828,5e4dada53acdaa00d34d82a3,Biology,Boston College,PhD
+2829,5e50a9bb7504bb00d2f54665,Electrical Eng,MIT,Masters
+2830,5e4f4826d00f9f00d3d5b53a,Finance,NYU,Masters
+2831,5e44e3a38dbee800dd1d946c,CS,MIT,Bachelors
+2832,5e5164c6cb31a300d2831d79,Other,Other,Other
+2833,5e516e627504bb00d2f54b94,Other,Other,Other
+2834,5e4e07a43acdaa00d34d8549,AI,Tufts,Masters
+2835,5e3c778d8dbee800dd1d8848,Data Science,Other,Masters
+2836,5e3869668dbee800dd1d8084,Data Science,MIT,Masters
+2837,5e5153655eb42900d3c0c063,Mechanical Eng,Other,Masters
+2838,5e311b5a8dbee800dd1d7908,Other,NYU,Masters
+2839,5e21d1ce8dbee800dd1d6d28,CS,Northeastern,Bachelors
+2840,5e4426e18dbee800dd1d9330,Finance,Dartmouth,Bachelors
+2841,5e517a366b8e7400d252fbce,Business,Other,MBA
+2842,5e4f0ec9d00f9f00d3d5b36e,Biology,MIT,Bachelors
+2843,5e2547b38dbee800dd1d6e39,Business,Other,MBA
+2844,5e25d1708dbee800dd1d6e9a,Other,Other,Postdoc
+2845,5e18f73e8dbee800dd1d69dd,Business,Other,Bachelors
+2846,5e50a1537504bb00d2f5462f,Aero,Other,MBA
+2847,5e41fe448dbee800dd1d8d73,Data Science,NYU,Masters
+2848,5e175e788dbee800dd1d690f,CS,Dartmouth,Bachelors
+2849,5e2efecf8dbee800dd1d762b,Biology,Other,Postdoc
+2850,5e38eb698dbee800dd1d8151,CS,MIT,Masters
+2851,5e4c3ab33acdaa00d34d7adb,Other,Other,Other
+2852,5df2c9708dbee800dd1d656e,Other,Dartmouth,Bachelors
+2853,5e5165737504bb00d2f54b32,Finance,Other,MBA
+2854,5e46ccce3acdaa00d34d6c61,Other,Harvard,PhD
+2855,5e3ae0818dbee800dd1d84a0,CS,Other,Masters
+2856,5e50b85f5eb42900d3c0bd10,Aero,Other,PhD
+2857,5e44978f8dbee800dd1d9401,Finance,Other,Masters
+2858,5e4621a23acdaa00d34d6aa8,Biology,Harvard,PhD
+2859,5e514d375eb42900d3c0c009,Other,Other,Other
+2860,5e3b6cc08dbee800dd1d85e1,Business,NYU,Bachelors
+2861,5e4afeb03acdaa00d34d75b7,Other,Harvard,Masters
+2862,5e4c0d253acdaa00d34d79c0,Biology,Other,PhD
+2863,5e4c6c283acdaa00d34d7c20,Mechanical Eng,Northeastern,Masters
+2864,5e4f0d9ad00f9f00d3d5b360,CS,Boston College,Bachelors
+2865,5e5052496b8e7400d252f4b9,Business,Other,MBA
+2866,5e4332898dbee800dd1d9022,Business,MIT,Masters
+2867,5e4eeba0d00f9f00d3d5b240,Physics,Harvard,Postdoc
+2868,5e4b84ab3acdaa00d34d774c,Electrical Eng,MIT,Bachelors
+2869,5e33b4168dbee800dd1d7b74,Business,MIT,Masters
+2870,5e41ef958dbee800dd1d8d4a,Other,NYU,Masters
+2871,5e3844368dbee800dd1d802a,Physics,Tufts,Bachelors
+2872,5e4c3e7b3acdaa00d34d7af2,Policital Sci,Harvard,Bachelors
+2873,5e2797f88dbee800dd1d7055,Other,Other,Bachelors
+2874,5e50564d6b8e7400d252f4db,Materials,Other,Bachelors
+2875,5e24e9f28dbee800dd1d6e20,Business,Hult Business,MBA
+2876,5e3301d18dbee800dd1d7a7c,Biology,Harvard,Postdoc
+2877,5e49fa1f3acdaa00d34d714b,Biology,MIT,PhD
+2878,5e4d82843acdaa00d34d8183,CS,NYU,Masters
+2879,5e3889648dbee800dd1d80b6,Data Science,Other,PhD
+2880,5e2f40ce8dbee800dd1d76ab,Data Science,NYU,Masters
+2881,5e4f34e9d00f9f00d3d5b499,Other,Harvard,PhD
+2882,5e2f6f188dbee800dd1d776d,Finance,Other,Bachelors
+2883,5e500230d00f9f00d3d5b9d3,Materials,MIT,PhD
+2884,5e3652ef8dbee800dd1d7df5,Business,MIT,Masters
+2885,5e2f0e918dbee800dd1d765f,Other,NYU,Masters
+2886,5e4395488dbee800dd1d9104,Business,NYU,Masters
+2887,5e28ed468dbee800dd1d719f,Biology,Other,Bachelors
+2888,5e517a4ccb31a300d2831e47,Other,Other,Other
+2889,5e4f0e3cd00f9f00d3d5b367,Materials,MIT,Bachelors
+2890,5e2255278dbee800dd1d6d72,Civil Eng,MIT,Bachelors
+2891,5e119b478dbee800dd1d676a,Other,Dartmouth,Bachelors
+2892,5e45c29f3acdaa00d34d6a03,Electrical Eng,Other,Bachelors
+2893,5e3c4ef38dbee800dd1d879a,Business,Other,Other
+2894,5e50c123cb31a300d2831986,Other,Other,Masters
+2895,5e5149dbcb31a300d2831c51,Mechanical Eng,Other,MBA
+2896,5e4f4985d00f9f00d3d5b544,AI,NYU,Masters
+2897,5e419ef68dbee800dd1d8cd8,Finance,Other,Other
+2898,5e39d8518dbee800dd1d8317,CS,Harvard,Bachelors
+2899,5e508da8cb31a300d28317fc,Business,Other,Bachelors
+2900,5e135ee08dbee800dd1d67ad,Biology,Harvard,Postdoc
+2901,5e50b662cb31a300d283193e,Business,Harvard,Masters
+2902,5e4072738dbee800dd1d8b74,CS,BU,Bachelors
+2903,5e4f5869d00f9f00d3d5b643,Finance,Brandeis,Bachelors
+2904,5e46c8af3acdaa00d34d6c50,Other,Other,Masters
+2905,5de944b18dbee800dd1d64d3,Industrial Eng,Northeastern,Bachelors
+2906,5e516311cb31a300d2831d61,Other,Other,Other
+2907,5e44d9388dbee800dd1d9451,Finance,Brandeis,Masters
+2908,5e4c98eb3acdaa00d34d7cfe,Other,Other,Bachelors
+2909,5e517c9f7504bb00d2f54c0b,Other,Other,Other
+2910,5e4c64843acdaa00d34d7bd8,AI,MIT,Postdoc
+2911,5e4f3bd7d00f9f00d3d5b4d9,Biology,Other,Postdoc
+2912,5e2f122e8dbee800dd1d7664,Other,NYU,MBA
+2913,5e4d86f13acdaa00d34d8193,Business,Other,MBA
+2914,5e2f1c198dbee800dd1d7671,Finance,Hult Business,Masters
+2915,5e509b8b7504bb00d2f5460d,Biology,Tufts,Masters
+2916,5e34f1568dbee800dd1d7d13,Biology,Harvard,Postdoc
+2917,5e45cbfa3acdaa00d34d6a27,CS,Northeastern,Masters
+2918,5e2f6df58dbee800dd1d776a,CS,NYU,Masters
+2919,5e31eece8dbee800dd1d798d,Data Science,Tufts,Masters
+2920,5e266bd08dbee800dd1d6f1b,Biology,Other,Postdoc
+2921,5e402a728dbee800dd1d8b4a,Other,NYU,Masters
+2922,5e27bd488dbee800dd1d7068,Other,BU,PhD
+2923,5e398a698dbee800dd1d8223,Other,Harvard,Masters
+2924,5e30c7ee8dbee800dd1d78b6,Other,Other,PhD
+2925,5e51a025cb31a300d2831f04,Biology,Other,PhD
+2926,5e4bf5eb3acdaa00d34d78f8,CS,Other,Masters
+2927,5e4f96e8d00f9f00d3d5b7ac,CS,BU,Masters
+2928,5e1e2db78dbee800dd1d6b38,Mechanical Eng,MIT,Masters
+2929,5e51e2ba6b8e7400d252fc9b,Civil Eng,Other,Postdoc
+2930,5e4d47a13acdaa00d34d7fb8,Other,Other,Other
+2931,5e4b3d073acdaa00d34d769f,Other,Other,Other
+2932,5e4bf73e3acdaa00d34d790c,Biology,Other,PhD
+2933,5e4422088dbee800dd1d92f8,CS,NYU,Masters
+2934,5e41c54a8dbee800dd1d8d15,Policital Sci,Other,Masters
+2935,5e4088108dbee800dd1d8b7b,Biology,Other,PhD
+2936,5e2f035a8dbee800dd1d763a,Business,NYU,Bachelors
+2937,5e4c8fa43acdaa00d34d7cd0,Other,Harvard,Bachelors
+2938,5e3c6d038dbee800dd1d87ef,Marketing,Hult Business,Masters
+2939,5e418be18dbee800dd1d8cbc,AI,MIT,Masters
+2940,5e1e51f48dbee800dd1d6b42,Business,Hult Business,Masters
+2941,5e51905e5eb42900d3c0c2a1,Other,Other,Other
+2942,5e3874558dbee800dd1d8092,Other,Other,Bachelors
+2943,5e4eddedd00f9f00d3d5b18e,Business,Hult Business,Masters
+2944,5e509a1c6b8e7400d252f5e8,Data Science,Northeastern,PhD
+2945,5e422da78dbee800dd1d8dc3,Business,Hult Business,Masters
+2946,5e4b27613acdaa00d34d765c,Data Science,Other,MBA
+2947,5e502ed87504bb00d2f5449d,Finance,Other,Bachelors
+2948,5e513a2d7504bb00d2f5492f,Data Science,Other,MBA
+2949,5e506b847504bb00d2f54566,AI,Other,Masters
+2950,5e39a7078dbee800dd1d8284,Mechanical Eng,Northeastern,Masters
+2951,5e4ef01fd00f9f00d3d5b269,Industrial Eng,Northeastern,Masters
+2952,5e41cf4f8dbee800dd1d8d32,Other,Other,Other
+2953,5e4b628e3acdaa00d34d7704,Biology,Tufts,Masters
+2954,5e359ff38dbee800dd1d7d50,Business,NYU,Masters
+2955,5e3894268dbee800dd1d80cc,Biology,BU,MBA
+2956,5e506ac56b8e7400d252f51f,Other,Other,Masters
+2957,5e4ff6bad00f9f00d3d5b94f,Business,Boston College,MBA
+2958,5e4d870b3acdaa00d34d819f,Biology,Tufts,Masters
+2959,5e4fe26ed00f9f00d3d5b8b1,Biology,Other,Masters
+2960,5e4b0b103acdaa00d34d75e4,CS,Other,Other
