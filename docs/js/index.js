@@ -245,6 +245,11 @@ drawHighestDegrees = (data) => {
       },
     })
     .time("Year")
+    .shapeConfig({
+      labelConfig: {
+        fontResize:false //fontMax: 30
+      }
+    })
     .legend(false)
     .height(400)
     .render();
