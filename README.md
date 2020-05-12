@@ -1,6 +1,6 @@
 # Interactive Visualization of MIT European Career Fair Statistics
 
-Final project by M. Doga Dogan
+6.894 Final project by M. Doga Dogan
 
 In this project, we develop an interactive webpage that visualizes the statistics of the MIT European Career Fair. It includes numerous visualizations about both the student candidates and employers. We hope that this tool will allow both parties to inform themselves better about the fair to achieve their goals, which are to find jobs in Europe and to attract best talents from top US schools, respectively.
 
