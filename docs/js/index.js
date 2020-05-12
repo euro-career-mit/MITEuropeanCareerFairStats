@@ -185,9 +185,9 @@ drawMajors = (data) => {
     .select("#divMajors")
     .data(data)
     .groupBy("Major")
-    .on("click", function(d) {
-      alert(d.id + " has been clicked!");
-    })
+    // .on("click", function(d) {
+    //   alert(d.id + " has been clicked!");
+    // })
     .sum("Number of Records")
     .time("Year")
     .tooltipConfig({

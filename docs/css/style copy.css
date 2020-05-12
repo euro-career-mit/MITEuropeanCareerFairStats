@@ -1,0 +1,148 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+@media only screen and (max-width: 1040px) {
+    .parallax-container {
+        height: 800px!important;
+    }
+
+    #logo-container-small{
+        display:inline-block!important; 
+    }
+
+    #logo-container-large{
+        display:none; 
+    }
+}
+
+
+#divStackedMajors .d3plus-Bar-group .d3plus-Bar-text .d3plus-textBox{
+  display: none!important;
+}
+
+.country-card img{
+  height: 150px;
+  height: 150px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.ecfViz-title{
+  padding-top: 30px;
+}
+
+.ecfViz {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-title{
+  font-size: 1.2em!important;
+}
+
+h4.circleTitle{
+  height: 240px;
+  width: 240px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  opacity: 0.96;
+}
+
+h4.circleTitleLarge{
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  opacity: 0.96;
+}
+
+
+/*.parallax-container {
+    height: 800px!important;
+}*/
+
+
+.logo {
+    display: inline-block;
+    height: 100%;
+}
+
+.logo>img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.brand-logo{
+  margin-left: 18px;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
