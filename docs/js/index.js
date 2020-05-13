@@ -290,7 +290,7 @@ drawCompanyMap = (data) => {
       },
       tbody: [
         //["Field of study:", function(d) { return d["Major"] }],
-        ["Number of candidates:", function(d) { return d["Number of Records"] }]  // return d.year
+        ["Number of Organizations:", function(d) { return d["Number of Records"] }]  // return d.year
       ]
     })
     // .fitFilter(function(d) {
