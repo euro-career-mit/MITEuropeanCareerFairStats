@@ -235,7 +235,8 @@ drawHighestDegrees = (data) => {
 
   vizHighestDegrees = new d3plus.Pie()
     .select("#divHighestDegrees")
-    .data(data)
+    //.data(data)
+    .data(data.filter(function(d){return d["Year"] != "2021";})) 
     .groupBy("Highest degree")
     .sort(function(a, b) { return degreeList.indexOf(b["Highest degree"]) - degreeList.indexOf(a["Highest degree"]); })
     .value("Number of Records")

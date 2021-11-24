@@ -1,0 +1,3217 @@
+,mostRelevantField,mostRelevantUni
+0,Other,Other
+1,Other,Other
+2,Biology,Other
+3,CS,Other
+4,Business,Other
+5,Business,Other
+6,Business,Other
+7,Other,Other
+8,Other,Other
+9,Business,Other
+10,Business,Other
+11,Business,Other
+12,Business,Other
+13,Biology,Other
+14,Finance,Other
+15,Biology,Other
+16,CS,Other
+17,Physics,Other
+18,Policital Sci,Other
+19,Other,Other
+20,Other,Other
+21,Other,Other
+22,Biology,Other
+23,CS,Other
+24,Business,Other
+25,Other,Other
+26,Other,Other
+27,Policital Sci,Other
+28,Other,Other
+29,Business,Other
+30,Electrical Eng,Other
+31,Other,Other
+32,Chemistry,Other
+33,Business,Other
+34,Mechanical Eng,Other
+35,Finance,Other
+36,Marketing,Other
+37,Other,Other
+38,Data Science,Other
+39,Other,Other
+40,Finance,Other
+41,Business,Other
+42,Business,Other
+43,Business,Other
+44,AI,Other
+45,Business,Other
+46,Business,Other
+47,Business,Other
+48,Business,Other
+49,Business,Other
+50,Other,Other
+51,Other,Other
+52,Finance,Other
+53,Finance,Other
+54,Finance,Other
+55,Marketing,Other
+56,Data Science,Other
+57,Business,Other
+58,Business,Other
+59,Data Science,Other
+60,Data Science,Other
+61,Data Science,Other
+62,Other,Other
+63,Other,Other
+64,Other,Other
+65,Other,Other
+66,CS,Other
+67,Finance,Other
+68,Business,Other
+69,Other,Other
+70,Other,Other
+71,Other,Other
+72,Biology,Other
+73,Other,Other
+74,Finance,Other
+75,Chemistry,Other
+76,Policital Sci,Other
+77,Physics,Other
+78,Biology,Other
+79,Other,Harvard
+80,Biology,Other
+81,Biology,Boston College
+82,Business,Boston College
+83,Other,Boston College
+84,Data Science,Boston College
+85,Business,Boston College
+86,Finance,Boston College
+87,Finance,Boston College
+88,Other,Boston College
+89,Business,Boston College
+90,Business,Boston College
+91,Data Science,Boston College
+92,Finance,Boston College
+93,Other,Boston College
+94,Business,Boston College
+95,Other,Boston College
+96,Finance,Boston College
+97,Finance,Boston College
+98,Other,BU
+99,AI,BU
+100,Biology,BU
+101,Biology,BU
+102,Biology,BU
+103,Biology,BU
+104,Biology,BU
+105,Biology,BU
+106,Biology,BU
+107,Biology,BU
+108,Biology,BU
+109,Biology,BU
+110,Biology,BU
+111,Biology,BU
+112,Biology,BU
+113,Biology,BU
+114,Business,BU
+115,CS,BU
+116,CS,BU
+117,CS,BU
+118,CS,BU
+119,CS,BU
+120,CS,BU
+121,CS,BU
+122,CS,BU
+123,CS,BU
+124,CS,BU
+125,CS,BU
+126,Electrical Eng,BU
+127,Electrical Eng,BU
+128,Electrical Eng,BU
+129,CS,BU
+130,Business,BU
+131,Business,BU
+132,Other,BU
+133,Other,BU
+134,Other,BU
+135,Other,BU
+136,Other,BU
+137,Policital Sci,BU
+138,Business,BU
+139,Other,BU
+140,Biology,BU
+141,Biology,BU
+142,Business,BU
+143,Business,BU
+144,Other,BU
+145,Business,BU
+146,Business,BU
+147,Business,BU
+148,Mechanical Eng,BU
+149,Mechanical Eng,BU
+150,Mechanical Eng,BU
+151,Mechanical Eng,BU
+152,Mechanical Eng,BU
+153,Mechanical Eng,BU
+154,Mechanical Eng,BU
+155,Mechanical Eng,BU
+156,Other,BU
+157,Other,BU
+158,Other,BU
+159,Policital Sci,BU
+160,Other,BU
+161,Business,BU
+162,Other,BU
+163,Other,BU
+164,Business,BU
+165,Other,BU
+166,Other,BU
+167,Other,BU
+168,Biology,BU
+169,Business,BU
+170,Other,BU
+171,Other,BU
+172,Business,Other
+173,Other,Other
+174,CS,Other
+175,Finance,Other
+176,Physics,Other
+177,Business,MIT
+178,Finance,Other
+179,Biology,Brandeis
+180,Biology,Brandeis
+181,Biology,Brandeis
+182,Biology,Brandeis
+183,CS,Brandeis
+184,CS,Brandeis
+185,CS,Brandeis
+186,CS,Brandeis
+187,CS,Brandeis
+188,Biology,Brandeis
+189,CS,Brandeis
+190,CS,Brandeis
+191,Finance,Brandeis
+192,Finance,Brandeis
+193,Finance,Brandeis
+194,Finance,Brandeis
+195,Business,Brandeis
+196,Finance,Brandeis
+197,Other,Brandeis
+198,Other,Brandeis
+199,Other,Brandeis
+200,Other,Brandeis
+201,Finance,Brandeis
+202,Data Science,Brandeis
+203,Business,Brandeis
+204,Biology,Brandeis
+205,Biology,Brandeis
+206,Business,Brandeis
+207,Physics,Brandeis
+208,Data Science,Brandeis
+209,AI,Brandeis
+210,Other,Other
+211,Biology,Harvard
+212,Other,Other
+213,Biology,MIT
+214,CS,Other
+215,Other,Other
+216,Biology,Other
+217,Finance,Other
+218,Other,Other
+219,Other,Other
+220,Other,Other
+221,Biology,Other
+222,Other,Other
+223,Other,Other
+224,Finance,Other
+225,Biology,Other
+226,Business,Other
+227,Chemistry,Other
+228,Other,Other
+229,CS,Other
+230,CS,Other
+231,CS,Other
+232,CS,Other
+233,Biology,Other
+234,CS,Other
+235,Finance,Other
+236,Other,Other
+237,Other,Other
+238,Other,Other
+239,Biology,Other
+240,Other,Other
+241,Other,Other
+242,Other,Other
+243,Other,Other
+244,Other,Other
+245,Materials,Other
+246,Mechanical Eng,Other
+247,Other,Other
+248,Other,Other
+249,Other,Other
+250,Business,Other
+251,Biology,Other
+252,Biology,Other
+253,Physics,Other
+254,Biology,Other
+255,Biology,Other
+256,Biology,Other
+257,Other,Other
+258,CS,Other
+259,CS,Other
+260,Electrical Eng,Other
+261,Biology,Other
+262,Other,Other
+263,Other,Other
+264,Other,Other
+265,CS,Other
+266,Business,Other
+267,Business,Other
+268,Mechanical Eng,Other
+269,Mechanical Eng,Other
+270,Mechanical Eng,Other
+271,Other,Other
+272,Other,Other
+273,Other,Other
+274,Business,Other
+275,Biology,Other
+276,Finance,Other
+277,Mechanical Eng,Other
+278,Biology,Other
+279,Other,Other
+280,Aero,Other
+281,CS,Other
+282,Electrical Eng,Other
+283,Mechanical Eng,Other
+284,Mechanical Eng,Other
+285,Mechanical Eng,Other
+286,Mechanical Eng,Other
+287,Other,Other
+288,Materials,Other
+289,Mechanical Eng,Other
+290,Mechanical Eng,Other
+291,Aero,Other
+292,Mechanical Eng,Other
+293,Other,Other
+294,Physics,Other
+295,Physics,Other
+296,Physics,Other
+297,Biology,Other
+298,Biology,Other
+299,Biology,Other
+300,Chemistry,Other
+301,Other,Other
+302,Physics,Other
+303,Chemistry,Other
+304,Chemistry,Other
+305,Chemistry,Other
+306,Other,Other
+307,Other,Other
+308,Other,Other
+309,Electrical Eng,Other
+310,Materials,Other
+311,Other,Other
+312,Other,Other
+313,Data Science,Other
+314,Materials,Other
+315,Materials,Other
+316,Other,Other
+317,Other,Other
+318,Mechanical Eng,Other
+319,Aero,Other
+320,Physics,Other
+321,Physics,Other
+322,Physics,Other
+323,Other,Other
+324,Other,Other
+325,Biology,Other
+326,Physics,Other
+327,Other,Other
+328,Other,Other
+329,CS,Other
+330,Biology,Other
+331,Civil Eng,Other
+332,CS,Other
+333,Materials,Other
+334,Mechanical Eng,Other
+335,CS,Other
+336,Physics,Other
+337,Mechanical Eng,Other
+338,Mechanical Eng,Other
+339,Other,Other
+340,Other,Other
+341,Chemistry,Other
+342,Other,Other
+343,Other,Other
+344,Business,Other
+345,Finance,Other
+346,Other,Other
+347,Policital Sci,Other
+348,Other,Other
+349,Materials,Other
+350,Electrical Eng,Other
+351,Other,Other
+352,Other,Other
+353,CS,Other
+354,Other,Other
+355,Other,Other
+356,Other,Other
+357,Other,Other
+358,Other,Other
+359,Data Science,Other
+360,Other,Other
+361,Other,Other
+362,Other,Other
+363,Other,Other
+364,Other,Other
+365,Other,Other
+366,Finance,Other
+367,Other,Other
+368,CS,Other
+369,Biology,Other
+370,Other,Other
+371,Policital Sci,Other
+372,Finance,Other
+373,Other,Other
+374,Electrical Eng,Other
+375,Electrical Eng,Other
+376,Other,Other
+377,Other,Other
+378,Other,Other
+379,Other,Other
+380,Other,Other
+381,Other,Other
+382,Other,Other
+383,Other,Other
+384,Other,Other
+385,Other,Other
+386,Finance,Other
+387,Other,Other
+388,Policital Sci,Other
+389,Other,Other
+390,Business,Other
+391,Other,Other
+392,Business,Other
+393,Mechanical Eng,Other
+394,Mechanical Eng,Other
+395,Mechanical Eng,Other
+396,Biology,Other
+397,Policital Sci,Other
+398,Policital Sci,Other
+399,Other,Other
+400,Other,Other
+401,Data Science,Other
+402,Other,Other
+403,Data Science,Other
+404,Other,Other
+405,Other,Other
+406,Other,Other
+407,Other,Other
+408,Other,Other
+409,Data Science,Other
+410,Biology,Other
+411,Other,Other
+412,Other,Other
+413,Data Science,Other
+414,Other,Other
+415,Biology,Other
+416,Finance,Other
+417,Other,Other
+418,Business,Other
+419,Other,Other
+420,Other,Other
+421,Other,Other
+422,Other,Other
+423,Other,Other
+424,Industrial Eng,Other
+425,Mechanical Eng,Other
+426,Other,Other
+427,Other,Other
+428,CS,Other
+429,Business,Other
+430,Business,Other
+431,Business,Other
+432,Biology,Other
+433,Biology,Other
+434,Biology,Other
+435,CS,Other
+436,Data Science,Other
+437,Other,Other
+438,CS,Other
+439,Other,Other
+440,Materials,Other
+441,Materials,Other
+442,Materials,Other
+443,Business,Other
+444,Business,Other
+445,Other,Other
+446,Data Science,Other
+447,Mechanical Eng,Other
+448,AI,Harvard
+449,Business,Other
+450,Business,Other
+451,Biology,Dartmouth
+452,Business,Dartmouth
+453,Other,Dartmouth
+454,CS,Dartmouth
+455,CS,Dartmouth
+456,Other,Dartmouth
+457,Business,Dartmouth
+458,Business,Dartmouth
+459,Business,Dartmouth
+460,Business,Dartmouth
+461,Finance,Dartmouth
+462,Other,Dartmouth
+463,Other,Dartmouth
+464,Other,Dartmouth
+465,Biology,Dartmouth
+466,Biology,Dartmouth
+467,Other,Dartmouth
+468,Other,Dartmouth
+469,Other,Dartmouth
+470,CS,Dartmouth
+471,CS,Dartmouth
+472,CS,Dartmouth
+473,CS,Dartmouth
+474,CS,Dartmouth
+475,CS,Dartmouth
+476,CS,Dartmouth
+477,Data Science,Dartmouth
+478,Other,Dartmouth
+479,Finance,Dartmouth
+480,CS,Dartmouth
+481,Finance,Dartmouth
+482,Finance,Dartmouth
+483,Finance,Dartmouth
+484,Electrical Eng,Dartmouth
+485,Other,Dartmouth
+486,Other,Dartmouth
+487,Other,Dartmouth
+488,Other,Dartmouth
+489,Other,Dartmouth
+490,Other,Dartmouth
+491,Other,Dartmouth
+492,Other,Dartmouth
+493,Other,Dartmouth
+494,Finance,Dartmouth
+495,Other,Dartmouth
+496,Other,Dartmouth
+497,Business,Dartmouth
+498,Other,Dartmouth
+499,Other,Other
+500,Electrical Eng,Other
+501,Business,Other
+502,Other,Other
+503,Marketing,Other
+504,Other,Other
+505,Other,Other
+506,Biology,Other
+507,Biology,Other
+508,Business,Other
+509,Business,Other
+510,Business,Other
+511,Policital Sci,Other
+512,Business,Other
+513,Business,Other
+514,Other,Other
+515,Biology,Other
+516,Biology,Other
+517,Biology,Other
+518,Data Science,Other
+519,Business,Other
+520,Data Science,Other
+521,Business,Other
+522,Business,Other
+523,Business,Other
+524,Business,Other
+525,Business,Other
+526,Business,Other
+527,Business,Other
+528,Biology,Other
+529,Other,Other
+530,Other,Other
+531,Other,Other
+532,Other,Other
+533,Other,Other
+534,Marketing,Other
+535,Other,Other
+536,Other,Other
+537,Other,Other
+538,Other,Other
+539,Other,Other
+540,Other,Other
+541,Other,Other
+542,Marketing,Other
+543,Other,Other
+544,Biology,Other
+545,Finance,Other
+546,Biology,Other
+547,Other,Other
+548,Data Science,Other
+549,Business,Other
+550,Other,Other
+551,Other,Other
+552,Biology,Other
+553,CS,Other
+554,Business,Other
+555,Other,Other
+556,Other,Other
+557,Mechanical Eng,Other
+558,Marketing,Other
+559,CS,Other
+560,Other,Other
+561,Mechanical Eng,Other
+562,Other,Other
+563,Other,Other
+564,Biology,Other
+565,Other,Other
+566,Other,Other
+567,Other,Other
+568,Business,Other
+569,Other,Other
+570,Physics,Other
+571,Other,Other
+572,Finance,Other
+573,Physics,Other
+574,CS,Other
+575,Policital Sci,Other
+576,Other,Other
+577,Physics,Other
+578,Other,Other
+579,Business,Other
+580,Other,Other
+581,Other,Other
+582,Marketing,Other
+583,Data Science,Other
+584,Finance,Other
+585,Finance,Other
+586,Other,Other
+587,Business,Other
+588,Data Science,Other
+589,Finance,Other
+590,Business,Other
+591,Finance,Other
+592,Business,Other
+593,Other,Other
+594,Finance,Other
+595,Other,Other
+596,Law,Other
+597,Other,Other
+598,Other,Other
+599,Business,Other
+600,Business,Other
+601,Business,Other
+602,Business,Other
+603,Business,Other
+604,Business,Other
+605,Policital Sci,Other
+606,Other,Other
+607,Other,Other
+608,Other,Other
+609,Business,Other
+610,Other,Other
+611,Other,Other
+612,CS,Other
+613,CS,Other
+614,CS,Other
+615,Electrical Eng,Other
+616,Industrial Eng,Other
+617,Business,Other
+618,Materials,Other
+619,Mechanical Eng,Other
+620,Mechanical Eng,Other
+621,Finance,Other
+622,Law,Other
+623,Other,Other
+624,Mechanical Eng,BU
+625,Other,Other
+626,CS,Other
+627,Finance,Other
+628,Business,Other
+629,Other,Other
+630,Other,Other
+631,Biology,Other
+632,Other,Harvard
+633,Other,Harvard
+634,Other,Harvard
+635,Other,Harvard
+636,Other,Harvard
+637,Other,Harvard
+638,Finance,Harvard
+639,Finance,Harvard
+640,CS,Harvard
+641,CS,Harvard
+642,Mechanical Eng,Harvard
+643,Other,Harvard
+644,Biology,Harvard
+645,CS,Harvard
+646,Physics,Harvard
+647,Other,Harvard
+648,Business,Harvard
+649,Biology,Harvard
+650,Biology,Harvard
+651,Biology,Harvard
+652,Biology,Harvard
+653,Biology,Harvard
+654,Biology,Harvard
+655,Biology,Harvard
+656,Biology,Harvard
+657,Biology,Harvard
+658,Biology,Harvard
+659,Biology,Harvard
+660,Business,Harvard
+661,Business,Harvard
+662,Biology,Harvard
+663,Physics,Harvard
+664,Other,Harvard
+665,Other,Harvard
+666,Other,Harvard
+667,Other,Harvard
+668,Other,Harvard
+669,Other,Harvard
+670,Other,Harvard
+671,Materials,Harvard
+672,CS,Harvard
+673,CS,Harvard
+674,CS,Harvard
+675,CS,Harvard
+676,CS,Harvard
+677,CS,Harvard
+678,CS,Harvard
+679,CS,Harvard
+680,CS,Harvard
+681,CS,Harvard
+682,CS,Harvard
+683,CS,Harvard
+684,Other,Harvard
+685,Other,Harvard
+686,Data Science,Harvard
+687,Data Science,Harvard
+688,Other,Harvard
+689,Business,Harvard
+690,Marketing,Harvard
+691,Finance,Harvard
+692,Finance,Harvard
+693,Finance,Harvard
+694,Finance,Harvard
+695,Finance,Harvard
+696,Finance,Harvard
+697,Finance,Harvard
+698,Finance,Harvard
+699,Finance,Harvard
+700,Finance,Harvard
+701,Finance,Harvard
+702,Finance,Harvard
+703,Finance,Harvard
+704,Finance,Harvard
+705,Finance,Harvard
+706,Finance,Harvard
+707,Finance,Harvard
+708,Finance,Harvard
+709,Finance,Harvard
+710,Other,Harvard
+711,Other,Harvard
+712,Finance,Harvard
+713,Electrical Eng,Harvard
+714,Other,Harvard
+715,Other,Harvard
+716,Other,Harvard
+717,Other,Harvard
+718,Other,Harvard
+719,Other,Harvard
+720,Finance,Harvard
+721,Other,Harvard
+722,Other,Harvard
+723,Other,Harvard
+724,Policital Sci,Harvard
+725,Other,Harvard
+726,Other,Harvard
+727,Other,Harvard
+728,Other,Harvard
+729,Other,Harvard
+730,Other,Harvard
+731,Other,Harvard
+732,Other,Harvard
+733,Biology,Harvard
+734,Biology,Harvard
+735,Biology,Harvard
+736,Biology,Harvard
+737,Other,Harvard
+738,Industrial Eng,Harvard
+739,Other,Harvard
+740,Other,Harvard
+741,Other,Harvard
+742,Law,Harvard
+743,Law,Harvard
+744,Business,Harvard
+745,Business,Harvard
+746,Other,Harvard
+747,Law,Harvard
+748,Other,Harvard
+749,Other,Harvard
+750,Other,Harvard
+751,Materials,Harvard
+752,Other,Harvard
+753,Other,Harvard
+754,Other,Harvard
+755,Other,Harvard
+756,Other,Harvard
+757,Mechanical Eng,Harvard
+758,Mechanical Eng,Harvard
+759,Mechanical Eng,Harvard
+760,Mechanical Eng,Harvard
+761,Mechanical Eng,Harvard
+762,Mechanical Eng,Harvard
+763,Mechanical Eng,Harvard
+764,Mechanical Eng,Harvard
+765,Other,Harvard
+766,Other,Harvard
+767,Biology,Harvard
+768,Other,Harvard
+769,Biology,Harvard
+770,Other,Harvard
+771,Business,Harvard
+772,Business,Harvard
+773,Business,Harvard
+774,Other,Harvard
+775,Other,Harvard
+776,Other,Harvard
+777,Other,Harvard
+778,Other,Harvard
+779,Other,Harvard
+780,Other,Harvard
+781,Other,Harvard
+782,Physics,Harvard
+783,Physics,Harvard
+784,Physics,Harvard
+785,Physics,Harvard
+786,Physics,Harvard
+787,CS,Harvard
+788,Other,Harvard
+789,Other,Harvard
+790,Other,Harvard
+791,Other,Harvard
+792,Other,Harvard
+793,Other,Harvard
+794,Business,Harvard
+795,Other,Harvard
+796,Other,Harvard
+797,Other,Harvard
+798,Other,Harvard
+799,Other,Harvard
+800,Other,Harvard
+801,Other,Harvard
+802,Other,Harvard
+803,Other,Harvard
+804,Other,Harvard
+805,Other,Harvard
+806,Biology,Harvard
+807,Other,Harvard
+808,Other,Harvard
+809,Other,Harvard
+810,Other,Harvard
+811,Other,Harvard
+812,Other,Harvard
+813,Other,Harvard
+814,Other,Harvard
+815,Other,Harvard
+816,Biology,MIT
+817,Aero,Harvard
+818,Business,Harvard
+819,Business,Harvard
+820,Business,Harvard
+821,Business,Harvard
+822,Business,Harvard
+823,Business,Harvard
+824,Physics,Harvard
+825,Other,Harvard
+826,CS,Harvard
+827,Other,Harvard
+828,Finance,Harvard
+829,Biology,Harvard
+830,Other,Harvard
+831,Other,Harvard
+832,Policital Sci,Harvard
+833,CS,Harvard
+834,Other,Harvard
+835,Other,Harvard
+836,Other,Harvard
+837,Other,Harvard
+838,Other,Harvard
+839,Business,Harvard
+840,Other,Harvard
+841,Other,Harvard
+842,Other,Harvard
+843,Other,Harvard
+844,Other,Harvard
+845,Other,Harvard
+846,Policital Sci,Harvard
+847,Other,Harvard
+848,Other,Harvard
+849,Business,Harvard
+850,Business,Harvard
+851,Law,Harvard
+852,Law,Harvard
+853,Law,Harvard
+854,Law,Harvard
+855,Other,Harvard
+856,Biology,Harvard
+857,Biology,Harvard
+858,Other,Harvard
+859,Other,Harvard
+860,Other,Harvard
+861,Biology,Harvard
+862,Other,Harvard
+863,Biology,Harvard
+864,Other,Harvard
+865,Other,Harvard
+866,Biology,Harvard
+867,Business,Harvard
+868,Data Science,Harvard
+869,Other,Harvard
+870,Business,Harvard
+871,Physics,Harvard
+872,Biology,Harvard
+873,Biology,Harvard
+874,Other,Harvard
+875,Other,Harvard
+876,Finance,Harvard
+877,Other,Harvard
+878,Materials,Harvard
+879,Other,Harvard
+880,Physics,Harvard
+881,Biology,Harvard
+882,Biology,Harvard
+883,Biology,Harvard
+884,Other,Harvard
+885,Biology,Harvard
+886,CS,Harvard
+887,CS,Harvard
+888,Finance,Harvard
+889,Data Science,Harvard
+890,Data Science,Harvard
+891,Data Science,Harvard
+892,Data Science,Harvard
+893,Other,Harvard
+894,Other,Harvard
+895,Other,Harvard
+896,Other,Harvard
+897,Finance,Harvard
+898,Finance,Harvard
+899,Finance,Harvard
+900,Finance,Harvard
+901,Finance,Harvard
+902,Finance,Harvard
+903,Finance,Harvard
+904,Other,Harvard
+905,Electrical Eng,Harvard
+906,Other,Harvard
+907,Other,Harvard
+908,Finance,Harvard
+909,Business,Harvard
+910,Data Science,Harvard
+911,Other,Harvard
+912,Other,Harvard
+913,Finance,Harvard
+914,Other,Harvard
+915,Other,Harvard
+916,Other,Harvard
+917,Law,Harvard
+918,Law,Harvard
+919,Other,Harvard
+920,Business,Harvard
+921,Other,Harvard
+922,Materials,Harvard
+923,Materials,Harvard
+924,Other,Harvard
+925,Other,Harvard
+926,Mechanical Eng,Harvard
+927,Biology,Harvard
+928,Other,Harvard
+929,Physics,Harvard
+930,Other,Harvard
+931,Other,Harvard
+932,Physics,Harvard
+933,Physics,Harvard
+934,Other,Harvard
+935,Other,Harvard
+936,Other,Harvard
+937,Other,Harvard
+938,Other,Harvard
+939,Mechanical Eng,Harvard
+940,Biology,Harvard
+941,Biology,Harvard
+942,Other,MIT
+943,Other,Harvard
+944,Business,Other
+945,Business,Other
+946,Business,Other
+947,Business,Other
+948,Business,Other
+949,Business,Other
+950,Business,Other
+951,Other,Other
+952,Business,Other
+953,Finance,Other
+954,Business,Other
+955,Other,Other
+956,Business,Brandeis
+957,Other,Other
+958,Other,Other
+959,Other,Other
+960,Other,Other
+961,Other,Other
+962,Other,Other
+963,Business,NYU
+964,Other,Other
+965,Biology,Other
+966,Other,Other
+967,Other,Other
+968,Biology,Other
+969,Biology,Other
+970,Business,Other
+971,CS,Other
+972,Other,Other
+973,Mechanical Eng,Other
+974,Other,Other
+975,Finance,Hult Business
+976,Business,Hult Business
+977,Business,Hult Business
+978,Finance,Hult Business
+979,Business,Hult Business
+980,Business,Hult Business
+981,Business,Hult Business
+982,Business,Hult Business
+983,Data Science,Hult Business
+984,Data Science,Hult Business
+985,Data Science,Hult Business
+986,Data Science,Hult Business
+987,Data Science,Hult Business
+988,Data Science,Hult Business
+989,Data Science,Hult Business
+990,Data Science,Hult Business
+991,Data Science,Hult Business
+992,Business,Hult Business
+993,Other,Hult Business
+994,Finance,Hult Business
+995,Finance,Hult Business
+996,Finance,Hult Business
+997,Finance,Hult Business
+998,Finance,Hult Business
+999,Finance,Hult Business
+1000,Business,Hult Business
+1001,Data Science,Hult Business
+1002,Business,Hult Business
+1003,Business,Hult Business
+1004,Marketing,Hult Business
+1005,Marketing,Hult Business
+1006,Data Science,Hult Business
+1007,Business,Hult Business
+1008,Business,Hult Business
+1009,Finance,Hult Business
+1010,Business,Hult Business
+1011,Business,Hult Business
+1012,Business,Hult Business
+1013,Business,Hult Business
+1014,Business,Hult Business
+1015,Business,Hult Business
+1016,Business,Hult Business
+1017,Business,Hult Business
+1018,Business,Hult Business
+1019,Business,Hult Business
+1020,Data Science,Hult Business
+1021,Business,Hult Business
+1022,Data Science,Hult Business
+1023,Other,Hult Business
+1024,Business,Hult Business
+1025,Other,Other
+1026,Biology,Other
+1027,Business,Other
+1028,Other,Other
+1029,Other,Other
+1030,Biology,Other
+1031,Other,Other
+1032,Aero,Other
+1033,Mechanical Eng,Other
+1034,Mechanical Eng,Other
+1035,Other,Other
+1036,Finance,Other
+1037,Other,Other
+1038,Business,Other
+1039,Biology,Other
+1040,Business,Other
+1041,Other,Other
+1042,Electrical Eng,Other
+1043,CS,Other
+1044,Business,Other
+1045,Marketing,Other
+1046,Other,Other
+1047,Business,Other
+1048,Biology,Other
+1049,Business,Other
+1050,Industrial Eng,Other
+1051,CS,Other
+1052,Physics,Other
+1053,Mechanical Eng,Other
+1054,Other,Other
+1055,Biology,Other
+1056,Electrical Eng,Other
+1057,Other,Other
+1058,Biology,Other
+1059,Other,Other
+1060,Data Science,Other
+1061,Biology,Other
+1062,Business,Other
+1063,Business,Other
+1064,Business,Other
+1065,Other,Other
+1066,Business,Other
+1067,Physics,Other
+1068,Mechanical Eng,Other
+1069,Other,Other
+1070,Other,Other
+1071,Business,Other
+1072,Chemistry,Other
+1073,Other,Other
+1074,Other,Other
+1075,Marketing,Other
+1076,Business,Other
+1077,Other,Other
+1078,Mechanical Eng,Other
+1079,Other,Other
+1080,Data Science,Other
+1081,Civil Eng,Other
+1082,Other,Other
+1083,Other,Other
+1084,Other,Other
+1085,Mechanical Eng,Other
+1086,Policital Sci,Other
+1087,Finance,Other
+1088,Other,Other
+1089,Physics,Other
+1090,Business,Other
+1091,Civil Eng,Other
+1092,CS,Other
+1093,Data Science,Other
+1094,Other,Other
+1095,Other,Other
+1096,Biology,Harvard
+1097,Business,MIT
+1098,CS,MIT
+1099,Other,MIT
+1100,Biology,Other
+1101,Other,Other
+1102,AI,Other
+1103,Biology,Other
+1104,Biology,Other
+1105,Biology,Other
+1106,Other,Other
+1107,Biology,Other
+1108,Other,Other
+1109,Other,Other
+1110,Other,Other
+1111,Other,Other
+1112,Other,Other
+1113,Other,Other
+1114,Other,Other
+1115,Civil Eng,Other
+1116,Electrical Eng,Other
+1117,Mechanical Eng,Other
+1118,Biology,Other
+1119,Other,Other
+1120,Other,Other
+1121,Biology,Other
+1122,Mechanical Eng,Other
+1123,Mechanical Eng,Other
+1124,Other,Other
+1125,Electrical Eng,Other
+1126,CS,Other
+1127,Data Science,Other
+1128,CS,Other
+1129,Other,MIT
+1130,Other,MIT
+1131,Other,MIT
+1132,Other,MIT
+1133,Other,MIT
+1134,Other,MIT
+1135,Other,MIT
+1136,Other,MIT
+1137,Chemistry,MIT
+1138,Physics,MIT
+1139,Aero,MIT
+1140,Aero,MIT
+1141,Other,MIT
+1142,Other,MIT
+1143,Mechanical Eng,MIT
+1144,Other,MIT
+1145,Materials,MIT
+1146,Materials,MIT
+1147,Other,MIT
+1148,CS,MIT
+1149,CS,MIT
+1150,CS,MIT
+1151,CS,MIT
+1152,Biology,MIT
+1153,Biology,MIT
+1154,Other,MIT
+1155,Data Science,MIT
+1156,Other,MIT
+1157,Other,MIT
+1158,Other,MIT
+1159,Other,MIT
+1160,Other,MIT
+1161,Other,MIT
+1162,Other,MIT
+1163,Other,MIT
+1164,Other,MIT
+1165,Other,MIT
+1166,CS,MIT
+1167,Other,MIT
+1168,Aero,MIT
+1169,Aero,MIT
+1170,Aero,MIT
+1171,Aero,MIT
+1172,Aero,MIT
+1173,Aero,MIT
+1174,Aero,MIT
+1175,Aero,MIT
+1176,Aero,MIT
+1177,Aero,MIT
+1178,Aero,MIT
+1179,Aero,MIT
+1180,Aero,MIT
+1181,Aero,MIT
+1182,Other,MIT
+1183,Data Science,MIT
+1184,Other,MIT
+1185,Other,MIT
+1186,Mechanical Eng,MIT
+1187,Other,MIT
+1188,Other,MIT
+1189,Other,MIT
+1190,Other,MIT
+1191,Other,MIT
+1192,Other,MIT
+1193,Other,MIT
+1194,Other,MIT
+1195,Other,MIT
+1196,Business,MIT
+1197,Other,MIT
+1198,Mechanical Eng,MIT
+1199,Aero,MIT
+1200,Other,MIT
+1201,Physics,MIT
+1202,Physics,MIT
+1203,Other,MIT
+1204,Business,MIT
+1205,Other,MIT
+1206,Biology,MIT
+1207,Biology,MIT
+1208,Biology,MIT
+1209,Biology,MIT
+1210,Biology,MIT
+1211,Biology,MIT
+1212,Biology,MIT
+1213,Biology,MIT
+1214,Biology,MIT
+1215,Biology,MIT
+1216,Biology,MIT
+1217,Biology,MIT
+1218,Biology,MIT
+1219,Biology,MIT
+1220,Biology,MIT
+1221,Biology,MIT
+1222,Biology,MIT
+1223,Biology,MIT
+1224,Biology,MIT
+1225,AI,MIT
+1226,Biology,MIT
+1227,Biology,MIT
+1228,Biology,MIT
+1229,Biology,MIT
+1230,Biology,MIT
+1231,Biology,MIT
+1232,Biology,MIT
+1233,Biology,MIT
+1234,Biology,MIT
+1235,Biology,MIT
+1236,Biology,MIT
+1237,Biology,MIT
+1238,Other,MIT
+1239,Other,MIT
+1240,Other,MIT
+1241,Other,MIT
+1242,Other,MIT
+1243,Other,MIT
+1244,Other,MIT
+1245,Other,MIT
+1246,Business,MIT
+1247,Business,MIT
+1248,Business,MIT
+1249,Business,MIT
+1250,Business,MIT
+1251,Data Science,MIT
+1252,Data Science,MIT
+1253,Data Science,MIT
+1254,Business,MIT
+1255,Business,MIT
+1256,Business,MIT
+1257,Business,MIT
+1258,Business,MIT
+1259,Other,MIT
+1260,Other,MIT
+1261,Biology,MIT
+1262,Chemistry,MIT
+1263,Chemistry,MIT
+1264,Chemistry,MIT
+1265,Chemistry,MIT
+1266,Chemistry,MIT
+1267,Chemistry,MIT
+1268,Chemistry,MIT
+1269,Chemistry,MIT
+1270,Chemistry,MIT
+1271,Chemistry,MIT
+1272,Chemistry,MIT
+1273,Chemistry,MIT
+1274,Chemistry,MIT
+1275,Chemistry,MIT
+1276,Chemistry,MIT
+1277,Chemistry,MIT
+1278,Chemistry,MIT
+1279,Chemistry,MIT
+1280,Chemistry,MIT
+1281,Chemistry,MIT
+1282,Chemistry,MIT
+1283,Chemistry,MIT
+1284,Chemistry,MIT
+1285,Chemistry,MIT
+1286,Chemistry,MIT
+1287,Biology,MIT
+1288,Biology,MIT
+1289,Biology,MIT
+1290,Other,MIT
+1291,Other,MIT
+1292,Other,MIT
+1293,Other,MIT
+1294,Other,MIT
+1295,Other,MIT
+1296,Biology,MIT
+1297,Biology,MIT
+1298,Other,MIT
+1299,Materials,MIT
+1300,Chemistry,MIT
+1301,Other,MIT
+1302,Other,MIT
+1303,Civil Eng,MIT
+1304,Civil Eng,MIT
+1305,Civil Eng,MIT
+1306,Civil Eng,MIT
+1307,Civil Eng,MIT
+1308,Civil Eng,MIT
+1309,Civil Eng,MIT
+1310,Civil Eng,MIT
+1311,Civil Eng,MIT
+1312,Civil Eng,MIT
+1313,Civil Eng,MIT
+1314,Other,MIT
+1315,Other,MIT
+1316,Other,MIT
+1317,CS,MIT
+1318,Other,MIT
+1319,Other,MIT
+1320,Other,MIT
+1321,Other,MIT
+1322,Other,MIT
+1323,Other,MIT
+1324,Other,MIT
+1325,Biology,MIT
+1326,Other,MIT
+1327,Other,MIT
+1328,Other,MIT
+1329,Other,MIT
+1330,Other,MIT
+1331,CS,MIT
+1332,CS,MIT
+1333,CS,MIT
+1334,CS,MIT
+1335,CS,MIT
+1336,CS,MIT
+1337,CS,MIT
+1338,CS,MIT
+1339,CS,MIT
+1340,CS,MIT
+1341,CS,MIT
+1342,CS,MIT
+1343,CS,MIT
+1344,CS,MIT
+1345,CS,MIT
+1346,CS,MIT
+1347,CS,MIT
+1348,CS,MIT
+1349,CS,MIT
+1350,CS,MIT
+1351,CS,MIT
+1352,CS,MIT
+1353,CS,MIT
+1354,CS,MIT
+1355,CS,MIT
+1356,CS,MIT
+1357,CS,MIT
+1358,CS,MIT
+1359,CS,MIT
+1360,CS,MIT
+1361,CS,MIT
+1362,CS,MIT
+1363,CS,MIT
+1364,CS,MIT
+1365,CS,MIT
+1366,CS,MIT
+1367,CS,MIT
+1368,CS,MIT
+1369,CS,MIT
+1370,CS,MIT
+1371,CS,MIT
+1372,CS,MIT
+1373,Data Science,MIT
+1374,CS,MIT
+1375,CS,MIT
+1376,CS,MIT
+1377,CS,MIT
+1378,Biology,MIT
+1379,CS,MIT
+1380,CS,MIT
+1381,CS,MIT
+1382,CS,MIT
+1383,CS,MIT
+1384,CS,MIT
+1385,CS,MIT
+1386,CS,MIT
+1387,CS,MIT
+1388,CS,MIT
+1389,CS,MIT
+1390,CS,MIT
+1391,CS,MIT
+1392,CS,MIT
+1393,CS,MIT
+1394,CS,MIT
+1395,CS,MIT
+1396,CS,MIT
+1397,CS,MIT
+1398,CS,MIT
+1399,Biology,MIT
+1400,Biology,MIT
+1401,Biology,MIT
+1402,CS,MIT
+1403,CS,MIT
+1404,CS,MIT
+1405,Data Science,MIT
+1406,Data Science,MIT
+1407,Data Science,MIT
+1408,Data Science,MIT
+1409,Data Science,MIT
+1410,CS,MIT
+1411,AI,MIT
+1412,CS,MIT
+1413,CS,MIT
+1414,CS,MIT
+1415,AI,MIT
+1416,CS,MIT
+1417,Other,MIT
+1418,Other,MIT
+1419,Mechanical Eng,MIT
+1420,Data Science,MIT
+1421,Data Science,MIT
+1422,Data Science,MIT
+1423,Data Science,MIT
+1424,Data Science,MIT
+1425,CS,MIT
+1426,Other,MIT
+1427,Business,MIT
+1428,CS,MIT
+1429,Other,MIT
+1430,Other,MIT
+1431,Other,MIT
+1432,Finance,MIT
+1433,Finance,MIT
+1434,Finance,MIT
+1435,Finance,MIT
+1436,Finance,MIT
+1437,Finance,MIT
+1438,Finance,MIT
+1439,Finance,MIT
+1440,Business,MIT
+1441,Data Science,MIT
+1442,Business,MIT
+1443,Other,MIT
+1444,Other,MIT
+1445,Other,MIT
+1446,Other,MIT
+1447,Other,MIT
+1448,Other,MIT
+1449,Other,MIT
+1450,Physics,MIT
+1451,Business,MIT
+1452,Physics,MIT
+1453,Electrical Eng,MIT
+1454,Electrical Eng,MIT
+1455,Electrical Eng,MIT
+1456,Electrical Eng,MIT
+1457,Electrical Eng,MIT
+1458,Electrical Eng,MIT
+1459,Electrical Eng,MIT
+1460,Electrical Eng,MIT
+1461,CS,MIT
+1462,CS,MIT
+1463,CS,MIT
+1464,CS,MIT
+1465,CS,MIT
+1466,CS,MIT
+1467,CS,MIT
+1468,CS,MIT
+1469,CS,MIT
+1470,CS,MIT
+1471,CS,MIT
+1472,CS,MIT
+1473,CS,MIT
+1474,CS,MIT
+1475,CS,MIT
+1476,CS,MIT
+1477,CS,MIT
+1478,CS,MIT
+1479,CS,MIT
+1480,CS,MIT
+1481,CS,MIT
+1482,CS,MIT
+1483,CS,MIT
+1484,CS,MIT
+1485,CS,MIT
+1486,CS,MIT
+1487,CS,MIT
+1488,Biology,MIT
+1489,Electrical Eng,MIT
+1490,Electrical Eng,MIT
+1491,Electrical Eng,MIT
+1492,Business,MIT
+1493,Business,MIT
+1494,Business,MIT
+1495,Other,MIT
+1496,Other,MIT
+1497,Business,MIT
+1498,Business,MIT
+1499,Business,MIT
+1500,Business,MIT
+1501,Business,MIT
+1502,Other,MIT
+1503,Other,MIT
+1504,Other,MIT
+1505,Other,MIT
+1506,Other,MIT
+1507,Other,MIT
+1508,Other,MIT
+1509,Business,MIT
+1510,Business,MIT
+1511,Business,MIT
+1512,Physics,MIT
+1513,Business,MIT
+1514,Finance,MIT
+1515,Finance,MIT
+1516,Finance,MIT
+1517,Finance,MIT
+1518,Finance,MIT
+1519,Finance,MIT
+1520,Finance,MIT
+1521,Finance,MIT
+1522,CS,MIT
+1523,Finance,MIT
+1524,Business,MIT
+1525,Data Science,MIT
+1526,Finance,MIT
+1527,Other,MIT
+1528,Other,MIT
+1529,Biology,MIT
+1530,Physics,MIT
+1531,Business,MIT
+1532,Business,MIT
+1533,Biology,MIT
+1534,CS,MIT
+1535,Other,MIT
+1536,Other,MIT
+1537,Industrial Eng,MIT
+1538,Other,MIT
+1539,Other,MIT
+1540,Other,MIT
+1541,Business,MIT
+1542,Business,MIT
+1543,Business,MIT
+1544,Business,MIT
+1545,Business,MIT
+1546,Business,MIT
+1547,Other,MIT
+1548,Business,MIT
+1549,Business,MIT
+1550,Other,MIT
+1551,Other,MIT
+1552,Business,MIT
+1553,Other,MIT
+1554,Physics,MIT
+1555,Business,MIT
+1556,Marketing,MIT
+1557,Data Science,MIT
+1558,Marketing,MIT
+1559,Other,MIT
+1560,Other,MIT
+1561,CS,MIT
+1562,Business,MIT
+1563,Data Science,MIT
+1564,Data Science,MIT
+1565,Data Science,MIT
+1566,AI,MIT
+1567,Other,MIT
+1568,Other,MIT
+1569,Finance,MIT
+1570,Finance,MIT
+1571,Biology,MIT
+1572,Other,MIT
+1573,Data Science,MIT
+1574,Finance,MIT
+1575,Other,MIT
+1576,Business,MIT
+1577,Materials,MIT
+1578,Materials,MIT
+1579,Materials,MIT
+1580,Materials,MIT
+1581,Materials,MIT
+1582,Materials,MIT
+1583,Materials,MIT
+1584,Materials,MIT
+1585,Materials,MIT
+1586,Materials,MIT
+1587,Materials,MIT
+1588,Materials,MIT
+1589,Materials,MIT
+1590,Materials,MIT
+1591,CS,MIT
+1592,Finance,MIT
+1593,Other,MIT
+1594,Other,MIT
+1595,Other,MIT
+1596,Other,MIT
+1597,Other,MIT
+1598,Other,MIT
+1599,Other,MIT
+1600,Other,MIT
+1601,Other,MIT
+1602,Other,MIT
+1603,Other,MIT
+1604,Other,MIT
+1605,Other,MIT
+1606,CS,MIT
+1607,CS,MIT
+1608,CS,MIT
+1609,CS,MIT
+1610,CS,MIT
+1611,CS,MIT
+1612,CS,MIT
+1613,Finance,MIT
+1614,Physics,MIT
+1615,Business,MIT
+1616,Business,MIT
+1617,Business,MIT
+1618,Business,MIT
+1619,Business,MIT
+1620,Business,MIT
+1621,Business,MIT
+1622,Business,MIT
+1623,Business,MIT
+1624,Business,MIT
+1625,Business,MIT
+1626,Business,MIT
+1627,Business,MIT
+1628,Business,MIT
+1629,Business,MIT
+1630,Business,MIT
+1631,Business,MIT
+1632,Business,MIT
+1633,Business,MIT
+1634,Business,MIT
+1635,Business,MIT
+1636,Business,MIT
+1637,Business,MIT
+1638,Business,MIT
+1639,Business,MIT
+1640,Business,MIT
+1641,Business,MIT
+1642,Business,MIT
+1643,Business,MIT
+1644,Business,MIT
+1645,Business,MIT
+1646,Mechanical Eng,MIT
+1647,Business,MIT
+1648,Electrical Eng,MIT
+1649,Business,MIT
+1650,Business,MIT
+1651,Business,MIT
+1652,Mechanical Eng,MIT
+1653,Mechanical Eng,MIT
+1654,Mechanical Eng,MIT
+1655,Mechanical Eng,MIT
+1656,Mechanical Eng,MIT
+1657,Mechanical Eng,MIT
+1658,Mechanical Eng,MIT
+1659,Mechanical Eng,MIT
+1660,Mechanical Eng,MIT
+1661,Mechanical Eng,MIT
+1662,Mechanical Eng,MIT
+1663,Mechanical Eng,MIT
+1664,Mechanical Eng,MIT
+1665,Mechanical Eng,MIT
+1666,Mechanical Eng,MIT
+1667,Mechanical Eng,MIT
+1668,Mechanical Eng,MIT
+1669,Mechanical Eng,MIT
+1670,Mechanical Eng,MIT
+1671,Mechanical Eng,MIT
+1672,Mechanical Eng,MIT
+1673,Mechanical Eng,MIT
+1674,Mechanical Eng,MIT
+1675,Mechanical Eng,MIT
+1676,Mechanical Eng,MIT
+1677,Mechanical Eng,MIT
+1678,Mechanical Eng,MIT
+1679,Mechanical Eng,MIT
+1680,Mechanical Eng,MIT
+1681,Mechanical Eng,MIT
+1682,Mechanical Eng,MIT
+1683,Mechanical Eng,MIT
+1684,Mechanical Eng,MIT
+1685,Mechanical Eng,MIT
+1686,Mechanical Eng,MIT
+1687,Mechanical Eng,MIT
+1688,Mechanical Eng,MIT
+1689,Mechanical Eng,MIT
+1690,Mechanical Eng,MIT
+1691,Mechanical Eng,MIT
+1692,Mechanical Eng,MIT
+1693,Mechanical Eng,MIT
+1694,Mechanical Eng,MIT
+1695,Mechanical Eng,MIT
+1696,Mechanical Eng,MIT
+1697,Mechanical Eng,MIT
+1698,Mechanical Eng,MIT
+1699,Mechanical Eng,MIT
+1700,Mechanical Eng,MIT
+1701,Mechanical Eng,MIT
+1702,Mechanical Eng,MIT
+1703,Mechanical Eng,MIT
+1704,Mechanical Eng,MIT
+1705,Mechanical Eng,MIT
+1706,Mechanical Eng,MIT
+1707,Mechanical Eng,MIT
+1708,Mechanical Eng,MIT
+1709,Mechanical Eng,MIT
+1710,Mechanical Eng,MIT
+1711,Mechanical Eng,MIT
+1712,Mechanical Eng,MIT
+1713,Mechanical Eng,MIT
+1714,Mechanical Eng,MIT
+1715,Materials,MIT
+1716,CS,MIT
+1717,Mechanical Eng,MIT
+1718,Mechanical Eng,MIT
+1719,CS,MIT
+1720,CS,MIT
+1721,CS,MIT
+1722,CS,MIT
+1723,CS,MIT
+1724,Mechanical Eng,MIT
+1725,Mechanical Eng,MIT
+1726,CS,MIT
+1727,CS,MIT
+1728,CS,MIT
+1729,Mechanical Eng,MIT
+1730,Mechanical Eng,MIT
+1731,Mechanical Eng,MIT
+1732,Biology,MIT
+1733,Mechanical Eng,MIT
+1734,Mechanical Eng,MIT
+1735,Electrical Eng,MIT
+1736,Mechanical Eng,MIT
+1737,CS,MIT
+1738,Mechanical Eng,MIT
+1739,Other,MIT
+1740,Other,MIT
+1741,Other,MIT
+1742,Other,MIT
+1743,Other,MIT
+1744,Other,MIT
+1745,Other,MIT
+1746,Other,MIT
+1747,AI,MIT
+1748,Physics,MIT
+1749,Biology,MIT
+1750,Other,MIT
+1751,Biology,MIT
+1752,Data Science,MIT
+1753,Other,MIT
+1754,Business,MIT
+1755,Biology,MIT
+1756,Business,MIT
+1757,Business,MIT
+1758,Business,MIT
+1759,Other,MIT
+1760,Other,MIT
+1761,Other,MIT
+1762,Biology,MIT
+1763,Other,MIT
+1764,Other,MIT
+1765,Other,MIT
+1766,Other,MIT
+1767,Physics,MIT
+1768,Other,MIT
+1769,Other,MIT
+1770,Other,MIT
+1771,Other,MIT
+1772,Policital Sci,MIT
+1773,Other,MIT
+1774,Other,MIT
+1775,Other,MIT
+1776,Other,MIT
+1777,Other,MIT
+1778,Other,MIT
+1779,Other,MIT
+1780,Physics,MIT
+1781,Physics,MIT
+1782,Physics,MIT
+1783,Physics,MIT
+1784,Physics,MIT
+1785,Physics,MIT
+1786,Physics,MIT
+1787,Physics,MIT
+1788,Physics,MIT
+1789,Physics,MIT
+1790,Physics,MIT
+1791,Physics,MIT
+1792,Physics,MIT
+1793,Physics,MIT
+1794,Physics,MIT
+1795,Physics,MIT
+1796,Physics,MIT
+1797,Physics,MIT
+1798,Physics,MIT
+1799,Physics,MIT
+1800,Physics,MIT
+1801,Physics,MIT
+1802,Physics,MIT
+1803,Physics,MIT
+1804,CS,MIT
+1805,Physics,MIT
+1806,Physics,MIT
+1807,Physics,MIT
+1808,Physics,MIT
+1809,CS,MIT
+1810,Other,MIT
+1811,AI,MIT
+1812,Policital Sci,MIT
+1813,Policital Sci,MIT
+1814,Business,MIT
+1815,Other,MIT
+1816,Other,MIT
+1817,Other,MIT
+1818,Other,MIT
+1819,Other,MIT
+1820,Other,MIT
+1821,Other,MIT
+1822,Other,MIT
+1823,Other,MIT
+1824,Other,MIT
+1825,Other,MIT
+1826,Other,MIT
+1827,Business,MIT
+1828,Business,MIT
+1829,Business,MIT
+1830,Business,MIT
+1831,Other,MIT
+1832,Other,MIT
+1833,Data Science,MIT
+1834,CS,MIT
+1835,Other,MIT
+1836,Data Science,MIT
+1837,Marketing,MIT
+1838,Other,MIT
+1839,Industrial Eng,MIT
+1840,Industrial Eng,MIT
+1841,Business,MIT
+1842,Business,MIT
+1843,Business,MIT
+1844,Business,MIT
+1845,Business,MIT
+1846,Business,MIT
+1847,Business,MIT
+1848,Business,MIT
+1849,Business,MIT
+1850,Business,MIT
+1851,Business,MIT
+1852,Business,MIT
+1853,Business,MIT
+1854,Business,MIT
+1855,Business,MIT
+1856,Business,MIT
+1857,Business,MIT
+1858,Business,MIT
+1859,Business,MIT
+1860,Data Science,MIT
+1861,Business,MIT
+1862,Biology,MIT
+1863,Business,MIT
+1864,Business,MIT
+1865,Business,MIT
+1866,Business,MIT
+1867,Business,MIT
+1868,Business,MIT
+1869,Business,MIT
+1870,Business,MIT
+1871,Business,MIT
+1872,Other,MIT
+1873,Other,MIT
+1874,Other,MIT
+1875,Finance,MIT
+1876,Other,MIT
+1877,Other,MIT
+1878,Other,MIT
+1879,Other,MIT
+1880,Other,MIT
+1881,Other,MIT
+1882,Other,MIT
+1883,Other,MIT
+1884,Other,MIT
+1885,CS,MIT
+1886,Other,MIT
+1887,CS,MIT
+1888,Other,MIT
+1889,CS,MIT
+1890,Other,MIT
+1891,Other,MIT
+1892,Other,MIT
+1893,Other,MIT
+1894,Other,MIT
+1895,Other,MIT
+1896,Other,MIT
+1897,Other,MIT
+1898,Civil Eng,MIT
+1899,Business,MIT
+1900,AI,MIT
+1901,Biology,MIT
+1902,Biology,MIT
+1903,Electrical Eng,MIT
+1904,Business,MIT
+1905,Business,MIT
+1906,Finance,MIT
+1907,Business,MIT
+1908,Business,MIT
+1909,Business,MIT
+1910,Business,MIT
+1911,Business,MIT
+1912,Business,MIT
+1913,CS,MIT
+1914,Biology,MIT
+1915,Business,MIT
+1916,Other,MIT
+1917,Other,MIT
+1918,CS,MIT
+1919,CS,MIT
+1920,Other,MIT
+1921,CS,MIT
+1922,Data Science,MIT
+1923,Civil Eng,Other
+1924,Business,Other
+1925,Mechanical Eng,Other
+1926,Business,Other
+1927,Other,Other
+1928,CS,Other
+1929,Finance,Other
+1930,Finance,Other
+1931,Other,Other
+1932,Other,Other
+1933,Other,Other
+1934,Other,Other
+1935,Other,Other
+1936,Other,Other
+1937,Business,Other
+1938,CS,Other
+1939,Electrical Eng,Other
+1940,Aero,Other
+1941,CS,Other
+1942,Aero,Other
+1943,Electrical Eng,Other
+1944,Biology,Other
+1945,Policital Sci,Other
+1946,Other,Other
+1947,Business,Other
+1948,Other,Other
+1949,Biology,Other
+1950,Physics,Other
+1951,Aero,Other
+1952,Finance,Other
+1953,Other,Other
+1954,Other,NYU
+1955,Policital Sci,NYU
+1956,Business,NYU
+1957,Data Science,NYU
+1958,Business,NYU
+1959,Business,NYU
+1960,Biology,NYU
+1961,Chemistry,NYU
+1962,Other,NYU
+1963,Civil Eng,NYU
+1964,CS,NYU
+1965,CS,NYU
+1966,CS,NYU
+1967,CS,NYU
+1968,CS,NYU
+1969,CS,NYU
+1970,CS,NYU
+1971,CS,NYU
+1972,CS,NYU
+1973,CS,NYU
+1974,CS,NYU
+1975,CS,NYU
+1976,CS,NYU
+1977,CS,NYU
+1978,Other,NYU
+1979,Data Science,NYU
+1980,Data Science,NYU
+1981,Data Science,NYU
+1982,Data Science,NYU
+1983,Other,NYU
+1984,Finance,NYU
+1985,Finance,NYU
+1986,Finance,NYU
+1987,Business,NYU
+1988,Electrical Eng,NYU
+1989,Electrical Eng,NYU
+1990,CS,NYU
+1991,Business,NYU
+1992,Other,NYU
+1993,Business,NYU
+1994,Other,NYU
+1995,Other,NYU
+1996,Other,NYU
+1997,Other,NYU
+1998,Business,NYU
+1999,Other,NYU
+2000,Industrial Eng,NYU
+2001,Industrial Eng,NYU
+2002,CS,NYU
+2003,Other,NYU
+2004,Marketing,NYU
+2005,Marketing,NYU
+2006,Marketing,NYU
+2007,Other,NYU
+2008,Other,NYU
+2009,Other,NYU
+2010,Other,NYU
+2011,Other,NYU
+2012,Law,NYU
+2013,Business,NYU
+2014,Business,NYU
+2015,Business,NYU
+2016,Finance,NYU
+2017,Business,NYU
+2018,Other,NYU
+2019,Other,NYU
+2020,Mechanical Eng,NYU
+2021,Mechanical Eng,NYU
+2022,Mechanical Eng,NYU
+2023,Other,NYU
+2024,Business,NYU
+2025,Other,NYU
+2026,Policital Sci,NYU
+2027,Policital Sci,NYU
+2028,Policital Sci,NYU
+2029,Other,NYU
+2030,Other,NYU
+2031,Other,NYU
+2032,Other,NYU
+2033,Finance,NYU
+2034,Finance,NYU
+2035,Other,NYU
+2036,Other,NYU
+2037,Finance,NYU
+2038,Other,NYU
+2039,Other,NYU
+2040,Other,NYU
+2041,Other,NYU
+2042,Other,NYU
+2043,Other,NYU
+2044,Other,NYU
+2045,Other,NYU
+2046,Other,NYU
+2047,Other,NYU
+2048,CS,NYU
+2049,Finance,NYU
+2050,Finance,NYU
+2051,Other,NYU
+2052,Mechanical Eng,NYU
+2053,CS,NYU
+2054,CS,NYU
+2055,Finance,NYU
+2056,Business,NYU
+2057,Business,Other
+2058,AI,Other
+2059,Business,Other
+2060,Biology,Other
+2061,Other,Other
+2062,AI,Other
+2063,Other,Other
+2064,Mechanical Eng,Other
+2065,AI,Other
+2066,Finance,Northeastern
+2067,Other,Northeastern
+2068,Other,Northeastern
+2069,Other,Northeastern
+2070,Finance,Northeastern
+2071,Mechanical Eng,Northeastern
+2072,Other,Northeastern
+2073,Business,Northeastern
+2074,Finance,Northeastern
+2075,Data Science,Northeastern
+2076,Data Science,Northeastern
+2077,Data Science,Northeastern
+2078,AI,Northeastern
+2079,Other,Northeastern
+2080,Other,Northeastern
+2081,Biology,Northeastern
+2082,Biology,Northeastern
+2083,Biology,Northeastern
+2084,Biology,Northeastern
+2085,Biology,Northeastern
+2086,Business,Northeastern
+2087,Business,Northeastern
+2088,Business,Northeastern
+2089,Business,Northeastern
+2090,Chemistry,Northeastern
+2091,Chemistry,Northeastern
+2092,Civil Eng,Northeastern
+2093,Civil Eng,Northeastern
+2094,CS,Northeastern
+2095,CS,Northeastern
+2096,CS,Northeastern
+2097,CS,Northeastern
+2098,CS,Northeastern
+2099,CS,Northeastern
+2100,CS,Northeastern
+2101,CS,Northeastern
+2102,CS,Northeastern
+2103,CS,Northeastern
+2104,CS,Northeastern
+2105,CS,Northeastern
+2106,Other,Northeastern
+2107,Data Science,Northeastern
+2108,Data Science,Northeastern
+2109,Data Science,Northeastern
+2110,Data Science,Northeastern
+2111,AI,Northeastern
+2112,Data Science,Northeastern
+2113,Data Science,Northeastern
+2114,Data Science,Northeastern
+2115,Business,Northeastern
+2116,AI,Northeastern
+2117,Electrical Eng,Northeastern
+2118,Other,Northeastern
+2119,Other,Northeastern
+2120,Other,Northeastern
+2121,Other,Northeastern
+2122,Other,Northeastern
+2123,Business,Northeastern
+2124,Business,Northeastern
+2125,Business,Northeastern
+2126,Other,Northeastern
+2127,Other,Northeastern
+2128,Finance,Northeastern
+2129,Other,Northeastern
+2130,Other,Northeastern
+2131,Other,Northeastern
+2132,Industrial Eng,Northeastern
+2133,Industrial Eng,Northeastern
+2134,Industrial Eng,Northeastern
+2135,Other,Northeastern
+2136,Other,Northeastern
+2137,Other,Northeastern
+2138,Other,Northeastern
+2139,Business,Northeastern
+2140,Business,Northeastern
+2141,Business,Northeastern
+2142,Other,Northeastern
+2143,Business,Northeastern
+2144,Mechanical Eng,Northeastern
+2145,Mechanical Eng,Northeastern
+2146,Materials,Northeastern
+2147,Finance,Northeastern
+2148,Other,Northeastern
+2149,Biology,Northeastern
+2150,Policital Sci,Northeastern
+2151,Business,Northeastern
+2152,Business,Northeastern
+2153,Business,Northeastern
+2154,Business,Northeastern
+2155,Other,Northeastern
+2156,Other,Northeastern
+2157,CS,Northeastern
+2158,Other,Other
+2159,Policital Sci,Other
+2160,Other,Other
+2161,Biology,Other
+2162,Biology,Other
+2163,Chemistry,Other
+2164,CS,Other
+2165,CS,Other
+2166,CS,Other
+2167,Finance,Other
+2168,Physics,Other
+2169,Materials,Other
+2170,Mechanical Eng,Other
+2171,Mechanical Eng,Other
+2172,Other,Other
+2173,Policital Sci,Other
+2174,Other,Other
+2175,Other,Other
+2176,Data Science,NYU
+2177,Other,NYU
+2178,Data Science,NYU
+2179,Finance,NYU
+2180,Other,NYU
+2181,Other,NYU
+2182,Other,NYU
+2183,Biology,NYU
+2184,Biology,NYU
+2185,Biology,NYU
+2186,Biology,NYU
+2187,Biology,NYU
+2188,Biology,NYU
+2189,Electrical Eng,NYU
+2190,Business,NYU
+2191,Business,NYU
+2192,Business,NYU
+2193,Business,NYU
+2194,Business,NYU
+2195,Business,NYU
+2196,Data Science,NYU
+2197,Biology,NYU
+2198,Civil Eng,NYU
+2199,Civil Eng,NYU
+2200,Other,NYU
+2201,Other,NYU
+2202,CS,NYU
+2203,CS,NYU
+2204,CS,NYU
+2205,CS,NYU
+2206,CS,NYU
+2207,CS,NYU
+2208,CS,NYU
+2209,CS,NYU
+2210,CS,NYU
+2211,CS,NYU
+2212,CS,NYU
+2213,CS,NYU
+2214,CS,NYU
+2215,CS,NYU
+2216,CS,NYU
+2217,CS,NYU
+2218,CS,NYU
+2219,CS,NYU
+2220,CS,NYU
+2221,CS,NYU
+2222,CS,NYU
+2223,CS,NYU
+2224,CS,NYU
+2225,CS,NYU
+2226,CS,NYU
+2227,CS,NYU
+2228,Other,NYU
+2229,Other,NYU
+2230,Data Science,NYU
+2231,Data Science,NYU
+2232,Data Science,NYU
+2233,Data Science,NYU
+2234,Data Science,NYU
+2235,Data Science,NYU
+2236,Data Science,NYU
+2237,Business,NYU
+2238,Other,NYU
+2239,Finance,NYU
+2240,Finance,NYU
+2241,Finance,NYU
+2242,Finance,NYU
+2243,Finance,NYU
+2244,Business,NYU
+2245,Business,NYU
+2246,Finance,NYU
+2247,Finance,NYU
+2248,Finance,NYU
+2249,Finance,NYU
+2250,Finance,NYU
+2251,Data Science,NYU
+2252,CS,NYU
+2253,Data Science,NYU
+2254,Finance,NYU
+2255,Finance,NYU
+2256,Other,NYU
+2257,Other,NYU
+2258,CS,NYU
+2259,Electrical Eng,NYU
+2260,Electrical Eng,NYU
+2261,Electrical Eng,NYU
+2262,Electrical Eng,NYU
+2263,Electrical Eng,NYU
+2264,Other,NYU
+2265,Other,NYU
+2266,Other,NYU
+2267,Other,NYU
+2268,Other,NYU
+2269,Other,NYU
+2270,Finance,NYU
+2271,Data Science,NYU
+2272,Other,NYU
+2273,Other,NYU
+2274,Other,NYU
+2275,Finance,NYU
+2276,Other,NYU
+2277,Other,NYU
+2278,Other,NYU
+2279,Other,NYU
+2280,Other,NYU
+2281,Other,NYU
+2282,Other,NYU
+2283,Other,NYU
+2284,Other,NYU
+2285,Other,NYU
+2286,Other,NYU
+2287,Other,NYU
+2288,Other,NYU
+2289,Other,NYU
+2290,Other,NYU
+2291,Other,NYU
+2292,Other,NYU
+2293,Industrial Eng,NYU
+2294,Industrial Eng,NYU
+2295,Other,NYU
+2296,Other,NYU
+2297,Marketing,NYU
+2298,Other,NYU
+2299,Other,NYU
+2300,Other,NYU
+2301,Marketing,NYU
+2302,Other,NYU
+2303,Other,NYU
+2304,Other,NYU
+2305,Business,NYU
+2306,Other,NYU
+2307,Other,NYU
+2308,Other,NYU
+2309,Other,NYU
+2310,Other,NYU
+2311,Other,NYU
+2312,Other,NYU
+2313,Other,NYU
+2314,Other,NYU
+2315,Other,NYU
+2316,Other,NYU
+2317,Finance,NYU
+2318,Other,NYU
+2319,Other,NYU
+2320,Other,NYU
+2321,Other,NYU
+2322,Law,NYU
+2323,Law,NYU
+2324,Law,NYU
+2325,Other,NYU
+2326,Other,NYU
+2327,Business,NYU
+2328,Business,NYU
+2329,Business,NYU
+2330,Business,NYU
+2331,Data Science,NYU
+2332,Data Science,NYU
+2333,Other,NYU
+2334,Data Science,NYU
+2335,Business,NYU
+2336,Other,NYU
+2337,CS,NYU
+2338,Other,NYU
+2339,Other,NYU
+2340,Other,NYU
+2341,Other,NYU
+2342,Mechanical Eng,NYU
+2343,Mechanical Eng,NYU
+2344,Mechanical Eng,NYU
+2345,Mechanical Eng,NYU
+2346,Mechanical Eng,NYU
+2347,Mechanical Eng,NYU
+2348,Mechanical Eng,NYU
+2349,Mechanical Eng,NYU
+2350,Other,NYU
+2351,Other,NYU
+2352,Other,NYU
+2353,Other,NYU
+2354,Other,NYU
+2355,Other,NYU
+2356,Other,NYU
+2357,Other,NYU
+2358,Other,NYU
+2359,Other,NYU
+2360,Other,NYU
+2361,Other,NYU
+2362,Finance,NYU
+2363,Other,NYU
+2364,Business,NYU
+2365,Other,NYU
+2366,Other,NYU
+2367,Other,NYU
+2368,Other,NYU
+2369,Other,NYU
+2370,Physics,NYU
+2371,Policital Sci,NYU
+2372,Other,NYU
+2373,Other,NYU
+2374,Other,NYU
+2375,Other,NYU
+2376,Other,NYU
+2377,Finance,NYU
+2378,Other,NYU
+2379,Business,NYU
+2380,Business,NYU
+2381,Other,NYU
+2382,Other,NYU
+2383,Other,NYU
+2384,Other,NYU
+2385,Other,NYU
+2386,Other,NYU
+2387,Business,NYU
+2388,Other,NYU
+2389,Other,NYU
+2390,Business,NYU
+2391,Other,NYU
+2392,Other,NYU
+2393,Other,NYU
+2394,Finance,NYU
+2395,Other,NYU
+2396,Other,NYU
+2397,Other,NYU
+2398,Other,NYU
+2399,Other,NYU
+2400,Other,NYU
+2401,Other,NYU
+2402,Other,NYU
+2403,Other,NYU
+2404,Other,NYU
+2405,Other,NYU
+2406,Other,NYU
+2407,Other,NYU
+2408,Civil Eng,NYU
+2409,Finance,NYU
+2410,Policital Sci,NYU
+2411,Other,NYU
+2412,CS,NYU
+2413,Other,NYU
+2414,Other,NYU
+2415,Data Science,NYU
+2416,Business,NYU
+2417,Finance,NYU
+2418,Business,NYU
+2419,Business,NYU
+2420,Business,NYU
+2421,Business,NYU
+2422,Mechanical Eng,NYU
+2423,CS,NYU
+2424,Other,NYU
+2425,Other,NYU
+2426,Business,NYU
+2427,Finance,NYU
+2428,Other,Other
+2429,Business,Other
+2430,CS,Other
+2431,CS,Other
+2432,CS,Other
+2433,CS,Other
+2434,CS,Other
+2435,Other,Other
+2436,Mechanical Eng,Other
+2437,CS,Other
+2438,CS,Other
+2439,CS,Other
+2440,Electrical Eng,Other
+2441,Mechanical Eng,Other
+2442,Mechanical Eng,Other
+2443,Mechanical Eng,Other
+2444,Other,Other
+2445,Other,Other
+2446,Business,Other
+2447,Business,Other
+2448,Biology,Other
+2449,Other,Other
+2450,Finance,Other
+2451,Business,Other
+2452,Other,Other
+2453,Chemistry,Other
+2454,Other,Other
+2455,Other,Other
+2456,Business,Other
+2457,Biology,Other
+2458,Finance,Other
+2459,Biology,Other
+2460,Electrical Eng,Other
+2461,Mechanical Eng,Other
+2462,Business,Other
+2463,Finance,Other
+2464,Other,Other
+2465,Industrial Eng,Other
+2466,Other,Other
+2467,Other,Other
+2468,Other,Other
+2469,Other,Other
+2470,Other,Other
+2471,Other,Other
+2472,Other,Other
+2473,Biology,Other
+2474,Other,Other
+2475,Other,Other
+2476,Other,Other
+2477,Other,Other
+2478,Other,Other
+2479,Other,Other
+2480,Other,Other
+2481,Biology,Other
+2482,CS,Other
+2483,Other,Other
+2484,Other,Other
+2485,Aero,Other
+2486,Aero,Other
+2487,Aero,Other
+2488,Biology,Other
+2489,Data Science,Other
+2490,Chemistry,Other
+2491,Chemistry,Other
+2492,Finance,Other
+2493,Finance,Other
+2494,Industrial Eng,Other
+2495,Business,Other
+2496,Mechanical Eng,Other
+2497,Mechanical Eng,Other
+2498,Mechanical Eng,Other
+2499,Mechanical Eng,Other
+2500,Mechanical Eng,Other
+2501,Mechanical Eng,Other
+2502,Mechanical Eng,Other
+2503,Mechanical Eng,Other
+2504,Mechanical Eng,Other
+2505,Mechanical Eng,Other
+2506,Other,Other
+2507,Mechanical Eng,Other
+2508,Physics,Other
+2509,Other,Other
+2510,Business,Other
+2511,Business,Other
+2512,Business,Other
+2513,Marketing,Other
+2514,Other,Other
+2515,Law,Other
+2516,Business,Other
+2517,Marketing,Other
+2518,Other,Other
+2519,Other,Other
+2520,Policital Sci,Other
+2521,CS,Other
+2522,Business,Other
+2523,Business,Other
+2524,Biology,Other
+2525,Other,Other
+2526,Other,Other
+2527,Biology,Other
+2528,Business,Other
+2529,Electrical Eng,Other
+2530,Data Science,Other
+2531,Chemistry,Other
+2532,Biology,Other
+2533,Civil Eng,Other
+2534,Other,Other
+2535,Electrical Eng,Other
+2536,CS,Other
+2537,Other,Other
+2538,Business,Other
+2539,Other,Other
+2540,Other,Other
+2541,Mechanical Eng,Other
+2542,Other,Other
+2543,Other,Other
+2544,Business,Other
+2545,Mechanical Eng,Other
+2546,Finance,Other
+2547,Other,Other
+2548,Biology,Other
+2549,Physics,Other
+2550,Mechanical Eng,Other
+2551,CS,Other
+2552,CS,Other
+2553,AI,Other
+2554,CS,Other
+2555,Other,Other
+2556,Business,Other
+2557,CS,Other
+2558,Other,Other
+2559,Electrical Eng,Other
+2560,CS,Smith
+2561,Finance,Smith
+2562,Marketing,Other
+2563,Business,Other
+2564,Policital Sci,Other
+2565,Other,Other
+2566,Other,Other
+2567,Other,Other
+2568,Business,Other
+2569,Business,Other
+2570,Business,Other
+2571,Other,Other
+2572,Finance,Other
+2573,Business,Other
+2574,Electrical Eng,Other
+2575,Aero,Other
+2576,Biology,Other
+2577,Biology,Other
+2578,Business,Other
+2579,Business,Other
+2580,Chemistry,Other
+2581,Other,Other
+2582,Other,Other
+2583,Physics,Other
+2584,Other,Other
+2585,Finance,Other
+2586,Business,Other
+2587,Business,Other
+2588,Business,Other
+2589,Mechanical Eng,Other
+2590,Other,Other
+2591,Other,Other
+2592,Other,Other
+2593,Business,Other
+2594,Business,Other
+2595,Aero,Other
+2596,Physics,Other
+2597,Physics,Other
+2598,Biology,Other
+2599,Biology,Other
+2600,Biology,Other
+2601,Business,Other
+2602,Chemistry,Other
+2603,Chemistry,Other
+2604,Civil Eng,Other
+2605,Data Science,Other
+2606,Finance,Other
+2607,Other,Other
+2608,Other,Other
+2609,Other,Other
+2610,Other,Other
+2611,Mechanical Eng,Other
+2612,Biology,Other
+2613,Other,Other
+2614,Physics,Other
+2615,Finance,Other
+2616,Other,Other
+2617,Other,Other
+2618,CS,Other
+2619,Electrical Eng,Other
+2620,Mechanical Eng,Other
+2621,Other,Other
+2622,Business,Other
+2623,Marketing,Other
+2624,Policital Sci,Other
+2625,Other,Other
+2626,CS,Other
+2627,Other,Other
+2628,Other,Other
+2629,Marketing,Other
+2630,Other,Other
+2631,Other,Other
+2632,Biology,Other
+2633,Biology,Other
+2634,Data Science,Other
+2635,Business,Other
+2636,CS,Other
+2637,CS,Other
+2638,Business,Other
+2639,Finance,Other
+2640,Finance,Other
+2641,Marketing,Other
+2642,Other,Other
+2643,Other,Other
+2644,Finance,Other
+2645,Marketing,Other
+2646,Marketing,Other
+2647,Data Science,Other
+2648,Business,Other
+2649,Business,Other
+2650,Business,Other
+2651,Business,Other
+2652,Policital Sci,Other
+2653,Other,Other
+2654,Other,Other
+2655,Other,Other
+2656,Other,Other
+2657,Business,Other
+2658,CS,Other
+2659,Chemistry,Other
+2660,Other,Other
+2661,Other,Other
+2662,Other,Other
+2663,Biology,Other
+2664,Mechanical Eng,Other
+2665,Other,Other
+2666,Finance,Other
+2667,AI,Other
+2668,Other,Other
+2669,Other,Other
+2670,Business,Other
+2671,Business,Other
+2672,Mechanical Eng,Other
+2673,Industrial Eng,Other
+2674,Other,Other
+2675,Business,Other
+2676,Other,Other
+2677,Business,Tufts
+2678,Business,Tufts
+2679,Biology,Other
+2680,Other,Other
+2681,Other,Other
+2682,Aero,Other
+2683,Other,Other
+2684,Other,Other
+2685,Biology,Other
+2686,Business,Other
+2687,Aero,Other
+2688,Law,NYU
+2689,Finance,Other
+2690,Other,Other
+2691,Other,Other
+2692,Business,Other
+2693,Other,Other
+2694,Other,Other
+2695,Policital Sci,Other
+2696,Other,Other
+2697,Business,Other
+2698,Business,Other
+2699,Other,Dartmouth
+2700,Business,Dartmouth
+2701,Business,Dartmouth
+2702,Business,Dartmouth
+2703,Chemistry,Tufts
+2704,Biology,Tufts
+2705,Biology,Tufts
+2706,Finance,Tufts
+2707,Other,Tufts
+2708,Law,Tufts
+2709,Law,Tufts
+2710,Business,Tufts
+2711,Biology,Tufts
+2712,Other,Tufts
+2713,Mechanical Eng,Tufts
+2714,Policital Sci,Tufts
+2715,Finance,Tufts
+2716,Biology,Tufts
+2717,Finance,Tufts
+2718,Biology,Tufts
+2719,Biology,Tufts
+2720,Biology,Tufts
+2721,Biology,Tufts
+2722,Chemistry,Tufts
+2723,Chemistry,Tufts
+2724,Chemistry,Tufts
+2725,Other,Tufts
+2726,Other,Tufts
+2727,Other,Tufts
+2728,CS,Tufts
+2729,Finance,Tufts
+2730,Electrical Eng,Tufts
+2731,Other,Tufts
+2732,Other,Tufts
+2733,Other,Tufts
+2734,Other,Tufts
+2735,Business,Tufts
+2736,Business,Tufts
+2737,Other,Tufts
+2738,Other,Tufts
+2739,Other,Tufts
+2740,Other,Tufts
+2741,Other,Tufts
+2742,Biology,Tufts
+2743,Business,Tufts
+2744,Other,Tufts
+2745,Physics,Tufts
+2746,Finance,Tufts
+2747,Other,Tufts
+2748,Other,Tufts
+2749,Other,Tufts
+2750,Law,Tufts
+2751,Biology,Tufts
+2752,Business,Tufts
+2753,Law,Tufts
+2754,Data Science,Tufts
+2755,Physics,Other
+2756,Business,Other
+2757,Biology,Other
+2758,Business,Other
+2759,Business,Other
+2760,Other,Other
+2761,Electrical Eng,Other
+2762,Other,Other
+2763,Business,Other
+2764,Biology,MIT
+2765,CS,Other
+2766,Biology,Other
+2767,Other,Other
+2768,Data Science,Other
+2769,Physics,Other
+2770,Other,Other
+2771,CS,Other
+2772,Data Science,Other
+2773,Biology,Other
+2774,Business,Other
+2775,Other,Other
+2776,CS,Other
+2777,Other,Other
+2778,Biology,Other
+2779,Other,Other
+2780,Aero,Other
+2781,Other,Other
+2782,CS,Other
+2783,Other,Other
+2784,Mechanical Eng,Other
+2785,Other,Other
+2786,Biology,Other
+2787,Other,Other
+2788,Other,Other
+2789,Chemistry,Other
+2790,Other,Other
+2791,Biology,Other
+2792,Other,Other
+2793,Other,Other
+2794,Chemistry,Other
+2795,Other,Other
+2796,Finance,Other
+2797,Biology,Other
+2798,Civil Eng,Other
+2799,CS,Other
+2800,CS,Other
+2801,Industrial Eng,Other
+2802,Industrial Eng,Other
+2803,Policital Sci,Other
+2804,Mechanical Eng,Other
+2805,CS,Other
+2806,Other,Other
+2807,Other,Other
+2808,Biology,Other
+2809,Business,Other
+2810,Mechanical Eng,Other
+2811,Mechanical Eng,Other
+2812,Chemistry,Other
+2813,Materials,Other
+2814,Mechanical Eng,Other
+2815,Business,Other
+2816,Other,Other
+2817,Other,Other
+2818,Other,Other
+2819,Biology,Other
+2820,CS,Other
+2821,Other,Other
+2822,Aero,Other
+2823,Other,Other
+2824,CS,Other
+2825,CS,Other
+2826,Other,Other
+2827,Business,Other
+2828,Electrical Eng,Other
+2829,Other,Other
+2830,Physics,Other
+2831,Industrial Eng,Other
+2832,Business,Other
+2833,Other,Other
+2834,Other,Other
+2835,Business,Other
+2836,Physics,Other
+2837,Other,Other
+2838,Other,Other
+2839,CS,Other
+2840,Other,Other
+2841,Business,Other
+2842,Other,Other
+2843,Other,Other
+2844,Physics,Other
+2845,Other,Other
+2846,Law,Other
+2847,Other,Other
+2848,Electrical Eng,Other
+2849,Electrical Eng,Other
+2850,CS,Other
+2851,Data Science,Other
+2852,Other,Other
+2853,CS,Other
+2854,Mechanical Eng,Other
+2855,Data Science,Other
+2856,Other,Other
+2857,Mechanical Eng,Other
+2858,Biology,Other
+2859,Biology,Other
+2860,Business,Other
+2861,Biology,Other
+2862,Data Science,Other
+2863,Other,Other
+2864,Other,Other
+2865,Biology,Other
+2866,Other,Other
+2867,Finance,Other
+2868,CS,Other
+2869,Other,Other
+2870,Mechanical Eng,Other
+2871,Aero,Other
+2872,Other,Other
+2873,Other,Other
+2874,Mechanical Eng,UConn
+2875,Finance,Other
+2876,Business,Other
+2877,AI,Other
+2878,CS,Other
+2879,Industrial Eng,Other
+2880,Industrial Eng,Other
+2881,Policital Sci,Other
+2882,Mechanical Eng,Other
+2883,Biology,Other
+2884,Other,Other
+2885,Other,Other
+2886,Other,Other
+2887,Biology,Other
+2888,Other,Other
+2889,Finance,Other
+2890,Biology,Other
+2891,Data Science,Other
+2892,Biology,Other
+2893,Chemistry,Other
+2894,CS,Other
+2895,Business,Other
+2896,Materials,Other
+2897,Other,Other
+2898,Aero,Other
+2899,Aero,Other
+2900,Business,Other
+2901,Business,Other
+2902,Business,Other
+2903,Other,Other
+2904,Other,Other
+2905,Mechanical Eng,Other
+2906,Other,Other
+2907,Other,Other
+2908,Other,Other
+2909,Other,Other
+2910,Other,Other
+2911,CS,Other
+2912,Other,Other
+2913,Policital Sci,Other
+2914,Other,Other
+2915,Aero,Other
+2916,Aero,Other
+2917,Business,Other
+2918,Marketing,Other
+2919,Business,Other
+2920,Mechanical Eng,Other
+2921,Mechanical Eng,Other
+2922,Aero,Other
+2923,Aero,Other
+2924,Data Science,Other
+2925,Other,Other
+2926,Biology,Other
+2927,Electrical Eng,Other
+2928,Other,Other
+2929,Other,Other
+2930,Mechanical Eng,Other
+2931,Business,Other
+2932,Finance,Other
+2933,Other,UMass Amherst
+2934,Chemistry,UMass Amherst
+2935,Chemistry,UMass Amherst
+2936,Chemistry,UMass Amherst
+2937,Other,UMass Amherst
+2938,Finance,UMass Amherst
+2939,CS,UMass Amherst
+2940,CS,UMass Amherst
+2941,CS,UMass Amherst
+2942,Policital Sci,UMass Amherst
+2943,Other,UMass Amherst
+2944,Other,UMass Amherst
+2945,Mechanical Eng,UMass Amherst
+2946,Mechanical Eng,UMass Amherst
+2947,Mechanical Eng,UMass Amherst
+2948,Policital Sci,UMass Amherst
+2949,CS,Other
+2950,Business,UMass Boston
+2951,Other,UMass Boston
+2952,CS,UMass Boston
+2953,Other,UMass Boston
+2954,Electrical Eng,Dartmouth
+2955,Electrical Eng,Other
+2956,Electrical Eng,Other
+2957,Business,Other
+2958,Other,Other
+2959,Mechanical Eng,Other
+2960,Mechanical Eng,Other
+2961,Electrical Eng,Other
+2962,Mechanical Eng,Other
+2963,Aero,Other
+2964,Other,Other
+2965,Electrical Eng,Other
+2966,Other,Other
+2967,Biology,Other
+2968,Aero,Other
+2969,Physics,Other
+2970,Electrical Eng,Other
+2971,CS,Other
+2972,Business,Other
+2973,Data Science,Other
+2974,Marketing,Other
+2975,Finance,Other
+2976,Electrical Eng,Other
+2977,Physics,Other
+2978,CS,Other
+2979,Biology,Other
+2980,CS,Other
+2981,Business,Other
+2982,Materials,Other
+2983,Mechanical Eng,Other
+2984,Chemistry,Other
+2985,Business,Other
+2986,Business,Other
+2987,Data Science,Other
+2988,Other,Other
+2989,Other,Other
+2990,Business,Other
+2991,AI,Other
+2992,Other,Other
+2993,CS,Other
+2994,Finance,Other
+2995,Biology,Other
+2996,Other,Other
+2997,Finance,Other
+2998,Other,Other
+2999,Finance,Other
+3000,CS,Other
+3001,Chemistry,Other
+3002,Materials,Other
+3003,Other,Other
+3004,Policital Sci,Other
+3005,Biology,Other
+3006,Biology,Other
+3007,Biology,Other
+3008,Biology,Other
+3009,Civil Eng,Other
+3010,Other,Other
+3011,Aero,Other
+3012,Business,Other
+3013,Business,Other
+3014,Business,Other
+3015,Business,Other
+3016,Business,Other
+3017,Data Science,Other
+3018,Business,Other
+3019,Business,Other
+3020,Business,Other
+3021,Business,Other
+3022,Other,Other
+3023,CS,Other
+3024,Mechanical Eng,Other
+3025,Other,Other
+3026,Other,Other
+3027,Other,Other
+3028,Materials,Other
+3029,CS,Other
+3030,Electrical Eng,Other
+3031,Other,Other
+3032,Mechanical Eng,Other
+3033,Other,Other
+3034,Law,Other
+3035,Business,Other
+3036,Business,Other
+3037,AI,Other
+3038,Other,Other
+3039,Policital Sci,Other
+3040,Mechanical Eng,Other
+3041,Aero,Other
+3042,Electrical Eng,Other
+3043,Other,Other
+3044,Mechanical Eng,Other
+3045,Mechanical Eng,Other
+3046,Business,Other
+3047,Mechanical Eng,Other
+3048,Other,Other
+3049,Business,Other
+3050,Marketing,Other
+3051,CS,Other
+3052,Electrical Eng,Other
+3053,Mechanical Eng,Other
+3054,Other,Other
+3055,Biology,Other
+3056,Biology,Other
+3057,Other,Other
+3058,Biology,Other
+3059,Business,Other
+3060,Policital Sci,Other
+3061,CS,Other
+3062,Data Science,Other
+3063,Other,Other
+3064,Other,Other
+3065,Biology,Other
+3066,Data Science,Other
+3067,Finance,Other
+3068,CS,Other
+3069,Other,Other
+3070,Business,Other
+3071,Other,Other
+3072,Other,Other
+3073,Other,Other
+3074,Other,Other
+3075,Other,Other
+3076,Other,Other
+3077,Finance,Other
+3078,Other,Other
+3079,Other,Other
+3080,Civil Eng,Other
+3081,Biology,Other
+3082,CS,Other
+3083,Other,Other
+3084,Civil Eng,Other
+3085,Electrical Eng,Other
+3086,Finance,Other
+3087,Finance,Other
+3088,Other,Other
+3089,Civil Eng,Other
+3090,Other,Other
+3091,Biology,Other
+3092,Biology,Other
+3093,Biology,Other
+3094,Other,Other
+3095,CS,Other
+3096,Other,Other
+3097,Other,Other
+3098,Finance,Other
+3099,Other,Other
+3100,Business,Other
+3101,Data Science,Other
+3102,Other,Other
+3103,Physics,Other
+3104,Data Science,Other
+3105,Other,Other
+3106,Biology,Other
+3107,Biology,Other
+3108,Policital Sci,Other
+3109,Civil Eng,Other
+3110,Aero,Other
+3111,Aero,Other
+3112,Biology,Other
+3113,CS,Other
+3114,Electrical Eng,Other
+3115,Business,Other
+3116,Business,Other
+3117,Other,Other
+3118,Business,Other
+3119,Other,Other
+3120,CS,Other
+3121,Biology,Other
+3122,Other,Other
+3123,Biology,Other
+3124,Data Science,Other
+3125,Biology,Other
+3126,CS,Other
+3127,Business,Other
+3128,Other,Wellesley
+3129,Other,Wellesley
+3130,Other,Wellesley
+3131,CS,Wellesley
+3132,Finance,Wellesley
+3133,Finance,Wellesley
+3134,Policital Sci,Wellesley
+3135,Biology,Wellesley
+3136,Other,Wellesley
+3137,CS,Wellesley
+3138,Finance,Wellesley
+3139,Finance,Wellesley
+3140,Finance,Wellesley
+3141,Finance,Wellesley
+3142,Finance,Wellesley
+3143,Other,Wellesley
+3144,Other,Wellesley
+3145,Data Science,Wellesley
+3146,Other,Wellesley
+3147,CS,Wellesley
+3148,CS,Wellesley
+3149,Physics,Wellesley
+3150,Finance,MIT
+3151,Other,Wellesley
+3152,Mechanical Eng,Other
+3153,Mechanical Eng,Other
+3154,Mechanical Eng,Other
+3155,Electrical Eng,Other
+3156,Industrial Eng,Other
+3157,CS,Other
+3158,Finance,Other
+3159,Other,Other
+3160,Other,Other
+3161,Other,Other
+3162,Other,Other
+3163,Other,Other
+3164,Biology,Other
+3165,CS,Other
+3166,CS,Other
+3167,Finance,Other
+3168,Finance,Other
+3169,CS,Other
+3170,Physics,Other
+3171,Other,Other
+3172,Finance,Other
+3173,Finance,Other
+3174,Policital Sci,Other
+3175,Other,Other
+3176,Biology,WPI
+3177,CS,WPI
+3178,Other,WPI
+3179,Mechanical Eng,WPI
+3180,Mechanical Eng,WPI
+3181,CS,WPI
+3182,CS,WPI
+3183,CS,WPI
+3184,Data Science,WPI
+3185,Aero,WPI
+3186,Other,WPI
+3187,Data Science,Other
+3188,Biology,Other
+3189,Biology,Other
+3190,Other,Other
+3191,Physics,Other
+3192,CS,Other
+3193,CS,Other
+3194,CS,Other
+3195,CS,Other
+3196,Physics,Other
+3197,Finance,Other
+3198,Biology,Other
+3199,Biology,Other
+3200,CS,Other
+3201,Finance,Other
+3202,Electrical Eng,Other
+3203,Electrical Eng,Other
+3204,Mechanical Eng,Other
+3205,CS,Other
+3206,Business,Other
+3207,Mechanical Eng,Other
+3208,Mechanical Eng,Other
+3209,Mechanical Eng,Other
+3210,Mechanical Eng,Other
+3211,Mechanical Eng,Other
+3212,Physics,Other
+3213,Biology,Other
+3214,Other,Other
+3215,Other,Other
