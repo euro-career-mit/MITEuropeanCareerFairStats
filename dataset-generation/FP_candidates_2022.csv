@@ -1,0 +1,1509 @@
+,User ID,mostRelevantField,mostRelevantUni,highestDegree
+0,16422,Finance,Other,Masters
+1,59858,Other,Other,Bachelors
+2,60336,Other,Other,Other
+3,60358,CS,MIT,PhD
+4,60512,Business,MIT,Masters
+5,60576,Business,Other,Other
+6,60737,Chemistry,MIT,Bachelors
+7,61523,CS,MIT,Bachelors
+8,62292,Electrical Eng,Other,PhD
+9,62989,Other,MIT,Masters
+10,64264,Mechanical Eng,MIT,Bachelors
+11,64329,CS,MIT,Masters
+12,66207,Finance,Harvard,Bachelors
+13,67412,Physics,MIT,Bachelors
+14,67463,Other,Other,Masters
+15,67851,Other,Harvard,Bachelors
+16,68695,Mechanical Eng,MIT,Bachelors
+17,69148,Physics,Harvard,PhD
+18,69197,Other,Harvard,PhD
+19,69638,Other,Harvard,Bachelors
+20,69898,Other,Harvard,Masters
+21,70639,Mechanical Eng,Harvard,Bachelors
+22,71833,Materials,MIT,Masters
+23,79279,Other,Other,PhD
+24,88361,Business,Other,Other
+25,107271,Biology,Other,PhD
+26,142807,Other,Other,MBA
+27,147122,Finance,Other,Other
+28,147131,Physics,Other,PhD
+29,147201,Mechanical Eng,Other,Masters
+30,147282,CS,MIT,PhD
+31,147286,Other,MIT,Masters
+32,147347,Business,MIT,Masters
+33,147446,Physics,Other,PhD
+34,147460,Other,Other,Bachelors
+35,147470,Other,Other,Bachelors
+36,147527,Business,Harvard,Masters
+37,147683,Other,Other,Other
+38,147764,CS,MIT,PhD
+39,147776,Biology,Other,PhD
+40,147778,Mechanical Eng,UMass Amherst,Bachelors
+41,147785,Other,Other,Other
+42,147800,Other,Other,MBA
+43,147806,Electrical Eng,Other,Other
+44,147807,Materials,Other,Masters
+45,147809,Other,MIT,Masters
+46,147817,Biology,MIT,PhD
+47,147840,Business,Other,Other
+48,147851,Business,Other,Other
+49,147857,Business,Other,Other
+50,147864,Biology,Other,PhD
+51,147870,Business,Other,Other
+52,147893,Other,Other,Bachelors
+53,147896,Materials,Other,PhD
+54,147898,Mechanical Eng,Other,Bachelors
+55,147899,Business,Other,Bachelors
+56,147900,Business,Other,Bachelors
+57,147901,Other,Other,PhD
+58,147902,Other,BU,PhD
+59,147904,Other,Other,MBA
+60,147905,Other,Other,Masters
+61,147906,Other,UMass Amherst,Masters
+62,147907,CS,UMass Boston,Bachelors
+63,147908,Other,Other,PhD
+64,147909,Other,Harvard,Bachelors
+65,147910,Biology,Harvard,Bachelors
+66,147911,Other,Other,PhD
+67,147913,Other,NYU,Bachelors
+68,147914,Other,BU,Masters
+69,147915,CS,NYU,Masters
+70,147916,Other,Other,Masters
+71,147917,Biology,Other,Bachelors
+72,147918,Other,Other,MBA
+73,147919,Mechanical Eng,NYU,Bachelors
+74,147921,Other,NYU,Bachelors
+75,147922,CS,Other,Other
+76,147923,Other,Other,Masters
+77,147924,Biology,Tufts,Masters
+78,147925,Finance,Hult Business,Bachelors
+79,147926,Chemistry,Other,Other
+80,147927,Mechanical Eng,Other,Bachelors
+81,147928,CS,Other,Other
+82,147929,Physics,Other,Other
+83,147931,Other,Other,Bachelors
+84,147932,Business,Hult Business,Bachelors
+85,147933,Biology,Other,PhD
+86,147935,Finance,Northeastern,Masters
+87,147936,Other,Harvard,Bachelors
+88,147937,CS,MIT,Bachelors
+89,147938,CS,MIT,Bachelors
+90,147940,Electrical Eng,Other,Masters
+91,147941,Other,Harvard,Masters
+92,147942,Law,Other,Other
+93,147943,Biology,Harvard,Bachelors
+94,147944,Other,Harvard,Masters
+95,147945,Physics,Other,Bachelors
+96,147946,Other,Other,MBA
+97,147947,CS,Other,Other
+98,147948,Biology,MIT,Bachelors
+99,147950,Biology,MIT,Bachelors
+100,147951,Other,MIT,Bachelors
+101,147952,CS,MIT,Bachelors
+102,147953,Finance,Other,Masters
+103,147955,Other,Other,Other
+104,147956,Finance,MIT,Bachelors
+105,147957,Other,Other,Bachelors
+106,147958,CS,Other,Bachelors
+107,147959,Mechanical Eng,Other,Other
+108,147960,Mechanical Eng,MIT,Bachelors
+109,147961,CS,Other,Bachelors
+110,147962,Other,Harvard,Masters
+111,147963,CS,MIT,Masters
+112,147965,Business,Other,Other
+113,147966,Materials,MIT,Bachelors
+114,147967,Biology,MIT,Bachelors
+115,147968,Business,Harvard,Masters
+116,147969,CS,Other,Bachelors
+117,147971,Other,Other,Bachelors
+118,147973,Biology,Other,Masters
+119,147974,Other,Other,Other
+120,147977,Other,Harvard,Bachelors
+121,147978,Other,MIT,Bachelors
+122,147979,Other,Other,Bachelors
+123,147980,Mechanical Eng,Other,Bachelors
+124,147981,Business,Harvard,Masters
+125,147983,Mechanical Eng,MIT,Bachelors
+126,147990,Finance,Other,Bachelors
+127,148012,Electrical Eng,Other,Other
+128,148013,Biology,MIT,Bachelors
+129,148015,Mechanical Eng,Other,Other
+130,148017,Biology,Other,Other
+131,148022,Mechanical Eng,MIT,Bachelors
+132,148023,CS,MIT,Bachelors
+133,148024,Electrical Eng,MIT,PhD
+134,148026,Other,NYU,Bachelors
+135,148027,Electrical Eng,Northeastern,Masters
+136,148028,Business,MIT,MBA
+137,148029,CS,MIT,Masters
+138,148030,Materials,MIT,Bachelors
+139,148033,CS,MIT,Bachelors
+140,148034,Other,Other,Bachelors
+141,148035,Mechanical Eng,NYU,Bachelors
+142,148037,Other,Other,Other
+143,148038,CS,MIT,Bachelors
+144,148040,Mechanical Eng,NYU,Bachelors
+145,148042,Biology,MIT,Bachelors
+146,148043,Mechanical Eng,NYU,Masters
+147,148044,CS,NYU,Bachelors
+148,148045,Biology,Other,Masters
+149,148046,Finance,MIT,Masters
+150,148047,CS,BU,Bachelors
+151,148048,Materials,Other,PhD
+152,148049,Industrial Eng,Northeastern,Bachelors
+153,148050,CS,MIT,Bachelors
+154,148051,Other,NYU,Bachelors
+155,148055,Chemistry,Other,Bachelors
+156,148058,Business,Harvard,Masters
+157,148059,Other,NYU,Bachelors
+158,148061,Other,Harvard,Bachelors
+159,148064,CS,Other,Other
+160,148067,Other,Other,Other
+161,148091,Other,Other,Other
+162,148094,Other,Other,Other
+163,148103,Other,MIT,Masters
+164,148107,Other,Other,Masters
+165,148109,Other,Other,Other
+166,148110,Other,Hult Business,MBA
+167,148111,Biology,Other,Masters
+168,148113,Other,Other,Other
+169,148120,Other,Other,Other
+170,148122,Business,Other,Other
+171,148127,CS,MIT,Masters
+172,148128,CS,NYU,Bachelors
+173,148144,Physics,Other,Bachelors
+174,148163,CS,NYU,Bachelors
+175,148164,Other,Other,Other
+176,148171,Other,Other,PhD
+177,148172,Industrial Eng,NYU,Masters
+178,148182,Biology,Other,Other
+179,148183,Mechanical Eng,NYU,Bachelors
+180,148185,Other,Other,PhD
+181,148186,Other,Other,Other
+182,148189,Mechanical Eng,Other,Masters
+183,148191,Electrical Eng,Other,Other
+184,148193,Physics,Other,Other
+185,148200,Other,MIT,PhD
+186,148206,Other,BU,Masters
+187,148209,Other,Other,Other
+188,148211,CS,MIT,Bachelors
+189,148212,Chemistry,MIT,Masters
+190,148218,CS,MIT,Bachelors
+191,148219,Biology,Other,Masters
+192,148220,Other,MIT,Bachelors
+193,148224,CS,MIT,Bachelors
+194,148225,Chemistry,Northeastern,PhD
+195,148230,Other,Other,MBA
+196,148231,CS,Other,Bachelors
+197,148232,CS,NYU,Bachelors
+198,148233,Other,Other,MBA
+199,148238,Materials,Other,Other
+200,148241,Electrical Eng,Harvard,Bachelors
+201,148242,Physics,Other,Masters
+202,148243,Mechanical Eng,MIT,PhD
+203,148244,Other,BU,Masters
+204,148246,Mechanical Eng,BU,Bachelors
+205,148249,Other,Other,Other
+206,148251,Biology,Harvard,PhD
+207,148254,Aero,Other,PhD
+208,148255,Other,Harvard,PhD
+209,148256,Physics,Other,PhD
+210,148258,Other,NYU,Bachelors
+211,148260,Mechanical Eng,Other,Masters
+212,148266,Chemistry,MIT,Masters
+213,148269,Business,BU,Masters
+214,148270,Physics,Other,Other
+215,148271,Mechanical Eng,MIT,Bachelors
+216,148272,Other,Other,Bachelors
+217,148274,Other,Other,PhD
+218,148279,CS,Tufts,Bachelors
+219,148282,Other,Tufts,Bachelors
+220,148285,Other,Other,PhD
+221,148297,CS,Other,Other
+222,148300,Other,NYU,Bachelors
+223,148304,Other,MIT,Bachelors
+224,148305,Other,BU,Masters
+225,148309,Other,BU,Masters
+226,148310,CS,MIT,Bachelors
+227,148311,Business,Other,Other
+228,148314,Other,BU,Masters
+229,148316,CS,Other,Bachelors
+230,148317,Materials,Other,Masters
+231,148318,Other,Other,PhD
+232,148320,Other,NYU,Masters
+233,148321,Other,Other,Bachelors
+234,148322,Other,Other,Other
+235,148328,Chemistry,Other,PhD
+236,148329,Other,Other,Masters
+237,148333,Finance,Other,Masters
+238,148334,Electrical Eng,MIT,Bachelors
+239,148337,Business,Other,Other
+240,148339,Other,Brandeis,PhD
+241,148340,Mechanical Eng,MIT,Bachelors
+242,148344,Finance,Tufts,Bachelors
+243,148348,Chemistry,Other,Masters
+244,148349,Other,BU,Masters
+245,148354,Other,BU,Masters
+246,148355,Business,MIT,Masters
+247,148357,Business,Other,Other
+248,148361,CS,Other,Masters
+249,148362,Business,BU,Masters
+250,148363,Electrical Eng,Other,Masters
+251,148364,CS,NYU,Bachelors
+252,148366,Business,Other,Masters
+253,148367,CS,MIT,Bachelors
+254,148374,Other,Other,Masters
+255,148375,Business,Other,Masters
+256,148389,Business,NYU,Masters
+257,148393,Finance,Other,Masters
+258,148395,Other,Other,Masters
+259,148398,Other,Other,Masters
+260,148400,Aero,MIT,PhD
+261,148407,Other,BU,Masters
+262,148411,Mechanical Eng,BU,Masters
+263,148412,Business,Other,Masters
+264,148413,Finance,Other,Bachelors
+265,148423,Finance,Other,Other
+266,148425,CS,Harvard,Bachelors
+267,148426,Other,Other,Other
+268,148436,Other,Other,Bachelors
+269,148442,Other,BU,Bachelors
+270,148447,Finance,Other,Bachelors
+271,148462,Other,MIT,MBA
+272,148464,Physics,Other,Masters
+273,148465,Law,NYU,Masters
+274,148469,Finance,Other,Other
+275,148470,Biology,Northeastern,Masters
+276,148471,Other,Hult Business,MBA
+277,148472,Other,Northeastern,Bachelors
+278,148473,Other,Hult Business,MBA
+279,148484,Other,Other,Other
+280,148486,Biology,Harvard,Masters
+281,148487,Other,Other,Masters
+282,148493,Other,Hult Business,MBA
+283,148494,Industrial Eng,Other,Masters
+284,148506,CS,Other,Bachelors
+285,148507,CS,NYU,Bachelors
+286,148515,CS,NYU,Masters
+287,148519,Other,Harvard,PhD
+288,148523,Other,Other,PhD
+289,148525,CS,NYU,Masters
+290,148529,Biology,Other,Bachelors
+291,148530,CS,NYU,Bachelors
+292,148532,Mechanical Eng,MIT,Bachelors
+293,148534,Other,Other,Masters
+294,148537,Other,Other,Other
+295,148539,Other,Harvard,Bachelors
+296,148546,Other,WPI,Masters
+297,148547,Other,Other,Other
+298,148555,CS,MIT,Bachelors
+299,148561,Other,Other,Bachelors
+300,148562,CS,MIT,Bachelors
+301,148564,CS,Other,Bachelors
+302,148566,Mechanical Eng,BU,Bachelors
+303,148572,Physics,Other,Other
+304,148574,Chemistry,Other,Masters
+305,148575,Chemistry,Other,Bachelors
+306,148576,Other,Harvard,Bachelors
+307,148578,CS,Other,Other
+308,148579,Biology,Other,Bachelors
+309,148583,CS,NYU,Bachelors
+310,148584,Finance,Other,Other
+311,148588,Aero,MIT,Masters
+312,148590,CS,BU,Masters
+313,148593,Other,Other,Bachelors
+314,148594,Business,MIT,Masters
+315,148595,Biology,Other,Bachelors
+316,148597,Business,Other,Bachelors
+317,148619,CS,Other,Bachelors
+318,148672,Other,Other,Other
+319,148674,Mechanical Eng,Other,Bachelors
+320,148792,Mechanical Eng,NYU,Bachelors
+321,148811,Business,Hult Business,Masters
+322,148821,Other,Other,Masters
+323,148828,Finance,Other,Masters
+324,148849,Physics,Other,Other
+325,148850,Other,Other,Other
+326,148853,Other,BU,Masters
+327,148854,Other,Other,Other
+328,148862,Other,Hult Business,MBA
+329,148869,Other,Hult Business,MBA
+330,148870,Biology,Other,Bachelors
+331,148871,Mechanical Eng,Other,Bachelors
+332,148876,Biology,Other,Other
+333,148882,Biology,Other,Bachelors
+334,148889,Biology,MIT,Bachelors
+335,148901,Biology,Other,Other
+336,148908,Materials,Other,Other
+337,148958,Other,MIT,MBA
+338,148981,Business,Hult Business,Masters
+339,148994,Mechanical Eng,Other,Bachelors
+340,149014,Mechanical Eng,Other,Bachelors
+341,149015,Biology,Other,Other
+342,149016,Biology,Other,Other
+343,149026,Biology,Other,Other
+344,149030,Mechanical Eng,Other,Other
+345,149039,Materials,MIT,Bachelors
+346,149047,Other,Other,Bachelors
+347,149057,Other,MIT,Masters
+348,149058,Other,Other,Bachelors
+349,149059,Business,Other,Other
+350,149068,CS,Other,Bachelors
+351,149069,Mechanical Eng,Other,Other
+352,149072,Other,Northeastern,Bachelors
+353,149073,Business,Other,Masters
+354,149085,CS,Other,Bachelors
+355,149086,CS,MIT,Masters
+356,149087,Mechanical Eng,MIT,Masters
+357,149090,Mechanical Eng,MIT,PhD
+358,149092,Biology,MIT,Bachelors
+359,149095,Electrical Eng,MIT,Bachelors
+360,149096,CS,MIT,Bachelors
+361,149097,Chemistry,Other,PhD
+362,149099,Other,MIT,Bachelors
+363,149101,Other,MIT,MBA
+364,149102,CS,Tufts,Bachelors
+365,149103,Finance,MIT,Masters
+366,149104,Mechanical Eng,MIT,PhD
+367,149105,Other,MIT,PhD
+368,149106,Electrical Eng,MIT,PhD
+369,149108,CS,Other,PhD
+370,149115,Biology,MIT,Bachelors
+371,149146,Physics,BU,PhD
+372,149147,CS,MIT,Bachelors
+373,149148,CS,MIT,PhD
+374,149149,CS,MIT,Bachelors
+375,149150,Physics,MIT,Bachelors
+376,149151,Biology,MIT,Bachelors
+377,149155,Biology,MIT,Bachelors
+378,149162,Other,Other,Bachelors
+379,149164,CS,MIT,Bachelors
+380,149165,Finance,Other,Masters
+381,149169,Finance,MIT,Masters
+382,149171,Electrical Eng,Other,Masters
+383,149172,CS,Other,Bachelors
+384,149178,Electrical Eng,Other,Bachelors
+385,149185,Other,Other,Bachelors
+386,149219,Biology,Other,Masters
+387,149222,Mechanical Eng,Other,PhD
+388,149227,CS,Other,Bachelors
+389,149247,Other,Northeastern,Masters
+390,149249,Business,Northeastern,Masters
+391,149250,Mechanical Eng,Northeastern,Masters
+392,149251,Industrial Eng,Northeastern,Masters
+393,149252,Other,Northeastern,Masters
+394,149265,Data Science,Northeastern,Masters
+395,149281,Business,Northeastern,Masters
+396,149290,Business,Northeastern,Masters
+397,149293,Other,Other,MBA
+398,149296,Business,Other,Masters
+399,149299,Business,Northeastern,Masters
+400,149300,Business,Northeastern,Masters
+401,149311,Other,UMass Amherst,Bachelors
+402,149316,CS,Other,Masters
+403,149321,Business,Northeastern,Masters
+404,149325,Other,Northeastern,Masters
+405,149331,CS,Northeastern,Masters
+406,149335,Other,MIT,Masters
+407,149340,CS,Northeastern,Masters
+408,149342,Business,Northeastern,Masters
+409,149347,Mechanical Eng,Other,Masters
+410,149349,Other,NYU,Bachelors
+411,149358,Other,Northeastern,Masters
+412,149364,CS,Northeastern,Masters
+413,149370,CS,MIT,Bachelors
+414,149372,Business,Northeastern,Masters
+415,149375,Other,Other,Masters
+416,149376,Biology,Other,Masters
+417,149381,CS,Northeastern,Masters
+418,149387,CS,Northeastern,Masters
+419,149390,Other,Other,Other
+420,149400,Other,Northeastern,Masters
+421,149402,Other,Other,Other
+422,149403,Biology,Other,Bachelors
+423,149408,CS,Northeastern,Masters
+424,149410,Finance,Hult Business,Masters
+425,149412,Business,Northeastern,Masters
+426,149433,Business,Northeastern,Masters
+427,149445,Other,MIT,PhD
+428,149455,Other,MIT,PhD
+429,149465,CS,MIT,Bachelors
+430,149468,CS,Northeastern,Masters
+431,149477,Business,Northeastern,Masters
+432,149478,Other,MIT,Bachelors
+433,149484,Mechanical Eng,MIT,Bachelors
+434,149486,Physics,MIT,Bachelors
+435,149500,Electrical Eng,MIT,Bachelors
+436,149506,CS,MIT,Bachelors
+437,149508,Business,Other,Other
+438,149510,Biology,Other,Bachelors
+439,149515,Finance,Other,Other
+440,149517,CS,Other,Other
+441,149521,Other,MIT,PhD
+442,149522,Business,MIT,Masters
+443,149523,Mechanical Eng,Other,Masters
+444,149527,Other,MIT,Masters
+445,149529,Other,MIT,Masters
+446,149535,CS,MIT,PhD
+447,149539,Other,MIT,PhD
+448,149540,Mechanical Eng,Other,Other
+449,149553,Data Science,Northeastern,Masters
+450,149556,CS,MIT,Bachelors
+451,149558,Business,MIT,Masters
+452,149566,Biology,MIT,Bachelors
+453,149575,Data Science,Northeastern,Masters
+454,149576,Chemistry,MIT,PhD
+455,149578,Data Science,Northeastern,Masters
+456,149579,Business,Northeastern,Masters
+457,149586,Business,Northeastern,Masters
+458,149587,CS,Northeastern,Masters
+459,149591,Electrical Eng,Other,Bachelors
+460,149593,CS,MIT,Masters
+461,149595,Other,MIT,Bachelors
+462,149596,Biology,Other,Bachelors
+463,149601,Finance,MIT,Bachelors
+464,149604,CS,MIT,Bachelors
+465,149608,Physics,MIT,PhD
+466,149610,Business,Northeastern,Masters
+467,149611,Business,MIT,Masters
+468,149612,Business,Northeastern,Masters
+469,149617,Mechanical Eng,MIT,Bachelors
+470,149622,Mechanical Eng,MIT,Bachelors
+471,149625,Biology,Harvard,PhD
+472,149639,CS,Northeastern,Masters
+473,149722,Business,Hult Business,Masters
+474,149733,Other,Tufts,Masters
+475,149735,Business,Hult Business,Masters
+476,149736,Mechanical Eng,Northeastern,PhD
+477,149756,Mechanical Eng,Other,Masters
+478,149763,Other,Other,Other
+479,149775,Biology,Other,Other
+480,149776,Other,Other,Other
+481,149777,Other,Other,Bachelors
+482,149786,Other,Other,Masters
+483,149787,CS,MIT,PhD
+484,149792,Business,Harvard,Masters
+485,149793,CS,Other,Bachelors
+486,149798,Other,Other,Masters
+487,149800,Business,Other,Masters
+488,149802,Other,Other,MBA
+489,149803,Other,Other,Other
+490,149804,Finance,Other,Masters
+491,149805,Other,Other,Masters
+492,149808,Other,Other,Other
+493,149811,Other,Other,Bachelors
+494,149813,Marketing,Other,Other
+495,149815,Other,Other,Bachelors
+496,149818,Business,Other,Masters
+497,149828,Other,Other,PhD
+498,149831,Other,Other,PhD
+499,149832,Other,Other,High school
+500,149833,Business,Other,Masters
+501,149840,Data Science,Northeastern,Masters
+502,149843,Marketing,Other,Other
+503,149845,Other,Other,Masters
+504,149847,Mechanical Eng,Other,Bachelors
+505,149849,Other,MIT,MBA
+506,149858,Other,Other,Masters
+507,149863,Other,MIT,Masters
+508,149868,Chemistry,Other,PhD
+509,149870,CS,MIT,Bachelors
+510,149878,Other,Other,MBA
+511,149879,Business,Other,Bachelors
+512,149880,Business,Other,Other
+513,149884,Finance,Other,Masters
+514,149885,Chemistry,Other,Bachelors
+515,149887,Business,Other,Masters
+516,149888,Business,Other,Other
+517,149892,Other,MIT,Bachelors
+518,149894,Business,Other,Masters
+519,149898,Finance,Other,Bachelors
+520,149899,Other,Other,Other
+521,149909,Mechanical Eng,Other,Bachelors
+522,149910,Other,Other,Bachelors
+523,149913,Other,MIT,MBA
+524,149914,CS,MIT,Bachelors
+525,149916,Business,Other,Masters
+526,149917,Electrical Eng,MIT,PhD
+527,149925,Other,Other,Masters
+528,149926,Other,Other,MBA
+529,149939,Other,MIT,MBA
+530,149941,Other,Other,MBA
+531,149944,Other,Other,Other
+532,149947,Mechanical Eng,Other,Bachelors
+533,149948,Materials,UMass Amherst,PhD
+534,149951,Other,Other,Masters
+535,149952,Business,MIT,Masters
+536,149954,Finance,Other,Other
+537,149956,Biology,Harvard,PhD
+538,149958,Other,Other,Masters
+539,149964,Business,Other,Bachelors
+540,149967,Finance,Other,Masters
+541,149968,Electrical Eng,Other,Masters
+542,149973,Physics,Other,Bachelors
+543,149974,Finance,Other,Masters
+544,149977,Business,Other,Masters
+545,149990,Other,MIT,MBA
+546,149992,Business,Other,Masters
+547,149995,Other,MIT,MBA
+548,149996,Finance,Other,Masters
+549,149997,Business,Other,Masters
+550,149998,Biology,Harvard,Bachelors
+551,149999,Other,Other,MBA
+552,150002,Other,Other,Bachelors
+553,150004,Mechanical Eng,BU,Bachelors
+554,150005,Business,Other,Masters
+555,150009,Business,Other,Masters
+556,150016,Other,Harvard,Bachelors
+557,150017,Business,Other,Masters
+558,150130,Business,Other,Other
+559,150160,CS,Northeastern,Masters
+560,150161,Other,MIT,Masters
+561,150169,Finance,MIT,PhD
+562,150172,Other,Other,Masters
+563,150177,Business,Other,Masters
+564,150179,Other,MIT,Masters
+565,150206,Data Science,Hult Business,Masters
+566,150212,Electrical Eng,MIT,Bachelors
+567,150213,Business,Other,Masters
+568,150242,Electrical Eng,MIT,Bachelors
+569,150243,Other,MIT,Masters
+570,150247,Business,Other,MBA
+571,150256,CS,MIT,PhD
+572,150259,Business,Northeastern,Masters
+573,150271,Other,Other,Masters
+574,150276,Electrical Eng,MIT,PhD
+575,150293,Business,Hult Business,Bachelors
+576,150294,Other,Harvard,PhD
+577,150298,Business,BU,Bachelors
+578,150302,Business,Other,Other
+579,150305,Biology,Other,Masters
+580,150307,Materials,MIT,Masters
+581,150314,Other,MIT,Masters
+582,150315,Business,Other,Masters
+583,150317,Other,Other,MBA
+584,150325,Business,Other,Masters
+585,150326,Other,Other,Other
+586,150335,Other,MIT,Bachelors
+587,150337,Business,Tufts,Masters
+588,150341,Other,Hult Business,MBA
+589,150344,Business,Other,Masters
+590,150366,Business,MIT,Masters
+591,150369,Business,MIT,Masters
+592,150370,Business,MIT,Masters
+593,150371,Other,Other,Bachelors
+594,150375,Biology,Other,Other
+595,150376,Other,MIT,PhD
+596,150387,Finance,Other,Other
+597,150388,Other,Harvard,Masters
+598,150389,Business,MIT,Masters
+599,150395,Business,MIT,Masters
+600,150396,Other,Northeastern,Masters
+601,150397,Business,Other,Masters
+602,150398,Business,MIT,Masters
+603,150399,Other,Harvard,Masters
+604,150400,Other,MIT,MBA
+605,150401,CS,Other,Masters
+606,150402,Other,MIT,Masters
+607,150403,Biology,MIT,Bachelors
+608,150416,CS,Other,Other
+609,150420,CS,Other,Masters
+610,150493,Marketing,Other,Masters
+611,150617,Physics,Other,PhD
+612,150648,Finance,Other,Bachelors
+613,150673,Other,Other,MBA
+614,150735,Biology,MIT,Bachelors
+615,150785,Other,Other,Masters
+616,150827,Other,Other,Masters
+617,150842,Other,Other,MBA
+618,150887,Other,Other,MBA
+619,150938,Other,MIT,Masters
+620,150941,Biology,MIT,Bachelors
+621,150947,Other,Other,Other
+622,150950,Other,Other,Other
+623,150964,Physics,Other,Other
+624,150970,CS,Other,Other
+625,150971,Physics,MIT,PhD
+626,150980,Other,Other,Masters
+627,150981,Other,Other,Bachelors
+628,150984,Business,Other,Other
+629,150997,Biology,MIT,Bachelors
+630,151000,Other,Other,Bachelors
+631,151008,Electrical Eng,Other,Masters
+632,151011,Other,Other,Bachelors
+633,151012,Business,Other,Bachelors
+634,151015,Other,Other,Bachelors
+635,151016,CS,Harvard,Masters
+636,151017,Mechanical Eng,UMass Amherst,PhD
+637,151019,Business,NYU,Masters
+638,151021,Mechanical Eng,MIT,Masters
+639,151025,Other,Other,Masters
+640,151029,Other,Other,MBA
+641,151033,Finance,Other,Bachelors
+642,151039,Finance,Other,Bachelors
+643,151044,CS,Other,Bachelors
+644,151051,Other,Other,Bachelors
+645,151053,Finance,MIT,Bachelors
+646,151057,Other,Other,Bachelors
+647,151059,Other,Other,Bachelors
+648,151060,Finance,Other,Other
+649,151062,Business,Other,Masters
+650,151063,Physics,Other,Bachelors
+651,151066,Mechanical Eng,MIT,Masters
+652,151067,Other,Other,Masters
+653,151071,Biology,Other,Masters
+654,151073,Other,MIT,MBA
+655,151074,Other,Other,Other
+656,151075,Finance,Other,Bachelors
+657,151081,Mechanical Eng,Other,Bachelors
+658,151084,Materials,Other,Bachelors
+659,151125,Business,Other,Masters
+660,151126,Biology,Other,Other
+661,151127,Business,Other,Masters
+662,151147,Other,Harvard,Masters
+663,151160,Other,Harvard,Masters
+664,151170,Other,MIT,MBA
+665,151174,Other,Other,Masters
+666,151176,Biology,Other,Bachelors
+667,151177,Other,Harvard,Masters
+668,151182,Other,MIT,Bachelors
+669,151188,Other,Harvard,Masters
+670,151195,CS,Harvard,Bachelors
+671,151201,Other,MIT,Bachelors
+672,151202,Other,MIT,Masters
+673,151204,Other,Other,Bachelors
+674,151228,Other,Other,Bachelors
+675,151232,Other,Other,Bachelors
+676,151238,Mechanical Eng,Other,PhD
+677,151239,CS,Other,Masters
+678,151241,Biology,Harvard,PhD
+679,151242,Business,Other,Bachelors
+680,151243,Finance,Other,Bachelors
+681,151245,Other,Other,Bachelors
+682,151258,Other,Harvard,Masters
+683,151260,Mechanical Eng,Other,Other
+684,151261,Other,BU,Masters
+685,151265,Finance,Other,Other
+686,151266,CS,Other,Bachelors
+687,151269,Finance,Other,Masters
+688,151270,Finance,MIT,Masters
+689,151271,Business,Other,Masters
+690,151272,Other,Northeastern,Masters
+691,151283,AI,Other,PhD
+692,151288,Other,Other,Masters
+693,151313,Other,Hult Business,MBA
+694,151355,Other,Harvard,Masters
+695,151357,Other,MIT,MBA
+696,151364,Business,Other,Masters
+697,151371,Other,Harvard,Masters
+698,151374,Business,MIT,Masters
+699,151377,Electrical Eng,Other,Masters
+700,151384,Mechanical Eng,Other,Masters
+701,151387,Other,Harvard,Masters
+702,151394,Biology,Other,Masters
+703,151400,Mechanical Eng,MIT,Masters
+704,151409,Chemistry,Other,Bachelors
+705,151411,Other,Harvard,Masters
+706,151413,Biology,Other,Other
+707,151418,Business,MIT,Masters
+708,151419,Business,Other,Bachelors
+709,151423,Other,MIT,Masters
+710,151424,Business,Hult Business,Bachelors
+711,151430,Business,Hult Business,Bachelors
+712,151440,Other,Other,Masters
+713,151441,Mechanical Eng,Other,Bachelors
+714,151452,Finance,Dartmouth,Bachelors
+715,151454,CS,Dartmouth,Bachelors
+716,151460,Other,Other,Other
+717,151462,CS,Tufts,Bachelors
+718,151463,Finance,Dartmouth,Bachelors
+719,151469,Data Science,Dartmouth,Bachelors
+720,151471,Other,MIT,Masters
+721,151474,Other,Other,Other
+722,151483,Law,Harvard,Masters
+723,151484,Law,Other,Masters
+724,151490,Law,Harvard,Masters
+725,151493,Law,Harvard,Masters
+726,151494,Mechanical Eng,MIT,Bachelors
+727,151502,Business,MIT,Masters
+728,151504,Law,Harvard,Masters
+729,151507,Other,Dartmouth,Bachelors
+730,151508,Other,Dartmouth,Bachelors
+731,151509,Biology,Northeastern,Bachelors
+732,151510,Finance,Other,Bachelors
+733,151512,Law,Harvard,Masters
+734,151514,Other,Dartmouth,Bachelors
+735,151516,Law,Other,Masters
+736,151519,Law,Harvard,Masters
+737,151521,Other,Harvard,Bachelors
+738,151525,Other,Other,PhD
+739,151571,Other,Other,Bachelors
+740,151730,Biology,Other,PhD
+741,151774,Law,Harvard,Masters
+742,151786,Other,Other,Masters
+743,151811,Business,Tufts,Masters
+744,151826,Biology,Other,Other
+745,151834,Biology,Other,PhD
+746,151842,Business,Other,Other
+747,151851,Law,Harvard,Masters
+748,151854,Physics,Other,Other
+749,151878,Law,Other,Masters
+750,151891,CS,BU,Masters
+751,151898,Law,Harvard,Masters
+752,151905,Law,Harvard,Masters
+753,151924,Law,Other,PhD
+754,151927,Law,Harvard,PhD
+755,151931,Business,Other,Other
+756,151936,CS,Other,Bachelors
+757,151972,CS,Other,Bachelors
+758,151985,Biology,Other,Other
+759,151992,Business,MIT,Masters
+760,151998,Other,Other,Bachelors
+761,152002,Business,MIT,Masters
+762,152010,CS,Other,Bachelors
+763,152015,Electrical Eng,MIT,Bachelors
+764,152029,Other,Harvard,Masters
+765,152034,Business,Other,Masters
+766,152053,Business,MIT,Masters
+767,152062,Other,Other,Other
+768,152071,CS,Northeastern,Masters
+769,152073,Other,Other,Masters
+770,152074,Other,Northeastern,Masters
+771,152078,Business,MIT,Masters
+772,152079,Law,Harvard,Masters
+773,152081,Electrical Eng,Other,Bachelors
+774,152102,Business,Other,Bachelors
+775,152104,Other,Harvard,Masters
+776,152118,Other,Dartmouth,Bachelors
+777,152120,Other,Other,Masters
+778,152136,Finance,Other,Bachelors
+779,152143,Other,Other,Other
+780,152145,Other,Other,Bachelors
+781,152146,Business,Harvard,Bachelors
+782,152147,Business,MIT,Masters
+783,152148,Business,Other,Bachelors
+784,152150,CS,Harvard,Bachelors
+785,152151,Other,MIT,Masters
+786,152153,Mechanical Eng,MIT,Bachelors
+787,152154,Law,Harvard,Masters
+788,152155,Business,MIT,Masters
+789,152157,Other,Harvard,Bachelors
+790,152159,Finance,MIT,Masters
+791,152162,Other,Harvard,Bachelors
+792,152163,CS,Other,Bachelors
+793,152218,Business,Other,Other
+794,152221,CS,Other,Masters
+795,152278,Other,Harvard,Bachelors
+796,152345,Chemistry,MIT,Masters
+797,152358,Mechanical Eng,NYU,PhD
+798,152381,Other,Harvard,Bachelors
+799,152386,Finance,MIT,Masters
+800,152397,Other,Other,Masters
+801,152406,Biology,Other,Other
+802,152410,Other,Other,PhD
+803,152416,Business,Other,Masters
+804,152439,CS,MIT,Masters
+805,152442,Chemistry,MIT,PhD
+806,152460,Biology,Other,PhD
+807,152469,Business,Other,Bachelors
+808,152472,Biology,Other,Other
+809,152476,CS,Other,Other
+810,152485,Other,Other,Other
+811,152487,Finance,Other,Masters
+812,152493,CS,Other,Other
+813,152501,Other,MIT,PhD
+814,152504,Mechanical Eng,MIT,PhD
+815,152507,Business,MIT,Masters
+816,152510,CS,BU,Masters
+817,152517,CS,Harvard,Masters
+818,152520,Mechanical Eng,Other,Bachelors
+819,152530,Physics,Other,Other
+820,152531,Other,Harvard,Bachelors
+821,152532,CS,Other,Bachelors
+822,152546,Finance,Other,Bachelors
+823,152559,Other,Other,Bachelors
+824,152562,Mechanical Eng,Other,Bachelors
+825,152593,CS,Other,Bachelors
+826,152599,Other,MIT,MBA
+827,152601,Physics,Other,Masters
+828,152606,Other,MIT,MBA
+829,152607,CS,Other,Bachelors
+830,152610,Other,Tufts,Bachelors
+831,152613,Electrical Eng,MIT,Bachelors
+832,152620,Other,Other,Other
+833,152622,Biology,Other,Masters
+834,152626,Biology,Other,Other
+835,152628,Other,Other,Other
+836,152629,CS,Other,Masters
+837,152638,Other,Other,Other
+838,152641,Other,Other,Bachelors
+839,152649,Other,Other,Masters
+840,152685,Physics,BU,PhD
+841,152691,Finance,Hult Business,Bachelors
+842,152695,Business,Harvard,Masters
+843,152697,Business,Other,Masters
+844,152699,Other,Harvard,Masters
+845,152703,Business,Other,Masters
+846,152704,CS,Other,Bachelors
+847,152743,Finance,Other,Other
+848,152765,Biology,Other,Other
+849,152877,AI,Other,Other
+850,152895,Finance,Other,Bachelors
+851,153128,Other,Harvard,Masters
+852,153166,Biology,Other,PhD
+853,153218,Biology,Other,PhD
+854,153294,Other,Harvard,PhD
+855,153303,Biology,Other,Other
+856,153314,Mechanical Eng,Harvard,Bachelors
+857,153320,Biology,Other,Bachelors
+858,153323,Finance,Dartmouth,Bachelors
+859,153350,Other,MIT,Bachelors
+860,153370,Other,Hult Business,MBA
+861,153384,Other,Harvard,High school
+862,153388,Other,Tufts,Masters
+863,153428,Finance,Other,Bachelors
+864,153464,Business,MIT,MBA
+865,153477,Business,Northeastern,Masters
+866,153482,Other,Other,Bachelors
+867,153489,Industrial Eng,Northeastern,Masters
+868,153490,Biology,Other,Other
+869,153492,Business,Northeastern,Masters
+870,153493,Biology,Other,Masters
+871,153494,Business,Northeastern,Masters
+872,153507,Other,Other,Masters
+873,153544,Data Science,Other,Bachelors
+874,153559,Law,Other,Masters
+875,153584,Other,Tufts,Bachelors
+876,153590,Other,Dartmouth,Bachelors
+877,153603,Other,Other,Other
+878,153626,Biology,Other,Other
+879,153648,Electrical Eng,Other,Other
+880,153660,Finance,Other,Other
+881,153701,Biology,Other,PhD
+882,153713,Other,Other,MBA
+883,153732,CS,Other,Masters
+884,153744,Law,Harvard,Masters
+885,153751,Electrical Eng,Other,Other
+886,153752,Chemistry,MIT,Masters
+887,153755,CS,MIT,Bachelors
+888,153756,Other,Harvard,Masters
+889,153758,Business,MIT,Bachelors
+890,153759,CS,MIT,Bachelors
+891,153761,Other,MIT,Bachelors
+892,153762,Physics,Other,PhD
+893,153764,Mechanical Eng,MIT,Bachelors
+894,153765,CS,MIT,Bachelors
+895,153766,Mechanical Eng,Other,PhD
+896,153767,Other,MIT,MBA
+897,153774,CS,MIT,Bachelors
+898,153775,Other,MIT,Bachelors
+899,153776,Other,MIT,Bachelors
+900,153777,CS,MIT,Bachelors
+901,153778,Materials,Other,Other
+902,153779,CS,MIT,PhD
+903,153780,Other,MIT,Bachelors
+904,153781,Other,Other,Masters
+905,153782,Other,Other,Masters
+906,153787,Biology,MIT,Bachelors
+907,153788,Electrical Eng,Other,PhD
+908,153791,Business,NYU,Bachelors
+909,153793,CS,MIT,Bachelors
+910,153796,Other,MIT,Bachelors
+911,153842,Other,Other,Other
+912,153888,Other,Other,Bachelors
+913,153930,Materials,Other,PhD
+914,154037,Physics,Other,Masters
+915,154061,Mechanical Eng,Other,Other
+916,154105,Biology,Harvard,PhD
+917,154121,Electrical Eng,MIT,PhD
+918,154135,Law,Other,Other
+919,154148,CS,MIT,Masters
+920,154149,Mechanical Eng,MIT,Masters
+921,154156,Mechanical Eng,MIT,Masters
+922,154164,Other,Other,Masters
+923,154171,CS,MIT,Bachelors
+924,154177,Chemistry,MIT,PhD
+925,154195,Biology,Other,Other
+926,154209,Other,Dartmouth,Bachelors
+927,154234,Biology,Other,PhD
+928,154235,Other,Other,Masters
+929,154239,Business,Other,MBA
+930,154240,Other,Harvard,Masters
+931,154241,Biology,Other,Masters
+932,154254,CS,MIT,Masters
+933,154258,Other,MIT,Masters
+934,154261,Mechanical Eng,MIT,Bachelors
+935,154263,Aero,MIT,Masters
+936,154266,Other,Other,Bachelors
+937,154267,Mechanical Eng,Other,Bachelors
+938,154295,Finance,Other,Bachelors
+939,154323,Other,MIT,PhD
+940,154333,Finance,Other,Other
+941,154341,Other,Hult Business,MBA
+942,154345,Other,Hult Business,MBA
+943,154350,CS,MIT,Bachelors
+944,154352,Other,Harvard,Masters
+945,154354,Data Science,MIT,Bachelors
+946,154357,Other,Hult Business,MBA
+947,154365,CS,Other,Masters
+948,154366,Other,Other,Bachelors
+949,154375,CS,MIT,Bachelors
+950,154381,CS,MIT,Bachelors
+951,154385,Business,Other,Masters
+952,154387,Other,MIT,Masters
+953,154388,Biology,BU,PhD
+954,154390,Mechanical Eng,MIT,Masters
+955,154392,Biology,MIT,Bachelors
+956,154393,Other,MIT,Bachelors
+957,154394,Physics,Other,PhD
+958,154396,Other,MIT,MBA
+959,154397,Other,Other,Other
+960,154409,Other,Hult Business,MBA
+961,154410,Other,MIT,Bachelors
+962,154411,Finance,Other,Masters
+963,154412,Business,Other,Masters
+964,154416,Other,Other,MBA
+965,154427,Other,Harvard,Masters
+966,154430,Electrical Eng,Other,Masters
+967,154431,Materials,MIT,PhD
+968,154438,Finance,Other,Other
+969,154439,Mechanical Eng,MIT,Bachelors
+970,154441,Business,Other,Masters
+971,154442,Other,Other,MBA
+972,154443,Other,Hult Business,Masters
+973,154445,Mechanical Eng,MIT,Masters
+974,154447,Other,MIT,MBA
+975,154448,Other,Other,Other
+976,154454,Other,Other,Masters
+977,154459,Electrical Eng,Tufts,Bachelors
+978,154465,Other,Other,Other
+979,154562,Electrical Eng,Other,Other
+980,154573,Electrical Eng,Other,Other
+981,154584,Biology,Other,Masters
+982,154592,Marketing,Other,Other
+983,154686,Mechanical Eng,MIT,Bachelors
+984,154688,Business,Other,Bachelors
+985,154699,Materials,MIT,PhD
+986,154702,Other,Other,PhD
+987,154706,Physics,Other,Other
+988,154710,Mechanical Eng,MIT,PhD
+989,154724,Other,Other,Bachelors
+990,154727,CS,MIT,PhD
+991,154731,Physics,Harvard,PhD
+992,154742,Biology,Other,Other
+993,154743,Other,Harvard,Masters
+994,154757,Mechanical Eng,MIT,PhD
+995,154758,CS,MIT,Bachelors
+996,154773,Other,Other,Bachelors
+997,154776,Other,Harvard,Masters
+998,154783,Business,Other,Masters
+999,154787,Other,Other,Masters
+1000,154808,Biology,Other,Other
+1001,154818,Other,Hult Business,Masters
+1002,154819,Other,Other,Other
+1003,154823,Other,Other,PhD
+1004,154824,AI,MIT,PhD
+1005,154832,Other,Other,Bachelors
+1006,154833,Law,Other,PhD
+1007,154834,Biology,MIT,Bachelors
+1008,154836,Other,Other,Other
+1009,154838,Civil Eng,MIT,Masters
+1010,154839,Law,Other,PhD
+1011,154842,Business,Other,Other
+1012,154847,Other,NYU,PhD
+1013,154850,Other,Other,Masters
+1014,154852,Other,NYU,Masters
+1015,154858,Other,Other,MBA
+1016,154859,Business,Other,Masters
+1017,154862,Biology,Other,Other
+1018,154871,CS,Other,Bachelors
+1019,154872,Materials,MIT,PhD
+1020,154875,CS,Other,Bachelors
+1021,154876,Other,MIT,Masters
+1022,154877,CS,MIT,PhD
+1023,154879,Other,Harvard,Masters
+1024,154880,Biology,Harvard,PhD
+1025,154881,Other,Harvard,Masters
+1026,154882,Mechanical Eng,NYU,Bachelors
+1027,154884,Mechanical Eng,MIT,Bachelors
+1028,154887,Mechanical Eng,MIT,PhD
+1029,154888,Business,Tufts,Masters
+1030,154889,Mechanical Eng,MIT,Masters
+1031,154891,Business,Other,Other
+1032,154897,CS,MIT,Bachelors
+1033,154898,Other,Other,Other
+1034,154914,CS,Other,Other
+1035,154918,Other,Other,Masters
+1036,154944,Other,Harvard,Masters
+1037,154949,Business,Other,Masters
+1038,154953,Other,Other,Other
+1039,154954,Other,Harvard,Masters
+1040,154955,Finance,Hult Business,Masters
+1041,154963,Chemistry,Other,Masters
+1042,154970,Chemistry,MIT,Bachelors
+1043,154976,Business,Other,Other
+1044,154977,Other,Harvard,Masters
+1045,154979,Electrical Eng,Other,Other
+1046,154993,Chemistry,Other,Bachelors
+1047,155000,Physics,Other,PhD
+1048,155002,Finance,Boston College,Bachelors
+1049,155003,Other,Other,Bachelors
+1050,155008,Other,Harvard,Masters
+1051,155009,Other,Harvard,Masters
+1052,155010,Other,Other,Bachelors
+1053,155012,CS,Dartmouth,Masters
+1054,155013,Biology,Other,Other
+1055,155015,Business,Other,Masters
+1056,155018,Other,MIT,Masters
+1057,155019,Other,Harvard,Masters
+1058,155020,Other,Harvard,Masters
+1059,155021,Other,Other,Masters
+1060,155048,Other,Other,PhD
+1061,155057,Mechanical Eng,Other,Bachelors
+1062,155060,CS,Other,Masters
+1063,155068,Law,Other,Masters
+1064,155082,Other,Northeastern,Masters
+1065,155084,Electrical Eng,Other,Bachelors
+1066,155089,Other,Other,Bachelors
+1067,155090,Other,Harvard,Masters
+1068,155099,Other,Hult Business,MBA
+1069,155100,Business,Other,Other
+1070,155102,Mechanical Eng,Other,Other
+1071,155106,Business,Other,Other
+1072,155111,Finance,Harvard,Masters
+1073,155112,Other,Other,Masters
+1074,155113,Chemistry,MIT,Bachelors
+1075,155116,Other,MIT,Bachelors
+1076,155119,Other,Other,PhD
+1077,155121,Finance,Other,Bachelors
+1078,155122,Other,MIT,MBA
+1079,155123,Other,Other,PhD
+1080,155126,Biology,MIT,Bachelors
+1081,155128,Other,MIT,Masters
+1082,155129,Other,Other,Other
+1083,155132,Other,Other,Masters
+1084,155137,Business,Harvard,Masters
+1085,155145,Finance,Other,Bachelors
+1086,155146,Other,Harvard,Masters
+1087,155149,Other,Harvard,Masters
+1088,155151,Other,Harvard,Masters
+1089,155153,Finance,Other,Masters
+1090,155156,Other,Other,MBA
+1091,155157,Other,Other,Bachelors
+1092,155158,Other,Other,PhD
+1093,155160,Finance,Other,Bachelors
+1094,155162,Other,BU,Bachelors
+1095,155164,Other,Other,Bachelors
+1096,155172,Other,Boston College,Bachelors
+1097,155183,Business,MIT,Masters
+1098,155274,Biology,Other,Masters
+1099,155534,Biology,Other,Masters
+1100,155670,Business,Other,Other
+1101,155711,Other,Harvard,Masters
+1102,155713,Business,Other,Other
+1103,155718,Other,Harvard,PhD
+1104,155727,Chemistry,Other,Other
+1105,155736,Other,Other,Other
+1106,155762,Other,Other,Masters
+1107,155769,Chemistry,Other,Other
+1108,155775,Other,Other,Masters
+1109,155789,Other,Harvard,Masters
+1110,155804,Other,Other,Masters
+1111,155808,CS,Other,Other
+1112,155820,CS,Dartmouth,Masters
+1113,155822,Other,Harvard,Masters
+1114,155827,Other,MIT,PhD
+1115,155832,Business,Other,Other
+1116,155833,Biology,Other,PhD
+1117,155843,Finance,Boston College,Bachelors
+1118,155845,Other,Harvard,Bachelors
+1119,155846,Biology,Tufts,Bachelors
+1120,155854,Other,MIT,Masters
+1121,155859,Finance,Other,Masters
+1122,155870,Other,MIT,PhD
+1123,155879,Other,Other,Other
+1124,155891,CS,MIT,Bachelors
+1125,155893,Other,Other,Masters
+1126,155894,Business,MIT,Masters
+1127,155898,Other,Other,Other
+1128,155908,Other,Other,Masters
+1129,155911,Other,Harvard,Masters
+1130,155913,Other,MIT,MBA
+1131,155916,Business,MIT,Masters
+1132,155922,Finance,MIT,Masters
+1133,155923,Other,Other,Other
+1134,155925,Other,MIT,PhD
+1135,155940,Other,Other,Masters
+1136,155944,CS,MIT,Bachelors
+1137,155950,Other,Harvard,Masters
+1138,155952,Business,Harvard,Masters
+1139,155957,Finance,Tufts,Masters
+1140,155971,Other,Other,Bachelors
+1141,155975,Other,Harvard,Bachelors
+1142,155978,Other,Harvard,Bachelors
+1143,155980,Physics,Other,Masters
+1144,155981,CS,Harvard,Bachelors
+1145,155985,Data Science,Harvard,Masters
+1146,155991,Other,Other,Masters
+1147,155994,Other,Other,Bachelors
+1148,156001,CS,Other,PhD
+1149,156003,CS,Other,PhD
+1150,156004,Physics,Other,Bachelors
+1151,156006,Data Science,BU,Masters
+1152,156012,CS,Dartmouth,Bachelors
+1153,156016,Business,Other,Masters
+1154,156018,Biology,Other,PhD
+1155,156020,Electrical Eng,Other,Other
+1156,156022,Mechanical Eng,BU,Masters
+1157,156023,CS,NYU,Masters
+1158,156024,Other,Other,Bachelors
+1159,156025,Finance,Harvard,Bachelors
+1160,156027,CS,BU,Bachelors
+1161,156028,Other,Other,PhD
+1162,156029,Physics,Other,Other
+1163,156030,Finance,Harvard,Masters
+1164,156031,Physics,MIT,PhD
+1165,156032,Mechanical Eng,MIT,Bachelors
+1166,156033,Other,Other,Bachelors
+1167,156034,CS,Other,Bachelors
+1168,156035,Other,Harvard,Masters
+1169,156038,Other,MIT,Bachelors
+1170,156039,Other,Other,Other
+1171,156040,Other,Other,Bachelors
+1172,156042,Biology,Other,PhD
+1173,156044,Other,Harvard,Bachelors
+1174,156046,Mechanical Eng,MIT,Masters
+1175,156047,Business,Other,Other
+1176,156048,Other,Other,Bachelors
+1177,156049,Mechanical Eng,Other,Other
+1178,156051,Finance,Other,Bachelors
+1179,156052,Biology,UConn,PhD
+1180,156053,Law,Other,PhD
+1181,156054,CS,MIT,Bachelors
+1182,156061,Business,Other,MBA
+1183,156063,Other,Other,PhD
+1184,156064,Other,Other,Masters
+1185,156065,Other,Other,Bachelors
+1186,156066,Other,Boston College,Bachelors
+1187,156067,Biology,Other,Other
+1188,156068,Biology,Harvard,Bachelors
+1189,156070,Other,Harvard,Masters
+1190,156074,Law,Harvard,Masters
+1191,156081,Other,Other,Bachelors
+1192,156107,Other,Other,Masters
+1193,156138,Biology,Other,Masters
+1194,156140,CS,Other,Other
+1195,156179,Other,MIT,Masters
+1196,156270,Other,Other,Other
+1197,156271,Finance,Other,Masters
+1198,156277,Other,Other,Other
+1199,156299,Other,MIT,MBA
+1200,156324,Other,Other,Masters
+1201,156335,Other,Other,Other
+1202,156346,Business,Other,Masters
+1203,156362,Other,MIT,Bachelors
+1204,156363,CS,Other,Other
+1205,156368,Other,Other,Masters
+1206,156371,Business,MIT,PhD
+1207,156374,Other,Harvard,Bachelors
+1208,156378,Electrical Eng,Harvard,Bachelors
+1209,156383,Other,Other,PhD
+1210,156391,Biology,Other,Bachelors
+1211,156397,Biology,MIT,Bachelors
+1212,156402,Other,Other,Other
+1213,156419,Business,Other,Other
+1214,156420,Other,Boston College,Bachelors
+1215,156422,Law,Other,Masters
+1216,156425,Other,Other,Other
+1217,156426,Other,Other,Other
+1218,156427,Mechanical Eng,Other,Bachelors
+1219,156432,Electrical Eng,Other,Bachelors
+1220,156446,Mechanical Eng,Other,Other
+1221,156458,Business,MIT,Masters
+1222,156496,Biology,Other,Other
+1223,156500,Mechanical Eng,MIT,Bachelors
+1224,156504,Business,Other,Other
+1225,156513,Other,Other,Other
+1226,156514,Mechanical Eng,Other,Masters
+1227,156516,Other,Harvard,PhD
+1228,156517,Other,Other,Other
+1229,156519,Biology,MIT,PhD
+1230,156522,Biology,Other,Other
+1231,156526,Other,Other,Other
+1232,156527,Physics,MIT,PhD
+1233,156539,Other,Other,Masters
+1234,156540,Biology,Other,Other
+1235,156541,Other,Other,Other
+1236,156542,Other,Other,Bachelors
+1237,156544,Business,MIT,PhD
+1238,156548,CS,Other,Bachelors
+1239,156549,Other,Other,PhD
+1240,156551,Other,Boston College,MBA
+1241,156553,Law,Other,Bachelors
+1242,156555,Business,Other,Other
+1243,156556,Business,Other,Masters
+1244,156563,Other,Harvard,PhD
+1245,156566,Business,Other,Other
+1246,156569,Other,Other,Other
+1247,156574,Other,MIT,PhD
+1248,156575,Other,Other,Other
+1249,156586,Biology,Other,Masters
+1250,156587,Finance,Other,Other
+1251,156591,Other,Dartmouth,PhD
+1252,156592,Other,Other,Masters
+1253,156593,Other,Other,Other
+1254,156594,Finance,Boston College,Masters
+1255,156595,Other,UMass Amherst,Masters
+1256,156596,Biology,Other,Bachelors
+1257,156599,Law,Other,Masters
+1258,156604,Business,MIT,PhD
+1259,156606,Physics,MIT,Bachelors
+1260,156607,Other,MIT,Masters
+1261,156608,Biology,Other,PhD
+1262,156609,CS,MIT,Bachelors
+1263,156611,Mechanical Eng,MIT,Bachelors
+1264,156612,Other,MIT,Bachelors
+1265,156613,Other,MIT,Bachelors
+1266,156617,CS,MIT,Bachelors
+1267,156619,Other,Other,Other
+1268,156620,Business,MIT,Masters
+1269,156621,Other,BU,Bachelors
+1270,156623,Finance,Boston College,Masters
+1271,156624,CS,MIT,Bachelors
+1272,156625,Physics,MIT,Masters
+1273,156627,Biology,Other,Other
+1274,156628,CS,MIT,Bachelors
+1275,156629,Data Science,Harvard,Masters
+1276,156630,Industrial Eng,Other,Other
+1277,156632,Other,Other,Masters
+1278,156634,CS,Other,Bachelors
+1279,156647,Finance,Other,Other
+1280,156651,Chemistry,MIT,PhD
+1281,156716,Other,Other,Other
+1282,156736,Business,Other,Masters
+1283,156751,Biology,Other,Bachelors
+1284,156800,Finance,Other,Other
+1285,156803,Other,Harvard,Masters
+1286,156812,Other,Tufts,Masters
+1287,156835,Aero,Other,Bachelors
+1288,156847,Other,Other,Bachelors
+1289,156858,Other,Tufts,MBA
+1290,156864,Other,Harvard,Masters
+1291,156865,Mechanical Eng,Harvard,PhD
+1292,156871,CS,Other,Masters
+1293,156872,Business,MIT,Masters
+1294,156883,Other,BU,Masters
+1295,156888,Business,Other,Other
+1296,156889,Other,Other,Other
+1297,156896,CS,Other,Masters
+1298,156897,Other,Other,Other
+1299,156898,Other,Boston College,Bachelors
+1300,156900,Other,Northeastern,Bachelors
+1301,156901,Other,Other,Bachelors
+1302,156904,Business,Other,Other
+1303,156905,Other,Other,Other
+1304,156909,Other,Harvard,Masters
+1305,156911,Electrical Eng,Other,Other
+1306,156914,CS,Harvard,Bachelors
+1307,156915,CS,MIT,Bachelors
+1308,156917,Other,Other,Masters
+1309,156919,Biology,MIT,PhD
+1310,156922,Biology,Other,Masters
+1311,156930,Biology,Boston College,PhD
+1312,156935,Other,NYU,Masters
+1313,156940,Other,Other,Other
+1314,156945,Biology,Other,Bachelors
+1315,156946,Business,MIT,Masters
+1316,156947,Business,Other,Masters
+1317,156957,Other,Hult Business,MBA
+1318,156962,Other,MIT,MBA
+1319,156964,Physics,MIT,PhD
+1320,156965,Business,Tufts,Masters
+1321,156976,Chemistry,Other,Masters
+1322,156977,Physics,MIT,Bachelors
+1323,156980,Other,Other,Other
+1324,156983,Data Science,BU,Masters
+1325,156993,Business,MIT,PhD
+1326,156998,Other,MIT,Masters
+1327,156999,Other,Boston College,MBA
+1328,157000,Biology,Other,PhD
+1329,157002,CS,MIT,Bachelors
+1330,157016,Other,Other,Other
+1331,157024,CS,MIT,Bachelors
+1332,157029,Biology,Harvard,PhD
+1333,157030,Industrial Eng,Other,Other
+1334,157032,Chemistry,Other,PhD
+1335,157034,CS,Other,Other
+1336,157036,Other,Other,Other
+1337,157052,Mechanical Eng,Other,Bachelors
+1338,157071,Other,Other,Bachelors
+1339,157088,CS,Other,Other
+1340,157089,Biology,MIT,PhD
+1341,157094,Other,Other,MBA
+1342,157095,Business,Other,Other
+1343,157096,Other,Other,Other
+1344,157104,Other,Other,Bachelors
+1345,157105,Mechanical Eng,Other,Masters
+1346,157108,Other,MIT,Masters
+1347,157114,Business,Other,Other
+1348,157115,Other,Harvard,PhD
+1349,157117,Finance,Harvard,Bachelors
+1350,157120,CS,MIT,PhD
+1351,157121,Other,Other,Masters
+1352,157124,Business,MIT,Masters
+1353,157128,Mechanical Eng,BU,Bachelors
+1354,157131,Other,Other,Other
+1355,157132,Business,Other,Other
+1356,157133,Mechanical Eng,Other,Bachelors
+1357,157134,CS,MIT,Bachelors
+1358,157137,Other,Other,PhD
+1359,157139,Biology,Other,PhD
+1360,157142,Physics,Other,Other
+1361,157144,CS,Other,Other
+1362,157147,Business,Other,Other
+1363,157149,Law,Other,Bachelors
+1364,157150,Other,Other,Bachelors
+1365,157152,CS,MIT,Masters
+1366,157153,Biology,Other,Other
+1367,157155,Electrical Eng,Other,Masters
+1368,157156,Chemistry,Other,Bachelors
+1369,157158,Other,Harvard,Masters
+1370,157159,CS,MIT,Bachelors
+1371,157162,Electrical Eng,Other,PhD
+1372,157163,Business,Hult Business,Masters
+1373,157164,Marketing,Other,Bachelors
+1374,157165,Chemistry,MIT,Masters
+1375,157166,CS,Other,Bachelors
+1376,157168,Biology,BU,Masters
+1377,157170,Business,Other,Other
+1378,157172,Physics,Other,PhD
+1379,157173,Other,Other,Other
+1380,157175,Other,Other,Bachelors
+1381,157176,Finance,Boston College,Masters
+1382,157177,CS,Other,Other
+1383,157179,Other,Other,PhD
+1384,157180,Other,Other,Other
+1385,157182,Electrical Eng,MIT,PhD
+1386,157183,Other,Harvard,Masters
+1387,157186,Physics,MIT,Bachelors
+1388,157198,Other,Other,Bachelors
+1389,157199,Other,BU,Bachelors
+1390,157200,Other,Harvard,Masters
+1391,157201,CS,Other,Bachelors
+1392,157202,Other,MIT,PhD
+1393,157203,Chemistry,MIT,Bachelors
+1394,157204,Other,Other,Other
+1395,157205,Other,BU,Bachelors
+1396,157206,Mechanical Eng,MIT,Bachelors
+1397,157207,CS,MIT,PhD
+1398,157208,Finance,Hult Business,Masters
+1399,157209,Other,MIT,Bachelors
+1400,157210,Other,Other,Other
+1401,157211,Finance,Other,Bachelors
+1402,157213,Biology,Other,Bachelors
+1403,157220,Biology,Other,Masters
+1404,157221,Electrical Eng,Other,Bachelors
+1405,157224,CS,MIT,Bachelors
+1406,157226,CS,Other,Bachelors
+1407,157227,Mechanical Eng,Other,Bachelors
+1408,157241,Other,Other,Other
+1409,157251,Other,Other,Masters
+1410,157256,Business,Other,Masters
+1411,157257,Other,Other,Other
+1412,157270,CS,Other,Other
+1413,157271,Business,Hult Business,Masters
+1414,157283,Other,Other,PhD
+1415,157285,Other,Northeastern,PhD
+1416,157286,Business,Tufts,Masters
+1417,157295,Biology,Other,PhD
+1418,157319,Physics,Other,Other
+1419,157328,CS,Other,Bachelors
+1420,157337,CS,Other,Masters
+1421,157342,CS,Other,Other
+1422,157353,Physics,Other,Bachelors
+1423,157358,CS,NYU,Bachelors
+1424,157366,CS,Other,Other
+1425,157375,Materials,MIT,Bachelors
+1426,157377,Other,MIT,PhD
+1427,157380,Business,MIT,Masters
+1428,157381,Other,Other,Other
+1429,157382,Mechanical Eng,Other,Bachelors
+1430,157385,Other,Other,Masters
+1431,157386,Other,Harvard,Bachelors
+1432,157387,Electrical Eng,Other,Masters
+1433,157388,Finance,Hult Business,Bachelors
+1434,157398,Other,Harvard,Bachelors
+1435,157400,Business,MIT,Masters
+1436,157401,Biology,Other,PhD
+1437,157402,CS,MIT,Masters
+1438,157427,Mechanical Eng,MIT,Bachelors
+1439,157435,Physics,MIT,Bachelors
+1440,157437,CS,Other,Other
+1441,157438,Biology,Other,PhD
+1442,157444,Finance,Other,Other
+1443,157447,Business,Other,Other
+1444,157451,Other,Harvard,Masters
+1445,157456,Other,Other,Masters
+1446,157457,Other,Other,Other
+1447,157460,Electrical Eng,UMass Amherst,PhD
+1448,157472,Biology,Other,Other
+1449,157475,Biology,Other,Other
+1450,157476,CS,Other,Other
+1451,157495,Other,Other,Other
+1452,157496,Other,BU,Bachelors
+1453,157498,CS,Other,Masters
+1454,157500,Other,NYU,Bachelors
+1455,157507,Biology,Northeastern,Masters
+1456,157511,Other,Other,Other
+1457,157512,CS,Other,Masters
+1458,157514,CS,NYU,Bachelors
+1459,157519,Biology,Other,PhD
+1460,157524,Other,Other,Other
+1461,157530,CS,MIT,PhD
+1462,157533,CS,MIT,Masters
+1463,157537,Other,MIT,Masters
+1464,157541,CS,MIT,Bachelors
+1465,157542,Other,Other,Other
+1466,157545,Business,Other,Other
+1467,157547,CS,Other,Masters
+1468,157554,Other,Other,PhD
+1469,157559,CS,MIT,Bachelors
+1470,157562,Other,Other,Masters
+1471,157565,CS,Other,Masters
+1472,157568,Finance,Other,Other
+1473,157572,Business,Other,Other
+1474,157580,Biology,Harvard,Bachelors
+1475,157582,Other,Other,Other
+1476,157583,Business,Other,Masters
+1477,157585,Other,Other,PhD
+1478,157596,Mechanical Eng,Other,Bachelors
+1479,157600,Other,Other,Other
+1480,157604,Other,Other,Bachelors
+1481,157612,Finance,Other,Masters
+1482,157617,Other,Other,Other
+1483,157622,Other,Other,Masters
+1484,157627,Biology,Other,Bachelors
+1485,157640,Other,Other,Other
+1486,157642,CS,Other,Bachelors
+1487,157653,Other,Other,Other
+1488,157655,Business,Hult Business,Masters
+1489,157668,Biology,Other,Other
+1490,157674,CS,Northeastern,PhD
+1491,157693,Business,Other,Masters
+1492,157698,Finance,Other,Bachelors
+1493,157717,CS,Other,Bachelors
+1494,157719,Other,Other,Other
+1495,157723,CS,Other,Other
+1496,157737,Other,Other,Bachelors
+1497,157759,Biology,Other,Bachelors
+1498,157808,Other,Other,Other
+1499,157950,CS,Other,Other
+1500,158014,Other,Other,Other
+1501,158041,Other,Other,Masters
+1502,158048,Other,Other,Other
+1503,158069,Finance,MIT,Masters
+1504,158080,Physics,MIT,Bachelors
+1505,158082,Mechanical Eng,Other,Other
+1506,158092,CS,Other,Bachelors
+1507,158126,Other,Other,Other
