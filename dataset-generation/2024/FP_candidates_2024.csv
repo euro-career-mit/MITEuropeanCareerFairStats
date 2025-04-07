@@ -1,0 +1,3361 @@
+,mostRelevantField,mostRelevantUni,highestDegree
+0,Aero,WPI,Bachelors
+1,Data Science,Northeastern,Masters
+2,Policital Sci,Other,PhD
+3,CS,Other,Bachelors
+4,Data Science,Northeastern,Masters
+5,Other,Other,Bachelors
+6,AI,MIT,Postdoc
+7,Other,Other,Bachelors
+8,CS,MIT,Bachelors
+9,Data Science,Other,Bachelors
+10,CS,Northeastern,Masters
+11,Business,Northeastern,Masters
+12,CS,MIT,Bachelors
+13,CS,MIT,Bachelors
+14,CS,MIT,Bachelors
+15,CS,Other,Bachelors
+16,Business,BU,Bachelors
+17,Aero,MIT,Bachelors
+18,Other,MIT,Masters
+19,CS,MIT,Bachelors
+20,Other,Northeastern,Masters
+21,AI,BU,Bachelors
+22,Physics,MIT,Bachelors
+23,Business,Other,Other
+24,Other,MIT,Bachelors
+25,CS,Other,Masters
+26,CS,MIT,Bachelors
+27,CS,MIT,Bachelors
+28,Data Science,MIT,Bachelors
+29,CS,Northeastern,Masters
+30,Other,MIT,Masters
+31,Biology,Other,Bachelors
+32,CS,Northeastern,Masters
+33,CS,Northeastern,Masters
+34,Other,Other,Masters
+35,Biology,Northeastern,Masters
+36,Physics,MIT,Bachelors
+37,Data Science,Other,Masters
+38,Other,Other,Masters
+39,AI,MIT,Masters
+40,CS,MIT,Bachelors
+41,Data Science,Other,Masters
+42,CS,BU,Masters
+43,Business,MIT,Masters
+44,Data Science,Northeastern,Masters
+45,Mechanical Eng,MIT,PhD
+46,Business,Other,Bachelors
+47,Mechanical Eng,Northeastern,Postdoc
+48,CS,MIT,Bachelors
+49,Mechanical Eng,Northeastern,Postdoc
+50,Other,Northeastern,Masters
+51,CS,Northeastern,Masters
+52,Mechanical Eng,MIT,Bachelors
+53,Data Science,Northeastern,Masters
+54,Business,Other,Masters
+55,Biology,Tufts,Bachelors
+56,Chemistry,Other,Bachelors
+57,Data Science,Northeastern,Masters
+58,Data Science,Northeastern,Masters
+59,CS,Northeastern,Masters
+60,Chemistry,MIT,Bachelors
+61,CS,Other,Bachelors
+62,Data Science,Northeastern,Masters
+63,Other,Northeastern,Masters
+64,CS,Other,Masters
+65,Other,Other,Masters
+66,Mechanical Eng,Northeastern,Bachelors
+67,CS,Northeastern,Masters
+68,CS,MIT,Bachelors
+69,CS,MIT,Bachelors
+70,CS,BU,Bachelors
+71,CS,MIT,Masters
+72,Mechanical Eng,MIT,Bachelors
+73,AI,Northeastern,Masters
+74,Other,Other,Bachelors
+75,Chemistry,MIT,Masters
+76,Data Science,Northeastern,Masters
+77,Biology,MIT,Postdoc
+78,CS,Other,Masters
+79,Industrial Eng,Other,Bachelors
+80,Biology,Northeastern,Masters
+81,Other,Other,Masters
+82,Other,BU,Other
+83,Industrial Eng,Northeastern,Masters
+84,Physics,Other,PhD
+85,Data Science,Northeastern,Masters
+86,Physics,MIT,Postdoc
+87,Physics,MIT,Postdoc
+88,AI,Northeastern,Masters
+89,Business,Other,Masters
+90,Business,Northeastern,Masters
+91,Other,MIT,Masters
+92,Business,MIT,MBA
+93,Data Science,Northeastern,Masters
+94,Electrical Eng,MIT,PhD
+95,Biology,Northeastern,Bachelors
+96,Aero,MIT,Postdoc
+97,Other,MIT,PhD
+98,CS,Northeastern,Masters
+99,Business,Other,Masters
+100,Other,Other,Other
+101,Other,Other,Bachelors
+102,CS,Northeastern,Masters
+103,Biology,Other,Bachelors
+104,Business,Northeastern,Masters
+105,Business,Northeastern,Masters
+106,Business,Northeastern,Masters
+107,CS,MIT,PhD
+108,Business,Northeastern,Masters
+109,Mechanical Eng,Other,Bachelors
+110,CS,Northeastern,Masters
+111,Aero,MIT,PhD
+112,Other,MIT,Other
+113,Chemistry,Other,Bachelors
+114,AI,Northeastern,Masters
+115,Business,Other,Masters
+116,AI,MIT,Bachelors
+117,Other,Other,Bachelors
+118,Other,Other,Other
+119,CS,Other,Postdoc
+120,Mechanical Eng,Other,Other
+121,CS,Northeastern,Masters
+122,Mechanical Eng,MIT,PhD
+123,CS,Northeastern,Masters
+124,Other,NYU,Bachelors
+125,Data Science,Other,Bachelors
+126,Chemistry,MIT,Other
+127,Business,Northeastern,Masters
+128,AI,BU,Bachelors
+129,Business,Other,Other
+130,Biology,Northeastern,Masters
+131,AI,MIT,Bachelors
+132,Business,MIT,Masters
+133,CS,Northeastern,Masters
+134,Other,Northeastern,Masters
+135,AI,Other,Masters
+136,Other,Northeastern,Masters
+137,CS,MIT,Bachelors
+138,Data Science,Other,Masters
+139,Data Science,Other,Masters
+140,Finance,Tufts,Bachelors
+141,Industrial Eng,Northeastern,Masters
+142,AI,Other,Bachelors
+143,Biology,Northeastern,Masters
+144,AI,Other,Masters
+145,CS,Northeastern,Masters
+146,Other,Northeastern,Masters
+147,Mechanical Eng,Northeastern,Masters
+148,Other,MIT,PhD
+149,CS,Northeastern,Masters
+150,CS,Northeastern,Masters
+151,CS,Northeastern,Masters
+152,Other,Other,Bachelors
+153,CS,MIT,Bachelors
+154,Data Science,Northeastern,Masters
+155,CS,Northeastern,Masters
+156,CS,MIT,Bachelors
+157,Biology,Northeastern,Masters
+158,Biology,Northeastern,Masters
+159,Other,Northeastern,Masters
+160,Other,Northeastern,Masters
+161,Other,Other,Other
+162,AI,Northeastern,Masters
+163,CS,MIT,Bachelors
+164,Other,Northeastern,Masters
+165,CS,Other,Bachelors
+166,Business,MIT,Masters
+167,Other,Other,Bachelors
+168,Biology,Other,Bachelors
+169,CS,Northeastern,Masters
+170,Other,Other,Bachelors
+171,Finance,Other,Bachelors
+172,Data Science,Northeastern,Masters
+173,Industrial Eng,Northeastern,Masters
+174,Policital Sci,Other,Masters
+175,Chemistry,MIT,Masters
+176,CS,Northeastern,Masters
+177,Business,MIT,Masters
+178,Other,Northeastern,Masters
+179,Other,Northeastern,Masters
+180,Other,Other,Bachelors
+181,Business,Northeastern,Masters
+182,Other,MIT,Masters
+183,CS,Northeastern,PhD
+184,CS,Northeastern,Masters
+185,Other,Northeastern,Masters
+186,Other,Northeastern,Masters
+187,Data Science,Tufts,Masters
+188,CS,Northeastern,Masters
+189,Industrial Eng,Northeastern,Masters
+190,Data Science,Northeastern,Masters
+191,Other,Northeastern,Masters
+192,CS,MIT,Bachelors
+193,Business,BU,Bachelors
+194,Finance,Other,Other
+195,CS,Northeastern,Masters
+196,CS,Northeastern,Masters
+197,Data Science,MIT,Bachelors
+198,CS,Northeastern,Masters
+199,Other,Other,Bachelors
+200,Industrial Eng,Northeastern,Masters
+201,Data Science,Northeastern,Masters
+202,Data Science,Northeastern,Masters
+203,Other,MIT,Postdoc
+204,Data Science,Northeastern,Masters
+205,CS,Northeastern,Masters
+206,Data Science,Northeastern,Masters
+207,Data Science,BU,Masters
+208,Other,NYU,Masters
+209,CS,Northeastern,Masters
+210,AI,Other,Masters
+211,CS,Northeastern,Masters
+212,Data Science,BU,Masters
+213,CS,Other,Bachelors
+214,Other,Other,Masters
+215,CS,Northeastern,Masters
+216,Mechanical Eng,Other,Postdoc
+217,CS,MIT,Bachelors
+218,Data Science,Northeastern,Masters
+219,Other,MIT,Postdoc
+220,Mechanical Eng,Northeastern,Bachelors
+221,AI,Other,Postdoc
+222,Business,Other,MBA
+223,Biology,Northeastern,Masters
+224,Data Science,Northeastern,Masters
+225,CS,Northeastern,Masters
+226,CS,Northeastern,Masters
+227,Business,Boston College,MBA
+228,Materials,MIT,PhD
+229,Business,Northeastern,Masters
+230,Other,Other,PhD
+231,Other,Northeastern,Masters
+232,CS,Northeastern,Bachelors
+233,Data Science,Northeastern,Masters
+234,CS,Northeastern,Masters
+235,AI,MIT,Bachelors
+236,CS,Other,Masters
+237,Business,Northeastern,Masters
+238,Industrial Eng,Northeastern,Masters
+239,Other,MIT,Postdoc
+240,Industrial Eng,Northeastern,Masters
+241,Other,Northeastern,Masters
+242,Biology,MIT,PhD
+243,Business,Northeastern,Masters
+244,CS,Northeastern,Masters
+245,Business,MIT,Other
+246,Data Science,Northeastern,Masters
+247,Other,Northeastern,Masters
+248,CS,Northeastern,Masters
+249,Data Science,Northeastern,Masters
+250,Business,Other,Other
+251,CS,Northeastern,Masters
+252,CS,Northeastern,Masters
+253,Industrial Eng,Northeastern,Masters
+254,Business,Northeastern,Masters
+255,AI,MIT,Postdoc
+256,Mechanical Eng,MIT,Masters
+257,Other,Northeastern,Masters
+258,CS,Northeastern,Masters
+259,Other,MIT,Masters
+260,Business,Northeastern,Masters
+261,Data Science,Northeastern,Masters
+262,CS,Northeastern,Masters
+263,CS,Northeastern,Masters
+264,CS,Other,Masters
+265,CS,Northeastern,Masters
+266,CS,Northeastern,Masters
+267,AI,Northeastern,Masters
+268,Data Science,Northeastern,Masters
+269,AI,Other,Masters
+270,CS,Northeastern,Masters
+271,CS,Other,Masters
+272,Industrial Eng,Northeastern,Masters
+273,CS,Other,Masters
+274,CS,BU,Masters
+275,Data Science,Northeastern,Masters
+276,Data Science,MIT,Masters
+277,CS,BU,Masters
+278,CS,BU,Masters
+279,CS,Other,Bachelors
+280,Data Science,Northeastern,Masters
+281,CS,MIT,Bachelors
+282,CS,Northeastern,Masters
+283,CS,Northeastern,Masters
+284,Chemistry,MIT,Postdoc
+285,CS,Northeastern,Masters
+286,CS,Northeastern,PhD
+287,Data Science,Northeastern,Masters
+288,Industrial Eng,Northeastern,Masters
+289,Other,MIT,Masters
+290,Biology,Northeastern,Masters
+291,Other,Northeastern,Masters
+292,Business,Northeastern,Masters
+293,Business,Northeastern,Masters
+294,CS,Northeastern,Masters
+295,Electrical Eng,MIT,PhD
+296,Business,Northeastern,Masters
+297,CS,Northeastern,Masters
+298,Business,Northeastern,Masters
+299,Biology,Other,Bachelors
+300,CS,Northeastern,Masters
+301,Data Science,Northeastern,Masters
+302,CS,Northeastern,Masters
+303,CS,Northeastern,Masters
+304,AI,Northeastern,Masters
+305,Business,Northeastern,Masters
+306,Other,MIT,Postdoc
+307,Data Science,Northeastern,Masters
+308,Data Science,Northeastern,Masters
+309,Other,Northeastern,Masters
+310,Physics,Other,Postdoc
+311,Physics,MIT,PhD
+312,Physics,Other,Bachelors
+313,Other,Other,Other
+314,Biology,MIT,PhD
+315,Business,Northeastern,Masters
+316,Other,Other,Postdoc
+317,Other,Northeastern,Masters
+318,CS,Northeastern,Masters
+319,CS,Northeastern,Masters
+320,Business,MIT,MBA
+321,Data Science,Northeastern,Masters
+322,Physics,MIT,Postdoc
+323,Other,MIT,Bachelors
+324,Chemistry,MIT,Postdoc
+325,CS,Other,PhD
+326,Other,Other,Bachelors
+327,Biology,Other,Other
+328,Other,Other,Postdoc
+329,AI,NYU,Masters
+330,Chemistry,MIT,Masters
+331,Mechanical Eng,Northeastern,Bachelors
+332,AI,Other,Bachelors
+333,Other,MIT,Masters
+334,Other,MIT,PhD
+335,Mechanical Eng,MIT,Bachelors
+336,Business,Other,MBA
+337,Business,Other,MBA
+338,Biology,Other,Other
+339,Biology,Other,Postdoc
+340,CS,Northeastern,Masters
+341,Other,MIT,Masters
+342,CS,BU,Masters
+343,Other,NYU,Bachelors
+344,CS,UMass Amherst,Bachelors
+345,Business,Other,Bachelors
+346,Other,Other,Bachelors
+347,CS,Northeastern,Masters
+348,Industrial Eng,Other,Masters
+349,CS,Northeastern,Masters
+350,Other,Tufts,Masters
+351,Chemistry,NYU,Bachelors
+352,CS,Northeastern,Masters
+353,AI,MIT,PhD
+354,Business,Northeastern,Bachelors
+355,Civil Eng,Other,Other
+356,Mechanical Eng,MIT,PhD
+357,Business,BU,MBA
+358,Business,Other,Bachelors
+359,Chemistry,MIT,Bachelors
+360,Biology,Other,Postdoc
+361,Other,Northeastern,Masters
+362,Other,Other,Masters
+363,Other,BU,PhD
+364,CS,Northeastern,Masters
+365,Chemistry,MIT,Postdoc
+366,Business,Boston College,MBA
+367,CS,Northeastern,Masters
+368,CS,Other,Masters
+369,CS,BU,MBA
+370,Electrical Eng,Other,Bachelors
+371,Other,Other,Masters
+372,Data Science,BU,Masters
+373,CS,Other,Bachelors
+374,Other,MIT,Postdoc
+375,Data Science,Other,Other
+376,Data Science,Northeastern,Masters
+377,Physics,MIT,Bachelors
+378,CS,BU,Masters
+379,Data Science,WPI,Masters
+380,CS,MIT,Other
+381,Other,MIT,Postdoc
+382,CS,BU,Masters
+383,Data Science,Northeastern,Masters
+384,Business,Other,MBA
+385,Mechanical Eng,MIT,Bachelors
+386,Data Science,Other,Masters
+387,Data Science,Other,Masters
+388,Biology,Other,Other
+389,Biology,MIT,PhD
+390,CS,MIT,Other
+391,CS,Northeastern,Masters
+392,Business,Northeastern,Masters
+393,Other,Other,Bachelors
+394,Business,MIT,Masters
+395,CS,MIT,Other
+396,CS,Northeastern,Masters
+397,Mechanical Eng,Northeastern,Masters
+398,Mechanical Eng,Other,Other
+399,Other,Other,Bachelors
+400,Biology,Other,Postdoc
+401,Physics,Other,Bachelors
+402,Other,Other,Bachelors
+403,Materials,MIT,PhD
+404,CS,Northeastern,Masters
+405,CS,Northeastern,Masters
+406,CS,Northeastern,Masters
+407,CS,Northeastern,Masters
+408,CS,Other,Masters
+409,Business,Hult Business,Masters
+410,Other,Other,Other
+411,Finance,Other,Other
+412,Physics,Other,Bachelors
+413,Other,MIT,MBA
+414,Data Science,Northeastern,Masters
+415,Data Science,Northeastern,Masters
+416,Data Science,Northeastern,Masters
+417,Biology,MIT,Other
+418,CS,Dartmouth,Bachelors
+419,Business,Other,Other
+420,Other,Other,Postdoc
+421,Physics,Other,Postdoc
+422,Industrial Eng,Other,Masters
+423,Other,Northeastern,Masters
+424,Biology,MIT,Masters
+425,CS,NYU,Masters
+426,CS,Northeastern,Masters
+427,Other,Northeastern,Masters
+428,Other,Northeastern,Masters
+429,Electrical Eng,Dartmouth,Bachelors
+430,Finance,Other,PhD
+431,Biology,Northeastern,Masters
+432,Other,Northeastern,Masters
+433,CS,NYU,Masters
+434,Other,Other,Bachelors
+435,Business,Hult Business,Masters
+436,Biology,Other,Postdoc
+437,Civil Eng,Northeastern,Bachelors
+438,CS,Northeastern,Masters
+439,Biology,Northeastern,Masters
+440,Biology,Northeastern,Masters
+441,Other,Other,Masters
+442,Biology,Northeastern,Masters
+443,Other,Northeastern,Masters
+444,Biology,Northeastern,Masters
+445,Biology,Northeastern,Masters
+446,Data Science,Northeastern,Masters
+447,Other,MIT,Bachelors
+448,Biology,MIT,Bachelors
+449,Other,Other,Bachelors
+450,Data Science,Northeastern,Masters
+451,CS,MIT,Bachelors
+452,Data Science,Northeastern,Masters
+453,Other,Northeastern,Masters
+454,Mechanical Eng,Northeastern,Bachelors
+455,Mechanical Eng,Northeastern,Bachelors
+456,AI,Northeastern,Masters
+457,Mechanical Eng,Northeastern,Masters
+458,AI,MIT,Bachelors
+459,CS,MIT,Masters
+460,Other,MIT,Postdoc
+461,Other,MIT,Bachelors
+462,Other,BU,Bachelors
+463,Other,Other,Bachelors
+464,Business,MIT,Masters
+465,Other,Tufts,Masters
+466,Data Science,Northeastern,Masters
+467,Mechanical Eng,MIT,Masters
+468,Mechanical Eng,MIT,Masters
+469,Business,Northeastern,Masters
+470,Other,Northeastern,Masters
+471,Business,BU,Other
+472,Other,Northeastern,Masters
+473,Business,BU,Other
+474,Other,Northeastern,Masters
+475,Other,Other,Masters
+476,Physics,UMass Amherst,Bachelors
+477,CS,Northeastern,Masters
+478,Biology,Northeastern,Masters
+479,Other,Tufts,Bachelors
+480,Business,BU,Bachelors
+481,Business,BU,Bachelors
+482,Business,BU,Masters
+483,Other,Other,Bachelors
+484,Biology,MIT,PhD
+485,AI,Northeastern,Masters
+486,Physics,Other,Bachelors
+487,Biology,Other,Postdoc
+488,Finance,Tufts,Bachelors
+489,Biology,Other,Other
+490,Other,Smith,Masters
+491,Electrical Eng,MIT,PhD
+492,Other,MIT,Postdoc
+493,Other,NYU,Other
+494,CS,Northeastern,Masters
+495,Mechanical Eng,NYU,Bachelors
+496,CS,MIT,Bachelors
+497,Business,Northeastern,Bachelors
+498,Physics,Other,Postdoc
+499,Other,MIT,Masters
+500,Biology,Northeastern,Masters
+501,Other,Other,Other
+502,Other,MIT,Masters
+503,Biology,MIT,Bachelors
+504,Finance,Other,Bachelors
+505,Biology,Other,Bachelors
+506,Data Science,Other,Bachelors
+507,Physics,Other,Bachelors
+508,CS,Northeastern,Masters
+509,Other,Other,Other
+510,Chemistry,MIT,PhD
+511,Business,Other,Masters
+512,Other,Other,Bachelors
+513,Data Science,Northeastern,Masters
+514,Other,Other,Bachelors
+515,Biology,Northeastern,Masters
+516,Other,Other,Masters
+517,Biology,NYU,Other
+518,Other,Northeastern,Masters
+519,Business,Northeastern,Masters
+520,Other,Other,Bachelors
+521,CS,WPI,Masters
+522,Other,Other,PhD
+523,Aero,MIT,Postdoc
+524,Chemistry,MIT,Postdoc
+525,Chemistry,MIT,Postdoc
+526,Data Science,BU,Masters
+527,AI,Other,PhD
+528,Other,Other,Bachelors
+529,Data Science,BU,Masters
+530,CS,BU,Masters
+531,Materials,MIT,Postdoc
+532,Other,BU,Bachelors
+533,Biology,Other,Other
+534,Data Science,Northeastern,Masters
+535,Other,Northeastern,Masters
+536,Other,MIT,PhD
+537,Other,Northeastern,Masters
+538,Data Science,Northeastern,Masters
+539,CS,Other,Bachelors
+540,Other,Other,Masters
+541,Business,Northeastern,Masters
+542,Business,Northeastern,Masters
+543,Biology,Other,Postdoc
+544,Other,Northeastern,Masters
+545,CS,Tufts,Bachelors
+546,Data Science,Northeastern,Masters
+547,Business,BU,MBA
+548,Data Science,MIT,Bachelors
+549,Other,Other,Bachelors
+550,Biology,Other,PhD
+551,CS,MIT,Bachelors
+552,Other,MIT,Masters
+553,Data Science,Northeastern,Masters
+554,CS,BU,Masters
+555,Mechanical Eng,Other,Other
+556,Physics,MIT,Postdoc
+557,Other,MIT,Masters
+558,CS,Northeastern,Masters
+559,Business,Other,Other
+560,Other,MIT,Bachelors
+561,Policital Sci,Other,Bachelors
+562,Finance,MIT,MBA
+563,Data Science,Other,Masters
+564,CS,Other,Masters
+565,Business,Other,Masters
+566,Business,BU,Bachelors
+567,CS,Northeastern,Masters
+568,Electrical Eng,Other,Masters
+569,Business,Northeastern,Masters
+570,Business,Northeastern,Masters
+571,Data Science,Other,Bachelors
+572,Business,Tufts,Masters
+573,CS,MIT,Bachelors
+574,Other,Other,Bachelors
+575,Finance,Other,Bachelors
+576,Mechanical Eng,MIT,Postdoc
+577,Business,UMass Boston,MBA
+578,Other,Other,Masters
+579,CS,BU,Masters
+580,Biology,Other,Postdoc
+581,Other,Other,Bachelors
+582,Other,MIT,Masters
+583,CS,Other,Masters
+584,Data Science,Northeastern,Masters
+585,Mechanical Eng,Other,Bachelors
+586,CS,MIT,Bachelors
+587,Data Science,Northeastern,Masters
+588,Data Science,Northeastern,Masters
+589,Data Science,Northeastern,Masters
+590,Mechanical Eng,Northeastern,Bachelors
+591,Other,Northeastern,Masters
+592,Biology,MIT,Other
+593,Other,Other,Bachelors
+594,Other,MIT,Masters
+595,Other,Other,Masters
+596,Data Science,Hult Business,Masters
+597,Biology,MIT,Bachelors
+598,Data Science,Northeastern,Masters
+599,Other,BU,Other
+600,Biology,BU,Other
+601,Other,Other,Bachelors
+602,Biology,Tufts,Bachelors
+603,Mechanical Eng,Other,Bachelors
+604,Physics,Other,Bachelors
+605,CS,Northeastern,Masters
+606,CS,Northeastern,Masters
+607,Business,Other,Masters
+608,Biology,Tufts,Bachelors
+609,CS,Northeastern,Bachelors
+610,Business,MIT,Masters
+611,CS,Northeastern,Masters
+612,CS,Other,Other
+613,Policital Sci,Other,Bachelors
+614,Business,Other,MBA
+615,Data Science,Northeastern,Masters
+616,CS,Northeastern,Masters
+617,CS,BU,Masters
+618,Other,Other,Masters
+619,AI,MIT,PhD
+620,Other,Northeastern,Masters
+621,Biology,Other,PhD
+622,Biology,Other,Bachelors
+623,Mechanical Eng,MIT,Other
+624,CS,MIT,Bachelors
+625,Other,Northeastern,Masters
+626,Business,Other,PhD
+627,Biology,Tufts,Bachelors
+628,Electrical Eng,Other,Bachelors
+629,Other,Northeastern,Masters
+630,Data Science,Northeastern,Masters
+631,CS,NYU,Bachelors
+632,Other,Other,Postdoc
+633,Other,Other,Postdoc
+634,Data Science,MIT,Masters
+635,Other,MIT,Postdoc
+636,Other,MIT,Postdoc
+637,Data Science,Northeastern,Masters
+638,Business,Northeastern,Bachelors
+639,Business,Northeastern,Bachelors
+640,Business,Northeastern,MBA
+641,Industrial Eng,Northeastern,Masters
+642,CS,Northeastern,Masters
+643,Business,NYU,Masters
+644,Biology,Other,Postdoc
+645,Other,Other,Bachelors
+646,Other,Other,Bachelors
+647,Other,BU,Masters
+648,CS,Northeastern,Masters
+649,Finance,Other,Bachelors
+650,Business,MIT,MBA
+651,Other,Tufts,Bachelors
+652,Other,Other,Postdoc
+653,CS,Other,Bachelors
+654,Other,Other,Bachelors
+655,Biology,MIT,PhD
+656,Business,BU,Bachelors
+657,Other,Other,Masters
+658,CS,Other,Bachelors
+659,Electrical Eng,NYU,Masters
+660,Data Science,Northeastern,Masters
+661,CS,Northeastern,Masters
+662,Biology,Northeastern,Masters
+663,CS,Northeastern,Masters
+664,Business,Northeastern,Masters
+665,Finance,BU,Bachelors
+666,Business,MIT,Masters
+667,Business,BU,Bachelors
+668,Other,Northeastern,Masters
+669,CS,Northeastern,Masters
+670,AI,Northeastern,Masters
+671,AI,BU,Masters
+672,AI,Northeastern,Bachelors
+673,CS,Northeastern,Masters
+674,Industrial Eng,Other,Masters
+675,Chemistry,MIT,Bachelors
+676,Data Science,BU,Masters
+677,Business,Brandeis,Bachelors
+678,CS,Northeastern,Masters
+679,Other,MIT,Masters
+680,Business,Northeastern,Masters
+681,CS,Northeastern,Masters
+682,CS,Northeastern,Masters
+683,CS,Northeastern,Masters
+684,CS,Northeastern,Masters
+685,Other,Northeastern,Masters
+686,Other,Northeastern,Masters
+687,CS,NYU,Masters
+688,CS,Northeastern,Masters
+689,Other,Northeastern,Masters
+690,Law,Northeastern,Masters
+691,CS,Other,Masters
+692,Other,BU,Masters
+693,CS,NYU,Other
+694,Biology,Dartmouth,PhD
+695,Biology,Other,PhD
+696,Other,MIT,PhD
+697,CS,Other,Masters
+698,Business,Brandeis,Bachelors
+699,CS,Northeastern,Masters
+700,Business,NYU,Masters
+701,AI,Northeastern,Masters
+702,Other,Other,Masters
+703,Biology,Other,Postdoc
+704,Other,Northeastern,Masters
+705,Data Science,Northeastern,Masters
+706,CS,Northeastern,Masters
+707,CS,BU,Masters
+708,Other,Northeastern,Masters
+709,CS,Northeastern,Masters
+710,AI,MIT,Bachelors
+711,Civil Eng,Tufts,PhD
+712,CS,NYU,Masters
+713,Other,Other,Bachelors
+714,Biology,Tufts,Bachelors
+715,CS,Northeastern,Bachelors
+716,Data Science,BU,Masters
+717,CS,BU,Masters
+718,Other,Tufts,PhD
+719,AI,Northeastern,Masters
+720,CS,Northeastern,Masters
+721,CS,Northeastern,Masters
+722,CS,Northeastern,Masters
+723,Data Science,Northeastern,Masters
+724,CS,Other,Masters
+725,Mechanical Eng,MIT,Bachelors
+726,CS,Northeastern,Masters
+727,Other,Other,Other
+728,CS,Northeastern,Masters
+729,Data Science,Northeastern,Masters
+730,Mechanical Eng,MIT,Bachelors
+731,Data Science,Northeastern,Masters
+732,Other,Other,PhD
+733,Other,BU,Bachelors
+734,CS,Northeastern,Masters
+735,Data Science,Northeastern,Masters
+736,CS,Northeastern,Masters
+737,Other,Northeastern,Masters
+738,CS,Northeastern,Masters
+739,CS,Northeastern,Masters
+740,CS,Northeastern,Masters
+741,CS,Northeastern,Masters
+742,CS,Northeastern,Masters
+743,Other,Other,Bachelors
+744,AI,Northeastern,Masters
+745,Data Science,Northeastern,Masters
+746,CS,BU,Masters
+747,CS,Northeastern,Masters
+748,Industrial Eng,Northeastern,Masters
+749,Data Science,Northeastern,Masters
+750,Data Science,Northeastern,Masters
+751,Data Science,Northeastern,Masters
+752,Data Science,Northeastern,Masters
+753,CS,Northeastern,Masters
+754,CS,Northeastern,Masters
+755,CS,Northeastern,Masters
+756,CS,Northeastern,Masters
+757,Data Science,Northeastern,Masters
+758,Other,Northeastern,Masters
+759,Business,Northeastern,Masters
+760,Data Science,Northeastern,Masters
+761,Business,Northeastern,Masters
+762,Business,Northeastern,Masters
+763,Data Science,Northeastern,Masters
+764,CS,Northeastern,Masters
+765,CS,Northeastern,Masters
+766,CS,Northeastern,Masters
+767,Other,Northeastern,Masters
+768,Other,Other,Masters
+769,AI,Northeastern,Masters
+770,CS,Northeastern,Masters
+771,CS,Northeastern,Masters
+772,Other,NYU,Masters
+773,CS,Northeastern,Masters
+774,CS,Northeastern,Masters
+775,CS,Northeastern,Masters
+776,CS,Northeastern,Masters
+777,Business,Northeastern,Masters
+778,CS,Northeastern,Masters
+779,CS,Northeastern,Masters
+780,Industrial Eng,Northeastern,Masters
+781,Industrial Eng,Northeastern,Masters
+782,Data Science,Northeastern,Masters
+783,Data Science,Northeastern,Masters
+784,CS,Northeastern,Masters
+785,Other,Other,Other
+786,Biology,Other,Bachelors
+787,CS,MIT,Bachelors
+788,Other,Other,Postdoc
+789,Business,NYU,Masters
+790,AI,MIT,Bachelors
+791,Other,BU,PhD
+792,Other,MIT,Masters
+793,Other,NYU,Bachelors
+794,Materials,Other,PhD
+795,Business,MIT,MBA
+796,Finance,Other,Bachelors
+797,Business,Other,MBA
+798,Business,MIT,MBA
+799,AI,MIT,Bachelors
+800,CS,Smith,Other
+801,Business,BU,Bachelors
+802,Biology,Other,PhD
+803,Other,Other,Masters
+804,Other,MIT,PhD
+805,Other,Other,Masters
+806,Other,Other,Bachelors
+807,Other,Other,Bachelors
+808,AI,MIT,Masters
+809,Chemistry,MIT,Masters
+810,CS,NYU,Bachelors
+811,CS,Northeastern,Masters
+812,Other,Other,Masters
+813,Other,Other,Masters
+814,Other,Northeastern,Masters
+815,Electrical Eng,Other,Bachelors
+816,Other,Other,Masters
+817,Other,Northeastern,Masters
+818,Other,BU,Bachelors
+819,Other,Northeastern,Masters
+820,Other,Other,Masters
+821,Business,Other,Other
+822,Biology,Other,Postdoc
+823,Biology,Other,Bachelors
+824,Other,Other,Bachelors
+825,Policital Sci,MIT,PhD
+826,CS,NYU,Bachelors
+827,Other,Other,Bachelors
+828,Other,Other,PhD
+829,Other,WPI,Masters
+830,Biology,Other,Postdoc
+831,Other,Other,Masters
+832,Biology,Other,Bachelors
+833,Business,NYU,Masters
+834,AI,NYU,Bachelors
+835,Data Science,MIT,Masters
+836,Data Science,MIT,Masters
+837,CS,UMass Amherst,Bachelors
+838,CS,MIT,PhD
+839,Mechanical Eng,MIT,Bachelors
+840,Business,MIT,Masters
+841,Other,Northeastern,Masters
+842,Other,MIT,Masters
+843,AI,MIT,Postdoc
+844,Mechanical Eng,MIT,PhD
+845,Biology,Other,PhD
+846,CS,MIT,PhD
+847,Chemistry,Other,Bachelors
+848,CS,Northeastern,Masters
+849,Biology,Other,PhD
+850,Other,Other,Masters
+851,Business,Other,Masters
+852,Mechanical Eng,Other,Masters
+853,Electrical Eng,UMass Boston,Bachelors
+854,Mechanical Eng,WPI,Bachelors
+855,AI,Northeastern,Bachelors
+856,CS,Other,PhD
+857,Physics,Other,Bachelors
+858,Other,Other,Bachelors
+859,Other,MIT,Bachelors
+860,Other,Other,Bachelors
+861,Biology,MIT,Bachelors
+862,CS,Other,Bachelors
+863,Chemistry,MIT,PhD
+864,Chemistry,MIT,PhD
+865,Chemistry,MIT,PhD
+866,Physics,MIT,Postdoc
+867,Physics,MIT,Bachelors
+868,Other,MIT,PhD
+869,Biology,Other,Postdoc
+870,Other,Other,Bachelors
+871,CS,Other,Masters
+872,Data Science,Other,Masters
+873,Business,Other,Bachelors
+874,Other,Other,Bachelors
+875,Mechanical Eng,MIT,PhD
+876,Business,MIT,MBA
+877,Physics,Northeastern,PhD
+878,Other,Other,Bachelors
+879,CS,Northeastern,Masters
+880,Biology,MIT,Bachelors
+881,Finance,Other,Bachelors
+882,Other,Other,Bachelors
+883,Business,Brandeis,MBA
+884,AI,Dartmouth,Bachelors
+885,Other,Other,Bachelors
+886,Other,Dartmouth,Bachelors
+887,AI,Other,Bachelors
+888,Mechanical Eng,Other,Bachelors
+889,Other,NYU,Masters
+890,AI,NYU,Masters
+891,Physics,Other,PhD
+892,Business,MIT,Masters
+893,Chemistry,MIT,PhD
+894,CS,Northeastern,Masters
+895,Data Science,Northeastern,Masters
+896,CS,Northeastern,Masters
+897,Biology,Other,Bachelors
+898,Finance,Other,Bachelors
+899,Physics,MIT,Postdoc
+900,Other,BU,Bachelors
+901,Other,MIT,Masters
+902,Other,Other,Masters
+903,Biology,MIT,Masters
+904,Biology,MIT,Postdoc
+905,Business,Other,Masters
+906,Other,Other,Masters
+907,Other,WPI,Masters
+908,Industrial Eng,Northeastern,Masters
+909,Other,MIT,Masters
+910,Finance,Other,PhD
+911,Other,Other,Bachelors
+912,CS,MIT,Postdoc
+913,Data Science,Northeastern,Masters
+914,CS,MIT,Masters
+915,Business,Other,Bachelors
+916,Other,NYU,Bachelors
+917,Business,MIT,MBA
+918,Mechanical Eng,Other,Postdoc
+919,Other,Northeastern,Other
+920,Other,MIT,Postdoc
+921,CS,NYU,Masters
+922,Data Science,Tufts,Other
+923,Biology,Other,Bachelors
+924,Other,MIT,Bachelors
+925,CS,MIT,Bachelors
+926,Mechanical Eng,BU,Masters
+927,Industrial Eng,Northeastern,Masters
+928,Other,WPI,Masters
+929,CS,Northeastern,Masters
+930,Other,MIT,Masters
+931,AI,MIT,Bachelors
+932,Other,Tufts,Other
+933,Biology,Tufts,MD
+934,Other,Other,Masters
+935,Other,Other,Bachelors
+936,Other,Northeastern,Masters
+937,Other,BU,Masters
+938,Aero,MIT,Other
+939,CS,MIT,Other
+940,Industrial Eng,MIT,Other
+941,Mechanical Eng,Other,Masters
+942,Business,Boston College,Postdoc
+943,Data Science,Northeastern,Masters
+944,Other,Other,Masters
+945,Business,Northeastern,Masters
+946,Business,MIT,Masters
+947,Other,Other,Masters
+948,Finance,Other,Bachelors
+949,Materials,MIT,PhD
+950,Mechanical Eng,MIT,Masters
+951,Business,Other,MBA
+952,Other,Other,Bachelors
+953,Other,Other,Bachelors
+954,Mechanical Eng,Other,Bachelors
+955,Business,MIT,MBA
+956,Other,NYU,Masters
+957,Finance,MIT,Bachelors
+958,Other,Other,Other
+959,CS,Northeastern,Bachelors
+960,Electrical Eng,Other,Bachelors
+961,Industrial Eng,Northeastern,Masters
+962,Electrical Eng,MIT,Other
+963,CS,MIT,Bachelors
+964,Mechanical Eng,BU,Bachelors
+965,Other,Other,Bachelors
+966,CS,Northeastern,Masters
+967,Electrical Eng,Other,Bachelors
+968,CS,Northeastern,Masters
+969,Physics,Other,Bachelors
+970,Electrical Eng,Other,Bachelors
+971,Electrical Eng,Other,Bachelors
+972,Other,MIT,Other
+973,Physics,MIT,Postdoc
+974,Physics,MIT,Postdoc
+975,Electrical Eng,MIT,Masters
+976,Other,Other,Bachelors
+977,Aero,MIT,PhD
+978,Physics,MIT,Postdoc
+979,Business,MIT,Masters
+980,CS,MIT,Bachelors
+981,Electrical Eng,MIT,Bachelors
+982,Physics,MIT,Bachelors
+983,Biology,MIT,Masters
+984,Aero,MIT,Bachelors
+985,CS,MIT,Bachelors
+986,Other,Other,Masters
+987,Aero,MIT,Postdoc
+988,CS,MIT,Bachelors
+989,Mechanical Eng,MIT,Masters
+990,Mechanical Eng,MIT,Bachelors
+991,Chemistry,MIT,PhD
+992,CS,MIT,Bachelors
+993,AI,Other,Bachelors
+994,AI,MIT,Bachelors
+995,AI,MIT,Bachelors
+996,Biology,MIT,Other
+997,CS,Other,Bachelors
+998,Biology,Other,Masters
+999,Business,Dartmouth,MBA
+1000,Other,Other,Postdoc
+1001,Mechanical Eng,Other,Bachelors
+1002,Business,MIT,Masters
+1003,Business,MIT,MBA
+1004,AI,MIT,PhD
+1005,Business,Boston College,MBA
+1006,Data Science,MIT,Masters
+1007,CS,MIT,Bachelors
+1008,Other,Other,Other
+1009,Other,Other,Bachelors
+1010,CS,Northeastern,Masters
+1011,Business,MIT,Bachelors
+1012,Business,Other,Bachelors
+1013,CS,Northeastern,Bachelors
+1014,CS,MIT,Bachelors
+1015,Business,Northeastern,Masters
+1016,AI,Other,Bachelors
+1017,Materials,MIT,Bachelors
+1018,Business,Other,Masters
+1019,Other,Other,Masters
+1020,AI,NYU,Masters
+1021,CS,UMass Boston,Bachelors
+1022,Other,Other,Other
+1023,Other,Other,Bachelors
+1024,Other,WPI,Masters
+1025,Materials,MIT,PhD
+1026,Business,Other,Other
+1027,Other,Tufts,Bachelors
+1028,Other,Northeastern,Masters
+1029,CS,Other,Bachelors
+1030,Other,MIT,Bachelors
+1031,Finance,MIT,PhD
+1032,Business,NYU,Masters
+1033,Other,Other,Postdoc
+1034,CS,Other,Bachelors
+1035,Other,Northeastern,Masters
+1036,Biology,Other,Postdoc
+1037,Biology,MIT,Postdoc
+1038,Electrical Eng,NYU,Masters
+1039,Mechanical Eng,MIT,Bachelors
+1040,Other,MIT,PhD
+1041,CS,MIT,Postdoc
+1042,Biology,BU,Bachelors
+1043,Biology,BU,Bachelors
+1044,Other,MIT,Postdoc
+1045,AI,MIT,PhD
+1046,Chemistry,MIT,Postdoc
+1047,CS,Northeastern,Masters
+1048,Other,NYU,Masters
+1049,Other,Other,Masters
+1050,Business,MIT,MBA
+1051,Business,Northeastern,Masters
+1052,Other,Other,Masters
+1053,Law,Tufts,Masters
+1054,Industrial Eng,Northeastern,Masters
+1055,CS,Northeastern,Bachelors
+1056,CS,Northeastern,Masters
+1057,CS,MIT,Bachelors
+1058,Biology,Other,PhD
+1059,CS,Tufts,Bachelors
+1060,AI,MIT,Postdoc
+1061,Business,Other,MBA
+1062,Law,Other,Other
+1063,CS,Northeastern,Masters
+1064,CS,BU,Masters
+1065,Other,MIT,Postdoc
+1066,AI,Other,PhD
+1067,Data Science,Northeastern,Masters
+1068,Mechanical Eng,NYU,Bachelors
+1069,Mechanical Eng,NYU,Bachelors
+1070,Other,Other,PhD
+1071,CS,NYU,Masters
+1072,Data Science,BU,Masters
+1073,Physics,MIT,Postdoc
+1074,Other,MIT,Masters
+1075,Physics,Other,Bachelors
+1076,CS,Northeastern,Masters
+1077,Business,Northeastern,Masters
+1078,Industrial Eng,Northeastern,Masters
+1079,AI,Other,Masters
+1080,CS,Other,Bachelors
+1081,AI,BU,Masters
+1082,CS,Northeastern,Bachelors
+1083,AI,Tufts,Masters
+1084,Business,Other,MBA
+1085,Mechanical Eng,Northeastern,Masters
+1086,Materials,MIT,Bachelors
+1087,CS,Northeastern,Bachelors
+1088,CS,NYU,Masters
+1089,Other,Other,Masters
+1090,Business,MIT,Masters
+1091,CS,Northeastern,Masters
+1092,Industrial Eng,Northeastern,Masters
+1093,Business,Northeastern,Masters
+1094,AI,MIT,Bachelors
+1095,CS,Northeastern,Masters
+1096,Finance,Other,Bachelors
+1097,CS,Other,Bachelors
+1098,Law,BU,Other
+1099,Biology,MIT,Bachelors
+1100,Other,Other,Postdoc
+1101,Materials,MIT,PhD
+1102,Other,Dartmouth,Masters
+1103,Biology,Northeastern,Bachelors
+1104,Finance,Tufts,Bachelors
+1105,CS,Northeastern,Masters
+1106,Data Science,Northeastern,Masters
+1107,Data Science,Northeastern,Masters
+1108,Business,MIT,Masters
+1109,Chemistry,Northeastern,Bachelors
+1110,CS,BU,Masters
+1111,Other,Other,Bachelors
+1112,CS,NYU,Masters
+1113,AI,Other,Bachelors
+1114,Other,Other,Masters
+1115,Other,Other,Masters
+1116,Other,Other,Bachelors
+1117,Other,Other,Masters
+1118,CS,NYU,Masters
+1119,Other,NYU,Masters
+1120,Biology,NYU,Bachelors
+1121,AI,Northeastern,Masters
+1122,Other,Other,Masters
+1123,CS,MIT,Bachelors
+1124,Other,BU,Bachelors
+1125,Other,NYU,Masters
+1126,Biology,Other,Postdoc
+1127,CS,NYU,PhD
+1128,Other,Other,Bachelors
+1129,Business,MIT,Masters
+1130,Other,Other,Masters
+1131,Other,Other,Masters
+1132,Other,Northeastern,Masters
+1133,Finance,MIT,Bachelors
+1134,Mechanical Eng,NYU,Bachelors
+1135,CS,NYU,Bachelors
+1136,Other,Northeastern,Masters
+1137,Data Science,Northeastern,Masters
+1138,CS,MIT,Bachelors
+1139,Other,Other,Bachelors
+1140,Data Science,MIT,Masters
+1141,CS,Northeastern,Masters
+1142,Other,Other,Bachelors
+1143,Business,MIT,MBA
+1144,CS,MIT,Bachelors
+1145,CS,Northeastern,Masters
+1146,Business,Tufts,Masters
+1147,Other,MIT,Masters
+1148,Other,Dartmouth,Masters
+1149,Biology,Northeastern,Bachelors
+1150,Biology,Other,Masters
+1151,Chemistry,Northeastern,Bachelors
+1152,Other,Other,Masters
+1153,AI,MIT,Masters
+1154,Other,Other,Postdoc
+1155,CS,MIT,Masters
+1156,Policital Sci,Other,Other
+1157,Business,MIT,Other
+1158,Other,Other,Masters
+1159,Other,Other,Bachelors
+1160,Other,Other,Masters
+1161,CS,MIT,PhD
+1162,Materials,MIT,Masters
+1163,Other,MIT,PhD
+1164,Data Science,MIT,Bachelors
+1165,Physics,Northeastern,PhD
+1166,CS,Northeastern,Masters
+1167,Aero,MIT,Masters
+1168,Business,Other,Other
+1169,AI,Other,Bachelors
+1170,CS,MIT,Other
+1171,Data Science,BU,Masters
+1172,Other,Other,Postdoc
+1173,Mechanical Eng,Other,Bachelors
+1174,Other,MIT,Bachelors
+1175,CS,Northeastern,Masters
+1176,Other,Other,Bachelors
+1177,Other,Other,Postdoc
+1178,CS,MIT,Bachelors
+1179,Biology,MIT,Bachelors
+1180,CS,MIT,Bachelors
+1181,AI,MIT,Bachelors
+1182,CS,Northeastern,Masters
+1183,CS,MIT,Bachelors
+1184,CS,MIT,Bachelors
+1185,CS,Northeastern,Masters
+1186,Business,Boston College,MBA
+1187,Business,MIT,MBA
+1188,Mechanical Eng,MIT,Postdoc
+1189,Other,Other,Bachelors
+1190,Data Science,MIT,Masters
+1191,Data Science,MIT,Masters
+1192,Other,Other,Bachelors
+1193,AI,MIT,Bachelors
+1194,Biology,Other,Postdoc
+1195,Other,MIT,Masters
+1196,AI,MIT,Masters
+1197,Biology,MIT,Postdoc
+1198,Other,Northeastern,MBA
+1199,Other,MIT,Bachelors
+1200,Other,MIT,Masters
+1201,Mechanical Eng,MIT,Bachelors
+1202,Biology,MIT,Postdoc
+1203,Other,Northeastern,Bachelors
+1204,CS,MIT,Bachelors
+1205,AI,MIT,Bachelors
+1206,Physics,MIT,Bachelors
+1207,CS,Northeastern,Masters
+1208,AI,MIT,Other
+1209,Other,Other,Masters
+1210,Other,Other,Postdoc
+1211,Physics,MIT,Postdoc
+1212,CS,Other,Bachelors
+1213,Other,MIT,Masters
+1214,Other,Boston College,Postdoc
+1215,CS,MIT,Masters
+1216,CS,MIT,Bachelors
+1217,CS,MIT,Bachelors
+1218,Other,MIT,Masters
+1219,Industrial Eng,MIT,Postdoc
+1220,Other,MIT,Masters
+1221,Chemistry,Northeastern,Bachelors
+1222,Other,Tufts,Masters
+1223,Other,MIT,Postdoc
+1224,Mechanical Eng,Other,Postdoc
+1225,CS,MIT,Bachelors
+1226,Other,Other,Bachelors
+1227,Other,Other,Bachelors
+1228,Mechanical Eng,MIT,Bachelors
+1229,CS,Other,Bachelors
+1230,Biology,Other,PhD
+1231,CS,Other,Masters
+1232,AI,Other,Masters
+1233,Biology,Northeastern,Masters
+1234,CS,MIT,Bachelors
+1235,CS,Northeastern,Masters
+1236,CS,MIT,Bachelors
+1237,Biology,MIT,Bachelors
+1238,AI,Other,Bachelors
+1239,Chemistry,MIT,Bachelors
+1240,Other,Other,Bachelors
+1241,Other,Other,Bachelors
+1242,Finance,Tufts,Bachelors
+1243,Business,MIT,Masters
+1244,Other,Tufts,Bachelors
+1245,CS,Northeastern,Masters
+1246,Other,MIT,Bachelors
+1247,Industrial Eng,Other,Masters
+1248,Business,Other,Masters
+1249,Biology,Other,Bachelors
+1250,Business,MIT,Masters
+1251,Other,MIT,Masters
+1252,Other,MIT,PhD
+1253,Other,Other,Bachelors
+1254,Other,BU,Masters
+1255,Other,Other,Bachelors
+1256,CS,MIT,Bachelors
+1257,Biology,Northeastern,Bachelors
+1258,AI,MIT,Other
+1259,Chemistry,Other,Postdoc
+1260,Other,Tufts,Bachelors
+1261,Other,MIT,PhD
+1262,Industrial Eng,Northeastern,Masters
+1263,Physics,Other,Bachelors
+1264,AI,MIT,Bachelors
+1265,Biology,MIT,Bachelors
+1266,Other,MIT,Postdoc
+1267,Other,MIT,Bachelors
+1268,Data Science,Other,Masters
+1269,CS,MIT,PhD
+1270,Data Science,Northeastern,Masters
+1271,Other,Northeastern,Masters
+1272,Business,Northeastern,Masters
+1273,AI,MIT,Bachelors
+1274,Other,MIT,Bachelors
+1275,Other,MIT,Other
+1276,Business,MIT,Bachelors
+1277,CS,MIT,Bachelors
+1278,CS,MIT,Bachelors
+1279,CS,MIT,Bachelors
+1280,Business,MIT,Bachelors
+1281,CS,MIT,Bachelors
+1282,Other,MIT,Masters
+1283,Other,MIT,Masters
+1284,CS,MIT,Bachelors
+1285,Chemistry,MIT,Bachelors
+1286,CS,Northeastern,Masters
+1287,Business,MIT,Bachelors
+1288,Other,MIT,PhD
+1289,Biology,BU,Bachelors
+1290,Mechanical Eng,MIT,Masters
+1291,Other,Other,Bachelors
+1292,AI,MIT,Bachelors
+1293,Business,Northeastern,Bachelors
+1294,Physics,MIT,Bachelors
+1295,Business,MIT,Masters
+1296,Business,MIT,Bachelors
+1297,Civil Eng,MIT,Masters
+1298,CS,MIT,Bachelors
+1299,CS,MIT,Bachelors
+1300,Business,MIT,Masters
+1301,Chemistry,MIT,PhD
+1302,Data Science,MIT,Bachelors
+1303,Data Science,MIT,Bachelors
+1304,Industrial Eng,Other,Masters
+1305,Other,BU,Bachelors
+1306,Biology,MIT,PhD
+1307,Other,MIT,Masters
+1308,Other,Other,Bachelors
+1309,Mechanical Eng,Other,Bachelors
+1310,Policital Sci,Other,Masters
+1311,Other,Other,PhD
+1312,Business,MIT,Masters
+1313,Biology,Dartmouth,Bachelors
+1314,Business,Other,Bachelors
+1315,Business,MIT,MBA
+1316,Other,MIT,Masters
+1317,Biology,MIT,Masters
+1318,Finance,Other,Bachelors
+1319,AI,MIT,PhD
+1320,Other,Other,Masters
+1321,Business,Other,Bachelors
+1322,Other,MIT,Masters
+1323,Data Science,Northeastern,Masters
+1324,Business,BU,MBA
+1325,Other,Other,Masters
+1326,Data Science,Other,Masters
+1327,Other,Other,Masters
+1328,CS,Other,Bachelors
+1329,Finance,Dartmouth,Bachelors
+1330,Business,BU,Masters
+1331,CS,Northeastern,Masters
+1332,Other,Other,Masters
+1333,CS,Northeastern,Masters
+1334,CS,BU,Masters
+1335,Business,Northeastern,Bachelors
+1336,AI,Northeastern,Bachelors
+1337,Other,Other,Bachelors
+1338,Business,Boston College,Bachelors
+1339,Physics,Other,Bachelors
+1340,Other,Other,Bachelors
+1341,Biology,MIT,Postdoc
+1342,Policital Sci,MIT,Bachelors
+1343,CS,Other,Bachelors
+1344,Industrial Eng,Northeastern,Masters
+1345,CS,Other,Bachelors
+1346,Other,Northeastern,Bachelors
+1347,Mechanical Eng,Other,Bachelors
+1348,CS,Other,Other
+1349,Other,Other,Bachelors
+1350,AI,Other,Postdoc
+1351,CS,Other,Bachelors
+1352,CS,Other,Bachelors
+1353,Business,MIT,MBA
+1354,Physics,MIT,Bachelors
+1355,Electrical Eng,Northeastern,Bachelors
+1356,CS,UMass Amherst,Bachelors
+1357,Other,MIT,MBA
+1358,Data Science,Northeastern,Bachelors
+1359,Data Science,Northeastern,Masters
+1360,Other,Dartmouth,Masters
+1361,Other,Other,MD
+1362,AI,Northeastern,Bachelors
+1363,Other,Other,Masters
+1364,Physics,Other,Other
+1365,Biology,Northeastern,Masters
+1366,Data Science,Northeastern,Masters
+1367,Other,MIT,Bachelors
+1368,Other,MIT,Bachelors
+1369,CS,Brandeis,Other
+1370,Other,Other,Bachelors
+1371,Data Science,Other,Bachelors
+1372,Biology,Northeastern,Masters
+1373,CS,Northeastern,Masters
+1374,CS,Northeastern,Masters
+1375,Other,Other,Bachelors
+1376,AI,MIT,Bachelors
+1377,CS,MIT,Bachelors
+1378,Business,Other,Masters
+1379,Other,MIT,Masters
+1380,Business,Other,Bachelors
+1381,Mechanical Eng,Other,Bachelors
+1382,CS,Tufts,Bachelors
+1383,CS,BU,Bachelors
+1384,CS,Northeastern,Masters
+1385,Mechanical Eng,MIT,PhD
+1386,Other,Other,Bachelors
+1387,CS,Northeastern,Masters
+1388,Other,Northeastern,Masters
+1389,Chemistry,Tufts,Bachelors
+1390,Other,Other,Bachelors
+1391,Other,BU,Bachelors
+1392,Physics,MIT,Postdoc
+1393,CS,Northeastern,Masters
+1394,CS,Northeastern,Masters
+1395,CS,Northeastern,Masters
+1396,Data Science,Northeastern,Masters
+1397,CS,Northeastern,Masters
+1398,Biology,Northeastern,Bachelors
+1399,Other,Other,Bachelors
+1400,Policital Sci,Other,Bachelors
+1401,Data Science,Other,Masters
+1402,AI,NYU,Masters
+1403,Aero,MIT,Bachelors
+1404,Chemistry,Other,Bachelors
+1405,Data Science,Other,Masters
+1406,Data Science,Northeastern,Masters
+1407,Other,BU,Masters
+1408,Other,BU,Masters
+1409,Data Science,Northeastern,Masters
+1410,Biology,Other,Postdoc
+1411,CS,Northeastern,Bachelors
+1412,CS,Northeastern,Masters
+1413,CS,Northeastern,Masters
+1414,Other,Other,Bachelors
+1415,Business,Other,MBA
+1416,Biology,Northeastern,Masters
+1417,Physics,Other,Bachelors
+1418,AI,Other,Bachelors
+1419,CS,Northeastern,Masters
+1420,Other,BU,Masters
+1421,Other,Northeastern,Masters
+1422,Other,Other,Masters
+1423,Other,BU,Bachelors
+1424,Mechanical Eng,Other,Bachelors
+1425,Other,Northeastern,Masters
+1426,CS,Northeastern,Masters
+1427,CS,Northeastern,Masters
+1428,CS,Northeastern,Masters
+1429,Biology,Other,PhD
+1430,CS,MIT,Bachelors
+1431,Biology,Other,Other
+1432,Business,MIT,MBA
+1433,CS,MIT,Bachelors
+1434,Biology,MIT,Bachelors
+1435,Electrical Eng,MIT,PhD
+1436,AI,MIT,Bachelors
+1437,Biology,Northeastern,Masters
+1438,Aero,MIT,Masters
+1439,AI,MIT,Bachelors
+1440,AI,MIT,Bachelors
+1441,AI,MIT,Bachelors
+1442,Aero,MIT,Postdoc
+1443,Other,MIT,Bachelors
+1444,Mechanical Eng,MIT,Bachelors
+1445,CS,MIT,Bachelors
+1446,CS,MIT,Bachelors
+1447,CS,MIT,Bachelors
+1448,Other,MIT,Bachelors
+1449,CS,MIT,Bachelors
+1450,Mechanical Eng,MIT,Bachelors
+1451,Aero,MIT,Bachelors
+1452,Mechanical Eng,MIT,Bachelors
+1453,CS,MIT,Masters
+1454,Chemistry,MIT,Bachelors
+1455,Other,Northeastern,Masters
+1456,Industrial Eng,Northeastern,Masters
+1457,Data Science,Northeastern,Masters
+1458,Business,Northeastern,Bachelors
+1459,Other,Other,Bachelors
+1460,Chemistry,MIT,Postdoc
+1461,Business,Hult Business,Masters
+1462,Civil Eng,Tufts,PhD
+1463,CS,Other,Bachelors
+1464,Finance,Other,Masters
+1465,Other,Other,Postdoc
+1466,AI,Northeastern,Masters
+1467,Other,Other,Bachelors
+1468,Aero,MIT,PhD
+1469,Business,Northeastern,Bachelors
+1470,Business,MIT,Bachelors
+1471,Business,Northeastern,Bachelors
+1472,AI,Other,Masters
+1473,Other,MIT,Bachelors
+1474,Other,Tufts,Bachelors
+1475,Other,Northeastern,Masters
+1476,CS,MIT,Masters
+1477,Data Science,Hult Business,Bachelors
+1478,Business,Other,Masters
+1479,Civil Eng,Other,Postdoc
+1480,Other,Other,Bachelors
+1481,Data Science,Northeastern,Masters
+1482,Other,Other,Bachelors
+1483,Other,NYU,Bachelors
+1484,CS,Northeastern,Masters
+1485,Other,Other,Bachelors
+1486,Other,MIT,Masters
+1487,Data Science,Northeastern,Masters
+1488,Other,Other,Bachelors
+1489,AI,MIT,Bachelors
+1490,Civil Eng,MIT,Bachelors
+1491,Data Science,Northeastern,Masters
+1492,Business,BU,Masters
+1493,Other,Tufts,Masters
+1494,Other,MIT,Masters
+1495,CS,Northeastern,Masters
+1496,Data Science,Northeastern,Masters
+1497,Other,Other,Masters
+1498,Other,Other,Bachelors
+1499,CS,Other,Bachelors
+1500,Biology,Other,Bachelors
+1501,Mechanical Eng,MIT,Masters
+1502,CS,BU,Masters
+1503,CS,Northeastern,PhD
+1504,Physics,Other,Postdoc
+1505,Chemistry,Tufts,Masters
+1506,Other,Tufts,Masters
+1507,CS,Tufts,PhD
+1508,CS,BU,Bachelors
+1509,CS,Northeastern,Masters
+1510,CS,Northeastern,Masters
+1511,Industrial Eng,Northeastern,Masters
+1512,Chemistry,MIT,Bachelors
+1513,Chemistry,MIT,Bachelors
+1514,Other,Other,Postdoc
+1515,Data Science,Other,Masters
+1516,AI,Other,Masters
+1517,Business,MIT,Masters
+1518,Other,Other,Bachelors
+1519,Data Science,Other,Masters
+1520,Policital Sci,Other,Bachelors
+1521,CS,NYU,Masters
+1522,CS,BU,Masters
+1523,Business,BU,Bachelors
+1524,Mechanical Eng,NYU,Masters
+1525,Data Science,Northeastern,Masters
+1526,Mechanical Eng,NYU,Masters
+1527,Other,Northeastern,Masters
+1528,Other,Other,Postdoc
+1529,Biology,Other,Masters
+1530,Other,Other,Masters
+1531,CS,Northeastern,Masters
+1532,Other,BU,PhD
+1533,Chemistry,MIT,Postdoc
+1534,CS,MIT,Bachelors
+1535,Biology,Other,Masters
+1536,Business,Northeastern,Masters
+1537,Business,Other,Bachelors
+1538,Data Science,Other,Bachelors
+1539,CS,Northeastern,Masters
+1540,Other,Northeastern,Bachelors
+1541,CS,Northeastern,Masters
+1542,Other,Other,Postdoc
+1543,Business,MIT,Masters
+1544,Business,Other,Masters
+1545,Other,Other,Masters
+1546,CS,Northeastern,Masters
+1547,Data Science,Northeastern,Bachelors
+1548,Other,Northeastern,Masters
+1549,Other,MIT,PhD
+1550,Biology,Other,Bachelors
+1551,Mechanical Eng,Other,Masters
+1552,Other,Northeastern,Masters
+1553,Other,BU,Masters
+1554,Business,MIT,MBA
+1555,Business,MIT,MBA
+1556,CS,Northeastern,Masters
+1557,AI,MIT,Bachelors
+1558,Other,Northeastern,Masters
+1559,CS,NYU,Masters
+1560,Data Science,Northeastern,Masters
+1561,CS,Northeastern,Masters
+1562,Other,Northeastern,Masters
+1563,Data Science,Northeastern,Masters
+1564,Business,BU,Masters
+1565,Other,MIT,Postdoc
+1566,Aero,MIT,Bachelors
+1567,Other,BU,Masters
+1568,CS,Northeastern,Masters
+1569,Chemistry,NYU,Bachelors
+1570,Other,Northeastern,Masters
+1571,CS,Northeastern,Masters
+1572,Other,MIT,PhD
+1573,CS,NYU,Masters
+1574,Business,MIT,MBA
+1575,Other,Other,Bachelors
+1576,CS,Northeastern,Masters
+1577,Biology,Northeastern,Masters
+1578,CS,Other,Bachelors
+1579,Business,MIT,Masters
+1580,CS,Other,Bachelors
+1581,Finance,Other,Masters
+1582,CS,Other,Masters
+1583,Data Science,Northeastern,Masters
+1584,Other,Other,Bachelors
+1585,Business,Northeastern,Bachelors
+1586,Data Science,Northeastern,Masters
+1587,Business,Other,Masters
+1588,CS,Northeastern,Masters
+1589,CS,Other,Bachelors
+1590,Other,Other,Masters
+1591,Other,Other,Other
+1592,CS,Northeastern,Masters
+1593,Data Science,Other,Masters
+1594,CS,MIT,Masters
+1595,Business,MIT,MBA
+1596,Biology,Other,Other
+1597,Mechanical Eng,MIT,PhD
+1598,CS,Northeastern,Masters
+1599,Business,Hult Business,Masters
+1600,Policital Sci,Other,Bachelors
+1601,Biology,Other,Bachelors
+1602,Data Science,Other,Masters
+1603,Business,Other,MBA
+1604,Business,UMass Boston,Masters
+1605,Data Science,Northeastern,Masters
+1606,CS,BU,Masters
+1607,Other,Northeastern,Masters
+1608,Other,Other,MD
+1609,Other,Northeastern,Bachelors
+1610,Business,MIT,MBA
+1611,Data Science,Northeastern,Masters
+1612,CS,Northeastern,Masters
+1613,CS,Northeastern,Masters
+1614,CS,BU,Masters
+1615,Data Science,Northeastern,Masters
+1616,CS,Other,Bachelors
+1617,Electrical Eng,Other,Bachelors
+1618,Other,Other,Masters
+1619,CS,Northeastern,Masters
+1620,CS,Other,Bachelors
+1621,Data Science,Hult Business,Masters
+1622,Mechanical Eng,Northeastern,Masters
+1623,CS,Northeastern,Masters
+1624,Other,Northeastern,Masters
+1625,Electrical Eng,MIT,PhD
+1626,Other,Other,Other
+1627,CS,NYU,Masters
+1628,Business,MIT,MBA
+1629,Other,Northeastern,Masters
+1630,Data Science,Northeastern,Masters
+1631,Other,MIT,Bachelors
+1632,Biology,Other,Bachelors
+1633,Other,Other,Masters
+1634,Biology,Other,Postdoc
+1635,Materials,Other,Postdoc
+1636,Mechanical Eng,MIT,Bachelors
+1637,CS,Northeastern,Masters
+1638,CS,Other,PhD
+1639,CS,Other,Masters
+1640,CS,MIT,PhD
+1641,Other,MIT,Masters
+1642,AI,Other,PhD
+1643,Biology,Other,Masters
+1644,CS,BU,Masters
+1645,Other,Other,Bachelors
+1646,Business,Northeastern,Masters
+1647,Other,Other,PhD
+1648,Other,MIT,Masters
+1649,Chemistry,Other,Bachelors
+1650,Biology,BU,Bachelors
+1651,Other,MIT,Postdoc
+1652,Other,Northeastern,Masters
+1653,Other,Dartmouth,Bachelors
+1654,Business,MIT,MBA
+1655,Finance,Northeastern,Bachelors
+1656,Other,Other,Masters
+1657,AI,NYU,Bachelors
+1658,Data Science,Other,Masters
+1659,Other,NYU,Bachelors
+1660,CS,NYU,Masters
+1661,Physics,Other,Bachelors
+1662,Data Science,BU,Masters
+1663,Other,Other,Masters
+1664,Other,BU,Bachelors
+1665,CS,Other,Bachelors
+1666,Physics,Other,Bachelors
+1667,Aero,MIT,PhD
+1668,AI,MIT,Bachelors
+1669,Other,Northeastern,Bachelors
+1670,Other,Northeastern,Bachelors
+1671,Data Science,MIT,Masters
+1672,Business,Northeastern,Masters
+1673,CS,Other,Bachelors
+1674,Biology,Other,Postdoc
+1675,CS,Dartmouth,Bachelors
+1676,Data Science,Northeastern,Masters
+1677,AI,Northeastern,Masters
+1678,Other,Northeastern,Masters
+1679,CS,Northeastern,Masters
+1680,Biology,MIT,PhD
+1681,Other,MIT,PhD
+1682,Physics,MIT,PhD
+1683,Mechanical Eng,BU,Bachelors
+1684,CS,Northeastern,Masters
+1685,Other,Other,PhD
+1686,Other,Other,Bachelors
+1687,Data Science,MIT,Masters
+1688,CS,Dartmouth,Bachelors
+1689,Aero,MIT,Bachelors
+1690,AI,MIT,Bachelors
+1691,CS,MIT,Bachelors
+1692,Other,MIT,Masters
+1693,Mechanical Eng,MIT,Masters
+1694,CS,MIT,PhD
+1695,Electrical Eng,NYU,Masters
+1696,CS,Tufts,Bachelors
+1697,Biology,Other,Bachelors
+1698,Mechanical Eng,NYU,Masters
+1699,Biology,MIT,Bachelors
+1700,Mechanical Eng,Other,Postdoc
+1701,Biology,Other,Postdoc
+1702,Industrial Eng,MIT,Other
+1703,Physics,Other,PhD
+1704,CS,Northeastern,Masters
+1705,Other,Other,Postdoc
+1706,Biology,BU,Bachelors
+1707,Other,Other,Postdoc
+1708,CS,MIT,Bachelors
+1709,CS,MIT,Bachelors
+1710,AI,MIT,Bachelors
+1711,Other,Dartmouth,Masters
+1712,Physics,MIT,Bachelors
+1713,Aero,MIT,Bachelors
+1714,CS,MIT,Bachelors
+1715,Civil Eng,MIT,PhD
+1716,CS,NYU,Masters
+1717,CS,MIT,PhD
+1718,CS,MIT,Bachelors
+1719,Other,MIT,Masters
+1720,CS,MIT,Bachelors
+1721,AI,Other,Masters
+1722,Business,MIT,Masters
+1723,CS,MIT,Bachelors
+1724,CS,Other,Masters
+1725,Materials,MIT,Postdoc
+1726,Biology,MIT,Postdoc
+1727,Other,MIT,Masters
+1728,Finance,Other,PhD
+1729,Chemistry,MIT,PhD
+1730,CS,MIT,Bachelors
+1731,CS,MIT,Bachelors
+1732,Other,MIT,Masters
+1733,Other,MIT,Bachelors
+1734,CS,MIT,Bachelors
+1735,Other,MIT,Bachelors
+1736,Data Science,MIT,PhD
+1737,Data Science,Other,Masters
+1738,Law,MIT,Masters
+1739,Other,Other,Masters
+1740,Other,Other,Masters
+1741,CS,MIT,Other
+1742,AI,Other,Masters
+1743,CS,MIT,PhD
+1744,AI,Northeastern,Bachelors
+1745,Mechanical Eng,BU,Bachelors
+1746,Biology,Other,Masters
+1747,Data Science,Other,Masters
+1748,CS,Northeastern,Masters
+1749,AI,Other,Masters
+1750,Industrial Eng,Northeastern,Masters
+1751,Other,Dartmouth,Bachelors
+1752,Other,Other,Masters
+1753,Other,Other,Masters
+1754,Data Science,Northeastern,Masters
+1755,Physics,MIT,Postdoc
+1756,CS,NYU,Bachelors
+1757,Biology,Other,Other
+1758,Business,Other,MBA
+1759,CS,Other,Other
+1760,Other,MIT,Masters
+1761,CS,Other,Bachelors
+1762,Business,MIT,Masters
+1763,Other,Other,Other
+1764,Other,Northeastern,Masters
+1765,Data Science,Northeastern,Masters
+1766,CS,Northeastern,Masters
+1767,Business,Other,MBA
+1768,Mechanical Eng,MIT,Masters
+1769,Other,Other,Other
+1770,Other,BU,PhD
+1771,Business,Northeastern,Bachelors
+1772,Chemistry,MIT,Masters
+1773,Business,Other,Masters
+1774,Aero,MIT,Bachelors
+1775,Biology,NYU,Masters
+1776,Other,Other,Masters
+1777,Data Science,Northeastern,Masters
+1778,Biology,Other,Masters
+1779,CS,Northeastern,Masters
+1780,Data Science,Northeastern,Masters
+1781,Business,Northeastern,Masters
+1782,Other,MIT,Masters
+1783,Biology,Tufts,Masters
+1784,Business,Other,Masters
+1785,Other,MIT,PhD
+1786,CS,Northeastern,Masters
+1787,Biology,Other,Other
+1788,Mechanical Eng,MIT,Masters
+1789,AI,MIT,PhD
+1790,Other,Northeastern,Masters
+1791,Other,MIT,PhD
+1792,AI,Northeastern,Masters
+1793,AI,Northeastern,Masters
+1794,Physics,Other,Bachelors
+1795,Business,Other,Masters
+1796,Other,Other,Postdoc
+1797,AI,Northeastern,Masters
+1798,CS,NYU,Masters
+1799,Business,MIT,MBA
+1800,AI,Northeastern,Masters
+1801,Data Science,NYU,Bachelors
+1802,CS,Northeastern,Masters
+1803,CS,Northeastern,Masters
+1804,CS,Tufts,PhD
+1805,Other,MIT,Masters
+1806,CS,MIT,Masters
+1807,Other,Other,Masters
+1808,Other,MIT,PhD
+1809,Materials,MIT,Postdoc
+1810,Aero,MIT,Masters
+1811,Biology,MIT,Other
+1812,AI,MIT,Bachelors
+1813,Other,Other,Postdoc
+1814,Data Science,MIT,Masters
+1815,AI,MIT,PhD
+1816,AI,MIT,Bachelors
+1817,Biology,Northeastern,Masters
+1818,Mechanical Eng,Other,PhD
+1819,Biology,BU,Postdoc
+1820,Other,MIT,Other
+1821,Data Science,MIT,PhD
+1822,Mechanical Eng,NYU,Bachelors
+1823,Other,Other,Masters
+1824,CS,Other,Masters
+1825,Chemistry,MIT,PhD
+1826,Mechanical Eng,Other,Other
+1827,Other,NYU,Bachelors
+1828,Other,Other,Other
+1829,Other,Other,Masters
+1830,CS,MIT,Bachelors
+1831,CS,NYU,Masters
+1832,CS,NYU,Masters
+1833,AI,NYU,Bachelors
+1834,CS,Other,Masters
+1835,Chemistry,NYU,Bachelors
+1836,Other,Northeastern,Masters
+1837,Other,Northeastern,Masters
+1838,CS,NYU,Bachelors
+1839,Business,NYU,Bachelors
+1840,Other,NYU,Bachelors
+1841,Other,MIT,Bachelors
+1842,CS,NYU,Masters
+1843,Other,Northeastern,Masters
+1844,Chemistry,MIT,Bachelors
+1845,Other,Other,Masters
+1846,Physics,Other,Bachelors
+1847,Business,Northeastern,Bachelors
+1848,CS,Northeastern,Masters
+1849,Mechanical Eng,MIT,Bachelors
+1850,Mechanical Eng,Northeastern,Bachelors
+1851,CS,Other,Bachelors
+1852,Aero,MIT,PhD
+1853,Other,Other,MD
+1854,Business,Northeastern,Masters
+1855,Biology,Other,Postdoc
+1856,Data Science,Northeastern,Masters
+1857,Business,MIT,MBA
+1858,Data Science,Other,Bachelors
+1859,Data Science,MIT,Bachelors
+1860,Other,MIT,Masters
+1861,CS,Other,Bachelors
+1862,Other,MIT,Masters
+1863,AI,MIT,PhD
+1864,Other,Other,Bachelors
+1865,CS,MIT,Masters
+1866,Other,Other,Masters
+1867,CS,MIT,Bachelors
+1868,Other,Other,PhD
+1869,Mechanical Eng,Other,Bachelors
+1870,Biology,Other,Masters
+1871,AI,Northeastern,Masters
+1872,Mechanical Eng,MIT,PhD
+1873,AI,MIT,Masters
+1874,AI,Other,Postdoc
+1875,Mechanical Eng,MIT,Bachelors
+1876,Biology,MIT,Bachelors
+1877,Biology,Other,Postdoc
+1878,Finance,Other,Bachelors
+1879,CS,Other,Bachelors
+1880,Biology,Other,Bachelors
+1881,Physics,MIT,Postdoc
+1882,Other,Other,Masters
+1883,Other,MIT,Other
+1884,Other,MIT,Masters
+1885,Other,MIT,Masters
+1886,Business,Other,Masters
+1887,Business,MIT,Masters
+1888,CS,NYU,Masters
+1889,Finance,Other,Masters
+1890,Finance,Other,Bachelors
+1891,Finance,Other,Bachelors
+1892,Other,BU,Masters
+1893,Business,Northeastern,Masters
+1894,CS,Other,Masters
+1895,Business,MIT,MBA
+1896,Finance,Other,Bachelors
+1897,Other,MIT,PhD
+1898,CS,NYU,Masters
+1899,Other,Other,Bachelors
+1900,Other,Other,Bachelors
+1901,Other,Other,Bachelors
+1902,CS,NYU,Masters
+1903,Other,Other,Other
+1904,Physics,Other,Bachelors
+1905,Data Science,MIT,Masters
+1906,Business,NYU,Masters
+1907,Other,Other,Bachelors
+1908,CS,MIT,Bachelors
+1909,Finance,Other,Bachelors
+1910,Other,MIT,Masters
+1911,Other,MIT,Masters
+1912,Other,Other,Bachelors
+1913,Other,Other,Masters
+1914,CS,Northeastern,Masters
+1915,Other,Other,Bachelors
+1916,CS,MIT,Masters
+1917,Other,Other,Masters
+1918,Other,MIT,PhD
+1919,Other,Northeastern,Masters
+1920,Other,Other,Masters
+1921,Business,Other,MBA
+1922,Other,Other,Masters
+1923,Physics,Other,Bachelors
+1924,Policital Sci,Tufts,Masters
+1925,Other,Other,Bachelors
+1926,Business,Other,Masters
+1927,Other,Other,Masters
+1928,Business,MIT,Masters
+1929,Other,Other,Masters
+1930,Biology,Other,Postdoc
+1931,Physics,Other,Bachelors
+1932,Other,Other,Masters
+1933,Aero,MIT,Bachelors
+1934,Other,Other,Bachelors
+1935,CS,Other,Bachelors
+1936,AI,MIT,PhD
+1937,AI,Tufts,Other
+1938,Data Science,Other,Masters
+1939,Electrical Eng,Other,Postdoc
+1940,Other,Other,Masters
+1941,CS,NYU,Masters
+1942,Other,Other,Masters
+1943,Other,Other,Masters
+1944,Other,Other,Masters
+1945,Other,Other,Masters
+1946,Other,Other,Masters
+1947,Other,Other,Masters
+1948,AI,Boston College,Other
+1949,Law,Other,Postdoc
+1950,Business,Other,MBA
+1951,Other,Other,Masters
+1952,Business,Other,Masters
+1953,Other,Other,Masters
+1954,Other,Other,Masters
+1955,AI,MIT,Bachelors
+1956,Physics,MIT,Postdoc
+1957,Other,Other,Masters
+1958,Other,Other,Masters
+1959,Finance,Other,Masters
+1960,Business,Other,Masters
+1961,Other,Other,Masters
+1962,Other,Other,Masters
+1963,Other,Other,Masters
+1964,Finance,Other,Masters
+1965,Other,Northeastern,Bachelors
+1966,Business,Boston College,Bachelors
+1967,Other,Tufts,Bachelors
+1968,Business,NYU,Bachelors
+1969,Business,MIT,MBA
+1970,Business,Other,Masters
+1971,Other,Tufts,Masters
+1972,Business,Other,Masters
+1973,AI,MIT,Bachelors
+1974,AI,MIT,Bachelors
+1975,Other,Other,Masters
+1976,Other,Other,PhD
+1977,Business,Other,MBA
+1978,Other,Other,Masters
+1979,Data Science,Other,Masters
+1980,Other,Other,Masters
+1981,Other,MIT,Bachelors
+1982,Business,Other,Masters
+1983,Biology,Other,Masters
+1984,Civil Eng,Other,Other
+1985,Data Science,MIT,PhD
+1986,Business,Other,Masters
+1987,Biology,MIT,PhD
+1988,Other,MIT,PhD
+1989,Other,Other,Masters
+1990,Mechanical Eng,MIT,PhD
+1991,Biology,Other,Postdoc
+1992,Biology,Other,PhD
+1993,Business,MIT,Bachelors
+1994,Other,Other,Postdoc
+1995,Biology,Other,Postdoc
+1996,Other,Other,Postdoc
+1997,Business,MIT,Masters
+1998,Law,Other,Masters
+1999,Aero,MIT,Bachelors
+2000,Biology,MIT,Postdoc
+2001,CS,MIT,PhD
+2002,AI,MIT,Bachelors
+2003,Physics,MIT,Bachelors
+2004,AI,Northeastern,Masters
+2005,Other,MIT,Masters
+2006,Chemistry,MIT,Bachelors
+2007,AI,MIT,Bachelors
+2008,Industrial Eng,Northeastern,Masters
+2009,Other,Other,Bachelors
+2010,AI,MIT,PhD
+2011,CS,Other,Bachelors
+2012,AI,MIT,Bachelors
+2013,Business,MIT,Masters
+2014,Data Science,MIT,Postdoc
+2015,Business,MIT,Masters
+2016,AI,MIT,PhD
+2017,Other,Other,Masters
+2018,Data Science,Northeastern,Masters
+2019,Mechanical Eng,MIT,Bachelors
+2020,Biology,MIT,Bachelors
+2021,Physics,MIT,Bachelors
+2022,Other,MIT,Masters
+2023,AI,MIT,Bachelors
+2024,Other,MIT,PhD
+2025,Physics,MIT,Postdoc
+2026,Other,MIT,Other
+2027,CS,MIT,Bachelors
+2028,Other,MIT,Masters
+2029,Mechanical Eng,Other,Postdoc
+2030,Business,MIT,Masters
+2031,Business,MIT,Bachelors
+2032,Other,Other,Bachelors
+2033,Chemistry,MIT,Masters
+2034,Physics,MIT,PhD
+2035,Physics,MIT,PhD
+2036,CS,MIT,Bachelors
+2037,Physics,MIT,Bachelors
+2038,CS,MIT,Masters
+2039,AI,MIT,Masters
+2040,Biology,Other,Postdoc
+2041,AI,MIT,Bachelors
+2042,Electrical Eng,MIT,Postdoc
+2043,Materials,MIT,PhD
+2044,Other,NYU,Masters
+2045,Physics,MIT,Postdoc
+2046,AI,MIT,PhD
+2047,CS,MIT,Bachelors
+2048,CS,Other,Bachelors
+2049,CS,MIT,Bachelors
+2050,AI,MIT,Bachelors
+2051,Other,NYU,Masters
+2052,CS,MIT,Bachelors
+2053,Business,MIT,Bachelors
+2054,AI,MIT,Bachelors
+2055,CS,Other,Bachelors
+2056,CS,Other,Bachelors
+2057,CS,Other,Bachelors
+2058,CS,MIT,Bachelors
+2059,CS,MIT,Bachelors
+2060,Other,MIT,Bachelors
+2061,Business,Other,Masters
+2062,AI,MIT,PhD
+2063,Electrical Eng,MIT,Bachelors
+2064,CS,MIT,Masters
+2065,Mechanical Eng,NYU,Bachelors
+2066,CS,NYU,Masters
+2067,Other,MIT,PhD
+2068,AI,MIT,Masters
+2069,Policital Sci,Other,Masters
+2070,Biology,MIT,Postdoc
+2071,CS,MIT,Bachelors
+2072,CS,MIT,Postdoc
+2073,CS,MIT,Bachelors
+2074,CS,MIT,Postdoc
+2075,CS,MIT,Postdoc
+2076,CS,MIT,Bachelors
+2077,CS,Northeastern,Masters
+2078,AI,MIT,Bachelors
+2079,Electrical Eng,MIT,Bachelors
+2080,CS,MIT,Bachelors
+2081,Other,MIT,Bachelors
+2082,CS,MIT,Bachelors
+2083,AI,MIT,Bachelors
+2084,CS,MIT,Bachelors
+2085,Physics,MIT,Postdoc
+2086,CS,MIT,Bachelors
+2087,AI,MIT,Masters
+2088,Biology,MIT,Postdoc
+2089,Other,Other,Masters
+2090,Business,Other,Masters
+2091,CS,MIT,Masters
+2092,Industrial Eng,Other,Masters
+2093,AI,Other,PhD
+2094,Other,MIT,Postdoc
+2095,AI,BU,Postdoc
+2096,AI,Other,Masters
+2097,Business,MIT,Masters
+2098,Business,Other,MBA
+2099,Electrical Eng,MIT,Bachelors
+2100,Business,MIT,Masters
+2101,CS,MIT,PhD
+2102,Other,MIT,PhD
+2103,Data Science,BU,Masters
+2104,CS,Northeastern,Masters
+2105,Chemistry,MIT,PhD
+2106,Civil Eng,MIT,Postdoc
+2107,CS,MIT,Bachelors
+2108,Finance,Other,PhD
+2109,Biology,MIT,PhD
+2110,CS,NYU,Masters
+2111,Physics,Other,PhD
+2112,AI,MIT,Masters
+2113,Business,MIT,Masters
+2114,Data Science,Other,Masters
+2115,Other,NYU,Masters
+2116,Other,MIT,Masters
+2117,AI,MIT,Bachelors
+2118,CS,Northeastern,Masters
+2119,Data Science,Northeastern,Masters
+2120,Biology,NYU,Bachelors
+2121,CS,Northeastern,Masters
+2122,CS,MIT,MBA
+2123,Data Science,MIT,Masters
+2124,AI,MIT,Bachelors
+2125,AI,MIT,Bachelors
+2126,Data Science,MIT,Bachelors
+2127,Aero,MIT,Bachelors
+2128,Other,MIT,PhD
+2129,AI,Other,Bachelors
+2130,Biology,Other,Masters
+2131,Business,MIT,MBA
+2132,Other,Other,Masters
+2133,Mechanical Eng,MIT,Masters
+2134,Industrial Eng,MIT,Masters
+2135,Business,MIT,Masters
+2136,Mechanical Eng,MIT,Bachelors
+2137,Other,Other,Bachelors
+2138,Business,MIT,Masters
+2139,Business,MIT,MBA
+2140,AI,Other,Postdoc
+2141,Other,Other,Postdoc
+2142,Business,MIT,Masters
+2143,Other,MIT,Masters
+2144,CS,MIT,Bachelors
+2145,Other,MIT,Postdoc
+2146,AI,MIT,Bachelors
+2147,Business,MIT,Masters
+2148,Biology,Northeastern,PhD
+2149,Business,Hult Business,Masters
+2150,CS,Other,Bachelors
+2151,Other,Other,Masters
+2152,Finance,Other,Bachelors
+2153,CS,Other,Bachelors
+2154,Other,Other,Bachelors
+2155,Business,Hult Business,Masters
+2156,Business,Hult Business,MBA
+2157,Business,Other,MBA
+2158,CS,Northeastern,Masters
+2159,CS,Other,Masters
+2160,CS,NYU,Masters
+2161,Business,Other,Masters
+2162,AI,MIT,Masters
+2163,Business,NYU,Masters
+2164,Other,NYU,Masters
+2165,Mechanical Eng,BU,Masters
+2166,CS,NYU,Masters
+2167,Data Science,NYU,Masters
+2168,Chemistry,MIT,Bachelors
+2169,Finance,MIT,Bachelors
+2170,Biology,MIT,Bachelors
+2171,CS,Other,Bachelors
+2172,CS,NYU,Masters
+2173,Other,MIT,Masters
+2174,Mechanical Eng,Other,Masters
+2175,Industrial Eng,Other,Masters
+2176,Mechanical Eng,MIT,Bachelors
+2177,Data Science,Northeastern,Masters
+2178,Business,MIT,Masters
+2179,Other,Northeastern,PhD
+2180,Other,Other,Postdoc
+2181,Other,Other,Masters
+2182,Electrical Eng,MIT,Masters
+2183,AI,Northeastern,Masters
+2184,Data Science,MIT,PhD
+2185,Other,NYU,Bachelors
+2186,CS,NYU,Masters
+2187,Other,NYU,Masters
+2188,Data Science,Northeastern,Masters
+2189,Data Science,Other,PhD
+2190,CS,Northeastern,Masters
+2191,Other,NYU,Masters
+2192,Data Science,Northeastern,Bachelors
+2193,Business,NYU,Bachelors
+2194,Other,Northeastern,Bachelors
+2195,Policital Sci,NYU,Bachelors
+2196,Other,MIT,PhD
+2197,CS,NYU,Masters
+2198,Business,MIT,Masters
+2199,CS,MIT,PhD
+2200,CS,NYU,Masters
+2201,CS,NYU,Bachelors
+2202,CS,MIT,Bachelors
+2203,AI,MIT,Bachelors
+2204,Biology,NYU,Bachelors
+2205,Other,Other,Masters
+2206,Law,Other,Masters
+2207,Data Science,NYU,Bachelors
+2208,CS,MIT,Bachelors
+2209,Aero,MIT,Bachelors
+2210,Chemistry,MIT,Bachelors
+2211,Other,Other,Masters
+2212,CS,MIT,Bachelors
+2213,CS,MIT,Bachelors
+2214,Mechanical Eng,Northeastern,Bachelors
+2215,CS,NYU,Bachelors
+2216,Other,MIT,Masters
+2217,CS,MIT,Bachelors
+2218,Physics,MIT,Bachelors
+2219,Mechanical Eng,MIT,Postdoc
+2220,Other,MIT,Bachelors
+2221,AI,MIT,Bachelors
+2222,Other,MIT,Bachelors
+2223,Physics,MIT,Bachelors
+2224,CS,MIT,Bachelors
+2225,Other,NYU,Bachelors
+2226,Mechanical Eng,MIT,Bachelors
+2227,Mechanical Eng,MIT,Bachelors
+2228,Mechanical Eng,MIT,Bachelors
+2229,Other,MIT,Bachelors
+2230,Other,NYU,Bachelors
+2231,Mechanical Eng,MIT,Postdoc
+2232,Other,NYU,Masters
+2233,Chemistry,MIT,Other
+2234,Aero,MIT,Bachelors
+2235,Physics,MIT,Bachelors
+2236,CS,Northeastern,Masters
+2237,Chemistry,NYU,Bachelors
+2238,Mechanical Eng,MIT,Masters
+2239,Mechanical Eng,MIT,Masters
+2240,Business,MIT,MBA
+2241,Other,MIT,Postdoc
+2242,CS,NYU,Masters
+2243,Biology,MIT,PhD
+2244,AI,MIT,PhD
+2245,Chemistry,MIT,PhD
+2246,Mechanical Eng,MIT,Bachelors
+2247,Mechanical Eng,MIT,Bachelors
+2248,CS,NYU,Masters
+2249,Business,MIT,Bachelors
+2250,CS,MIT,Bachelors
+2251,AI,MIT,Bachelors
+2252,CS,MIT,Bachelors
+2253,AI,MIT,Bachelors
+2254,Other,NYU,Masters
+2255,Business,NYU,Masters
+2256,CS,NYU,Bachelors
+2257,CS,NYU,Masters
+2258,Other,MIT,MBA
+2259,CS,NYU,Masters
+2260,CS,MIT,Bachelors
+2261,Mechanical Eng,MIT,Bachelors
+2262,CS,Other,Masters
+2263,CS,MIT,Bachelors
+2264,Mechanical Eng,MIT,Masters
+2265,Other,MIT,Bachelors
+2266,Other,MIT,Masters
+2267,Data Science,MIT,Bachelors
+2268,CS,MIT,Bachelors
+2269,Business,MIT,Postdoc
+2270,Mechanical Eng,MIT,Masters
+2271,Other,NYU,Masters
+2272,CS,NYU,Masters
+2273,Business,MIT,MBA
+2274,CS,Northeastern,Masters
+2275,Chemistry,MIT,Bachelors
+2276,Business,NYU,Bachelors
+2277,CS,NYU,Masters
+2278,Civil Eng,NYU,Bachelors
+2279,Other,MIT,Bachelors
+2280,CS,MIT,Bachelors
+2281,CS,MIT,Bachelors
+2282,Aero,MIT,Bachelors
+2283,CS,MIT,Bachelors
+2284,Chemistry,MIT,PhD
+2285,Other,NYU,Bachelors
+2286,Business,MIT,Masters
+2287,Biology,MIT,PhD
+2288,Chemistry,NYU,Bachelors
+2289,Business,MIT,MBA
+2290,Business,MIT,Masters
+2291,Chemistry,NYU,Bachelors
+2292,CS,Other,Bachelors
+2293,Other,MIT,Bachelors
+2294,AI,MIT,Bachelors
+2295,Electrical Eng,MIT,Bachelors
+2296,Business,NYU,Masters
+2297,Business,MIT,Masters
+2298,Other,Other,Masters
+2299,Other,MIT,Masters
+2300,Other,MIT,Masters
+2301,AI,MIT,MBA
+2302,Mechanical Eng,NYU,Masters
+2303,Business,NYU,Masters
+2304,CS,NYU,Masters
+2305,AI,MIT,Bachelors
+2306,CS,NYU,Masters
+2307,Industrial Eng,NYU,Masters
+2308,Other,NYU,PhD
+2309,Business,MIT,Bachelors
+2310,Civil Eng,MIT,PhD
+2311,Other,NYU,Bachelors
+2312,CS,NYU,Masters
+2313,CS,MIT,Masters
+2314,Biology,MIT,Bachelors
+2315,Finance,Other,Bachelors
+2316,Finance,NYU,Bachelors
+2317,CS,MIT,Bachelors
+2318,CS,NYU,Masters
+2319,Business,NYU,Masters
+2320,CS,MIT,Bachelors
+2321,CS,MIT,Bachelors
+2322,CS,NYU,Masters
+2323,Business,NYU,Bachelors
+2324,CS,MIT,Bachelors
+2325,CS,NYU,Masters
+2326,CS,MIT,Bachelors
+2327,CS,NYU,Masters
+2328,CS,NYU,Masters
+2329,Other,NYU,Masters
+2330,CS,MIT,Bachelors
+2331,Other,NYU,Masters
+2332,Other,NYU,PhD
+2333,Data Science,MIT,Bachelors
+2334,CS,NYU,Masters
+2335,Electrical Eng,NYU,Masters
+2336,Electrical Eng,NYU,Masters
+2337,CS,NYU,Bachelors
+2338,Other,NYU,Masters
+2339,CS,NYU,Masters
+2340,CS,NYU,Masters
+2341,CS,NYU,Bachelors
+2342,CS,MIT,Masters
+2343,Other,NYU,PhD
+2344,Mechanical Eng,MIT,Bachelors
+2345,CS,MIT,Masters
+2346,Law,NYU,Bachelors
+2347,Other,MIT,Bachelors
+2348,Other,MIT,Bachelors
+2349,Policital Sci,NYU,Bachelors
+2350,Mechanical Eng,MIT,Bachelors
+2351,Mechanical Eng,NYU,Bachelors
+2352,Other,NYU,Bachelors
+2353,CS,MIT,Bachelors
+2354,Mechanical Eng,NYU,Bachelors
+2355,AI,NYU,Bachelors
+2356,Other,NYU,Bachelors
+2357,Aero,MIT,Bachelors
+2358,Finance,Other,Masters
+2359,Other,Other,Other
+2360,CS,MIT,Bachelors
+2361,Other,MIT,Bachelors
+2362,Mechanical Eng,MIT,Bachelors
+2363,CS,Other,Bachelors
+2364,Other,Other,Bachelors
+2365,Business,MIT,MBA
+2366,CS,MIT,Bachelors
+2367,CS,MIT,Bachelors
+2368,Other,MIT,PhD
+2369,CS,NYU,Bachelors
+2370,Mechanical Eng,NYU,Bachelors
+2371,Data Science,Northeastern,Masters
+2372,AI,MIT,Masters
+2373,CS,MIT,Masters
+2374,Mechanical Eng,NYU,Bachelors
+2375,Industrial Eng,Northeastern,Masters
+2376,Data Science,MIT,Bachelors
+2377,Other,NYU,Bachelors
+2378,Data Science,BU,Masters
+2379,Other,NYU,Bachelors
+2380,Finance,NYU,Bachelors
+2381,Business,MIT,MBA
+2382,Data Science,Other,Masters
+2383,Law,Other,Masters
+2384,Biology,Other,Bachelors
+2385,Business,MIT,Masters
+2386,Data Science,Other,PhD
+2387,Business,MIT,Bachelors
+2388,Other,Harvard,Other
+2389,Finance,Other,Bachelors
+2390,Other,Other,Bachelors
+2391,Other,Other,Masters
+2392,Other,MIT,Bachelors
+2393,Finance,Other,Bachelors
+2394,Mechanical Eng,BU,Bachelors
+2395,Policital Sci,Other,Masters
+2396,CS,Other,Bachelors
+2397,AI,MIT,Masters
+2398,Business,MIT,MBA
+2399,CS,MIT,Bachelors
+2400,Other,MIT,PhD
+2401,AI,MIT,PhD
+2402,Business,MIT,MBA
+2403,CS,Other,Bachelors
+2404,Other,MIT,Masters
+2405,CS,MIT,Other
+2406,Other,MIT,Postdoc
+2407,Other,MIT,Masters
+2408,Other,Tufts,PhD
+2409,CS,Northeastern,Masters
+2410,CS,Northeastern,Masters
+2411,Business,MIT,Masters
+2412,Business,MIT,MBA
+2413,Other,MIT,Bachelors
+2414,CS,MIT,Bachelors
+2415,CS,MIT,Bachelors
+2416,Other,MIT,Bachelors
+2417,AI,MIT,Postdoc
+2418,Other,Northeastern,Masters
+2419,Business,Other,MBA
+2420,Mechanical Eng,MIT,Bachelors
+2421,Other,MIT,Masters
+2422,CS,Northeastern,Masters
+2423,Business,MIT,MBA
+2424,Finance,Other,Masters
+2425,CS,MIT,Bachelors
+2426,Other,MIT,Masters
+2427,Data Science,MIT,Masters
+2428,CS,Northeastern,Bachelors
+2429,Other,MIT,Masters
+2430,Electrical Eng,MIT,Bachelors
+2431,CS,MIT,Bachelors
+2432,Mechanical Eng,MIT,Bachelors
+2433,Other,MIT,Masters
+2434,Other,MIT,Masters
+2435,CS,Other,Bachelors
+2436,Biology,Northeastern,Masters
+2437,AI,MIT,Bachelors
+2438,Physics,Other,Bachelors
+2439,Business,MIT,Bachelors
+2440,Electrical Eng,MIT,Bachelors
+2441,Other,Other,Bachelors
+2442,Industrial Eng,MIT,PhD
+2443,Business,MIT,Masters
+2444,Other,Other,Bachelors
+2445,CS,Other,Masters
+2446,CS,Other,Masters
+2447,Industrial Eng,Northeastern,Masters
+2448,Other,Other,Masters
+2449,Other,BU,Masters
+2450,AI,MIT,PhD
+2451,Biology,Other,Masters
+2452,Electrical Eng,MIT,Bachelors
+2453,CS,Other,Bachelors
+2454,Data Science,MIT,Other
+2455,Business,Hult Business,Masters
+2456,CS,MIT,Bachelors
+2457,Biology,Other,Postdoc
+2458,Other,Other,Other
+2459,Other,Other,Bachelors
+2460,CS,MIT,Other
+2461,Other,Other,Postdoc
+2462,Biology,Other,Other
+2463,Other,Other,Other
+2464,Business,Other,MBA
+2465,Other,Other,Bachelors
+2466,Finance,Other,PhD
+2467,Business,Northeastern,Masters
+2468,Chemistry,MIT,Postdoc
+2469,CS,Northeastern,Masters
+2470,CS,Northeastern,Masters
+2471,Other,Tufts,Masters
+2472,CS,MIT,Masters
+2473,Physics,Other,Postdoc
+2474,Materials,MIT,PhD
+2475,Mechanical Eng,MIT,Bachelors
+2476,Other,Other,Postdoc
+2477,Business,MIT,MBA
+2478,Other,MIT,PhD
+2479,CS,Northeastern,Masters
+2480,Other,MIT,Masters
+2481,Industrial Eng,MIT,Masters
+2482,Other,Northeastern,Masters
+2483,Other,MIT,Masters
+2484,Business,Northeastern,Masters
+2485,Mechanical Eng,MIT,Masters
+2486,Industrial Eng,MIT,Postdoc
+2487,Business,MIT,MBA
+2488,Other,Other,Bachelors
+2489,Materials,MIT,Bachelors
+2490,Other,Northeastern,Masters
+2491,Biology,Northeastern,Masters
+2492,Other,Other,Bachelors
+2493,Other,Other,Bachelors
+2494,AI,Other,Masters
+2495,Other,Northeastern,Masters
+2496,Other,Other,Masters
+2497,CS,Northeastern,Masters
+2498,CS,MIT,Bachelors
+2499,CS,Northeastern,Masters
+2500,Other,Northeastern,Masters
+2501,AI,Northeastern,Masters
+2502,AI,Northeastern,Masters
+2503,CS,Northeastern,Masters
+2504,CS,Northeastern,Masters
+2505,Other,Northeastern,Masters
+2506,AI,Northeastern,Masters
+2507,CS,BU,Bachelors
+2508,Other,Northeastern,Masters
+2509,Other,Northeastern,Masters
+2510,Data Science,Northeastern,Masters
+2511,Data Science,Northeastern,Masters
+2512,Mechanical Eng,Northeastern,Masters
+2513,Other,Northeastern,Masters
+2514,CS,Northeastern,Masters
+2515,CS,Northeastern,Masters
+2516,Industrial Eng,Northeastern,Masters
+2517,Biology,Northeastern,Masters
+2518,CS,Northeastern,Masters
+2519,CS,Northeastern,Masters
+2520,Other,Northeastern,Masters
+2521,Other,Northeastern,Masters
+2522,Other,Northeastern,Masters
+2523,Biology,Northeastern,Masters
+2524,Data Science,Northeastern,Masters
+2525,Other,Northeastern,Masters
+2526,Business,Other,MBA
+2527,Mechanical Eng,MIT,Masters
+2528,CS,Northeastern,Masters
+2529,Data Science,Northeastern,Masters
+2530,Other,Northeastern,Masters
+2531,CS,Other,Masters
+2532,Data Science,Northeastern,Masters
+2533,Business,Northeastern,Masters
+2534,CS,Northeastern,Masters
+2535,Aero,MIT,Other
+2536,Other,MIT,Masters
+2537,Other,Other,Masters
+2538,Business,Tufts,Masters
+2539,Other,Tufts,Bachelors
+2540,Civil Eng,MIT,Masters
+2541,Other,Other,Bachelors
+2542,Biology,Other,Postdoc
+2543,Materials,MIT,PhD
+2544,Other,MIT,Masters
+2545,AI,MIT,Bachelors
+2546,CS,MIT,Bachelors
+2547,Biology,MIT,PhD
+2548,Finance,Other,Bachelors
+2549,Other,MIT,Postdoc
+2550,Mechanical Eng,MIT,Masters
+2551,Business,Other,Masters
+2552,Biology,Other,Postdoc
+2553,AI,MIT,Bachelors
+2554,Other,Other,Masters
+2555,Business,MIT,Masters
+2556,CS,Other,Bachelors
+2557,Chemistry,Other,Bachelors
+2558,AI,Other,Bachelors
+2559,Other,Other,Bachelors
+2560,Business,Other,Bachelors
+2561,Data Science,BU,Masters
+2562,Data Science,Other,Masters
+2563,Other,Other,Masters
+2564,Other,Other,Masters
+2565,Other,Other,Postdoc
+2566,CS,BU,Masters
+2567,Other,MIT,Masters
+2568,Finance,Tufts,Bachelors
+2569,Mechanical Eng,MIT,Masters
+2570,Mechanical Eng,MIT,PhD
+2571,CS,MIT,Masters
+2572,Biology,Tufts,Bachelors
+2573,Business,MIT,MBA
+2574,Business,Other,Masters
+2575,Biology,MIT,PhD
+2576,AI,MIT,Bachelors
+2577,CS,MIT,Bachelors
+2578,AI,MIT,Postdoc
+2579,CS,MIT,Masters
+2580,Other,MIT,PhD
+2581,Biology,MIT,Bachelors
+2582,Data Science,Other,Masters
+2583,Business,Other,Other
+2584,CS,Other,Bachelors
+2585,Biology,MIT,PhD
+2586,Data Science,Other,Masters
+2587,Materials,MIT,Bachelors
+2588,CS,MIT,Bachelors
+2589,AI,MIT,Bachelors
+2590,CS,MIT,Bachelors
+2591,Biology,MIT,Masters
+2592,Business,MIT,Other
+2593,Other,Tufts,Bachelors
+2594,Other,Other,MD
+2595,Data Science,Other,Other
+2596,Other,Other,Bachelors
+2597,Biology,MIT,Masters
+2598,Business,Tufts,MBA
+2599,Business,Tufts,MBA
+2600,Materials,Other,Postdoc
+2601,Other,MIT,PhD
+2602,Other,Other,Masters
+2603,Other,Other,Masters
+2604,Other,MIT,Masters
+2605,Other,Other,Masters
+2606,Other,MIT,Masters
+2607,Other,MIT,Masters
+2608,Business,Other,MBA
+2609,Electrical Eng,Tufts,Bachelors
+2610,Business,Other,MBA
+2611,Data Science,Other,MBA
+2612,Data Science,Other,Masters
+2613,Business,Other,MBA
+2614,CS,Other,Bachelors
+2615,Mechanical Eng,MIT,Masters
+2616,CS,MIT,Bachelors
+2617,Chemistry,Other,Bachelors
+2618,Biology,MIT,Masters
+2619,Mechanical Eng,MIT,Bachelors
+2620,Biology,MIT,PhD
+2621,Physics,MIT,Postdoc
+2622,CS,Other,Bachelors
+2623,CS,MIT,Bachelors
+2624,Aero,MIT,Postdoc
+2625,Mechanical Eng,MIT,Masters
+2626,Business,MIT,Masters
+2627,Mechanical Eng,MIT,Postdoc
+2628,Mechanical Eng,MIT,Masters
+2629,Biology,MIT,Postdoc
+2630,Industrial Eng,MIT,Postdoc
+2631,Physics,Other,Postdoc
+2632,Mechanical Eng,MIT,Bachelors
+2633,AI,MIT,Postdoc
+2634,Other,MIT,PhD
+2635,Data Science,MIT,Postdoc
+2636,Materials,MIT,Bachelors
+2637,Physics,MIT,Postdoc
+2638,Biology,MIT,Postdoc
+2639,Other,Tufts,Masters
+2640,Mechanical Eng,MIT,Postdoc
+2641,Physics,MIT,Postdoc
+2642,Biology,MIT,Postdoc
+2643,Materials,MIT,Postdoc
+2644,Biology,MIT,Postdoc
+2645,Biology,MIT,Postdoc
+2646,Aero,MIT,Postdoc
+2647,Other,MIT,Postdoc
+2648,Chemistry,MIT,Postdoc
+2649,Chemistry,MIT,Postdoc
+2650,Physics,MIT,Postdoc
+2651,Chemistry,MIT,Postdoc
+2652,Materials,MIT,Postdoc
+2653,AI,MIT,Postdoc
+2654,Physics,MIT,Postdoc
+2655,Other,MIT,Postdoc
+2656,Electrical Eng,MIT,Postdoc
+2657,Other,Tufts,Bachelors
+2658,Chemistry,MIT,Postdoc
+2659,Business,Tufts,Masters
+2660,Aero,MIT,Masters
+2661,Data Science,MIT,Masters
+2662,Mechanical Eng,Other,PhD
+2663,Aero,MIT,Bachelors
+2664,Business,Northeastern,Bachelors
+2665,Mechanical Eng,MIT,PhD
+2666,Biology,Tufts,Bachelors
+2667,Business,Tufts,Masters
+2668,Materials,MIT,Postdoc
+2669,Business,Tufts,Masters
+2670,Business,MIT,Masters
+2671,Business,MIT,Masters
+2672,Electrical Eng,MIT,Masters
+2673,Other,Tufts,Masters
+2674,Other,MIT,Masters
+2675,Other,Tufts,Masters
+2676,Other,Tufts,Masters
+2677,Business,MIT,Masters
+2678,Business,Tufts,Masters
+2679,Other,Tufts,Masters
+2680,Business,MIT,Masters
+2681,Other,Other,Bachelors
+2682,Aero,MIT,Masters
+2683,Physics,MIT,PhD
+2684,Other,MIT,Masters
+2685,AI,MIT,Bachelors
+2686,Business,MIT,MBA
+2687,Biology,BU,Bachelors
+2688,CS,MIT,PhD
+2689,Business,MIT,MBA
+2690,Civil Eng,MIT,Masters
+2691,CS,Other,Masters
+2692,Other,Tufts,Masters
+2693,Business,Tufts,Masters
+2694,Aero,MIT,Masters
+2695,Civil Eng,MIT,Masters
+2696,Biology,Tufts,Masters
+2697,Other,MIT,Bachelors
+2698,Other,BU,Masters
+2699,Other,MIT,PhD
+2700,Other,Other,Bachelors
+2701,Other,Other,Postdoc
+2702,AI,MIT,Bachelors
+2703,Other,Other,Masters
+2704,Business,Other,Masters
+2705,Data Science,MIT,Masters
+2706,CS,MIT,Bachelors
+2707,Civil Eng,MIT,PhD
+2708,Other,MIT,Masters
+2709,CS,MIT,Bachelors
+2710,Mechanical Eng,MIT,PhD
+2711,Data Science,MIT,Bachelors
+2712,CS,MIT,Bachelors
+2713,Other,Other,Other
+2714,Business,MIT,MBA
+2715,Civil Eng,MIT,PhD
+2716,Business,MIT,Masters
+2717,Business,MIT,MBA
+2718,CS,MIT,Bachelors
+2719,Other,MIT,Bachelors
+2720,CS,MIT,Bachelors
+2721,Biology,Other,Bachelors
+2722,CS,Other,Bachelors
+2723,Industrial Eng,Other,Other
+2724,Other,MIT,Postdoc
+2725,Electrical Eng,MIT,Bachelors
+2726,Aero,MIT,Bachelors
+2727,Data Science,MIT,Masters
+2728,CS,Other,Masters
+2729,CS,Other,Bachelors
+2730,Industrial Eng,Other,Bachelors
+2731,Data Science,MIT,PhD
+2732,Other,Other,Bachelors
+2733,CS,MIT,Bachelors
+2734,Other,Other,Masters
+2735,Mechanical Eng,MIT,Bachelors
+2736,Business,MIT,Masters
+2737,CS,Northeastern,Masters
+2738,CS,Northeastern,Masters
+2739,Data Science,Northeastern,Masters
+2740,CS,Northeastern,Masters
+2741,CS,MIT,Bachelors
+2742,Mechanical Eng,MIT,Bachelors
+2743,Biology,MIT,PhD
+2744,Mechanical Eng,MIT,Bachelors
+2745,Aero,MIT,Bachelors
+2746,Aero,MIT,Bachelors
+2747,Other,MIT,Bachelors
+2748,Mechanical Eng,MIT,Bachelors
+2749,Business,Other,Masters
+2750,Data Science,Other,Masters
+2751,Other,Other,Masters
+2752,AI,Tufts,PhD
+2753,Business,BU,MBA
+2754,Mechanical Eng,MIT,Bachelors
+2755,Finance,Other,Bachelors
+2756,Aero,MIT,Masters
+2757,Materials,MIT,Bachelors
+2758,Law,Other,Other
+2759,Other,Other,Masters
+2760,CS,Northeastern,Masters
+2761,Biology,Other,PhD
+2762,Other,Other,Bachelors
+2763,Other,Other,Postdoc
+2764,Other,MIT,Bachelors
+2765,Other,Northeastern,Masters
+2766,Biology,Other,PhD
+2767,CS,Other,Masters
+2768,Other,Tufts,Other
+2769,Business,MIT,MBA
+2770,Business,MIT,MBA
+2771,Data Science,Hult Business,Masters
+2772,AI,MIT,Bachelors
+2773,Biology,MIT,Postdoc
+2774,Physics,MIT,Postdoc
+2775,Other,Other,Masters
+2776,Other,MIT,Postdoc
+2777,Data Science,Northeastern,Masters
+2778,Data Science,Northeastern,Masters
+2779,AI,MIT,Postdoc
+2780,Other,Other,Masters
+2781,Business,Other,MBA
+2782,Business,MIT,MBA
+2783,Business,MIT,MBA
+2784,Other,Other,Masters
+2785,Law,Other,Masters
+2786,Other,Tufts,Masters
+2787,Business,MIT,Masters
+2788,Business,MIT,Masters
+2789,Materials,MIT,PhD
+2790,Business,MIT,Masters
+2791,Biology,Other,Masters
+2792,CS,Other,PhD
+2793,Data Science,Northeastern,Masters
+2794,Law,Other,PhD
+2795,Other,Other,Masters
+2796,Policital Sci,Other,Bachelors
+2797,Other,Other,Postdoc
+2798,Other,WPI,Masters
+2799,Biology,Other,Postdoc
+2800,CS,MIT,Bachelors
+2801,Aero,MIT,Bachelors
+2802,Other,MIT,Postdoc
+2803,CS,MIT,Bachelors
+2804,Biology,Other,Masters
+2805,Other,Tufts,Masters
+2806,Industrial Eng,MIT,Masters
+2807,Other,MIT,Masters
+2808,Data Science,Northeastern,Masters
+2809,Data Science,MIT,Bachelors
+2810,Mechanical Eng,MIT,Masters
+2811,Data Science,MIT,Bachelors
+2812,Business,MIT,Masters
+2813,Biology,MIT,PhD
+2814,Law,Other,Masters
+2815,Law,Other,Masters
+2816,Law,Other,Masters
+2817,Business,MIT,Masters
+2818,Chemistry,MIT,Other
+2819,Other,MIT,Masters
+2820,Law,Other,Masters
+2821,Business,MIT,Masters
+2822,AI,MIT,Bachelors
+2823,CS,Northeastern,Masters
+2824,Physics,MIT,PhD
+2825,Business,MIT,Masters
+2826,Business,MIT,Masters
+2827,Business,MIT,MBA
+2828,Business,MIT,Masters
+2829,Business,MIT,Masters
+2830,Business,MIT,Masters
+2831,Biology,MIT,Masters
+2832,AI,MIT,PhD
+2833,Other,Other,Bachelors
+2834,CS,MIT,Masters
+2835,Mechanical Eng,MIT,Masters
+2836,CS,MIT,Bachelors
+2837,Other,Other,Masters
+2838,Finance,MIT,MBA
+2839,Business,MIT,Masters
+2840,Aero,MIT,PhD
+2841,Other,MIT,PhD
+2842,AI,MIT,PhD
+2843,Other,MIT,Postdoc
+2844,Industrial Eng,MIT,Masters
+2845,Other,MIT,PhD
+2846,Business,MIT,MBA
+2847,CS,MIT,Postdoc
+2848,CS,MIT,Masters
+2849,CS,MIT,Bachelors
+2850,Electrical Eng,MIT,PhD
+2851,AI,BU,Postdoc
+2852,Other,MIT,PhD
+2853,Biology,MIT,Bachelors
+2854,CS,Other,Bachelors
+2855,Physics,MIT,Bachelors
+2856,Mechanical Eng,MIT,Postdoc
+2857,Mechanical Eng,MIT,Bachelors
+2858,Materials,MIT,PhD
+2859,Materials,MIT,PhD
+2860,Data Science,Northeastern,Masters
+2861,Data Science,Other,Masters
+2862,Other,MIT,PhD
+2863,Business,Hult Business,Masters
+2864,CS,Other,PhD
+2865,Business,Other,MBA
+2866,AI,MIT,Bachelors
+2867,AI,Other,Postdoc
+2868,Other,Other,Bachelors
+2869,Business,MIT,Bachelors
+2870,Business,MIT,Masters
+2871,Business,Other,Masters
+2872,AI,MIT,PhD
+2873,Business,Other,Masters
+2874,Materials,MIT,PhD
+2875,Business,Other,MBA
+2876,Biology,MIT,PhD
+2877,Biology,MIT,Bachelors
+2878,CS,MIT,Bachelors
+2879,AI,Northeastern,Masters
+2880,Other,Northeastern,Masters
+2881,Business,MIT,MBA
+2882,CS,Other,Bachelors
+2883,Data Science,MIT,Masters
+2884,Other,MIT,Masters
+2885,Other,Other,Bachelors
+2886,Business,Hult Business,MBA
+2887,Biology,Other,Postdoc
+2888,Biology,MIT,Bachelors
+2889,Other,Other,Bachelors
+2890,Materials,MIT,PhD
+2891,Physics,MIT,Postdoc
+2892,Business,Northeastern,Masters
+2893,Policital Sci,MIT,Other
+2894,Biology,Other,PhD
+2895,Biology,Other,PhD
+2896,Mechanical Eng,MIT,Bachelors
+2897,CS,Northeastern,Masters
+2898,AI,MIT,Bachelors
+2899,Other,Other,Postdoc
+2900,Chemistry,MIT,Bachelors
+2901,CS,Other,Bachelors
+2902,Materials,MIT,PhD
+2903,Business,Hult Business,MBA
+2904,Materials,MIT,Masters
+2905,Materials,MIT,PhD
+2906,Other,Other,Masters
+2907,Materials,MIT,Masters
+2908,Other,BU,PhD
+2909,Business,MIT,Bachelors
+2910,Data Science,Hult Business,Masters
+2911,Biology,Other,Postdoc
+2912,Aero,Other,PhD
+2913,Chemistry,Other,Bachelors
+2914,Other,MIT,Masters
+2915,Other,MIT,PhD
+2916,Other,MIT,Masters
+2917,Chemistry,MIT,PhD
+2918,Other,MIT,PhD
+2919,Electrical Eng,MIT,PhD
+2920,Other,MIT,Masters
+2921,Business,MIT,MBA
+2922,Mechanical Eng,MIT,Bachelors
+2923,CS,Northeastern,PhD
+2924,Biology,Other,Postdoc
+2925,Other,MIT,Masters
+2926,Biology,MIT,PhD
+2927,Data Science,Hult Business,Masters
+2928,Other,MIT,Postdoc
+2929,Other,Other,Masters
+2930,Finance,Other,Bachelors
+2931,Other,Other,Masters
+2932,Biology,Other,Bachelors
+2933,Other,MIT,Bachelors
+2934,Biology,MIT,PhD
+2935,Physics,MIT,PhD
+2936,Biology,MIT,PhD
+2937,CS,Northeastern,Masters
+2938,Other,Other,Masters
+2939,Materials,Tufts,Masters
+2940,Data Science,BU,Masters
+2941,AI,MIT,Bachelors
+2942,Other,BU,PhD
+2943,Business,MIT,MBA
+2944,Biology,MIT,Bachelors
+2945,Physics,MIT,PhD
+2946,Physics,MIT,PhD
+2947,Aero,MIT,PhD
+2948,Law,Tufts,Bachelors
+2949,Business,MIT,MBA
+2950,Mechanical Eng,MIT,Bachelors
+2951,Business,MIT,MBA
+2952,Other,Other,Postdoc
+2953,Biology,Tufts,Masters
+2954,Other,Tufts,Bachelors
+2955,Business,MIT,Bachelors
+2956,Business,Other,Masters
+2957,AI,MIT,PhD
+2958,Biology,MIT,PhD
+2959,Business,Tufts,Bachelors
+2960,Mechanical Eng,MIT,Masters
+2961,Business,MIT,MBA
+2962,Chemistry,MIT,Postdoc
+2963,AI,MIT,Bachelors
+2964,Other,Other,Postdoc
+2965,CS,MIT,Masters
+2966,Other,MIT,Postdoc
+2967,AI,MIT,Postdoc
+2968,Data Science,MIT,PhD
+2969,Business,MIT,MBA
+2970,CS,Other,PhD
+2971,Biology,MIT,PhD
+2972,Business,MIT,Masters
+2973,Business,MIT,MBA
+2974,Other,MIT,Other
+2975,Biology,MIT,Bachelors
+2976,Biology,MIT,PhD
+2977,Data Science,MIT,PhD
+2978,Biology,MIT,PhD
+2979,Other,MIT,PhD
+2980,Other,MIT,Masters
+2981,Business,MIT,Masters
+2982,Business,MIT,MBA
+2983,Business,MIT,Masters
+2984,Business,MIT,Masters
+2985,Business,MIT,Masters
+2986,Chemistry,MIT,PhD
+2987,Aero,MIT,Masters
+2988,Other,Other,Masters
+2989,Business,MIT,MBA
+2990,Data Science,MIT,Masters
+2991,Other,Tufts,Bachelors
+2992,Business,Other,Masters
+2993,Electrical Eng,MIT,PhD
+2994,Business,Northeastern,Bachelors
+2995,Other,Tufts,Masters
+2996,Finance,Tufts,Bachelors
+2997,Other,MIT,PhD
+2998,Mechanical Eng,Other,Masters
+2999,AI,MIT,PhD
+3000,Finance,Tufts,Bachelors
+3001,Other,Other,Masters
+3002,Other,Other,Bachelors
+3003,Chemistry,MIT,Postdoc
+3004,Other,Other,PhD
+3005,CS,MIT,Bachelors
+3006,AI,MIT,Masters
+3007,CS,MIT,Masters
+3008,Other,Other,Masters
+3009,Business,Northeastern,Bachelors
+3010,Other,Other,Masters
+3011,Mechanical Eng,MIT,Bachelors
+3012,Data Science,MIT,Bachelors
+3013,Mechanical Eng,MIT,Masters
+3014,AI,MIT,PhD
+3015,Aero,MIT,PhD
+3016,Finance,Tufts,Bachelors
+3017,Aero,MIT,Bachelors
+3018,Other,Other,Masters
+3019,AI,MIT,Masters
+3020,Aero,Other,PhD
+3021,CS,MIT,Masters
+3022,Industrial Eng,Other,Masters
+3023,CS,Other,Bachelors
+3024,CS,MIT,Bachelors
+3025,Civil Eng,MIT,Masters
+3026,Chemistry,MIT,Masters
+3027,Other,MIT,Postdoc
+3028,Business,MIT,Masters
+3029,AI,MIT,Bachelors
+3030,AI,MIT,Masters
+3031,Other,MIT,PhD
+3032,CS,MIT,PhD
+3033,Biology,BU,PhD
+3034,Business,MIT,Masters
+3035,AI,MIT,PhD
+3036,Business,MIT,Masters
+3037,Business,MIT,Masters
+3038,Other,MIT,Masters
+3039,Business,MIT,Masters
+3040,Business,MIT,Masters
+3041,Business,MIT,Masters
+3042,Biology,Other,PhD
+3043,Mechanical Eng,BU,Bachelors
+3044,Other,MIT,Bachelors
+3045,Chemistry,Other,Bachelors
+3046,Business,Other,MBA
+3047,CS,Tufts,Masters
+3048,Biology,Other,Postdoc
+3049,CS,Other,Bachelors
+3050,Chemistry,MIT,PhD
+3051,Other,Other,Postdoc
+3052,Other,Other,Bachelors
+3053,Mechanical Eng,MIT,Masters
+3054,Other,Tufts,Masters
+3055,CS,MIT,Bachelors
+3056,CS,MIT,Bachelors
+3057,Physics,MIT,PhD
+3058,Finance,Other,Other
+3059,Other,MIT,PhD
+3060,Other,MIT,Masters
+3061,Other,MIT,PhD
+3062,Chemistry,MIT,PhD
+3063,Other,MIT,PhD
+3064,Other,Wellesley,Bachelors
+3065,Chemistry,MIT,Bachelors
+3066,CS,MIT,Bachelors
+3067,AI,MIT,Bachelors
+3068,Electrical Eng,MIT,PhD
+3069,Business,Other,Masters
+3070,AI,Northeastern,Masters
+3071,Chemistry,MIT,PhD
+3072,Other,BU,Masters
+3073,Industrial Eng,MIT,MBA
+3074,Data Science,MIT,Masters
+3075,Civil Eng,Other,Postdoc
+3076,CS,MIT,Postdoc
+3077,Business,MIT,MBA
+3078,Business,MIT,Masters
+3079,Business,MIT,MBA
+3080,CS,Other,Masters
+3081,Other,MIT,Masters
+3082,Business,MIT,MBA
+3083,Biology,Northeastern,Bachelors
+3084,Biology,Northeastern,Masters
+3085,Other,MIT,Masters
+3086,Other,MIT,Masters
+3087,Other,Other,PhD
+3088,CS,MIT,Bachelors
+3089,AI,MIT,PhD
+3090,Biology,MIT,PhD
+3091,Other,MIT,PhD
+3092,Aero,MIT,Masters
+3093,Business,MIT,Bachelors
+3094,Other,MIT,Bachelors
+3095,Biology,Northeastern,Masters
+3096,Other,MIT,Postdoc
+3097,Other,Other,Masters
+3098,CS,MIT,Bachelors
+3099,CS,MIT,Bachelors
+3100,CS,Northeastern,PhD
+3101,CS,MIT,Bachelors
+3102,Aero,MIT,PhD
+3103,CS,MIT,Bachelors
+3104,Business,MIT,Masters
+3105,Business,MIT,Masters
+3106,Business,MIT,Masters
+3107,Business,MIT,Masters
+3108,Business,MIT,Masters
+3109,Business,MIT,MBA
+3110,Business,MIT,Masters
+3111,Physics,MIT,Bachelors
+3112,Business,MIT,Masters
+3113,Other,MIT,Bachelors
+3114,Mechanical Eng,MIT,Postdoc
+3115,Mechanical Eng,MIT,Bachelors
+3116,Business,MIT,Bachelors
+3117,Biology,MIT,PhD
+3118,Chemistry,MIT,Postdoc
+3119,Mechanical Eng,MIT,Bachelors
+3120,CS,MIT,Bachelors
+3121,CS,MIT,Bachelors
+3122,CS,Other,Masters
+3123,Other,Other,PhD
+3124,CS,MIT,Bachelors
+3125,Physics,MIT,Bachelors
+3126,Finance,MIT,Masters
+3127,Biology,Northeastern,Masters
+3128,Business,MIT,Masters
+3129,Business,MIT,Masters
+3130,Business,Other,Other
+3131,AI,Northeastern,Masters
+3132,Other,MIT,Masters
+3133,CS,MIT,Masters
+3134,Biology,BU,Postdoc
+3135,Biology,Other,Postdoc
+3136,Mechanical Eng,MIT,PhD
+3137,Business,MIT,Masters
+3138,Other,MIT,Postdoc
+3139,Business,MIT,PhD
+3140,Business,MIT,Masters
+3141,Business,MIT,Masters
+3142,Chemistry,Other,Bachelors
+3143,Business,Other,MBA
+3144,Industrial Eng,MIT,MBA
+3145,Business,Other,MBA
+3146,Business,Other,MBA
+3147,Business,Other,MBA
+3148,Data Science,MIT,Bachelors
+3149,Physics,MIT,Postdoc
+3150,Other,MIT,Postdoc
+3151,AI,Other,PhD
+3152,Business,Hult Business,MBA
+3153,Other,MIT,Masters
+3154,Data Science,MIT,Bachelors
+3155,CS,MIT,PhD
+3156,Business,MIT,Masters
+3157,CS,Northeastern,Masters
+3158,Materials,MIT,PhD
+3159,Business,Other,MBA
+3160,Aero,MIT,PhD
+3161,Other,Other,Other
+3162,Business,MIT,Bachelors
+3163,Industrial Eng,MIT,Masters
+3164,Other,MIT,Masters
+3165,Other,MIT,Masters
+3166,CS,MIT,Bachelors
+3167,Business,Hult Business,Masters
+3168,Data Science,Other,Masters
+3169,Data Science,Other,Masters
+3170,Other,Other,Masters
+3171,Business,Other,Masters
+3172,AI,Other,Other
+3173,Finance,Other,Bachelors
+3174,Data Science,MIT,Masters
+3175,Law,Other,PhD
+3176,AI,MIT,Bachelors
+3177,Business,MIT,Bachelors
+3178,CS,Other,Bachelors
+3179,Mechanical Eng,Tufts,Bachelors
+3180,Biology,MIT,Other
+3181,Mechanical Eng,Other,Other
+3182,Other,MIT,PhD
+3183,Biology,MIT,Bachelors
+3184,Business,MIT,Bachelors
+3185,Data Science,Northeastern,Masters
+3186,Civil Eng,MIT,Postdoc
+3187,Business,Other,MBA
+3188,Finance,BU,PhD
+3189,Chemistry,MIT,Masters
+3190,Business,MIT,Masters
+3191,Biology,MIT,PhD
+3192,Materials,MIT,Bachelors
+3193,Biology,Other,PhD
+3194,CS,Other,Bachelors
+3195,Other,MIT,Bachelors
+3196,Business,Other,Masters
+3197,Data Science,Hult Business,Masters
+3198,CS,MIT,Bachelors
+3199,Mechanical Eng,MIT,Bachelors
+3200,Physics,MIT,Bachelors
+3201,Biology,Other,Masters
+3202,Business,Hult Business,Masters
+3203,Finance,MIT,Masters
+3204,Physics,MIT,PhD
+3205,Mechanical Eng,MIT,MBA
+3206,AI,Other,Bachelors
+3207,AI,Northeastern,Bachelors
+3208,Finance,Other,Bachelors
+3209,Biology,Other,Postdoc
+3210,Chemistry,MIT,Masters
+3211,Other,MIT,Other
+3212,Business,Other,Masters
+3213,Other,MIT,Postdoc
+3214,Business,MIT,MBA
+3215,Other,MIT,Masters
+3216,Electrical Eng,Other,Bachelors
+3217,Mechanical Eng,MIT,Masters
+3218,Other,MIT,Masters
+3219,CS,NYU,Bachelors
+3220,Civil Eng,MIT,Masters
+3221,Business,Other,MBA
+3222,Mechanical Eng,Other,Bachelors
+3223,Business,Other,Bachelors
+3224,CS,MIT,PhD
+3225,Business,Other,Bachelors
+3226,Data Science,MIT,Masters
+3227,AI,MIT,Other
+3228,CS,MIT,Postdoc
+3229,Business,MIT,Masters
+3230,Business,MIT,Masters
+3231,Industrial Eng,Other,Masters
+3232,AI,MIT,Masters
+3233,Biology,Other,Bachelors
+3234,Other,Other,PhD
+3235,Materials,MIT,PhD
+3236,Other,MIT,Postdoc
+3237,Data Science,Hult Business,Masters
+3238,CS,MIT,Bachelors
+3239,Other,Northeastern,Masters
+3240,Business,Hult Business,Masters
+3241,Other,MIT,Bachelors
+3242,CS,MIT,Bachelors
+3243,AI,MIT,Bachelors
+3244,Mechanical Eng,MIT,Bachelors
+3245,Other,MIT,Bachelors
+3246,AI,MIT,Bachelors
+3247,Other,MIT,Bachelors
+3248,AI,MIT,Bachelors
+3249,Chemistry,MIT,Masters
+3250,CS,MIT,Bachelors
+3251,Business,Other,Masters
+3252,Mechanical Eng,MIT,Bachelors
+3253,AI,MIT,Bachelors
+3254,Biology,MIT,Bachelors
+3255,CS,MIT,Bachelors
+3256,AI,MIT,Bachelors
+3257,Biology,MIT,Bachelors
+3258,CS,MIT,Bachelors
+3259,Mechanical Eng,MIT,Bachelors
+3260,Mechanical Eng,MIT,Bachelors
+3261,CS,MIT,Bachelors
+3262,Data Science,MIT,Bachelors
+3263,Data Science,BU,Masters
+3264,CS,MIT,Bachelors
+3265,Mechanical Eng,MIT,Bachelors
+3266,CS,MIT,Bachelors
+3267,Materials,MIT,Bachelors
+3268,Other,MIT,Bachelors
+3269,AI,MIT,Bachelors
+3270,CS,MIT,Bachelors
+3271,Aero,MIT,PhD
+3272,Aero,MIT,Bachelors
+3273,Mechanical Eng,MIT,Bachelors
+3274,CS,MIT,Bachelors
+3275,CS,MIT,Bachelors
+3276,AI,MIT,Bachelors
+3277,AI,MIT,Bachelors
+3278,AI,MIT,PhD
+3279,AI,MIT,Bachelors
+3280,CS,MIT,Bachelors
+3281,AI,MIT,Bachelors
+3282,Data Science,MIT,Bachelors
+3283,Mechanical Eng,MIT,Bachelors
+3284,Materials,MIT,Bachelors
+3285,Policital Sci,MIT,Bachelors
+3286,CS,MIT,Masters
+3287,CS,MIT,Bachelors
+3288,CS,MIT,Bachelors
+3289,CS,MIT,Bachelors
+3290,CS,MIT,Bachelors
+3291,Electrical Eng,MIT,Bachelors
+3292,CS,MIT,Bachelors
+3293,Aero,MIT,Bachelors
+3294,Biology,MIT,Bachelors
+3295,Electrical Eng,MIT,Bachelors
+3296,Biology,MIT,Bachelors
+3297,Other,MIT,Bachelors
+3298,AI,MIT,Bachelors
+3299,Physics,MIT,Bachelors
+3300,Chemistry,MIT,Bachelors
+3301,Other,MIT,PhD
+3302,Aero,MIT,Masters
+3303,Data Science,MIT,PhD
+3304,Other,MIT,Masters
+3305,Business,MIT,Masters
+3306,Biology,Other,PhD
+3307,Biology,MIT,Bachelors
+3308,Business,MIT,Masters
+3309,Business,MIT,Masters
+3310,Business,MIT,Masters
+3311,Business,MIT,Masters
+3312,Other,MIT,PhD
+3313,Data Science,MIT,Bachelors
+3314,Aero,MIT,Masters
+3315,Other,MIT,PhD
+3316,Finance,MIT,PhD
+3317,Aero,MIT,Masters
+3318,Data Science,MIT,Bachelors
+3319,Business,MIT,PhD
+3320,Aero,MIT,Postdoc
+3321,AI,MIT,PhD
+3322,Business,MIT,Other
+3323,Aero,MIT,PhD
+3324,Physics,MIT,PhD
+3325,Physics,MIT,PhD
+3326,Other,MIT,Other
+3327,Business,Tufts,MBA
+3328,Business,Other,Bachelors
+3329,CS,MIT,Masters
+3330,Aero,MIT,PhD
+3331,Other,MIT,PhD
+3332,Other,MIT,PhD
+3333,Business,MIT,Masters
+3334,Chemistry,MIT,Masters
+3335,CS,MIT,Bachelors
+3336,Mechanical Eng,MIT,Masters
+3337,CS,MIT,PhD
+3338,Data Science,MIT,Masters
+3339,Other,BU,PhD
+3340,CS,MIT,Masters
+3341,Other,MIT,PhD
+3342,CS,MIT,PhD
+3343,Business,Other,Other
+3344,Business,MIT,Postdoc
+3345,Aero,MIT,PhD
+3346,Other,MIT,PhD
+3347,Aero,MIT,PhD
+3348,Business,Other,Other
+3349,Other,Other,Other
+3350,Business,MIT,Other
+3351,Aero,MIT,PhD
+3352,Business,Other,Other
+3353,Biology,Other,Other
+3354,Business,MIT,Masters
+3355,Aero,MIT,PhD
+3356,Aero,MIT,PhD
+3357,Other,MIT,PhD
+3358,Other,Other,Other
+3359,Other,Other,Other
